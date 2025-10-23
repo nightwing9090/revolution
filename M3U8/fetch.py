@@ -40,13 +40,7 @@ async def main() -> None:
     await asyncio.gather(*tasks)
 
     additions = (
-        ppv.urls
-        | streambtw.urls
-        | streameast.urls
-        | streamed.urls
-        | strmd.urls
-        | tvpass.urls
-        | watchfooty.urls
+        strmd.urls
     )
 
     live_events: list[str] = []
