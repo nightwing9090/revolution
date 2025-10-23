@@ -5,12 +5,13 @@ import concurrent.futures
 from urllib.parse import urljoin
 
 FALLBACK_LOGOS = {
-    "american-football": "http://drewlive24.duckdns.org:9000/Logos/Am-Football2.png",
-    "football":          "https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/RvN0XSF.png",
-    "fight":             "http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png",
-    "basketball":        "http://drewlive24.duckdns.org:9000/Logos/Basketball5.png",
-    "motor sports":      "http://drewlive24.duckdns.org:9000/Logos/Motorsports3.png",
-    "darts":             "http://drewlive24.duckdns.org:9000/Logos/Darts.png"
+    "american-football": "https://i.postimg.cc/FHKccJkQ/fallback.webp",
+    "football":          "https://i.postimg.cc/FHKccJkQ/fallback.webp",
+    "fight":             "https://i.postimg.cc/FHKccJkQ/fallback.webp",
+    "basketball":        "https://i.postimg.cc/FHKccJkQ/fallback.webp",
+    "motor sports":      "https://i.postimg.cc/FHKccJkQ/fallback.webp",
+    "darts":             "https://i.postimg.cc/FHKccJkQ/fallback.webp",
+    "hockey":             "https://i.postimg.cc/FHKccJkQ/fallback.webp"
 }
 
 CUSTOM_HEADERS = {
