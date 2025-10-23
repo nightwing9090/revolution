@@ -140,16 +140,18 @@ def build_logo_url(match):
 def process_match(match):
     title = match.get('title', 'Untitled Match')
     sources = match.get('sources', [])
+    m3u8_urls = []
 
     for source in sources:
-        embed_urls = get_stream_embed_urls(source)  # note plural
+        embed_urls = get_stream_embed_urls(source)  # get both standard and alpha URLs
         for embed_url in embed_urls:
             if embed_url:
                 print(f"  🔎 Checking '{title}': {embed_url}")
                 m3u8 = extract_m3u8_from_embed(embed_url)
-                if m3u8:
-                    return match, m3u8  # return first working URL
-    return match, None
+                if m3u8 and m3u8 not in m3u8_urls:
+                    m3u8_urls.append(m3u8)
+
+    return match, m3u8_urls if m3u8_urls else None
 
 def generate_m3u8():
     all_matches = get_matches("all")
