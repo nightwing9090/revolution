@@ -164,7 +164,7 @@ def generate_m3u8():
                 display_cat = cat.replace('-', ' ').title() if cat else "General"
                 tv_id = TV_IDS.get(display_cat, "General.Dummy.us")
 
-                content.append(f'#EXTINF:-1 tvg-id="{tv_id}" tvg-name="{title}" tvg-logo="{logo}" group-title="StreamedSU - {display_cat}",{title}')
+                content.append(f'#EXTINF:-1 tvg-id="{tv_id}" tvg-name="{title}" tvg-logo="{logo}" group-title="{display_cat} - Live Events",{title}')
                 content.extend(vlc_header_lines)
                 content.append(url)
                 success += 1
