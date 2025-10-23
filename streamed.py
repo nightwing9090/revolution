@@ -9,7 +9,8 @@ FALLBACK_LOGOS = {
     "fight":             "https://i.postimg.cc/FHKccJkQ/fallback.webp",
     "basketball":        "https://i.postimg.cc/FHKccJkQ/fallback.webp",
     "motor sports":      "https://i.postimg.cc/FHKccJkQ/fallback.webp",
-    "darts":             "https://i.postimg.cc/FHKccJkQ/fallback.webp"
+    "darts":             "https://i.postimg.cc/FHKccJkQ/fallback.webp",
+    "hockey":             "https://i.postimg.cc/FHKccJkQ/fallback.webp",
 }
 
 CUSTOM_HEADERS = {
@@ -107,7 +108,7 @@ def build_logo_url(match):
 
     # ✅ Use poster ONLY (ignore team badge completely)
     poster = match.get('poster')
-        poster = match['poster']
+    if poster:
         logo_url = f"https://streamed.pk/api/images/proxy/{poster}.webp"
 
     # Clean incorrect double paths
