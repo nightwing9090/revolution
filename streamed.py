@@ -2,6 +2,7 @@ import requests
 import sys
 import re
 import concurrent.futures
+from urllib.parse import urljoin
 
 FALLBACK_LOGOS = {
     "american-football": "https://i.postimg.cc/FHKccJkQ/fallback.webp",
@@ -10,7 +11,7 @@ FALLBACK_LOGOS = {
     "basketball":        "https://i.postimg.cc/FHKccJkQ/fallback.webp",
     "motor sports":      "https://i.postimg.cc/FHKccJkQ/fallback.webp",
     "darts":             "https://i.postimg.cc/FHKccJkQ/fallback.webp",
-    "hockey":             "https://i.postimg.cc/FHKccJkQ/fallback.webp",
+    "hockey":             "https://i.postimg.cc/FHKccJkQ/fallback.webp"
 }
 
 CUSTOM_HEADERS = {
@@ -45,19 +46,26 @@ def get_matches(endpoint="all"):
         return []
 
 def get_stream_embed_url(source):
-    try:
-        src_name = source.get('source')
-        src_id = source.get('id')
-        if not src_name or not src_id:
-            return None
-        api_url = f"https://streamed.pk/api/stream/{src_name}/{src_id}"
-        response = requests.get(api_url, timeout=10)
-        response.raise_for_status()
-        streams = response.json()
-        if streams and streams[0].get('embedUrl'):
-            return streams[0]['embedUrl']
-    except:
-        pass
+    src_name = source.get('source')
+    src_id = source.get('id')
+    if not src_name or not src_id:
+        return None
+
+    urls_to_try = [
+        f"https://streamed.pk/api/stream/{src_name}/{src_id}",
+        f"https://streamed.pk/api/stream/alpha/{src_name}/{src_id}"
+    ]
+
+    for api_url in urls_to_try:
+        try:
+            response = requests.get(api_url, timeout=10)
+            response.raise_for_status()
+            streams = response.json()
+            if streams and streams[0].get('embedUrl'):
+                return streams[0]['embedUrl']
+        except:
+            continue  # try the next URL
+
     return None
 
 def find_m3u8_in_content(page_content):
@@ -85,38 +93,42 @@ def extract_m3u8_from_embed(embed_url):
         return None
 
 def validate_logo(url, category):
-    """Check logo URL; fallback strictly based on category."""
+    """Validate poster URL; fallback strictly based on category."""
     cat = (category or "").lower().replace('-', ' ').strip()
-    category_key = next((key for key in FALLBACK_LOGOS if key.lower() == cat), None)
-    fallback = FALLBACK_LOGOS.get(category_key)
+    fallback = None
+    for key in FALLBACK_LOGOS:
+        if key.lower() == cat:
+            fallback = FALLBACK_LOGOS[key]
+            break
 
     if url:
         try:
-            resp = requests.head(url, timeout=5, allow_redirects=True)
-            if resp.status_code in (200, 302):
+            resp = requests.get(url, timeout=8, headers={"User-Agent": CUSTOM_HEADERS["User-Agent"]})
+            if resp.status_code == 200 and resp.content:
                 return url
             else:
-                print(f"⚠️ Logo {resp.status_code}: {url} → using fallback for {category}")
+                print(f"⚠️ Invalid logo ({resp.status_code}): {url}")
         except requests.RequestException:
-            print(f"⚠️ Logo failed: {url} → using fallback for {category}")
+            print(f"⚠️ Failed to fetch logo: {url}")
 
     return fallback
 
 def build_logo_url(match):
+    """Poster-only logo logic (no badges)."""
     api_category = (match.get('category') or '').strip()
+    poster = match.get('poster')
     logo_url = None
 
-    # ✅ Use poster ONLY (ignore team badge completely)
-    poster = match.get('poster')
     if poster:
-        logo_url = f"https://streamed.pk/api/images/proxy/{poster}.webp"
+        if poster.startswith("http"):
+            logo_url = poster
+        else:
+            logo_url = urljoin("https://streamed.pk", poster)
 
-    # Clean incorrect double paths
     if logo_url:
-        logo_url = re.sub(r'(https://streamed\.pk/api/images/proxy/)+', 'https://streamed.pk/api/images/proxy/', logo_url)
-        logo_url = re.sub(r'\.webp\.webp$', '.webp', logo_url)
+        logo_url = re.sub(r'(https://streamed\.pk)+', 'https://streamed.pk', logo_url)
+        logo_url = re.sub(r'/+', '/', logo_url).replace('https:/', 'https://')
 
-    # Validate or fallback
     logo_url = validate_logo(logo_url, api_category)
     return logo_url, api_category
 
