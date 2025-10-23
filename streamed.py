@@ -61,8 +61,18 @@ def find_m3u8_in_content(page_content):
     return None
 
 
+def extract_m3u8_from_alpha(embed_page_url):
+    """Fetch alpha embed page and extract actual .m3u8 URL."""
+    try:
+        resp = requests.get(embed_page_url, headers=CUSTOM_HEADERS, timeout=10)
+        resp.raise_for_status()
+        return find_m3u8_in_content(resp.text)
+    except:
+        return None
+
+
 def get_stream_embed_urls(source):
-    """Return all embed URLs from standard and alpha endpoints."""
+    """Return all embed URLs from standard + alpha, resolving alpha to m3u8."""
     src_name = source.get('source')
     src_id = source.get('id')
     if not src_name or not src_id:
@@ -77,9 +87,8 @@ def get_stream_embed_urls(source):
 
     for api_url in urls_to_try:
         try:
-            response = requests.get(api_url, timeout=10, headers=CUSTOM_HEADERS)
+            response = requests.get(api_url, headers=CUSTOM_HEADERS, timeout=10)
             response.raise_for_status()
-            
             # Try JSON first
             try:
                 streams = response.json()
@@ -87,12 +96,18 @@ def get_stream_embed_urls(source):
                     for s in streams:
                         url = s.get('embedUrl')
                         if url and url not in embed_urls:
-                            embed_urls.append(url)
+                            # If alpha URL, resolve m3u8 from page
+                            if "alpha" in api_url:
+                                m3u8 = extract_m3u8_from_alpha(url)
+                                if m3u8 and m3u8 not in embed_urls:
+                                    embed_urls.append(m3u8)
+                            else:
+                                embed_urls.append(url)
                     continue
             except:
                 pass
 
-            # Fallback: regex search for .m3u8 in HTML/JS
+            # Fallback: regex search in page
             m3u8 = find_m3u8_in_content(response.text)
             if m3u8 and m3u8 not in embed_urls:
                 embed_urls.append(m3u8)
@@ -101,17 +116,6 @@ def get_stream_embed_urls(source):
             continue
 
     return embed_urls
-
-
-def extract_m3u8_from_embed(embed_url):
-    if not embed_url:
-        return None
-    try:
-        response = requests.get(embed_url, headers=CUSTOM_HEADERS, timeout=15)
-        response.raise_for_status()
-        return find_m3u8_in_content(response.text) or embed_url
-    except:
-        return None
 
 
 def validate_logo(url, category):
@@ -127,7 +131,7 @@ def validate_logo(url, category):
             resp = requests.get(url, timeout=8, headers={"User-Agent": CUSTOM_HEADERS["User-Agent"]})
             if resp.status_code == 200 and resp.content:
                 return url
-        except requests.RequestException:
+        except:
             pass
 
     return fallback
@@ -162,7 +166,7 @@ def process_match(match):
         for embed_url in embed_urls:
             if embed_url:
                 print(f"  🔎 Checking '{title}': {embed_url}")
-                m3u8 = extract_m3u8_from_embed(embed_url)
+                m3u8 = extract_m3u8_from_alpha(embed_url) if "alpha" in embed_url else embed_url
                 if m3u8 and m3u8 not in m3u8_urls:
                     m3u8_urls.append(m3u8)
 
@@ -191,12 +195,12 @@ def generate_m3u8():
         for future in concurrent.futures.as_completed(futures):
             match, urls = future.result()
             title = match.get('title', 'Untitled Match')
-            if urls:  # urls is now a list of M3U8 URLs
+            if urls:
                 logo, cat = build_logo_url(match)
                 display_cat = cat.replace('-', ' ').title() if cat else "General"
                 tv_id = TV_IDS.get(display_cat, "General.Dummy.us")
 
-                for url in urls:  # loop through each URL
+                for url in urls:
                     content.append(f'#EXTINF:-1 tvg-id="{tv_id}" tvg-name="{title}" tvg-logo="{logo}" group-title="StreamedSU - {display_cat}",{title}')
                     content.extend(vlc_header_lines)
                     content.append(url)
