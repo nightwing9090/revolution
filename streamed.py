@@ -140,13 +140,15 @@ def build_logo_url(match):
 def process_match(match):
     title = match.get('title', 'Untitled Match')
     sources = match.get('sources', [])
+
     for source in sources:
-        embed_url = get_stream_embed_url(source)
-        if embed_url:
-            print(f"  🔎 Checking '{title}': {embed_url}")
-            m3u8 = extract_m3u8_from_embed(embed_url)
-            if m3u8:
-                return match, m3u8
+        embed_urls = get_stream_embed_urls(source)  # note plural
+        for embed_url in embed_urls:
+            if embed_url:
+                print(f"  🔎 Checking '{title}': {embed_url}")
+                m3u8 = extract_m3u8_from_embed(embed_url)
+                if m3u8:
+                    return match, m3u8  # return first working URL
     return match, None
 
 def generate_m3u8():
