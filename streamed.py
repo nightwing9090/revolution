@@ -46,36 +46,6 @@ def get_matches(endpoint="all"):
         return []
 
 
-def get_stream_embed_urls(source):
-    """Return a list of embed URLs from both standard and alpha endpoints."""
-    src_name = source.get('source')
-    src_id = source.get('id')
-    if not src_name or not src_id:
-        return []
-
-    urls_to_try = [
-        f"https://streamed.pk/api/stream/{src_name}/{src_id}",
-        f"https://streamed.pk/api/stream/alpha/{src_name}/{src_id}"
-    ]
-
-    embed_urls = []
-
-    for api_url in urls_to_try:
-        try:
-            response = requests.get(api_url, timeout=10)
-            response.raise_for_status()
-            streams = response.json()
-            if streams:
-                for s in streams:
-                    url = s.get('embedUrl')
-                    if url and url not in embed_urls:
-                        embed_urls.append(url)
-        except requests.RequestException:
-            continue
-
-    return embed_urls
-
-
 def find_m3u8_in_content(page_content):
     patterns = [
         r'source:\s*["\'](https?://[^\'"]+\.m3u8?[^\'"]*)["\']',
@@ -91,13 +61,55 @@ def find_m3u8_in_content(page_content):
     return None
 
 
+def get_stream_embed_urls(source):
+    """Return all embed URLs from standard and alpha endpoints."""
+    src_name = source.get('source')
+    src_id = source.get('id')
+    if not src_name or not src_id:
+        return []
+
+    urls_to_try = [
+        f"https://streamed.pk/api/stream/{src_name}/{src_id}",
+        f"https://streamed.pk/api/stream/alpha/{src_name}/{src_id}"
+    ]
+
+    embed_urls = []
+
+    for api_url in urls_to_try:
+        try:
+            response = requests.get(api_url, timeout=10, headers=CUSTOM_HEADERS)
+            response.raise_for_status()
+            
+            # Try JSON first
+            try:
+                streams = response.json()
+                if streams:
+                    for s in streams:
+                        url = s.get('embedUrl')
+                        if url and url not in embed_urls:
+                            embed_urls.append(url)
+                    continue
+            except:
+                pass
+
+            # Fallback: regex search for .m3u8 in HTML/JS
+            m3u8 = find_m3u8_in_content(response.text)
+            if m3u8 and m3u8 not in embed_urls:
+                embed_urls.append(m3u8)
+
+        except requests.RequestException:
+            continue
+
+    return embed_urls
+
+
 def extract_m3u8_from_embed(embed_url):
     if not embed_url:
         return None
     try:
         response = requests.get(embed_url, headers=CUSTOM_HEADERS, timeout=15)
         response.raise_for_status()
-        return find_m3u8_in_content(response.text)
+        return find_m3u8_in_content(response.text) or embed_url
     except:
         return None
 
@@ -171,7 +183,7 @@ def generate_m3u8():
     vlc_header_lines = [
         f'#EXTVLCOPT:http-origin={CUSTOM_HEADERS["Origin"]}',
         f'#EXTVLCOPT:http-referrer={CUSTOM_HEADERS["Referer"]}',
-        f'#EXTVLCOPT:user-agent={CUSTOM_HEADERS["User-Agent"]}'
+        f'#EXTVLCOPT:http-user-agent={CUSTOM_HEADERS["User-Agent"]}'
     ]
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
