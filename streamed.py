@@ -5,13 +5,12 @@ import concurrent.futures
 from urllib.parse import urljoin
 
 FALLBACK_LOGOS = {
-    "american-football": "https://i.postimg.cc/FHKccJkQ/fallback.webp",
-    "football":          "https://i.postimg.cc/FHKccJkQ/fallback.webp",
-    "fight":             "https://i.postimg.cc/FHKccJkQ/fallback.webp",
-    "basketball":        "https://i.postimg.cc/FHKccJkQ/fallback.webp",
-    "motor sports":      "https://i.postimg.cc/FHKccJkQ/fallback.webp",
-    "darts":             "https://i.postimg.cc/FHKccJkQ/fallback.webp",
-    "hockey":             "https://i.postimg.cc/FHKccJkQ/fallback.webp"
+    "american-football": "http://drewlive24.duckdns.org:9000/Logos/Am-Football2.png",
+    "football":          "https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/RvN0XSF.png",
+    "fight":             "http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png",
+    "basketball":        "http://drewlive24.duckdns.org:9000/Logos/Basketball5.png",
+    "motor sports":      "http://drewlive24.duckdns.org:9000/Logos/Motorsports3.png",
+    "darts":             "http://drewlive24.duckdns.org:9000/Logos/Darts.png"
 }
 
 CUSTOM_HEADERS = {
@@ -33,6 +32,7 @@ TV_IDS = {
     "Motor Sports": "Racing.Dummy.us"
 }
 
+
 def get_matches(endpoint="all"):
     url = f"https://streamed.pk/api/matches/{endpoint}"
     try:
@@ -45,7 +45,9 @@ def get_matches(endpoint="all"):
         print(f"❌ Error fetching {endpoint} matches: {e}", file=sys.stderr)
         return []
 
+
 def get_stream_embed_urls(source):
+    """Return a list of embed URLs from both standard and alpha endpoints."""
     src_name = source.get('source')
     src_id = source.get('id')
     if not src_name or not src_id:
@@ -69,9 +71,10 @@ def get_stream_embed_urls(source):
                     if url and url not in embed_urls:
                         embed_urls.append(url)
         except requests.RequestException:
-            continue  # try next URL
+            continue
 
     return embed_urls
+
 
 def find_m3u8_in_content(page_content):
     patterns = [
@@ -87,6 +90,7 @@ def find_m3u8_in_content(page_content):
             return match.group(1)
     return None
 
+
 def extract_m3u8_from_embed(embed_url):
     if not embed_url:
         return None
@@ -97,8 +101,8 @@ def extract_m3u8_from_embed(embed_url):
     except:
         return None
 
+
 def validate_logo(url, category):
-    """Validate poster URL; fallback strictly based on category."""
     cat = (category or "").lower().replace('-', ' ').strip()
     fallback = None
     for key in FALLBACK_LOGOS:
@@ -111,15 +115,13 @@ def validate_logo(url, category):
             resp = requests.get(url, timeout=8, headers={"User-Agent": CUSTOM_HEADERS["User-Agent"]})
             if resp.status_code == 200 and resp.content:
                 return url
-            else:
-                print(f"⚠️ Invalid logo ({resp.status_code}): {url}")
         except requests.RequestException:
-            print(f"⚠️ Failed to fetch logo: {url}")
+            pass
 
     return fallback
 
+
 def build_logo_url(match):
-    """Poster-only logo logic (no badges)."""
     api_category = (match.get('category') or '').strip()
     poster = match.get('poster')
     logo_url = None
@@ -137,13 +139,14 @@ def build_logo_url(match):
     logo_url = validate_logo(logo_url, api_category)
     return logo_url, api_category
 
+
 def process_match(match):
     title = match.get('title', 'Untitled Match')
     sources = match.get('sources', [])
     m3u8_urls = []
 
     for source in sources:
-        embed_urls = get_stream_embed_urls(source)  # get both standard and alpha URLs
+        embed_urls = get_stream_embed_urls(source)
         for embed_url in embed_urls:
             if embed_url:
                 print(f"  🔎 Checking '{title}': {embed_url}")
@@ -152,6 +155,7 @@ def process_match(match):
                     m3u8_urls.append(m3u8)
 
     return match, m3u8_urls if m3u8_urls else None
+
 
 def generate_m3u8():
     all_matches = get_matches("all")
@@ -173,21 +177,23 @@ def generate_m3u8():
     with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
         futures = {executor.submit(process_match, m): m for m in matches}
         for future in concurrent.futures.as_completed(futures):
-            match, url = future.result()
+            match, urls = future.result()
             title = match.get('title', 'Untitled Match')
-            if url:
+            if urls:  # urls is now a list of M3U8 URLs
                 logo, cat = build_logo_url(match)
                 display_cat = cat.replace('-', ' ').title() if cat else "General"
                 tv_id = TV_IDS.get(display_cat, "General.Dummy.us")
 
-                content.append(f'#EXTINF:-1 tvg-id="{tv_id}" tvg-name="{title}" tvg-logo="{logo}" group-title="StreamedSU - {display_cat}",{title}')
-                content.extend(vlc_header_lines)
-                content.append(url)
-                success += 1
-                print(f"  ✅ {title} ({logo}) TV-ID: {tv_id}")
+                for url in urls:  # loop through each URL
+                    content.append(f'#EXTINF:-1 tvg-id="{tv_id}" tvg-name="{title}" tvg-logo="{logo}" group-title="StreamedSU - {display_cat}",{title}')
+                    content.extend(vlc_header_lines)
+                    content.append(url)
+                    success += 1
+                    print(f"  ✅ {title} ({logo}) TV-ID: {tv_id}")
 
     print(f"🎉 Found {success} working streams.")
     return "\n".join(content)
+
 
 if __name__ == "__main__":
     playlist = generate_m3u8()
