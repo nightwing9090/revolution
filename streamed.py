@@ -45,28 +45,33 @@ def get_matches(endpoint="all"):
         print(f"❌ Error fetching {endpoint} matches: {e}", file=sys.stderr)
         return []
 
-def get_stream_embed_url(source):
+def get_stream_embed_urls(source):
     src_name = source.get('source')
     src_id = source.get('id')
     if not src_name or not src_id:
-        return None
+        return []
 
     urls_to_try = [
         f"https://streamed.pk/api/stream/{src_name}/{src_id}",
         f"https://streamed.pk/api/stream/alpha/{src_name}/{src_id}"
     ]
 
+    embed_urls = []
+
     for api_url in urls_to_try:
         try:
             response = requests.get(api_url, timeout=10)
             response.raise_for_status()
             streams = response.json()
-            if streams and streams[0].get('embedUrl'):
-                return streams[0]['embedUrl']
-        except:
-            continue  # try the next URL
+            if streams:
+                for s in streams:
+                    url = s.get('embedUrl')
+                    if url and url not in embed_urls:
+                        embed_urls.append(url)
+        except requests.RequestException:
+            continue  # try next URL
 
-    return None
+    return embed_urls
 
 def find_m3u8_in_content(page_content):
     patterns = [
