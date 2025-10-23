@@ -107,7 +107,7 @@ def build_logo_url(match):
 
     # ✅ Use poster ONLY (ignore team badge completely)
     poster = match.get('poster')
-    if poster:
+        poster = match['poster']
         logo_url = f"https://streamed.pk/api/images/proxy/{poster}.webp"
 
     # Clean incorrect double paths
