@@ -4,12 +4,12 @@ import re
 import concurrent.futures
 
 FALLBACK_LOGOS = {
-    "american-football": "http://drewlive24.duckdns.org:9000/Logos/Am-Football2.png",
-    "football":          "https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/RvN0XSF.png",
-    "fight":             "http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png",
-    "basketball":        "http://drewlive24.duckdns.org:9000/Logos/Basketball5.png",
-    "motor sports":      "http://drewlive24.duckdns.org:9000/Logos/Motorsports3.png",
-    "darts":             "http://drewlive24.duckdns.org:9000/Logos/Darts.png"
+    "american-football": "https://i.postimg.cc/FHKccJkQ/fallback.webp",
+    "football":          "https://i.postimg.cc/FHKccJkQ/fallback.webp",
+    "fight":             "https://i.postimg.cc/FHKccJkQ/fallback.webp",
+    "basketball":        "https://i.postimg.cc/FHKccJkQ/fallback.webp",
+    "motor sports":      "https://i.postimg.cc/FHKccJkQ/fallback.webp",
+    "darts":             "https://i.postimg.cc/FHKccJkQ/fallback.webp"
 }
 
 CUSTOM_HEADERS = {
@@ -105,22 +105,17 @@ def build_logo_url(match):
     api_category = (match.get('category') or '').strip()
     logo_url = None
 
-    teams = match.get('teams') or {}
-    for side in ['away', 'home']:
-        team = teams.get(side, {})
-        badge = team.get('badge') or team.get('id')
-        if badge:
-            logo_url = f"https://streamed.pk/api/images/badge/{badge}.webp"
-            break
-
-    if not logo_url and match.get('poster'):
-        poster = match['poster']
+    # ✅ Use poster ONLY (ignore team badge completely)
+    poster = match.get('poster')
+    if poster:
         logo_url = f"https://streamed.pk/api/images/proxy/{poster}.webp"
 
+    # Clean incorrect double paths
     if logo_url:
         logo_url = re.sub(r'(https://streamed\.pk/api/images/proxy/)+', 'https://streamed.pk/api/images/proxy/', logo_url)
         logo_url = re.sub(r'\.webp\.webp$', '.webp', logo_url)
 
+    # Validate or fallback
     logo_url = validate_logo(logo_url, api_category)
     return logo_url, api_category
 
