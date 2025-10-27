@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Vancouver Canucks vs Edmonton Oilers" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmBBR6sxkhC8QWENJAwQFlCCskQtrCyQUH7UeJRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Hockey - Live Events",Vancouver Canucks vs Edmonton Oilers
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/vancouvercanucks/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Real Betis vs Atletico Madrid" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwhe3aohRaQfECQMRjIGBYPwCwJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp" group-title="Football - Live Events",Real Betis vs Atletico Madrid
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -19,21 +14,6 @@ https://gg.poocloud.in/nba_philadelphia76ers/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/nba_detroitpistons/index.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="New Orleans Pelicans vs Boston Celtics" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCF4gxbECjApNILNr0hqIRIhim9+YEgpYRcxvtUoeYMvCLU5nvb0YN7iYhBAA.webp" group-title="Basketball - Live Events",New Orleans Pelicans vs Boston Celtics
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_neworleanspelicans/index.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="San Antonio Spurs vs Toronto Raptors" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlTGIQIMihC8QWXSH3UQiRDBOL8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp" group-title="Basketball - Live Events",San Antonio Spurs vs Toronto Raptors
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_sanantoniospurs/index.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Houston Rockets vs Brooklyn Nets" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKo3zAkwAAx8Q0kLxBYQJEChDUQiRDHOmWSClhFzGKMKpQ9v5Rmo5Xy16MG9xMQggA.webp" group-title="Basketball - Live Events",Houston Rockets vs Brooklyn Nets
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_houstonrockets/index.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE: Monday Night RAW" tvg-logo="https://ppv.to/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" group-title="Fight - Live Events",WWE: Monday Night RAW
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -44,21 +24,41 @@ https://gg.poocloud.in/wrestling/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/nba_chicagobulls/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Kansas City Chiefs vs Washington Commanders" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VenxBwBJEHu4hNEPSCkhjBnDhAFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="American Football - Live Events",Kansas City Chiefs vs Washington Commanders
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Houston Rockets vs Brooklyn Nets" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKo3zAkwAAx8Q0kLxBYQJEChDUQiRDHOmWSClhFzGKMKpQ9v5Rmo5Xy16MG9xMQggA.webp" group-title="Basketball - Live Events",Houston Rockets vs Brooklyn Nets
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/kansascitychiefs/index.m3u8
+https://gg.poocloud.in/nba_houstonrockets/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="New Orleans Pelicans vs Boston Celtics" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCF4gxbECjApNILNr0hqIRIhim9+YEgpYRcxvtUoeYMvCLU5nvb0YN7iYhBAA.webp" group-title="Basketball - Live Events",New Orleans Pelicans vs Boston Celtics
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_neworleanspelicans/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="San Antonio Spurs vs Toronto Raptors" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlTGIQIMihC8QWXSH3UQiRDBOL8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp" group-title="Basketball - Live Events",San Antonio Spurs vs Toronto Raptors
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_sanantoniospurs/index.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Dodgers vs Toronto Blue Jays" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkmhkUIQaF66Q0kAYMQQ1EDpAhF+YJpgCRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="Baseball - Live Events",Los Angeles Dodgers vs Toronto Blue Jays
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/dodgers/index.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Kansas City Chiefs vs Washington Commanders" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VenxBwBJEHu4hNEPSCkhjBnDhAFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="American Football - Live Events",Kansas City Chiefs vs Washington Commanders
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/kansascitychiefs/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Dallas Mavericks vs Oklahoma City Thunder" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoyTAwwaSBxYQvfSBIgUIaiESIYIPTBZIKWEXMYowqlDy-lG1HI++KzaXuJiEEA.webp" group-title="Basketball - Live Events",Dallas Mavericks vs Oklahoma City Thunder
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/nba_dallasmavericks/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Minnesota Timberwolves vs Denver Nuggets" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdhoHAkIFPJC8QWECV0hqIRIhghpllkgpYRcxijCq9HD+UbU5eviswGAe4mIQQA.webp" group-title="Basketball - Live Events",Minnesota Timberwolves vs Denver Nuggets
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_minnesotatimberwolves/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Utah Jazz vs Phoenix Suns" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtJBbpYFCBIhEvEFn0g91Q1ZghNzfMCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Basketball - Live Events",Utah Jazz vs Phoenix Suns
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -69,11 +69,6 @@ https://gg.poocloud.in/nba_utahjazz/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/nba_goldenstatewarriors/index.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Minnesota Timberwolves vs Denver Nuggets" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdhoHAkIFPJC8QWECV0hqIRIhghpllkgpYRcxijCq9HD+UbU5eviswGAe4mIQQA.webp" group-title="Basketball - Live Events",Minnesota Timberwolves vs Denver Nuggets
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_minnesotatimberwolves/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Los Angeles Lakers vs Portland Trail Blazers" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKowAMTMEjmJeILCBIgUIaiESIYIaUZZIKWEXMYowqlD0-lG1OW98VmAwT3ExCCA.webp" group-title="Basketball - Live Events",Los Angeles Lakers vs Portland Trail Blazers
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -99,46 +94,46 @@ https://gg.poocloud.in/wrestling/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/seriea_rom/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Juventus vs. Udinese" tvg-logo="https://ppv.to/assets/thumb/d92834336c2d4ec1bdbbcc8ba95655ec-thumbnail.jpg" group-title="Football - Live Events",Juventus vs. Udinese
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/seriea_juv/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Como vs. Hellas Verona" tvg-logo="https://ppv.to/assets/thumb/426e7643c57ba39b8ba3b3baf3a5498f-thumbnail.jpg" group-title="Football - Live Events",Como vs. Hellas Verona
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/seriea_com/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="FC Metz vs. RC Lens" tvg-logo="https://ppv.to/assets/thumb/009cc98140019c5233fd26961bae4e2a-thumbnail.jpg" group-title="Football - Live Events",FC Metz vs. RC Lens
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Juventus vs. Udinese" tvg-logo="https://ppv.to/assets/thumb/d92834336c2d4ec1bdbbcc8ba95655ec-thumbnail.jpg" group-title="Football - Live Events",Juventus vs. Udinese
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ligue1_met/index.m3u8
+https://gg.poocloud.in/seriea_juv/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="OGC Nice vs. LOSC" tvg-logo="https://ppv.to/assets/thumb/4017d5643fb2f6b69c7193a85ccfeb8c-thumbnail.jpg" group-title="Football - Live Events",OGC Nice vs. LOSC
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ligue1_nic/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Havre AC vs. Brest" tvg-logo="https://ppv.to/assets/thumb/1d88810ee7270e57d878428ae0a6e0db-thumbnail.jpg" group-title="Football - Live Events",Havre AC vs. Brest
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="FC Metz vs. RC Lens" tvg-logo="https://ppv.to/assets/thumb/009cc98140019c5233fd26961bae4e2a-thumbnail.jpg" group-title="Football - Live Events",FC Metz vs. RC Lens
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ligue1_lhv/index.m3u8
+https://gg.poocloud.in/ligue1_met/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="FC Lorient vs. PSG" tvg-logo="https://ppv.to/assets/thumb/c3e08d402bd6d6a54e98059f938fca5d-thumbnail.jpg" group-title="Football - Live Events",FC Lorient vs. PSG
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ligue1_lor/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Inter vs. Fiorentina" tvg-logo="https://ppv.to/assets/thumb/f725187039173114c9129213fa5f72dc-thumbnail.jpg" group-title="Football - Live Events",Inter vs. Fiorentina
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Havre AC vs. Brest" tvg-logo="https://ppv.to/assets/thumb/1d88810ee7270e57d878428ae0a6e0db-thumbnail.jpg" group-title="Football - Live Events",Havre AC vs. Brest
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/seriea_int/index.m3u8
+https://gg.poocloud.in/ligue1_lhv/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Genoa vs. Cremonese" tvg-logo="https://ppv.to/assets/thumb/2b6ab161e8782dda0d85b7aae9917a77-thumbnail.jpg" group-title="Football - Live Events",Genoa vs. Cremonese
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/seriea_gen/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Inter vs. Fiorentina" tvg-logo="https://ppv.to/assets/thumb/f725187039173114c9129213fa5f72dc-thumbnail.jpg" group-title="Football - Live Events",Inter vs. Fiorentina
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/seriea_int/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Bologna vs. Torino" tvg-logo="https://ppv.to/assets/thumb/1be67366f5dac99fb67d770864bf75a3-thumbnail.jpg" group-title="Football - Live Events",Bologna vs. Torino
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -149,11 +144,6 @@ https://gg.poocloud.in/seriea_bol/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ligue1_tou/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Strasbourg vs. AJ Auxerre" tvg-logo="https://ppv.to/assets/thumb/9b0e31a4876ddfdeedb1320cf5888e94-thumbnail.jpg" group-title="Football - Live Events",Strasbourg vs. AJ Auxerre
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ligue1_sbg/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Paris FC vs. OL" tvg-logo="https://ppv.to/assets/thumb/c18bd4e87ebf88dfa226d5836c510c2b-thumbnail.jpg" group-title="Football - Live Events",Paris FC vs. OL
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -169,41 +159,41 @@ https://gg.poocloud.in/ligue1_nan/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ligue1_mar/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Strasbourg vs. AJ Auxerre" tvg-logo="https://ppv.to/assets/thumb/9b0e31a4876ddfdeedb1320cf5888e94-thumbnail.jpg" group-title="Football - Live Events",Strasbourg vs. AJ Auxerre
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/ligue1_sbg/index.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="AEW: Wednesday Night Dynamite" tvg-logo="https://ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="Fight - Live Events",AEW: Wednesday Night Dynamite
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/wrestling/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Cagliari vs. Sassuolo" tvg-logo="https://ppv.to/assets/thumb/81b7504afe264c1c2f21da02571cd2c7-thumbnail.jpg" group-title="Football - Live Events",Cagliari vs. Sassuolo
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/seriea_cag/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Pisa vs. Lazio" tvg-logo="https://ppv.to/assets/thumb/335be3c4ce408fcb45138d4eae416c77-thumbnail.jpg" group-title="Football - Live Events",Pisa vs. Lazio
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/seriea_pis/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Augsburg vs. Dortmund" tvg-logo="https://ppv.to/assets/thumb/24d7a31ee510df81acf05b3210e082d2-thumbnail.jpg" group-title="Football - Live Events",Augsburg vs. Dortmund
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Cagliari vs. Sassuolo" tvg-logo="https://ppv.to/assets/thumb/81b7504afe264c1c2f21da02571cd2c7-thumbnail.jpg" group-title="Football - Live Events",Cagliari vs. Sassuolo
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/bundesliga_fca/index.m3u8
+https://gg.poocloud.in/seriea_cag/index.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="TNA: Impact" tvg-logo="https://ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="Fight - Live Events",TNA: Impact
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/wrestling/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Augsburg vs. Dortmund" tvg-logo="https://ppv.to/assets/thumb/24d7a31ee510df81acf05b3210e082d2-thumbnail.jpg" group-title="Football - Live Events",Augsburg vs. Dortmund
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/bundesliga_fca/index.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE: Friday Night Smackdown" tvg-logo="https://ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Fight - Live Events",WWE: Friday Night Smackdown
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/wrestling/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="RB Leipzig vs. Stuttgart" tvg-logo="https://ppv.to/assets/thumb/6a7c4f35eb520e42309ce4941023cbc8-thumbnail.jpg" group-title="Football - Live Events",RB Leipzig vs. Stuttgart
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/bundesliga_rbl/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="St. Pauli vs. Gladbach" tvg-logo="https://ppv.to/assets/thumb/a28a8f61e3f5d5aaaf25d5843f85a02f-thumbnail.jpg" group-title="Football - Live Events",St. Pauli vs. Gladbach
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -219,41 +209,51 @@ https://gg.poocloud.in/bundesliga_fcu/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/bundesliga_m05/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Heidenheim vs. Frankfurt" tvg-logo="https://ppv.to/assets/thumb/2d56fb576bc801d1983b4e8b2d9b99c5-thumbnail.jpg" group-title="Football - Live Events",Heidenheim vs. Frankfurt
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="RB Leipzig vs. Stuttgart" tvg-logo="https://ppv.to/assets/thumb/6a7c4f35eb520e42309ce4941023cbc8-thumbnail.jpg" group-title="Football - Live Events",RB Leipzig vs. Stuttgart
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/bundesliga_hdh/index.m3u8
+https://gg.poocloud.in/bundesliga_rbl/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Nottingham Forest vs. Manchester United" tvg-logo="https://ppv.to/assets/thumb/e780acb38a0ea7d5d2165cecef216d93-thumbnail.jpg" group-title="Football - Live Events",Nottingham Forest vs. Manchester United
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/epl_nfo/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Burnley vs. Arsenal" tvg-logo="https://ppv.to/assets/thumb/bff66acbd09c9dce5e38813e5b624159-thumbnail.jpg" group-title="Football - Live Events",Burnley vs. Arsenal
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Heidenheim vs. Frankfurt" tvg-logo="https://ppv.to/assets/thumb/2d56fb576bc801d1983b4e8b2d9b99c5-thumbnail.jpg" group-title="Football - Live Events",Heidenheim vs. Frankfurt
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/epl_bur/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Fulham vs. Wolverhampton Wanderers" tvg-logo="https://ppv.to/assets/thumb/d629fa236bed88d0109d8305824ffe4e-thumbnail.jpg" group-title="Football - Live Events",Fulham vs. Wolverhampton Wanderers
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/epl_ful/index.m3u8
+https://gg.poocloud.in/bundesliga_hdh/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Crystal Palace vs. Brentford" tvg-logo="https://ppv.to/assets/thumb/6277a9c2d054bc8b69c5766ba2a3f52a-thumbnail.jpg" group-title="Football - Live Events",Crystal Palace vs. Brentford
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/epl_cry/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Fulham vs. Wolverhampton Wanderers" tvg-logo="https://ppv.to/assets/thumb/d629fa236bed88d0109d8305824ffe4e-thumbnail.jpg" group-title="Football - Live Events",Fulham vs. Wolverhampton Wanderers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/epl_ful/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Brighton and Hove Albion vs. Leeds United" tvg-logo="https://ppv.to/assets/thumb/53c56b619efe271d63c3522b69d56953-thumbnail.jpg" group-title="Football - Live Events",Brighton and Hove Albion vs. Leeds United
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/epl_bha/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Burnley vs. Arsenal" tvg-logo="https://ppv.to/assets/thumb/bff66acbd09c9dce5e38813e5b624159-thumbnail.jpg" group-title="Football - Live Events",Burnley vs. Arsenal
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/epl_bur/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="PSG vs. OGC Nice" tvg-logo="https://ppv.to/assets/thumb/db15d9422057b90f436753765c1f2df9-thumbnail.jpg" group-title="Football - Live Events",PSG vs. OGC Nice
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ligue1_psg/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Bayern vs. Leverkusen" tvg-logo="https://ppv.to/assets/thumb/6a16335dab348bfd589dd928ac119a1f-thumbnail.jpg" group-title="Football - Live Events",Bayern vs. Leverkusen
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/bundesliga_mun/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Tottenham Hotspur vs. Chelsea" tvg-logo="https://ppv.to/assets/thumb/4c1cf94ad858ae315905259fb3f1881f-thumbnail.jpg" group-title="Football - Live Events",Tottenham Hotspur vs. Chelsea
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -264,11 +264,6 @@ https://gg.poocloud.in/epl_tot/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ligue1_mco/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Bayern vs. Leverkusen" tvg-logo="https://ppv.to/assets/thumb/6a16335dab348bfd589dd928ac119a1f-thumbnail.jpg" group-title="Football - Live Events",Bayern vs. Leverkusen
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/bundesliga_mun/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Liverpool vs. Aston Villa" tvg-logo="https://ppv.to/assets/thumb/da64b16cd0084624098a70c0070d44d9-thumbnail.jpg" group-title="Football - Live Events",Liverpool vs. Aston Villa
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -289,36 +284,36 @@ https://gg.poocloud.in/wrestling/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/epl_whu/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Rennes vs. Strasbourg" tvg-logo="https://ppv.to/assets/thumb/8a61f6d5976c5dc7c13af0b7050a5e9b-thumbnail.jpg" group-title="Football - Live Events",Rennes vs. Strasbourg
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ligue1_ren/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Cologne vs. Hamburg" tvg-logo="https://ppv.to/assets/thumb/8e79139d844b8d45007de08833617c7b-thumbnail.jpg" group-title="Football - Live Events",Cologne vs. Hamburg
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/bundesliga_koe/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="LOSC vs. Angers SCO" tvg-logo="https://ppv.to/assets/thumb/e545fcca7e87df4a5768c3ee1a4d36ca-thumbnail.jpg" group-title="Football - Live Events",LOSC vs. Angers SCO
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Rennes vs. Strasbourg" tvg-logo="https://ppv.to/assets/thumb/8a61f6d5976c5dc7c13af0b7050a5e9b-thumbnail.jpg" group-title="Football - Live Events",Rennes vs. Strasbourg
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ligue1_lil/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Toulouse FC vs. Havre AC" tvg-logo="https://ppv.to/assets/thumb/c076361fbc70da9959eb82b8f9181a97-thumbnail.jpg" group-title="Football - Live Events",Toulouse FC vs. Havre AC
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ligue1_tou/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="RC Lens vs. FC Lorient" tvg-logo="https://ppv.to/assets/thumb/3fe4399191722b32cca4408380f99d5b-thumbnail.jpg" group-title="Football - Live Events",RC Lens vs. FC Lorient
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ligue1_len/index.m3u8
+https://gg.poocloud.in/ligue1_ren/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="FC Nantes vs. FC Metz" tvg-logo="https://ppv.to/assets/thumb/ba24a9a558fd0694c621be1ea04cf3d6-thumbnail.jpg" group-title="Football - Live Events",FC Nantes vs. FC Metz
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ligue1_nan/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Toulouse FC vs. Havre AC" tvg-logo="https://ppv.to/assets/thumb/c076361fbc70da9959eb82b8f9181a97-thumbnail.jpg" group-title="Football - Live Events",Toulouse FC vs. Havre AC
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/ligue1_tou/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="LOSC vs. Angers SCO" tvg-logo="https://ppv.to/assets/thumb/e545fcca7e87df4a5768c3ee1a4d36ca-thumbnail.jpg" group-title="Football - Live Events",LOSC vs. Angers SCO
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/ligue1_lil/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="RC Lens vs. FC Lorient" tvg-logo="https://ppv.to/assets/thumb/3fe4399191722b32cca4408380f99d5b-thumbnail.jpg" group-title="Football - Live Events",RC Lens vs. FC Lorient
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/ligue1_len/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Manchester City vs. Bournemouth" tvg-logo="https://ppv.to/assets/thumb/070294766760d338467edcfbaf00c443-thumbnail.jpg" group-title="Football - Live Events",Manchester City vs. Bournemouth
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -339,8 +334,3 @@ https://gg.poocloud.in/ligue1_brs/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/epl_sun/index.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Vancouver Canucks vs Edmonton Oilers" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmBBR6sxkhC8QWENJAwQFlCCskQtrCyQUH7UeJRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Hockey - Live Events",Vancouver Canucks vs Edmonton Oilers
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/vancouvercanucks/index.m3u8
