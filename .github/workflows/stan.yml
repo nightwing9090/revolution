@@ -1,0 +1,48 @@
+name: Update M3U File
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Code ko checkout karen
+        uses: actions/checkout@v4
+
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+      
+      - name: Fetch Python Script 
+        run: |
+          curl -L -o stan.py ${{ secrets.STAN_SCRIPT }}
+          python stan.py
+
+      - name: Changes ko commit karen
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git remote set-url origin https://${{ secrets.GITHUB_TOKEN }}@github.com/AbidUrsa/StanPlaylist.git
+
+      - name: Commit and push changes
+        run: |
+          git add stan.m3u
+          git fetch origin main
+          git reset --soft origin/main
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Fetch latest data"
+            git push origin main
+          fi
