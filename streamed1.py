@@ -34,7 +34,7 @@ TV_IDS = {
 }
 
 def get_matches(endpoint="all-today"):
-    url = f"https://streamed.pk/api/matches/{endpoint}"
+    url = f"https://streami.su//api/matches/{endpoint}"
     try:
         print(f"📡 Fetching {endpoint} matches from the API...")
         response = requests.get(url, timeout=20)
@@ -51,7 +51,7 @@ def get_stream_embed_url(source):
         src_id = source.get('id')
         if not src_name or not src_id:
             return None
-        api_url = f"https://streamed.pk/api/stream/{src_name}/{src_id}"
+        api_url = f"https://streami.su//api/stream/{src_name}/{src_id}"
         response = requests.get(api_url, timeout=10)
         response.raise_for_status()
         streams = response.json()
@@ -116,10 +116,10 @@ def build_logo_url(match):
         if poster.startswith("http"):
             logo_url = poster
         else:
-            logo_url = urljoin("https://streamed.pk", poster)
+            logo_url = urljoin("https://streami.su/", poster)
 
     if logo_url:
-        logo_url = re.sub(r'(https://streamed\.pk)+', 'https://streamed.pk', logo_url)
+        logo_url = re.sub(r'(https://streamed\.pk)+', 'https://streami.su/', logo_url)
         logo_url = re.sub(r'/+', '/', logo_url).replace('https:/', 'https://')
 
     logo_url = validate_logo(logo_url, api_category)
