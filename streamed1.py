@@ -33,7 +33,7 @@ TV_IDS = {
     "Motor Sports": "Racing.Dummy.us"
 }
 
-def get_matches(endpoint="all"):
+def get_matches(endpoint="all-today"):
     url = f"https://streamed.pk/api/matches/{endpoint}"
     try:
         print(f"📡 Fetching {endpoint} matches from the API...")
