@@ -3,6 +3,7 @@ import re
 import requests
 import logging
 from datetime import datetime
+from urllib.parse import urljoin   # <-- ADD THIS
 from playwright.async_api import async_playwright
 
 logging.basicConfig(
