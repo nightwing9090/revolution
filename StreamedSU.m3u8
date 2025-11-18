@@ -1,6 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Anaheim Ducks vs Utah Mammoth" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHgJgABhC8wKUvpBYQ0kDBDWUIW2Yt38wJBSwi5jFGFVGOP8kZqOSNnejAfcTEIIA.webp" group-title="StreamedSU - Hockey",Anaheim Ducks vs Utah Mammoth
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Hobart W vs Adelaide W" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",Hobart W vs Adelaide W
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/saKYOJNdOjDGnzvuucWoqnNEQpGEWOjL/alpha/stream/anaheim-ducks-vs-utah-mammoth/1/playlist.m3u8
+https://lb6.strmd.top/secure/mXYkqBVTVeCMkKpyMbGKIePhOnBahFKW/alpha/stream/hobart-w-vs-adelaide-w/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Adelaide Lightning W vs Bendigo W" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Adelaide Lightning W vs Bendigo W
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/gzEWCZyaAIDrwbRQsARLlziGPdJgxtpv/alpha/stream/adelaide-lightning-w-vs-bendigo-w/1/playlist.m3u8
