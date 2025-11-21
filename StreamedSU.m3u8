@@ -1,36 +1,51 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Adelaide United vs Melbourne City" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKikrAADGBBMGIXiCwgSICzBAoQEE2ZDN8wJBSwi5jFGFWaOP8kZqOU1nejAfcTEIIA.webp" group-title="StreamedSU - Football",Adelaide United vs Melbourne City
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/pGLhZFXIQRjCDqkCDZqwLrnFvUXavkDT/alpha/stream/adelaide-united-vs-melbourne-city-fc/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Illawarra Hawks vs Melbourne United" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKJQ9+IPpBDddG41JAoQpnIkbAkFPsNn0UYFVravy9LLK1NaYK5iohBAA.webp" group-title="StreamedSU - Basketball",Illawarra Hawks vs Melbourne United
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/KUKTgAreSlEnPHzhPbKZmoLyHjADRWwp/alpha/stream/illawarra-hawks-vs-melbourne-united/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Bangladesh A vs India A" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",Bangladesh A vs India A
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/cdrVaupsbuObNFuyFyqHitIXbDqJVMVk/alpha/stream/bangladesh-a-vs-india-a/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Australian Baseball League: Adelaide Giants vs Perth Heat" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Australian Baseball League: Adelaide Giants vs Perth Heat
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/vnBExYqQdnrvshFtjGTuHzslGKUUQyNp/charlie/stream/adelaide-giants-vs-perth-heat-1629470654/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Asian Tour: PIF Saudi International, Third Round" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="StreamedSU - Golf",Asian Tour: PIF Saudi International, Third Round
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/WgYjwKfqzDyIeEXnChsRiHAznbTVhwrM/charlie/stream/pif-saudi-international-third-round-1629470655/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Brisbane W vs Sydney Thunder W" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",Brisbane W vs Sydney Thunder W
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/JmnEMpThiYUuECnMQCFpxkkOaBrlIiRf/alpha/stream/brisbane-w-vs-sydney-thunder-w/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Adelaide United vs Melbourne City FC" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Adelaide United vs Melbourne City FC
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/pkRqewCfmEsozpitjScNerjlUZjArbFx/alpha/stream/adelaide-united-vs-melbourne-city-fc/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Illawarra Hawks vs Melbourne United" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Illawarra Hawks vs Melbourne United
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/SPspYmqDFCjMEJlRwAHSpHJYmtqgFkHg/alpha/stream/illawarra-hawks-vs-melbourne-united/1/playlist.m3u8
+https://lb4.strmd.top/secure/YFvWCDrIbUAcRXiKPVLKASLKtXUDFNKn/alpha/stream/brisbane-w-vs-sydney-thunder-w/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="PIF Saudi International - Rd 3" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="StreamedSU - Golf",PIF Saudi International - Rd 3
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/HZfzPLipMjeDECSQzFYaijnwoUvRIFgK/alpha/stream/pif-saudi-international-rd-3/1/playlist.m3u8
+https://lb7.strmd.top/secure/vDWCdOgVQpCERkpXabREYxeWNSNxnTcx/alpha/stream/pif-saudi-international-rd-3/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Adelaide Lightning W vs Geelong United W" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Adelaide Lightning W vs Geelong United W
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/rVNaAJmniXykbRrpYduSHuFCYzZITsLF/alpha/stream/adelaide-lightning-w-vs-geelong-united-w/1/playlist.m3u8
+https://lb1.strmd.top/secure/agJzKqFFkIDXFdmJOEdeGOLbyannVHGK/alpha/stream/adelaide-lightning-w-vs-geelong-united-w/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Northern Kahu W vs Mid-North Whai W" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Northern Kahu W vs Mid-North Whai W
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/QXJLfMxoxfiUNmHBqSGgblNtpLHCuUuS/alpha/stream/northern-kahu-w-vs-mid-north-whai-w/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Australia vs England" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",Australia vs England
+https://lb6.strmd.top/secure/eWKQnMDMWRfvNmPzJAbRPsQLMLIlmGZl/alpha/stream/northern-kahu-w-vs-mid-north-whai-w/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="England tour of Australia: Australia vs England" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",England tour of Australia: Australia vs England
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/ryTPZEwwNoDOppIBatOGuhLFHXckLdDH/alpha/stream/australia-vs-england/1/playlist.m3u8
+https://lb1.strmd.top/secure/ycuOaeoCwtBxZmOJBlYOBypZiFstxPEM/charlie/stream/australia-vs-england-1629470554/1/playlist.m3u8
