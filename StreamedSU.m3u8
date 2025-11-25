@@ -1,61 +1,91 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Chelsea Youth vs Barcelona Youth" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdr1hhpYJAxDUQvEFhAkQKE2aMhExyfmBIKWEXMYowqlDy-lG1HI+jvRgXuJiEEA.webp" group-title="StreamedSU - Football",Chelsea Youth vs Barcelona Youth
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Abu Dhabi T10 League: Riders vs Titans" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",Abu Dhabi T10 League: Riders vs Titans
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/uYUckFpVbLEoSHtHJivIDGAOhyvjHedV/bravo/stream/1764075600000-chelsea-u19-barcelona-u19/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="WTA Buenos Aires vs Center Court Lepchenko - Pigossi" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",WTA Buenos Aires vs Center Court Lepchenko - Pigossi
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/WHjufOOkobGqTswlPwyUsJYOevubPJaN/bravo/stream/1764075600000-wta-buenos-aires-center-court-lepchenko-pigossi/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="WTA Buenos Aires vs Court 3 Burillo Escorihuela - Bulgaru" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",WTA Buenos Aires vs Court 3 Burillo Escorihuela - Bulgaru
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/hQBqtQxQONUAmUWyGPfPQFKZObBynRWE/bravo/stream/1764075600000-wta-buenos-aires-court-3-burillo-escorihuela-bulgaru/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Chengdu Rongcheng vs Sanfrecce Hiroshima" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWvRF1sIbiD4gSIKcdyHzKEAqZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="StreamedSU - Football",Chengdu Rongcheng vs Sanfrecce Hiroshima
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/pAHkyGflrwbqFgqSeFFEokqqFONTSHwa/bravo/stream/1764072900000-chengdu-rongcheng-sanfrecce-hiroshima/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="AFC Champions League: Chengdu Better City vs Sanfrecce Hiroshima" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",AFC Champions League: Chengdu Better City vs Sanfrecce Hiroshima
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/eqNZecIjxKhvosDzYXJeqUJKJWvVaLhH/charlie/stream/chengdu-better-city-vs-sanfrecce-hiroshima-1438947/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Karlovy Vary vs HC Ocelari Trinec" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Hockey",Karlovy Vary vs HC Ocelari Trinec
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/dRJIiEiXPDdRHiczxYVyAtGVfSwVnZnm/bravo/stream/1764068400000-karlovy-vary-hc-ocelari-trinec/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Gangwon FC vs Machida Zelvia" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOBlJgMqSBIhuIPvpB69OAwZSGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Football",Gangwon FC vs Machida Zelvia
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/yhSzZQtbWEGxFdmXrHbFmWIVImQhrWpD/bravo/stream/1764064800000-gangwon-machida-zelvia/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Shanghai Port vs FC Seoul" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Shanghai Port vs FC Seoul
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/IOhubwIeZaKiXdvYoxlIvIljSpxlWiju/bravo/stream/1764064800000-shanghai-port-fc-seoul/1/playlist.m3u8
+https://lb5.strmd.top/secure/fLpuoTaFjYIWAzpxXRpycFJQjAFapEJY/charlie/stream/riders-vs-titans-1629470859/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="UK Championship Qualifier vs Table 1" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Billiards",UK Championship Qualifier vs Table 1
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/aHLQRnykIqAWWdeOzIcHfDJwWgmrplLk/bravo/stream/1764063000000-uk-championship-qualifier-table-1/1/playlist.m3u8
+https://lb1.strmd.top/secure/ipwCBfMuVxITWjABzKCfBwoLcudOGDxI/bravo/stream/1764077400000-uk-championship-qualifier-table-1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="UK Championship Qualifier vs Table 2" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Billiards",UK Championship Qualifier vs Table 2
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/OOdZhVbZDPDXSbIoUUgmBMoFfWmcJQVC/bravo/stream/1764063000000-uk-championship-qualifier-table-2/1/playlist.m3u8
+https://lb4.strmd.top/secure/WMSyRHqTPYjyaDrFGBlepadeelRBntDe/bravo/stream/1764077400000-uk-championship-qualifier-table-2/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="UK Championship Qualifier vs Table 3" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Billiards",UK Championship Qualifier vs Table 3
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/zZqXhiIUuwWWQREZKIhYISwEaOqlEJAi/bravo/stream/1764063000000-uk-championship-qualifier-table-3/1/playlist.m3u8
+https://lb4.strmd.top/secure/UUnjgXCWITHiJEpqIftIMBFKSXqdxfby/bravo/stream/1764077400000-uk-championship-qualifier-table-3/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="UK Championship Qualifier vs Table 4" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Billiards",UK Championship Qualifier vs Table 4
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/TXVQbfdMktIUoMUidBffDzBQMRpTFQDp/bravo/stream/1764063000000-uk-championship-qualifier-table-4/1/playlist.m3u8
+https://lb5.strmd.top/secure/WChWGrTtqNwuBgOyHxhnqwXPkWbFznXV/bravo/stream/1764077400000-uk-championship-qualifier-table-4/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Chelsea Youth vs Barcelona Youth" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdr1hhpYJAxDUQvEFhAkQKE2aMhExyfmBIKWEXMYowqlDy-lG1HI+jvRgXuJiEEA.webp" group-title="StreamedSU - Football",Chelsea Youth vs Barcelona Youth
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/UNQuDImhYgOLKFrUsbYxVIeYrTMwCvas/bravo/stream/1764075600000-chelsea-u19-barcelona-u19/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="WTA Buenos Aires vs Center Court Lepchenko - Pigossi" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",WTA Buenos Aires vs Center Court Lepchenko - Pigossi
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/LLzHLxecCbFGfzjLeSzUtocvyCCowFJA/bravo/stream/1764075600000-wta-buenos-aires-center-court-lepchenko-pigossi/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="WTA Buenos Aires vs Court 3 Burillo Escorihuela - Bulgaru" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",WTA Buenos Aires vs Court 3 Burillo Escorihuela - Bulgaru
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/mNVmHsUoISDISJifUBNCvuFhNacguyGG/bravo/stream/1764075600000-wta-buenos-aires-court-3-burillo-escorihuela-bulgaru/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Sri Lanka and Zimbabwe tour of Pakistan: Sri Lanka vs Zimbabwe" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",Sri Lanka and Zimbabwe tour of Pakistan: Sri Lanka vs Zimbabwe
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/sLAHNNtByeICvMhzhcAgXnBnZIPVCMYa/charlie/stream/sri-lanka-vs-zimbabwe-1629470568/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Chengdu Rongcheng vs Sanfrecce Hiroshima" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWvRF1sIbiD4gSIKcdyHzKEAqZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="StreamedSU - Football",Chengdu Rongcheng vs Sanfrecce Hiroshima
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/hXCoWwixbjeUocazSDpXJFTxpkEUCPGx/bravo/stream/1764072900000-chengdu-rongcheng-sanfrecce-hiroshima/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="AFC Champions League: Chengdu Better City vs Sanfrecce Hiroshima" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",AFC Champions League: Chengdu Better City vs Sanfrecce Hiroshima
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/HoWEdhefwOMOnWVPStWpxweJjaMEBqsP/charlie/stream/chengdu-better-city-vs-sanfrecce-hiroshima-1438947/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Karlovy Vary vs HC Ocelari Trinec" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Hockey",Karlovy Vary vs HC Ocelari Trinec
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/CzTzhQxunASBTBsxTmOVpkHiJSVSyiqB/bravo/stream/1764068400000-karlovy-vary-hc-ocelari-trinec/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Gangwon FC vs Machida Zelvia" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOBlJgMqSBIhuIPvpB69OAwZSGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Football",Gangwon FC vs Machida Zelvia
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/VrFXPfGZpJeUbOdzOpSYwdbJoYDHjRwE/bravo/stream/1764064800000-gangwon-machida-zelvia/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Shanghai Port vs FC Seoul" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Shanghai Port vs FC Seoul
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/KAPUUGSLdlbLSvMIoOxPCNqomThueBVU/bravo/stream/1764064800000-shanghai-port-fc-seoul/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="UK Championship Qualifier vs Table 1" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Billiards",UK Championship Qualifier vs Table 1
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/uDdvlirGOASAUwwlfRJPEVeYmPvQjWSF/bravo/stream/1764063000000-uk-championship-qualifier-table-1/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="UK Championship Qualifier vs Table 2" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Billiards",UK Championship Qualifier vs Table 2
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/EyVprKrHddZKuYgdBcFbfGWUDYLYsQJS/bravo/stream/1764063000000-uk-championship-qualifier-table-2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="UK Championship Qualifier vs Table 3" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Billiards",UK Championship Qualifier vs Table 3
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/FUtAhOPSyTzURDzvJvtQBPVxpftIXsdq/bravo/stream/1764063000000-uk-championship-qualifier-table-3/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="UK Championship Qualifier vs Table 4" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Billiards",UK Championship Qualifier vs Table 4
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/RSyyGiSAWuIdwtSWWUoZftVFukzjHemQ/bravo/stream/1764063000000-uk-championship-qualifier-table-4/1/playlist.m3u8
