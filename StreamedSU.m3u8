@@ -1,96 +1,106 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="S. Rzeszow vs Grodzisk M" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",S. Rzeszow vs Grodzisk M
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Arcos FC vs Cruzn" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Arcos FC vs Cruzn
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/jgaLAyqoFKWQTkomBLWfpSsRijTpXDkM/alpha/stream/s-rzeszow-vs-grodzisk-m/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Malta W vs Croatia W" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Malta W vs Croatia W
+https://lb1.strmd.top/secure/fqwQQeabjGLYSgPJuXXfypKTKTGWeukw/alpha/stream/arcos-fc-vs-cruzn/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Germany U23 vs France U23" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Germany U23 vs France U23
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/dfQWXIEpinzuclkkaiLxdCImZpxwbrzO/alpha/stream/malta-w-vs-croatia-w/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="WTA Angers Miyazaki vs Monnot" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",WTA Angers Miyazaki vs Monnot
+https://lb5.strmd.top/secure/shpEXdGFxPPMAPtkNYVSTtfYbgyRDHFb/alpha/stream/germany-u23-vs-france-u23/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Cyprus vs Germany" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Cyprus vs Germany
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/sdNLUCRxvCIHRjZWUygYKUgWNacqqKfw/bravo/stream/1764601200000-wta-angers-miyazaki-monnot/1/playlist.m3u8
+https://lb3.strmd.top/secure/MtMZfwhJBNPcngzYmIRYjMxoAYticTdM/alpha/stream/cyprus-vs-germany/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Fenerbahce vs Galatasaray" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Fenerbahce vs Galatasaray
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/GXzuwFrzoeMNQkqfJxICEYWmYNSHsLMo/alpha/stream/fenerbahce-vs-galatasaray/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Cherepovets vs Tractor Chelyabinsk" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Hockey",Cherepovets vs Tractor Chelyabinsk
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/hlscRmkGDlVPLWFTrqnNsJfeZRvBUEzy/bravo/stream/1764604800000-cherepovets-tractor-chelyabinsk/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Qatar vs Palestine" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Qatar vs Palestine
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/uSqjmvBNuYYfwPOlmGyKcILMJvlLsHkm/alpha/stream/qatar-vs-palestine/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Paos de Ferreira vs Felgueiras" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Paos de Ferreira vs Felgueiras
+https://lb6.strmd.top/secure/OaWQuzuThSqKQhlIagdOznOEFWzhRTkN/alpha/stream/qatar-vs-palestine/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Finland vs France" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Finland vs France
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/rQwCJHAuNfzxFMEdDniEjhOMpoexdJOo/alpha/stream/pacos-ferreira-vs-felgueiras/1/playlist.m3u8
+https://lb6.strmd.top/secure/eqbxRCwVpBKXbiTGAMkojdFsHHXrOAxT/alpha/stream/finland-vs-france/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="S. Rzeszow vs Grodzisk M" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",S. Rzeszow vs Grodzisk M
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/AUvJmWgsQrlUFDxtQJlCIeEMocpQwZoX/alpha/stream/s-rzeszow-vs-grodzisk-m/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="WTA Angers Miyazaki vs Monnot" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",WTA Angers Miyazaki vs Monnot
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/ABsqKvkxOXkEqXYrGnQhFFWMlLjJfsqh/bravo/stream/1764601200000-wta-angers-miyazaki-monnot/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Petrolul vs Metaloglobus Bucharest" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Petrolul vs Metaloglobus Bucharest
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/BMXsNavPqgtgKbiiwIfddkXrmecKqLAC/bravo/stream/1764597600000-petrolul-metaloglobus-bucharest/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Segunda Liga: Pacos Ferreira vs Felgueiras 1932" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Segunda Liga: Pacos Ferreira vs Felgueiras 1932
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/XYxVSZCrXKdRxTBNSneRIPZXMswLAEjx/charlie/stream/pacos-ferreira-vs-felgueiras-1932-1398072/1/playlist.m3u8
+https://lb9.strmd.top/secure/lKgBGMZCILtJHhbnXpUZGTupWjTkRgoh/bravo/stream/1764597600000-petrolul-metaloglobus-bucharest/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="FP Riviera Maya vs Municipal Poas" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",FP Riviera Maya vs Municipal Poas
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/WXfLXqqPRFYTeVGkxZNmqNcSINuWrNds/alpha/stream/fp-riviera-maya-vs-municipal-poas/1/playlist.m3u8
+https://lb3.strmd.top/secure/IDQfdvmqNknQjKMxTBtLPyhHTPKptcwV/alpha/stream/fp-riviera-maya-vs-municipal-poas/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="WTA Angers Kudermetova vs Rosatello" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",WTA Angers Kudermetova vs Rosatello
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/CYZjLwMEyQZNiTnatSTUZbSJveKFvWoU/bravo/stream/1764596400000-wta-angers-kudermetova-rosatello/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Tunisia vs Syria" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Tunisia vs Syria
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/XTLhzSKLYxnxLXldgVkSxIJhebxjgXKX/alpha/stream/tunisia-vs-syria/1/playlist.m3u8
+https://lb3.strmd.top/secure/BvGsKBNeJYCAxMkWNAMYJRFXlZmERRSM/bravo/stream/1764596400000-wta-angers-kudermetova-rosatello/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="UK Championship vs Table 1" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Billiards",UK Championship vs Table 1
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/UkTJHSDWHJxWsbLXCoyLVNUaLWzZRrIs/bravo/stream/1764594000000-uk-championship-table-1/1/playlist.m3u8
+https://lb8.strmd.top/secure/FARvzYVJtbGmCLWgEbqsIZKJYWdzKWoh/bravo/stream/1764594000000-uk-championship-table-1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="UK Championship vs Table 2" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Billiards",UK Championship vs Table 2
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/eJyNeVwUheOkWnKLsAsXJtIQIFBnGJlg/bravo/stream/1764594000000-uk-championship-table-2/1/playlist.m3u8
+https://lb7.strmd.top/secure/GkbxkHEMXyWLoIGrNduFFXvbVYasDuFc/bravo/stream/1764594000000-uk-championship-table-2/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Snooker: UK Championship  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Snooker: UK Championship  
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/BfeLNTsjGcfIDdJlxkPkZoxGwClsmtZY/echo/stream/snooker-uk-championship-billar/1/playlist.m3u8
+https://lb7.strmd.top/secure/mPOuTBcTRpKRQnoEqmddADKiZEdbiubZ/echo/stream/snooker-uk-championship-billar/1/playlist.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Novosibirsk vs Barys Astana" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Hockey",Novosibirsk vs Barys Astana
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/CYbImWKjhgOUaFAXbYAuftytpCBPlueS/bravo/stream/1764592200000-novosibirsk-barys-astana/1/playlist.m3u8
+https://lb1.strmd.top/secure/RVyyKRUvEYOFcvxavTHTLyLkewYXxkRm/bravo/stream/1764592200000-novosibirsk-barys-astana/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="WTA Angers Korneeva vs Rakhimova" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",WTA Angers Korneeva vs Rakhimova
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/FePyvenAlRnNDvGLmNSROMlZqrdXYwvf/bravo/stream/1764591000000-wta-angers-korneeva-rakhimova/1/playlist.m3u8
+https://lb9.strmd.top/secure/iKUcHBeMpfLRSzNwborTCfOSgcamLNuI/bravo/stream/1764591000000-wta-angers-korneeva-rakhimova/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Sepsi Sf. Gheorghe vs Poli Iasi" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Sepsi Sf. Gheorghe vs Poli Iasi
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/UeFbAayNANkLEtrURvUVLSgUtXMhymja/bravo/stream/1764588600000-sepsi-sf-gheorghe-poli-iasi/1/playlist.m3u8
+https://lb1.strmd.top/secure/vRPgrujkYtoAZHOqnqQxSLboDVzfiOxX/bravo/stream/1764588600000-sepsi-sf-gheorghe-poli-iasi/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="WTA Angers Kostovic vs Friedsam" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",WTA Angers Kostovic vs Friedsam
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/cdCiTfLrSUQMoAfHcwbgJSyXbYjHzLBr/bravo/stream/1764585600000-wta-angers-kostovic-friedsam/1/playlist.m3u8
+https://lb7.strmd.top/secure/dJkjpnrakLvmhDPkfwzQnFQqWrmywqMA/bravo/stream/1764585600000-wta-angers-kostovic-friedsam/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="South Korea Basketball vs China Basketball" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",South Korea Basketball vs China Basketball
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/kSmwdfLBNmxvhzmlCxUVzpWtTDlaIQol/bravo/stream/1764583200000-south-korea-china/1/playlist.m3u8
+https://lb7.strmd.top/secure/KUZgMoYJBeejZjITgSVaKLXOPfPJFEgJ/bravo/stream/1764583200000-south-korea-china/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="WTA Angers Podrez vs Charaeva" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",WTA Angers Podrez vs Charaeva
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/JmMsyZHgeyVxAdEzJdxDGDGIQIFKQOYI/bravo/stream/1764580200000-wta-angers-podrez-charaeva/1/playlist.m3u8
+https://lb3.strmd.top/secure/IjWIoyZWKUJwuPwUlICYzcFBUMByREyf/bravo/stream/1764580200000-wta-angers-podrez-charaeva/1/playlist.m3u8
