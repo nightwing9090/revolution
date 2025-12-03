@@ -1,26 +1,51 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Sibir Novosibirsk vs Spartak Moscow" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXjKpIwIdiG4gpIFCERHEJkMdMFg2mP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="StreamedSU - Hockey",Sibir Novosibirsk vs Spartak Moscow
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/dUfCwYmEUzZGGrHDwsxEOXDmdiwMMTFq/bravo/stream/1764765000000-novosibirsk-spartak-moscow/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Rudar Prijedor vs Zrinjski Mostar" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMLjC8cIZiG4g+IEiERSQMQyBQWQCpkgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="StreamedSU - Football",Rudar Prijedor vs Zrinjski Mostar
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/JhlYuxqjJDvXdLZkbzKVluPAPtZoXyKh/bravo/stream/1764763200000-prijedor-zrinjski/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Zdralovi vs HNK Rijeka" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Zdralovi vs HNK Rijeka
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/XPurRXqNqYclFLVbOOogAAFIxsGBzpNE/bravo/stream/1764763200000-zdralovi-hnk-rijeka/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Graficar Beograd vs Radnicki Nis" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Graficar Beograd vs Radnicki Nis
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/UAWNDfcDEdfFjGzuJPYIZCaPMIUitfDu/bravo/stream/1764763200000-graficar-beograd-radnicki-nis/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Vrsac vs Vojvodina" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Vrsac vs Vojvodina
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/cnEHQZBnYsWnONriCZVGWRJRDmAeDUpQ/bravo/stream/1764763200000-vrsac-vojvodina/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="WTA Angers Zhang vs Bassols" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",WTA Angers Zhang vs Bassols
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/JyzysuXwFjliNomreYgtjprHxopcbrfR/bravo/stream/1764763200000-wta-angers-zhang-bassols/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Avia Swidnik vs Polonia Bytom" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Avia Swidnik vs Polonia Bytom
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/mNQshQkvvepVxOKbQtEbNNQAarPcXtWR/bravo/stream/1764759600000-avia-swidnik-polonia-bytom/1/playlist.m3u8
+https://lb7.strmd.top/secure/IpXxGhwIDeHMoNRbXtvdGioKopgKRKYq/bravo/stream/1764759600000-avia-swidnik-polonia-bytom/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="WTA Angers Klimovicova vs Rakhimova" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",WTA Angers Klimovicova vs Rakhimova
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/GlRHWvXMGPLrPcMaotizMknJFDQpqdxg/bravo/stream/1764757800000-wta-angers-klimovicova-rakhimova/1/playlist.m3u8
+https://lb3.strmd.top/secure/tCzfjWjZsxIuEQkiyTGAzOZAPPxSaKKX/bravo/stream/1764757800000-wta-angers-klimovicova-rakhimova/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Suwon Samsung Bluewings vs Jeju SK" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Suwon Samsung Bluewings vs Jeju SK
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/wYPMwUkwIzNdfjOJuSGUBXTAihUBlkji/bravo/stream/1764756000000-suwon-bluewings-jeju-sk/1/playlist.m3u8
+https://lb1.strmd.top/secure/EkOpOVBPXbaXeDRsIujsxMFVvGLvAmeK/bravo/stream/1764756000000-suwon-bluewings-jeju-sk/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="WTA Angers Korpatsch vs Siskova" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",WTA Angers Korpatsch vs Siskova
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/YtopPgYPQoRablZUIRfepCrCPrSXKNrR/bravo/stream/1764752400000-wta-angers-korpatsch-siskova/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Women's Big Bash League: Sydney Thunder vs Brisbane Heat" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",Women's Big Bash League: Sydney Thunder vs Brisbane Heat
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/ORNlxiGPtUQbIledVgPtoGxdfJBZCkkQ/charlie/stream/sydney-thunder-vs-brisbane-heat-1629471400/1/playlist.m3u8
+https://lb3.strmd.top/secure/PkrCxmkJjUMHBAjSNDXtqnwZcBEUYEcX/bravo/stream/1764752400000-wta-angers-korpatsch-siskova/1/playlist.m3u8
