@@ -1,11 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Suwon Samsung Bluewings vs Jeju SK" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Suwon Samsung Bluewings vs Jeju SK
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/RPSLMjZWJTekUwVNKelbRyPfAHYkcTbt/bravo/stream/1764756000000-suwon-bluewings-jeju-sk/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="WTA Angers Korpatsch vs Siskova" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",WTA Angers Korpatsch vs Siskova
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/rwiGcDEHKsspjWFIlXVBuHikgdgHrYlF/bravo/stream/1764752400000-wta-angers-korpatsch-siskova/1/playlist.m3u8
+https://lb4.strmd.top/secure/FuztecWHloVBiGIjxtKnIFIIMszYYGhw/bravo/stream/1764752400000-wta-angers-korpatsch-siskova/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Women's Big Bash League: Sydney Thunder vs Brisbane Heat" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",Women's Big Bash League: Sydney Thunder vs Brisbane Heat
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/lnkRHRJayvtPoNmTAzadVRjiQYgjYOtD/charlie/stream/sydney-thunder-vs-brisbane-heat-1629471400/1/playlist.m3u8
+https://lb9.strmd.top/secure/sEWvxNuIeoNQJlCEZovxuJsMruiBWMaw/charlie/stream/sydney-thunder-vs-brisbane-heat-1629471400/1/playlist.m3u8
