@@ -1,14 +1,19 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Nedbank Golf Challenge | DP World Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Nedbank Golf Challenge | DP World Tour
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/BuyxjtELBrafqDxHvZRsvKAhwbtMmUAS/echo/stream/nedbank-golf-challenge-dp-world-tour-tgl-001/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Adelaide United vs Brisbane Roar" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdv2rAwYfowAMIXiCwgSICzBAoQECyCuT8wJBSwi5jFGFUoeP8kYtMT9neh0xRkigA.webp" group-title="StreamedSU - Football",Adelaide United vs Brisbane Roar
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/USbytbOYDgJyjvKqbKFxOgfvglFZmsbN/charlie/stream/adelaide-united-vs-brisbane-roar-1469598/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="World Rugby Sevens Series: Cape Town Day 2: Session 1" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true" group-title="StreamedSU - American Football",World Rugby Sevens Series: Cape Town Day 2: Session 1
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/fMgOPZKtDiptzUoGuyiGpVLOKXTAglzK/charlie/stream/cape-town-day-2-session-1-1629471723/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Highest In The Room 4" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",Highest In The Room 4
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/BPETtHkvGhqKaWNpRIIWxoaEoxdHUYmm/delta/stream/live-event_gcw-highest-in-the-room-4-live-stream/1/playlist.m3u8
+https://lb4.strmd.top/secure/BlHeykwCYqeZpjrZxPayyupndIfvUIbt/charlie/stream/cape-town-day-2-session-1-1629471723/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Australia vs. England" tvg-logo="https://api.ppv.to/assets/thumb/4de443b4bf25d8cd895f9892ed00451d-thumbnail.jpg" group-title="StreamedSU - Cricket",Australia vs. England
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -18,4 +23,4 @@ https://gg.poocloud.in/cricket/index.m3u8
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/SPXNURPDZfewNWjqQsuaqlXbAALTJaae/echo/stream/ppv-event-03-ufc-323-dvalishvili-v-yan-2-ppv-03/1/playlist.m3u8
+https://lb8.strmd.top/secure/nXvnVhrHgdiZDXGNQpiIKeWwuIXwzprx/echo/stream/ppv-event-03-ufc-323-dvalishvili-v-yan-2-ppv-03/1/playlist.m3u8
