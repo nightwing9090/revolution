@@ -1,51 +1,106 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Inter vs Liverpool" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Inter vs Liverpool
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="PSV vs. Atleti" tvg-logo="https://api.ppv.to/assets/thumb/a96957929995ff16a420822d58d133b3-thumbnail.jpg" group-title="StreamedSU - Football",PSV vs. Atleti
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/hgcjfnQGotwXJrYIxNMOckvQHasyhPFr/delta/stream/live_uefa-champions-league_inter-liverpool-live-streaming-439948800/1/playlist.m3u8
+https://lb7.strmd.top/secure/JVnNCLdHDSiEnbAMKbzmvDHDSifynoxi/charlie/stream/psv-eindhoven-vs-atletico-madrid-1451118/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="UEFA Champions League Women: Arsenal W vs Twente W" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",UEFA Champions League Women: Arsenal W vs Twente W
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/WMFlbXrSLHmnlliZhhCNlFSswpSeFfJz/echo/stream/arsenal-w-vs-twente-w-football-1472414/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="UCL Goals Show   " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",UCL Goals Show   
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/OrCeJeDFrgMLHgcwpBnMqhAwAXhkSkmk/echo/stream/ucl-goals-show-game-163625/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Swansea City vs Portsmouth" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKWCRgUwAAzUUIbiD4gSuEBBCHDIEFJDwCwLTH7DZ9FGBU62P8nosWR0mWjAfMVEIIA.webp" group-title="StreamedSU - Football",Swansea City vs Portsmouth
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/dmTlGVxqkbHMRwcrLrgJyKZjoRzPqgeo/echo/stream/swansea-vs-portsmouth-football-1386786/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Doncaster Rovers vs Stockport County" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMBnBYYUSRDcQfEPpwQQKEyEQgDBYEgp9hs+il1sUXXeXpZZXky0YB70ohBAA.webp" group-title="StreamedSU - Football",Doncaster Rovers vs Stockport County
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/XqqwFhBiRPCLWDmbmDpLrPTllTStTVis/echo/stream/doncaster-vs-stockport-county-football-1387319/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Watford vs Sheffield Wednesday" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJGBREsYAdxD6+IErhAQQKCyGsmJTDTH7DZ9LSpRcwZeNtkemtGBeYqIQQA.webp" group-title="StreamedSU - Football",Watford vs Sheffield Wednesday
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/UKTyruzRtdYilOtSzZeWsssgRtxmcSJd/echo/stream/watford-vs-sheffield-wednesday-football-1386783/2/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Preston North End vs Coventry City" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGTgi4wZGCG4g+IErhBaUICyBCI+BYEgp3WIsSh1sUXHeXpZZXky0YB70ohBAA.webp" group-title="StreamedSU - Football",Preston North End vs Coventry City
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/PZGCUojmVVzOqgulUsrnrjhljaCdCJFR/charlie/stream/preston-vs-coventry-1386779/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Mansfield Town vs Bolton Wanderers" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGOxDgU2UiG4g+IErhAQQKYyESWSBYEgp9hs+jpUouYMvCJZZnky0YN5iohBAA.webp" group-title="StreamedSU - Football",Mansfield Town vs Bolton Wanderers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/kzRyKvlGgAtmBdsHuByAHeVTZlBmRzOx/echo/stream/mansfield-town-vs-bolton-football-1387323/4/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Wycombe Wanderers vs Plymouth Argyle" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJGBkzavMCG4g+IErhAQQKY2f1mCwDTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Football",Wycombe Wanderers vs Plymouth Argyle
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/VEoqzJVYKpAYXHhbbKWkJycIlONHqvee/echo/stream/wycombe-vs-plymouth-football-1387328/2/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Cambridge United vs Chesterfield" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFPxAQQfEIl3cdIEri0hz5nDGMFgSCn2Gz6KMCo1s35ellkamtGBuYqIQQA.webp" group-title="StreamedSU - Football",Cambridge United vs Chesterfield
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/AmGllKbzDiWsCmWixsnsviHkzDEqXQIU/echo/stream/cambridge-united-vs-chesterfield-football-1386215/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Southampton vs West Bromwich Albion" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECGBhZUsHzBIQ3EHxAlcICCBTWNZswWBIKfYbPoowKlFy-l6WLI+TLRgXmKiEEA.webp" group-title="StreamedSU - Football",Southampton vs West Bromwich Albion
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/CaQzKtqmolKRjSdeeBLWzkrEYbFqXaEA/echo/stream/southampton-vs-west-brom-football-1386784/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Exeter City vs AFC Wimbledon" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmA19cwJGCkhuIbSVwgIIFCFOIQ5grop9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="StreamedSU - Football",Exeter City vs AFC Wimbledon
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/GLjWRhdUOkFQHSjNzQBiEepYIswfxSnK/echo/stream/exeter-city-vs-afc-wimbledon-football-1387320/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Lincoln City vs Barnsley" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXlJAhKIFGBIhuIPiAM4Iu0yEQpcBYEgp9hs+npUou+8vSyzPTLRg+mKiEEA.webp" group-title="StreamedSU - Football",Lincoln City vs Barnsley
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/KkCukovTdyrmkYBtuGzKXDsjeTNCHSsA/echo/stream/lincoln-vs-barnsley-football-1387322/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Barrow vs Tranmere Rovers" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKSAEpgABjBIwIEN00gSuEBCPWTKIwWAGY-YbPoowK7W0-l6WWW0mWjBPMVEIIA.webp" group-title="StreamedSU - Football",Barrow vs Tranmere Rovers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/EKFrsIlcvjodkZSMCyWijyzyGwVNNRMu/echo/stream/barrow-vs-tranmere-football-1386213/2/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Blackburn Rovers vs Oxford United" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLJFzAADMDBgpIbiD4gSuEBBAprIO1etMkFPsNn0UYFSi5fy9LFkfJlp9UXpwoA.webp" group-title="StreamedSU - Football",Blackburn Rovers vs Oxford United
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/tSXGrmhnVYtjVDfPNhvJTweIZwxshIIr/echo/stream/blackburn-vs-oxford-united-football-1386782/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Harrogate Town vs Accrington Stanley" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiBggNWOiBTaQfECVwgIIS5ZwapBYEgp9hs+ijAqUXD+Xq7RXky0YB5iohBAA.webp" group-title="StreamedSU - Football",Harrogate Town vs Accrington Stanley
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/tQkcQyFtOVvLWlriGGzhqMPtfXkiUKEy/echo/stream/harrogate-town-vs-accrington-st-football-1386218/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Sheffield Utd vs Norwich" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Sheffield Utd vs Norwich
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/qaDTlzRkbTldqdEtZFtcTRLRudLDGGSF/echo/stream/sheffield-utd-vs-norwich-football-1386780/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Basketball Champions League: Oostende vs Malaga" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Basketball Champions League: Oostende vs Malaga
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/bvNFKFMobJwGoAhPVgMpmbqGuSVDDKyI/charlie/stream/oostende-vs-malaga-1629471802/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="IHF World Women's Handball Championship: IHF Women's World Cup (Quarterfinal)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",IHF World Women's Handball Championship: IHF Women's World Cup (Quarterfinal)
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/JUlKTtCoVYiBnfulxPnRKrKcdqNmcgpX/charlie/stream/ihf-womens-world-cup-quarterfinal-1629471803/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="UEFA Champions league: The Golazo Show   " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",UEFA Champions league: The Golazo Show   
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/lVNIArXmTgSSprRTwYOtRXvWMfuTTBDI/echo/stream/uefa-champions-league-the-golazo-show-golaza-1/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Niners Chemnitz vs Panionios BC" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtRCMADJC17eILCBIgUITYYgmbZ-MCQUsIuYxRhVKHh-KNqcr3t6MA9xMQggA.webp" group-title="StreamedSU - Basketball",Niners Chemnitz vs Panionios BC
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/NgqtDbsOauwPLXCvgUDnkTWUFovsCejf/echo/stream/chemnitz-vs-panionios-basketball-453192/1/playlist.m3u8
+https://lb4.strmd.top/secure/VicYmbaannOQwJGtAuYtZGUPhkjQcOzB/echo/stream/uefa-champions-league-the-golazo-show-golaza-1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Hapoel Jerusalem BC vs Hamburg Towers" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvXwDYOmCF4gsIEiBQhq+kBGMhp+lkgpYRcxijCqUPD+UbU5Xlr0YB7iYhBAA.webp" group-title="StreamedSU - Basketball",Hapoel Jerusalem BC vs Hamburg Towers
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/WQGMpqdQVvsUowWWxUkDbhdPmqxfFMHt/echo/stream/hapoel-jerusalem-vs-hamburg-basketball-453188/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Basketball Champions League: Karditsas vs Mersin BB" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Basketball Champions League: Karditsas vs Mersin BB
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/ISLdbsIwsfWwBPebqZPfsCbpHXBdvHEJ/charlie/stream/karditsas-vs-mersin-bb-1629471798/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Bayern Munich vs Sporting CP" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvhD8w5LCBRaQekiFMxT+wxBAkWSClhFzGKMKpQ835RtTkf8rMA6YowhQA.webp" group-title="StreamedSU - Football",Bayern Munich vs Sporting CP
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/ucl_bay/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="UEFA Champions League Women: St. Polten W vs Juventus W" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",UEFA Champions League Women: St. Polten W vs Juventus W
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/WGeAFAVqGJlVjhWAjdJjikvlDxypnwzb/charlie/stream/st-polten-w-vs-juventus-w-1472413/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="St. Plten W vs Juventus W" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",St. Plten W vs Juventus W
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/VsjUiHzELAfigbRvdTNbtlXceRWlxyuS/echo/stream/st-polten-w-vs-juventus-w-football-1472413/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Besiktas Basketbol vs BC Lietkabelis" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCF6wwvECiYhDurCBJ6Q1TSAinbWFkgr32o8SjCr9HD+UbU5+viswGAe4mIQQA.webp" group-title="StreamedSU - Basketball",Besiktas Basketbol vs BC Lietkabelis
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/bhiIxmudQyUXWbHbwVIMdVZOAcWFYUGE/echo/stream/besiktas-vs-lietkabelis-basketball-453190/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Louisiana-Monroe Warhawks vs Arkansas Baptist Buffaloes" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Louisiana-Monroe Warhawks vs Arkansas Baptist Buffaloes
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/MIFctTcoxiwKBWmfeeBRjzPoJHncEoVc/delta/stream/live_ncaa_ulm-arkansas-baptist-buffaloes-live-streaming-458752032/1/playlist.m3u8
+https://lb7.strmd.top/secure/RvMHWIHeboamnMPnhkdOibRPOliLTZzn/echo/stream/hapoel-jerusalem-vs-hamburg-basketball-453188/1/playlist.m3u8
