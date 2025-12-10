@@ -1,34 +1,59 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Bayer 04 Leverkusen vs Newcastle United" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Bayer 04 Leverkusen vs Newcastle United
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/wugkyIZrHweVIocxLJFycwNCMjRVhCXG/delta/stream/live_uefa-champions-league_leverkusen-newcastle-live-streaming-439976880/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Benfica vs Napoli" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Benfica vs Napoli
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/ZXZtAApBnRUHrWbZfSFIJIkywTipdhSk/delta/stream/live_uefa-champions-league_benfica-napoli-live-streaming-439977312/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Borussia Dortmund vs Bod/Glimt" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Borussia Dortmund vs Bod/Glimt
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/BbhajezjMsJbRFeQuNauZWpJAAecRGFD/delta/stream/live_uefa-champions-league_dortmund-bodoglimt-live-streaming-439977744/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Club Brugge KV vs Arsenal" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Club Brugge KV vs Arsenal
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/RuOMAtXqPypXjFWZpbkcepFxYqxtgUFO/delta/stream/live_uefa-champions-league_club-brugge-arsenal-live-streaming-439978176/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Juventus vs Pafos FC" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Juventus vs Pafos FC
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/BIfpQQTzOQPChHqTosjDJsVbxcnhVGWI/delta/stream/live_uefa-champions-league_juventus-pafos-live-streaming-439978608/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Real Madrid vs Manchester City" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Real Madrid vs Manchester City
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/JTBfeWqQFtlUaxXnjuSDDOmhvNDIbHrA/delta/stream/live_uefa-champions-league_real-madrid-man-city-live-streaming-439979040/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Nrnberg vs Eintracht Frankfurt W" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Nrnberg vs Eintracht Frankfurt W
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/lvVcZuYvhjxAHSstZwLnJarutkQTGLFP/echo/stream/nurnberg-vs-eintracht-frankfurt-w-football-1401279/1/playlist.m3u8
+https://lb8.strmd.top/secure/onUUlKVioKCqzyDxALUrmJrCsqMcrCEv/echo/stream/nurnberg-vs-eintracht-frankfurt-w-football-1401279/1/playlist.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Munchen vs Kolner" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Hockey",Munchen vs Kolner
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/YemomNEYUQzrpmBPHxjexFnURLNSoWKG/echo/stream/munchen-vs-kolner-hockey-408954/1/playlist.m3u8
+https://lb8.strmd.top/secure/RcodNrmYUfgeJHTTJrIIaGLyhLEKgsPs/echo/stream/munchen-vs-kolner-hockey-408954/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Ulm vs Trk Telekom BK" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdu3wgxABhApIIXiCzb9IakZAQz0kPvzAkFLCLmMDqlDzBl4RajlvR3owX3ExCCA.webp" group-title="StreamedSU - Basketball",Ulm vs Trk Telekom BK
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/dUMPxUDAOxwRVuOVvNFGhQpvCDFvrnjQ/echo/stream/ulm-vs-turk-telekom-basketball-453184/1/playlist.m3u8
+https://lb2.strmd.top/secure/BfsAeCVJnjnHXEJQTjnajwEgIIIajQje/echo/stream/ulm-vs-turk-telekom-basketball-453184/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Aris BC vs Reyer Venezia Mestre" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCCjwa8sGRgheILCBIgUIaoc2mQ00yyQUsIuYxR6OKHnvKNqct74rMBgnoxiEEA.webp" group-title="StreamedSU - Basketball",Aris BC vs Reyer Venezia Mestre
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/JeLsERzQMNSptYMEERKMAFtjmXxtWkCE/echo/stream/aris-vs-venezia-basketball-453187/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Ring 6: Lopez vs. Stevenson: Launch Press Conference" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",Ring 6: Lopez vs. Stevenson: Launch Press Conference
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/IgdmoKfqIjuBbHCQeAIuQrjjWnfrydMz/charlie/stream/lopez-vs-stevenson-launch-press-conference-1629472264/1/playlist.m3u8
+https://lb2.strmd.top/secure/cyiEpWKHUmtIbzbjDSUiieRyrIztyspo/echo/stream/aris-vs-venezia-basketball-453187/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Buducnost vs London Lions" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Buducnost vs London Lions
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/owVodyTPAXXaxiVjbLwvhOIyZostKrEH/echo/stream/buducnost-vs-london-lions-basketball-453189/1/playlist.m3u8
+https://lb3.strmd.top/secure/GaqzkDFSXxhOTqQMQEZiBasZRopTHOgv/echo/stream/buducnost-vs-london-lions-basketball-453189/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Villarreal vs FC Copenhagen" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUVBSww0kNxB8QJEFINGQEEIhwSmSCn2Gz6WlSi47y9LLPdNaYDpiGkA.webp" group-title="StreamedSU - Football",Villarreal vs FC Copenhagen
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -43,39 +68,34 @@ https://gg.poocloud.in/ucl_qar/index.m3u8
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/ZOitTpMZdsCpLEESvMfSoIheRbbxjEEs/charlie/stream/valerenga-w-vs-paris-fc-w-1479460/1/playlist.m3u8
+https://lb3.strmd.top/secure/ARpMjdVGDdoISdKkzxUizugJlhPuOWBV/charlie/stream/valerenga-w-vs-paris-fc-w-1479460/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="UEFA Champions League Women: Barcelona W vs SL Benfica" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",UEFA Champions League Women: Barcelona W vs SL Benfica
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/tjpsIZWmOBJrPQClySZSwipLstcLPngW/charlie/stream/barcelona-w-vs-sl-benfica-1472416/1/playlist.m3u8
+https://lb10.strmd.top/secure/WHUHMUTKInRWhfuaalRBYNtAPUAIBIWG/charlie/stream/barcelona-w-vs-sl-benfica-1472416/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Basketball Champions League: AEK vs Levicki Patrioti" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Basketball Champions League: AEK vs Levicki Patrioti
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/HAKQhdSkYCuUzPsjecplBUjLVKhhFQsv/charlie/stream/aek-vs-levicki-patrioti-1629472240/1/playlist.m3u8
+https://lb8.strmd.top/secure/kVRXmiUURdshHvUMTdgYSgTGCgGgkouX/charlie/stream/aek-vs-levicki-patrioti-1629472240/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Baylor vs Norfolk State" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELRS4QMpjm46QfI9qkhz5kiBQFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="StreamedSU - Basketball",Baylor vs Norfolk State
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/COLYDmZHEadhzaBMNuyKhBSjXGGeQUZU/delta/stream/live_ncaa_baylor-norfolk-st-live-streaming-458814672/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Cruz Azul vs Flamengo" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Cruz Azul vs Flamengo
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/eLJqjpKnxWOgFaGpABaSwqKJKqVgkdkD/charlie/stream/cruz-azul-vs-flamengo-1629472239/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Basketball Champions League: VEF Riga vs Szolnoki Olajbanyasz" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Basketball Champions League: VEF Riga vs Szolnoki Olajbanyasz
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/hJWprWQfJyhyrSRbZrNsABtBQRXkFzDZ/charlie/stream/vef-riga-vs-szolnoki-olajbanyasz-1629471830/1/playlist.m3u8
+https://lb1.strmd.top/secure/bDVJLxbUdAyCRPyDnhrcAujmiCtOCiGn/delta/stream/live_ncaa_baylor-norfolk-st-live-streaming-458814672/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Neptunas vs Slask Wroclaw" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Neptunas vs Slask Wroclaw
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/GThshXjUgSwSAkcOmfnuNWxCvkcrthpZ/echo/stream/neptunas-vs-slask-wroclaw-basketball-453185/1/playlist.m3u8
+https://lb8.strmd.top/secure/VuwoFfTXnWdaccrcWzBAoyxrJwJUEBtn/echo/stream/neptunas-vs-slask-wroclaw-basketball-453185/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Villarreal vs FC Kbenhavn" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Villarreal vs FC Kbenhavn
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/lLyWpcgZihmMBUUIeFEqpYyedIdETJwR/delta/stream/live_uefa-champions-league_villarreal-kobenhavn-live-streaming-439976016/1/playlist.m3u8
+https://lb3.strmd.top/secure/nDUAqiEwfqbYbFokDvRpechObPeJWiCo/delta/stream/live_uefa-champions-league_villarreal-kobenhavn-live-streaming-439976016/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Athletic Bilbao Juvenil vs Paris Saint-Germain Academy" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtRAhuUJCCwhe+kCRApjpo4ghaWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="StreamedSU - Football",Athletic Bilbao Juvenil vs Paris Saint-Germain Academy
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/ECFDCLfnRDRKBiDqoOopWoDJjrpjMQsr/delta/stream/live_uefa-champions-league_athletic-club-psg-live-streaming-439976448/1/playlist.m3u8
