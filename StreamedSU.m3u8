@@ -1,21 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Western Sydney Wanderers vs Brisbane Roar" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrxBiADGCSdYITVi0gzMEChAQzRkM3zAkFLCLmMUYVSh5fyjajkfR3owL3ExCCA.webp" group-title="StreamedSU - Football",Western Sydney Wanderers vs Brisbane Roar
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Women's Big Bash League: TBA vs TBA" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",Women's Big Bash League: TBA vs TBA
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/nJrOXTatFGkdQxgYgGaVfPlhWuczftQO/charlie/stream/western-sydney-wanderers-vs-brisbane-roar-1469601/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="A-League Women: Melbourne Victory W vs Adelaide United W" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",A-League Women: Melbourne Victory W vs Adelaide United W
+https://lb3.strmd.top/secure/vSPrBdZbLXWghSRgthCwkYrpRuZkywVC/charlie/stream/tba-vs-tba-1629471413/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Brisbane Bandits vs Adelaide Giants" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Brisbane Bandits vs Adelaide Giants
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/mRcWBKnTqUvFbpkHmKgwsLzveQzbndxZ/charlie/stream/melbourne-victory-w-vs-adelaide-united-w-1484503/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Sydney Blue Sox vs Perth Heat" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Sydney Blue Sox vs Perth Heat
+https://lb1.strmd.top/secure/EPfuyHqmNKvTBHfcLwSNQwFARRAJaLnR/charlie/stream/brisbane-bandits-vs-adelaide-giants-1629471926/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="A-League Women: Canberra United W vs Melbourne City W" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",A-League Women: Canberra United W vs Melbourne City W
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/gDlSjXvdzEHleWkNISZxxVSwaAmbCSXh/charlie/stream/sydney-blue-sox-vs-perth-heat-1629471924/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Tuff N Uff 150" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",Tuff N Uff 150
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/AtVXNAFaZkcesYeFQLraQxDPwireaRpo/delta/stream/live-event_tuff-n-uff-150-live-stream/1/playlist.m3u8
+https://lb1.strmd.top/secure/ZbCpzZmLFQNwvbCCpCxZHuqxRHabUNts/charlie/stream/canberra-united-w-vs-melbourne-city-w-1484504/1/playlist.m3u8
