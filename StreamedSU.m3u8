@@ -1,21 +1,31 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Dubai Capitals vs MI Emirates" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",Dubai Capitals vs MI Emirates
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/OZjPTQGKehycdqWYtTOJhouUtcxObsyF/charlie/stream/capitals-vs-emirates-1629472233/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Vila Me vs Unio de Leiria" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvDC8wYgAwgsIaiF4GQ0kBBMgUZi4hgskFLCLmMUOjih47yjajkffFZgMC9GMQggA.webp" group-title="StreamedSU - Football",Vila Me vs Unio de Leiria
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/hSBEMbaDXUeEudfGvJiwhyTYFYJIRGhR/echo/stream/vila-mea-vs-uniao-de-leiria-football-1488363/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="FIFAe World Cup: Rocket League - Quarter-Finals" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",FIFAe World Cup: Rocket League - Quarter-Finals
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/tbXXGhbBtzbQuiGeYEbcGOLRCspEzMQk/charlie/stream/rocket-league-quarter-finals-1629472263/1/playlist.m3u8
+https://lb7.strmd.top/secure/PgtwVaVYZRgGErYMZXVEsNXZRNqojMHc/charlie/stream/rocket-league-quarter-finals-1629472263/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Kavala vs Panathinaikos" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Kavala vs Panathinaikos
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/MNCrVqpVdxgUlSItRbcMkjEaAafipPHn/echo/stream/kavala-vs-panathinaikos-football-1453560/1/playlist.m3u8
+https://lb1.strmd.top/secure/xOPqXcmTtZRhTrcJxrludwHFynSNltGu/echo/stream/kavala-vs-panathinaikos-football-1453560/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Snooker Scottish Open " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Snooker Scottish Open 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/ILhNueVqHsUyYmckUCROToWKwVGyIkXK/echo/stream/snooker-scottish-open-billar/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Next Gen ATP Finals: Day 1 Match 2" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",Next Gen ATP Finals: Day 1 Match 2
+https://lb5.strmd.top/secure/qolxWxzNQWilVdriaAhEiQMxPfKobMvM/echo/stream/snooker-scottish-open-billar/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ATP Next Gen Finals" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",ATP Next Gen Finals
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/PjJlOlVChyYvtJVADNdyzYwvJtTgrPEe/charlie/stream/day-1-match-2-1629472522/1/playlist.m3u8
+https://lb1.strmd.top/secure/CbapxGgAWhkfxGMccnKYRImpDVvNKsVY/echo/stream/atp-next-gen-finals-tn-1/1/playlist.m3u8
