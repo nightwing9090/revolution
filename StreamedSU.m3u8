@@ -1,36 +1,71 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Legia Warszawa vs USC Heidelberg" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkhBksIKNWBgQvEDpIhzMENV03jzfMCQUsIuYxRhVKHp-KN9Yt4O9GCe4mIQQA.webp" group-title="StreamedSU - Basketball",Legia Warszawa vs USC Heidelberg
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/ONRRjaDLJbpemsNjKhcALREXOPHtDNcV/charlie/stream/legia-warszawa-vs-mlp-academics-heidelberg-1629472266/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Cultural Leonesa vs Levante" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrzCay1BrBC8QWENJAkQKMxauJpLJBSwi5jFGFUoe78o11jP+KzAYO7iYhBAA.webp" group-title="StreamedSU - Football",Cultural Leonesa vs Levante
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/HOmmUVokPDLWmFPuznhoKdpXOBzccWHg/echo/stream/cultural-leonesa-vs-levante-football-1490971/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Paris SG vs Flamengo" tvg-logo="https://api.ppv.to/assets/thumb/d6f700da808bd0fe67d6600a58b6bc96-thumbnail.jpg" group-title="StreamedSU - Football",Paris SG vs Flamengo
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gg.poocloud.in/fifaplus/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Basketball Champions League: Promitheas vs Vilnius Rytas" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Basketball Champions League: Promitheas vs Vilnius Rytas
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/nwpNksFYAFvLVRSpGLSnonmwnoXkcNjp/charlie/stream/promitheas-vs-vilnius-rytas-1629472265/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="CD Atltico Baleares vs Atltico Madrid" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",CD Atltico Baleares vs Atltico Madrid
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/uaBnSYVxVZtQvEJbDxDetwEjFuEJqWGj/delta/stream/live_copa-del-rey_atl-baleares-atl-madrid-live-streaming-483034752/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Real Racing Club vs Villarreal" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Real Racing Club vs Villarreal
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/OPCwsZfzUTLgkjlFwquPJJiHJPEzfRoU/delta/stream/live_copa-del-rey_r-racing-club-villarreal-live-streaming-483035616/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="FIVB Club World Championships: Perugia vs Osaka Bluteon" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",FIVB Club World Championships: Perugia vs Osaka Bluteon
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/uFngKwrcdpIrMKZpzAnhDWBqoJoSUbgO/charlie/stream/perugia-vs-osaka-bluteon-1629472270/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Trk Telekom BK vs Bourg-en-Bresse" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQhp2EHrYheILCBKaQ1QyAinj2lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="StreamedSU - Basketball",Trk Telekom BK vs Bourg-en-Bresse
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/jhPeiinOPVEgfMIqFXOFiaeowrDKyVEH/echo/stream/turk-telekom-vs-jl-bourg-basketball-453195/1/playlist.m3u8
+https://lb10.strmd.top/secure/XVLyjsIZUiEizpocgGrRKnGVcKfidaeo/echo/stream/turk-telekom-vs-jl-bourg-basketball-453195/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Next Gen ATP Finals: Day 1 Match 3" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",Next Gen ATP Finals: Day 1 Match 3
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/ydHMjgsrPHpHUWPwyWjqLTCmNrDevVLE/charlie/stream/day-1-match-3-1629472523/1/playlist.m3u8
+https://lb1.strmd.top/secure/lXcOGsNFJttFBkprcXntRWLiXBWQWhrV/charlie/stream/day-1-match-3-1629472523/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Cluj-Napoca vs Neptunas" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Cluj-Napoca vs Neptunas
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/YjiGAhJMBcEHRKuKoDAfrVSdagAUcoxd/echo/stream/cluj-napoca-vs-neptunas-basketball-453201/1/playlist.m3u8
+https://lb10.strmd.top/secure/qwIzYIjfXSEERCDhVHUpGivmmqQlGmXW/echo/stream/cluj-napoca-vs-neptunas-basketball-453201/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Olympiakos Piraeus vs Iraklis 1908" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Olympiakos Piraeus vs Iraklis 1908
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/nWsdtIavAJTFGNbCvUjKjXLcClXxzZAO/echo/stream/olympiakos-piraeus-vs-iraklis-1908-football-1453558/1/playlist.m3u8
+https://lb3.strmd.top/secure/okzQRWcZzqqvVWWRmouIFcmUjAVkSjmK/echo/stream/olympiakos-piraeus-vs-iraklis-1908-football-1453558/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Dubai Capitals vs MI Emirates" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",Dubai Capitals vs MI Emirates
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/WDpqLUeXnbOhkQHVgNgxQPqPUNTNrRZZ/charlie/stream/capitals-vs-emirates-1629472233/1/playlist.m3u8
+https://lb9.strmd.top/secure/ZNpKxBSYllvEBSumexdDUFJGkvoCCgMb/charlie/stream/capitals-vs-emirates-1629472233/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="FIFAe World Cup: Rocket League - Quarter-Finals" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",FIFAe World Cup: Rocket League - Quarter-Finals
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/YIjOvGUNKZfdsaKqpfbLhvPIgNbJCLOO/charlie/stream/rocket-league-quarter-finals-1629472263/1/playlist.m3u8
+https://lb6.strmd.top/secure/SGAePNXCgHBjnHbpeEzyybecrchOamgX/charlie/stream/rocket-league-quarter-finals-1629472263/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Snooker Scottish Open " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Snooker Scottish Open 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/msIZboLeuwNGgVVqRigfslxBzMLLuqTe/echo/stream/snooker-scottish-open-billar/1/playlist.m3u8
+https://lb10.strmd.top/secure/XuDzQGDgQOMMleyJQbqVwFAlyzHGFSer/echo/stream/snooker-scottish-open-billar/1/playlist.m3u8
