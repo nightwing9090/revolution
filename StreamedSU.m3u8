@@ -1,76 +1,46 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Manchester United vs Newcastle United" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Manchester United vs Newcastle United
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/SpxWHJLWMWiogYswmhHgUqCeyjjmoqDo/delta/stream/live_premier-league_man-utd-newcastle-live-streaming-440517744/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Morocco vs Mali" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Morocco vs Mali
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/WPzqSuOMBmzLAOZTxyYADNyijWyIEKaW/delta/stream/live_africa-cup-of-nations-group-a_morocco-mali-live-streaming-440479296/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="AS Monaco Basket vs Real Madrid Baloncesto" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoI7so4RLxBYQJEChDUzIGCH2HF+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="StreamedSU - Basketball",AS Monaco Basket vs Real Madrid Baloncesto
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/egCGnEzJAtJUunYWKeeAacQsfkALPqdu/charlie/stream/as-monaco-basketball-vs-real-madrid-basketball-1629472651/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="Northwestern vs Central Michigan" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true" group-title="StreamedSU - American Football",Northwestern vs Central Michigan
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/dLdiupnEPlhxxXrcuSakJBNUOaVeiekm/delta/stream/live_cfb_northwestern-central-michigan-live-streaming-484686288/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Dresdner Eislowen vs Augsburger Panther" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUFJAo5YcChDcQfECSMgIIGCZCaQuAsCQU+w2fRRgV2tp-L0sstpMtGCeYqIQQA.webp" group-title="StreamedSU - Hockey",Dresdner Eislowen vs Augsburger Panther
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/thQGcZbLzMhijqqxOURvPZQWtdldsvVM/echo/stream/dresdner-eislowen-vs-augsburger-panther-hockey-408993/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Iserlohn Roosters vs Schwenninger Wild Wings" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELzDAtIEDF0aQfECSMgIekyCkGSBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="StreamedSU - Hockey",Iserlohn Roosters vs Schwenninger Wild Wings
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/iUFahMhohWcemzONoemRgrXXZxfhoQJb/echo/stream/iserlohn-roosters-vs-schwenninger-hockey-408994/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Munchen vs Frankfurt Lowen" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Hockey",Munchen vs Frankfurt Lowen
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/ykmDiMOwxbCwnRIUvyinGgKpTHNVPgjo/echo/stream/munchen-vs-frankfurt-lowen-hockey-408995/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Sale Sharks vs Harlequins" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAYOYJJxAQQWEL0MgSIC0cv6QKMyyQUsIuYxRhVKHh-KNqcr3xWYDAPcTEIIA.webp" group-title="StreamedSU - Rugby",Sale Sharks vs Harlequins
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/DnCuIRKbBSzHOiJJWqNaGsSIvKpNgUqA/charlie/stream/sale-sharks-vs-harlequins-1629472650/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Al-Hilal vs Al-Khaleej" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQgsIXiFqDEenSRBnqm-SBjWQ0lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="StreamedSU - Football",Al-Hilal vs Al-Khaleej
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/ZHdykinhKBgellLdajgvClMmbclbeqAI/delta/stream/live_saudi-pro-league_al-hilal-al-khaleej-live-streaming-440501328/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Zambia vs Comoros" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBidc-JMDAheILCGmmQiFCAjXD1lkgpYRcxijCqUPD+UbU5Xvis+h7iYhBAA.webp" group-title="StreamedSU - Football",Zambia vs Comoros
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Morocco vs Mali" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlhCN8WpsDAheITdJCnEKLVaPSWSClhFzGKMKpQ835RtTkf8rPpu4mIQQA.webp" group-title="StreamedSU - Football",Morocco vs Mali
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/afcon/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Wrexham vs Sheffield United" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGSmJ8Q4bdxDaSuEBBAozFnRKZIKfYbPoowKzWxfl6WWZqa0wLmKiEEA.webp" group-title="StreamedSU - Football",Wrexham vs Sheffield United
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Manchester United vs Newcastle United" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUFmAAGMFLC8pIbiD4gSIGCEQ5L58ygLAkFPsNn0UYFSi5fy9TVEfJlowLzFRCCA.webp" group-title="StreamedSU - Football",Manchester United vs Newcastle United
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/KtdUlSiDUBAHeWWGMwlnKuEwctXRDzaD/echo/stream/wrexham-vs-sheffield-utd-football-1386818/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Championship: Wrexham vs Sheffield Utd" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Championship: Wrexham vs Sheffield Utd
+https://gg.poocloud.in/pl_man/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Horse Racing: America's Day At the Races" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Horse Racing: America's Day At the Races
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/dGODviZvcZeTPoIDQJGNknaigGcMIgZU/charlie/stream/wrexham-vs-sheffield-utd-1386818/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Pro League: Al-Hilal Saudi FC vs Al Khaleej Saihat" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Pro League: Al-Hilal Saudi FC vs Al Khaleej Saihat
+https://lb4.strmd.top/secure/rwUrrzQRKeFBerSieGOSdiSqNntVapEf/charlie/stream/americas-day-at-the-races-1629472653/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Anderlecht vs Charleroi" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRNzADRiPiG4gpIEoZAwQexOZAgUBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="StreamedSU - Football",Anderlecht vs Charleroi
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/myhpzIqyyyKUQyCoQETLxhlGVzAOFysT/charlie/stream/al-hilal-saudi-fc-vs-al-khaleej-saihat-1436004/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Jupiler Pro League: Standard Liege vs St. Truiden" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Jupiler Pro League: Standard Liege vs St. Truiden
+https://lb5.strmd.top/secure/rHDVagVXmzYAHuSNzGVTEuDtrXDstarp/charlie/stream/anderlecht-vs-charleroi-1382581/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Virtus Pallacanestro Bologna vs Olympiacos BC" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrMHBc-RLxBYQJEChDUzIGCH2HpLJBSwi5jFGFUoe78o2pzP+Kza7uJiEEA.webp" group-title="StreamedSU - Basketball",Virtus Pallacanestro Bologna vs Olympiacos BC
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/JFPzZiNSrVOTSgJKwEfYjdMXTygyCUKJ/charlie/stream/standard-liege-vs-st-truiden-1382579/1/playlist.m3u8
+https://lb2.strmd.top/secure/rpVRGdbvANebcuKPpDUHuIcoqjGchTHp/charlie/stream/virtus-bologna-vs-olympiacos-piraeus-basketball-1629472652/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="AS Monaco Basket vs Real Madrid Baloncesto" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoI7so4RLxBYQJEChDUzIGCH2HF+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="StreamedSU - Basketball",AS Monaco Basket vs Real Madrid Baloncesto
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/nxMrFMMqvUMwQtXUbzRQeOBtSZiDQRGM/charlie/stream/as-monaco-basketball-vs-real-madrid-basketball-1629472651/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="Northwestern vs Central Michigan" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true" group-title="StreamedSU - American Football",Northwestern vs Central Michigan
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/qIqiJFdvaGklTiRXmaoxUdFFkvSaqPsU/delta/stream/live_cfb_northwestern-central-michigan-live-streaming-484686288/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Sweden vs. Slovakia" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOTLbEfmMBL9gEEPCENswCYjH8SokBD7tOITkJABjECgb8QixWPob9rMOy7AC0i4WBJc2-Ryu0Vm9vrsSwVqJSEEA.webp" group-title="StreamedSU - Hockey",Sweden vs. Slovakia
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gg.poocloud.in/iihf/index.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="MI Cape Town vs Durban's Super Giants" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",MI Cape Town vs Durban's Super Giants
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/xABpKgsMzcmidfhkFIsjZsgJXQvGXtaB/charlie/stream/mi-cape-town-vs-durbans-super-giants-1629472406/1/playlist.m3u8
+https://lb8.strmd.top/secure/semwTuhcEQaGSnyfbRgHQmnOonpPATGB/echo/stream/sa20-mi-cape-town-vs-durbans-super-giants-game-117834/1/playlist.m3u8
