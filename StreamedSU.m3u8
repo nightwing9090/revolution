@@ -1,49 +1,69 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Princeton vs Vermont" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Princeton vs Vermont
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/FvaCKrneBvILCXpsrTtWTuKxCVSwBkea/delta/stream/live_ncaa_princeton-vermont-live-streaming-427154256/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Hapoel Jerusalem BC vs Basquet Manresa" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvxACQ-MSB0gsIEiBQhqBiMdMhF+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="StreamedSU - Basketball",Hapoel Jerusalem BC vs Basquet Manresa
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/fPtYHuffzAbCpRWlhylEohzZWBrEdgHy/echo/stream/hapoel-jerusalem-vs-manresa-basketball-453208/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Maine Black Bears vs Maine-Fort Kent Bengals" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Maine Black Bears vs Maine-Fort Kent Bengals
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/TbrcKmEFrbJzrmTohLAyWJqVauzkKFPV/delta/stream/live_ncaa_maine-maine-fort-kent-bengals-live-streaming-427157280/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Benin vs Senegal" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Benin vs Senegal
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/DOHfTasvEuzNWrwwIUarbcCLQHpzDPlM/delta/stream/live_africa-cup-of-nations-group-d_benin-senegal-live-streaming-440585136/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Botswana vs DR Congo" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Botswana vs DR Congo
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/cczVOgYOwQFrHuWKRVKwqxLPNmmtdcFP/delta/stream/live_africa-cup-of-nations-group-d_botswana-dr-congo-live-streaming-440585568/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="Louisiana Tech Bulldogs vs Coastal Carolina Chanticleers" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true" group-title="StreamedSU - American Football",Louisiana Tech Bulldogs vs Coastal Carolina Chanticleers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/BEuQzIpUQITIxHoyRJsxQXcdkUvMlaQi/delta/stream/live_cfb_louisiana-tech-coastal-carolina-live-streaming-484716096/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Switzerland U20 vs Germany U20" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Hockey",Switzerland U20 vs Germany U20
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/WGFaSOTUWzrcXwqcMhqChgOWQYEFaYIc/delta/stream/live_u20-world-championship-group-a_switzerland-u20-germany-u20-live-streaming-484758000/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Buducnost vs Turk Telekom" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Buducnost vs Turk Telekom
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/OSDlIDmMbcyBWsFSifdIOgjvwwSjOtHc/echo/stream/buducnost-vs-turk-telekom-basketball-453210/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Al-Ettifaq vs Al-Nassr" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiGBgQtaiESJeILCBIhzelDpAxT5lkgpYRcxijCqUPD+UbU5XvisWh7iYhBAA.webp" group-title="StreamedSU - Football",Al-Ettifaq vs Al-Nassr
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/NYySlzdfOVZlaDKxaegGwZTRXymhntPe/charlie/stream/al-ettifaq-vs-al-nassr-1436013/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Bourg-en-Bresse vs Panionios BC" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiRAoQ0sPw5YQvEIc3bqRkBBBmQMFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="StreamedSU - Basketball",Bourg-en-Bresse vs Panionios BC
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/gPaFMEszHxwkXuuNfAjSvakANWJzXraT/echo/stream/jl-bourg-vs-panionios-basketball-453203/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Princeton Tigers vs Vermont Catamounts" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Princeton Tigers vs Vermont Catamounts
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/SuyoOMopqBvMSuzshAbRPqyGIjvppgpB/delta/stream/live_ncaa_princeton-vermont-live-streaming-427154256/1/playlist.m3u8
+https://lb1.strmd.top/secure/pnLtmFZrMJYPmThDlvYYdbtXnmnDfMwr/echo/stream/jl-bourg-vs-panionios-basketball-453203/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Cluj-Napoca vs Slask Wroclaw" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Cluj-Napoca vs Slask Wroclaw
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/IHatlGHieMWNfREUiMUQYyBUAjKkbLoP/echo/stream/cluj-napoca-vs-slask-wroclaw-basketball-453207/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Al-Ettifaq vs Al-Nassr" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Al-Ettifaq vs Al-Nassr
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/saPyiWBdQZaarOqiqiiScmUGPwQJZLBx/delta/stream/live_saudi-pro-league_al-ettifaq-al-nassr-live-streaming-440596800/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Tanzania vs Tunisia" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdigEgUIfiW26QWENJMhEOiCCuJt+YEgpYRcxijCrNHD+UbU5mvb0YB7iYhBAA.webp" group-title="StreamedSU - Football",Tanzania vs Tunisia
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/afcon2/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Uganda vs Nigeria" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBggQnMDoAMoELxBYQ08yEQoQEW1fMskFLCLmMUYVSh5fyjajkffFZgMC9xMQggA.webp" group-title="StreamedSU - Football",Uganda vs Nigeria
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/afcon/index.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Bahcesehir Kol. vs Hamburg" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Bahcesehir Kol. vs Hamburg
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/fspJnVNpMMatUhiBdzeNnIMOnrqZlfWT/echo/stream/bahcesehir-kol-vs-hamburg-basketball-453211/1/playlist.m3u8
+https://lb1.strmd.top/secure/NMQFxJnyJOCBQVVCbwuJOGXkOBEkhHOz/echo/stream/cluj-napoca-vs-slask-wroclaw-basketball-453207/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Durban's Super Giants vs Joburg Super Kings" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",Durban's Super Giants vs Joburg Super Kings
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/MwOqMepdImHROzSRAYxqtYUFHVvwWZKA/charlie/stream/durbans-super-giants-vs-joburg-super-kings-1629472424/1/playlist.m3u8
+https://lb9.strmd.top/secure/kpCHXbiGWxuXcqyByiluAXcoeGdQpJNY/charlie/stream/durbans-super-giants-vs-joburg-super-kings-1629472424/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="IL T20: Desert Vipers vs MI Emirates" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",IL T20: Desert Vipers vs MI Emirates
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/wqNcoGShOllkuIwNFSZIcDzEqRESLilH/charlie/stream/desert-vipers-vs-mi-emirates-1629472423/1/playlist.m3u8
+https://lb3.strmd.top/secure/NuaBBPzkfTPXNSXHLbmjJoNbZcEUuinh/charlie/stream/desert-vipers-vs-mi-emirates-1629472423/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="World Darts Championship" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdECBkTiCwgRg4SH4xgnbLxBT42YIj6CpEASJAkQAYy37FiFNuwpgrMOy7ACS82ELAkuXeY5XaqhnlvKLVsB87BBAA.webp" group-title="StreamedSU - Darts",World Darts Championship
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -53,4 +73,4 @@ https://gg.poocloud.in/darts/index.m3u8
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/zjyjxJkybATwzDBTtLvVVifUGEgXQtgP/charlie/stream/day-seventeen-1629472767/1/playlist.m3u8
+https://lb10.strmd.top/secure/LKChOfFCixJEbBeGwYEByEqdSBnWPFhM/charlie/stream/day-seventeen-1629472767/1/playlist.m3u8
