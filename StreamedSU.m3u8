@@ -1,24 +1,49 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Lipscomb vs Jacksonville" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVmDZgQc0iG4gpIPsZCIDBxChAgCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Basketball",Lipscomb vs Jacksonville
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/txHEBddPPYErnpNnCwcccnMaIzRPkRwO/delta/stream/live_ncaa_lipscomb-jacksonville-live-streaming-460242000/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Central Arkansas vs Florida Gulf Coast" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAYVEAGHgxDcQUkH2O5TBnEcbAkFPsNn0UYFSi4vy9LLLdNaYFzFRCCA.webp" group-title="StreamedSU - Basketball",Central Arkansas vs Florida Gulf Coast
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/BCFMHiMoHMysYKvkKIWXmVjpLnLhTEzV/delta/stream/live_ncaa_central-arkansas-fgcu-live-streaming-460241136/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Brentford vs Tottenham Hotspur" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Brentford vs Tottenham Hotspur
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/rzSHfyuXyQFwtRHNamYMTYepTOIuMoxA/delta/stream/live_premier-league_brentford-tottenham-live-streaming-440586432/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Sunderland vs Manchester City" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Sunderland vs Manchester City
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/fVoNbSByMRTyleZGzSQypLbUXigkdDIE/delta/stream/live_premier-league_sunderland-man-city-live-streaming-440589456/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="New York Islanders vs Utah Mammoth" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Hockey",New York Islanders vs Utah Mammoth
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/EOtOhnMeRBwHMZgJulaVDIEbpmVgsJof/delta/stream/live_nhl_islanders-mammoth-live-streaming-484831872/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ICE Hockey League: KAC vs Bolzano" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",ICE Hockey League: KAC vs Bolzano
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/lcMDeEaBnZrlbKrdYHEzQfkYannNvfzR/charlie/stream/kac-vs-hc-bolzano-1629472834/1/playlist.m3u8
+https://lb2.strmd.top/secure/TqTwvRduAUlrTJuCxqvJrgBJMbqesFoq/charlie/stream/kac-vs-hc-bolzano-1629472834/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="North Alabama vs Stetson" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEGQG0s-EIm4gpIPsdymDEU42BIKfYbPoowKlFxfl6O0W6a0wLmKiEEA.webp" group-title="StreamedSU - Basketball",North Alabama vs Stetson
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/ECcQRktBiCczQUuVfOalkCxiQpSlWlXb/delta/stream/live_ncaa_north-alabama-lions-stetson-live-streaming-460244592/1/playlist.m3u8
+https://lb4.strmd.top/secure/LxrDjZAIoCmKfyZIXCXEjXqbSUcRtpAy/delta/stream/live_ncaa_north-alabama-lions-stetson-live-streaming-460244592/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Youngstown State vs Oakland" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHzAoeYJGBIhuhkFI1mcfXCEQ4YBYHpj9hs+in1ttbfeXpZZ2ky0YB70ohBAA.webp" group-title="StreamedSU - Basketball",Youngstown State vs Oakland
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/BavOpzBmHtVWkUaptIdSCOKvjtNLEGPw/delta/stream/live_ncaa_youngstown-st-oakland-live-streaming-427198320/1/playlist.m3u8
+https://lb6.strmd.top/secure/fOBDuJMILBccfyyiMLJHeVeLKpVOvMTr/delta/stream/live_ncaa_youngstown-st-oakland-live-streaming-427198320/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Coastal Carolina vs Georgia Southern" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGBQ9cIeLBDcQUkHxM7TMHZcbAkFPsNn0NKrWzBk99LLK1NaYB5iohBAA.webp" group-title="StreamedSU - Basketball",Coastal Carolina vs Georgia Southern
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/jsQTLhmKyrepFIsHahQnTzlMGwMxPxQi/delta/stream/live_ncaa_coastal-carolina-georgia-southern-live-streaming-460240272/1/playlist.m3u8
+https://lb9.strmd.top/secure/eaRpUWJDbGEjWWNpIXQPibhNOXiXFDyQ/delta/stream/live_ncaa_coastal-carolina-georgia-southern-live-streaming-460240272/1/playlist.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Ottawa Senators vs Washington Capitals" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHq0QwJH2BgQvEFhDSQMECgs3Elxfl0UsIuYxRhVKHp-KNqct6O9GCe4mIQQA.webp" group-title="StreamedSU - Hockey",Ottawa Senators vs Washington Capitals
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -28,27 +53,17 @@ https://gg.poocloud.in/ottawasenators/index.m3u8
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/shJfaoulAkEtnHYKHtCDcnSzQXdiSzIa/delta/stream/live_ncaa_northern-kentucky-iupui-live-streaming-427195728/1/playlist.m3u8
+https://lb4.strmd.top/secure/SwCVmFaZCgafZRDNyvTVRBlQDyxxGGiw/delta/stream/live_ncaa_northern-kentucky-iupui-live-streaming-427195728/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Purdue Fort Wayne Mastodons vs Wisconsin Green Bay Phoenix" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Purdue Fort Wayne Mastodons vs Wisconsin Green Bay Phoenix
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/MKRQcFGbwlpyReDqpCUircWaKhGHHKOa/delta/stream/live_ncaa_ipfw-uwgb-live-streaming-427196160/1/playlist.m3u8
+https://lb7.strmd.top/secure/oKjEmsmWKdAIbkaaeUpYraTvNKroRuFu/delta/stream/live_ncaa_ipfw-uwgb-live-streaming-427196160/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Wright State Raiders vs Wisconsin-Milwaukee Panthers" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Wright State Raiders vs Wisconsin-Milwaukee Panthers
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/xsBNGkPMOaaPoCwsfRtNRhwJqFWHpGbl/delta/stream/live_ncaa_wright-wisconsin-milwaukee-live-streaming-427197888/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Central Arkansas Bears vs Florida Gulf Coast Eagles" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Central Arkansas Bears vs Florida Gulf Coast Eagles
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/HtGEvTVOIMIFGtOuCaZdxgWqZDzCUWus/delta/stream/live_ncaa_central-arkansas-fgcu-live-streaming-460241136/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Lipscomb Bisons vs Jacksonville Dolphins" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Lipscomb Bisons vs Jacksonville Dolphins
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/RhoYSpDfZFgwRokJkLyuGIVjHgccqbMb/delta/stream/live_ncaa_lipscomb-jacksonville-live-streaming-460242000/1/playlist.m3u8
+https://lb3.strmd.top/secure/spnYPxRTeTKZTJoVxjGkXcSuhbfOPHmM/delta/stream/live_ncaa_wright-wisconsin-milwaukee-live-streaming-427197888/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Liverpool vs Leeds United" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBqi8mABhBSQ3EHxAkQMEIhwWzG+AWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp" group-title="StreamedSU - Football",Liverpool vs Leeds United
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -63,7 +78,7 @@ https://gg.poocloud.in/pl_cry/index.m3u8
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/tpuEsMRkEBVULCdtMSCauMnlQYslWEfX/charlie/stream/sheffield-utd-vs-leicester-1386841/1/playlist.m3u8
+https://lb3.strmd.top/secure/GLBHnrPmJGeQJXFZcwfsWFewmnkwdlLN/charlie/stream/sheffield-utd-vs-leicester-1386841/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="Texas Tech vs Oregon" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbrBAakIWmC0gpIFCAgg+x0yGtmSBYEgp9hs+ijAqUXD+XpZZXkx6HmKiEEA.webp" group-title="StreamedSU - American Football",Texas Tech vs Oregon
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -73,22 +88,17 @@ https://gg.poocloud.in/ESPN/index.m3u8
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/OvGuHBnkbIlTpoLGcuELEKtwLlUfZGvv/delta/stream/live_ncaa_virginia-military-samford-live-streaming-427197456/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Joburg Super Kings vs Durban's Super Giants" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",Joburg Super Kings vs Durban's Super Giants
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/QLTIsvHGrXlMeHkDnfExiADAjsxIGFVD/charlie/stream/joburg-super-kings-vs-durbans-super-giants-1629472832/1/playlist.m3u8
+https://lb9.strmd.top/secure/imTSWZePhcGALpuCWixZKiipkIyDRenl/delta/stream/live_ncaa_virginia-military-samford-live-streaming-427197456/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Tulsa Shootout " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Tulsa Shootout 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/uRcTFHgQoyAmfTVcYYqWUIIgHewlpWaQ/echo/stream/ppv-event-02-tulsa-shootout-ppv-02/1/playlist.m3u8
+https://lb6.strmd.top/secure/bHIlJfEvMWtXMWqBCcFQpaQmROwYoJEC/echo/stream/ppv-event-02-tulsa-shootout-ppv-02/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="The Mummers Parade   " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",The Mummers Parade   
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/rhQGLGuFWsCkkteKYPZatMDrrWdDfWqc/echo/stream/ppv-event-01-the-mummers-parade-ppv-001/1/playlist.m3u8
+https://lb6.strmd.top/secure/kVGJnjMqjwrjtfUEWfdDhZCEuQEyHfol/echo/stream/ppv-event-01-the-mummers-parade-ppv-001/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="World Darts Championship" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdECBkTiCwgRg4SH4xgnbLxBT42YIj6CpEASJAkQAYy37FiFNuwpgrMOy7ACS82ELAkuXeY5XaqhnlvKLVsB87BBAA.webp" group-title="StreamedSU - Darts",World Darts Championship
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -98,4 +108,4 @@ https://gg.poocloud.in/darts/index.m3u8
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/ccnVQrXXVMoapDmwJwyBQnjpGfDGBnHC/charlie/stream/quarter-finals-1629472829/1/playlist.m3u8
+https://lb1.strmd.top/secure/aLissXiUcHbczCDCpsAAfTMfFYTkJwpx/charlie/stream/quarter-finals-1629472829/1/playlist.m3u8
