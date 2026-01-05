@@ -1,6 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="England tour of Australia: Australia vs England" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",England tour of Australia: Australia vs England
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Sydney Sixers vs Brisbane Heat" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXCClgklbAxDcQfEDAMgUIEhsOI+BYEgp3WIsSjAqUXD+XpZZXky0YB5iohBAA.webp" group-title="StreamedSU - Cricket",Sydney Sixers vs Brisbane Heat
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/vVyqslEZTbRunWQwJwzqlhMYqUKZZbPe/charlie/stream/australia-vs-england-1629472993/1/playlist.m3u8
+https://lb2.strmd.top/secure/nkgUdMTcgMLjEyjxpwJnyyDWhwhYLDLX/echo/stream/bbl-sydney-strikers-vs-brisbane-heat-cricket-002/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Men's Big Bash League: Sydney Strikers vs Brisbane Heat" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",Men's Big Bash League: Sydney Strikers vs Brisbane Heat
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/uIUAagKCTgRPZMQPwQNiuCDhuFnNYSEt/charlie/stream/sydney-sixers-vs-brisbane-heat-1629473003/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Macarthur FC vs Auckland FC" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtSFwkc0LxBYQJECZggUICOZCJz+YEgpYRcxijCqUPD+UaaxXvb0YB7iYhBAA.webp" group-title="StreamedSU - Football",Macarthur FC vs Auckland FC
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/lklidWUcusTrGAdPCXwiPROSGkehtyGQ/charlie/stream/macarthur-vs-auckland-1469655/1/playlist.m3u8
