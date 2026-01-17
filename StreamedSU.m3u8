@@ -1,26 +1,36 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Lafayette vs Holy Cross" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMMCQgQPMFOwhuIKSD6nc5oyZIgFTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Basketball",Lafayette vs Holy Cross
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Vanderbilt vs Florida" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEBoYgyKEBBDcQUkHxMhEhw8cMgCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Basketball",Vanderbilt vs Florida
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/YRxpxSddpDhYGdVjOziQQCJiYRugtVat/delta/stream/live_ncaa_lafayette-holy-cross-live-streaming-461588976/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Philadelphia Flyers vs New York Rangers" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8raWBSwwIEChDcQfEFJAw9ZyyRCIYBYEgp9hs+lpUouYMvCJZZnky0YN5iohBAA.webp" group-title="StreamedSU - Hockey",Philadelphia Flyers vs New York Rangers
+https://lb7.strmd.top/secure/eUGEjuLSFJmiTQrOZLGrCnBfOxPLIlPj/delta/stream/live_ncaa_vanderbilt-florida-live-streaming-461613168/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Horse Racing: America's Day At the Races" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Horse Racing: America's Day At the Races
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/GcGvwPtoddDuPsAQSxjxwwWQGkosHBhA/charlie/stream/new-york-rangers-vs-philadelphia-flyers-1629473617/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Illinois State Redbirds vs Bradley Braves" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Illinois State Redbirds vs Bradley Braves
+https://lb6.strmd.top/secure/UGBwrOPbXzwiLSKmvaHLGMcCcbDojTLn/charlie/stream/americas-day-at-the-races-1629473618/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Supercross: San Diego" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEFEfgMa8QMECRCIIIkFhBSQDYJxDKpyxAtkCl2OcHiLlJfUt7AywVmHZdgBbHkuFgSXAJQdLjeBU6KP9gZg1sAQihBAA.webp" group-title="StreamedSU - Motor Sports",Supercross: San Diego
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/PsBeKTlbKzzvCHqfyaNVmWnJTnNTeSJu/delta/stream/live_ncaa_illinois-state-bradley-live-streaming-461587680/1/playlist.m3u8
+https://lb10.strmd.top/secure/ZHImZIixiKODRBetyYHVyAAdDsJBFVQN/admin/stream/smx/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Utah Utes vs TCU Horned Frogs" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Utah Utes vs TCU Horned Frogs
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/LiXLhQyVoXdiMLgIBlvXtHoPsZilBEkT/delta/stream/live_ncaa_utah-utes-tcu-live-streaming-461612736/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="RB Leipzig vs Bayern Munich" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPRyaGkENxB8QJDSBgn9EXCBQFgSCn2Gz6KMCpRc35baI9NaYG5iohBAA.webp" group-title="StreamedSU - Football",RB Leipzig vs Bayern Munich
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/KkHKDlUUDMiPoWDzEpyPYYKhkCxJpncL/admin/stream/bl_rbl/1/playlist.m3u8
+https://lb5.strmd.top/secure/hbQWpjFNouPHowSSEdDRSRWFhcneVNDk/charlie/stream/rb-leipzig-vs-bayern-munchen-1388466/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Tennessee vs Kentucky" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFLBSQKYEkoIQ3DSD6nc549oggdTJBT7DZ9FGBW6278vSyzdTLRg7mKiEEA.webp" group-title="StreamedSU - Basketball",Tennessee vs Kentucky
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/EvBRbMgGDKjwmYGbUfuyoTOVjYlfNWri/delta/stream/live_ncaa_tennessee-kentucky-live-streaming-461579904/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="OKTAGON 82 (English)" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEe34TiCEoQKYPAENgJbCBjAIIEiEUBjcXOlblI5VhCDFfEfPbKywVmHZdgBbHkuFgSXKrEdrtCJPZj7EmDWClIQQA.webp" group-title="StreamedSU - Fight",OKTAGON 82 (English)
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/uxURFwzZQFqjfXNiInJlNiVIiROtyrPE/admin/stream/oktagon-en/1/playlist.m3u8
+https://lb1.strmd.top/secure/aGpFNIvjvNzmhcUEAaLWXTKDJsKoLpNv/admin/stream/oktagon-en/1/playlist.m3u8
