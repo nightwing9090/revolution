@@ -1,11 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="ICC Under-19 Cricket World Cup: Zimbabwe vs India" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",ICC Under-19 Cricket World Cup: Zimbabwe vs India
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="England tour of Sri Lanka: Sri Lanka vs England" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",England tour of Sri Lanka: Sri Lanka vs England
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/tEQdXwsXfCIfTVBZhkcrlgXTqshvjOZx/charlie/stream/zimbabwe-vs-india-1629480150/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open vs Rod Laver Arena Zverev - Tien" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",Australian Open vs Rod Laver Arena Zverev - Tien
+https://lb1.strmd.top/secure/tcTXKuISmfSLrHrdUshDHNGCaQVrcecr/charlie/stream/sri-lanka-vs-england-1629480152/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Snooker German Masters 2026 - Berlin, Germany " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Snooker German Masters 2026 - Berlin, Germany 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/ONeMbIOVlhSkicgaQMqvhFyjQEGNUupk/charlie/stream/rod-laver-arena-1629481847/1/playlist.m3u8
+https://lb4.strmd.top/secure/LnnxkZhHBcZLUElRgyIFrDazQxfzDDCS/echo/stream/snooker-german-masters-2026-berlin-germany-billar/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open vs Rod Laver Arena Gauff - Svitolina" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",Australian Open vs Rod Laver Arena Gauff - Svitolina
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/SuBPSSbTvDBvTdYZlUyMOFrgczqbyymh/charlie/stream/rod-laver-arena-1629481847/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="ICC Under-19 Cricket World Cup: Pakistan vs New Zealand" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",ICC Under-19 Cricket World Cup: Pakistan vs New Zealand
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/SpfziRevfewjHDWllssgWAvcUtZgYBkw/charlie/stream/pakistan-vs-new-zealand-1629480151/1/playlist.m3u8
