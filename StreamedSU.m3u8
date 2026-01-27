@@ -1,46 +1,86 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Portuguesa vs Guarani" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Portuguesa vs Guarani
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Edmonton Oilers vs Anaheim Ducks" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECRAyUYEFpAoQ3EH30wDIc+al6tBYEgp9hs+jpUouYMvCJZZnky0YN5iohBAA.webp" group-title="StreamedSU - Hockey",Edmonton Oilers vs Anaheim Ducks
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/wknMUzXUepuruIEdFVKdqZFZLUOiPJVa/echo/stream/portuguesa-vs-guarani-campinas-football-1500549/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Cleveland Cavaliers vs Orlando Magic" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Cleveland Cavaliers vs Orlando Magic
+https://strm.poocloud.in/secure/tsjRrGCzwjvhsglPPDulzfULhKoEVMqQ/1769470200/1769495400/edmontonoilers/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Minnesota Timberwolves vs Golden State Warriors" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Minnesota Timberwolves vs Golden State Warriors
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/uikgkVRMzZIUlgGPYgkbMzKAeXnvWaLQ/delta/stream/live_nba_cavaliers-magic-live-streaming-428953968/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Duke Blue Devils vs Louisville Cardinals" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Duke Blue Devils vs Louisville Cardinals
+https://lb10.strmd.top/secure/bUSkLNSkcqsSrXtJlbySQhINdEDQYpiq/delta/stream/live_nba_timberwolves-warriors-live-streaming-428956128/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Boston Celtics vs Portland Trail Blazers" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDBAoewGTIAMIbiD4gSW3CEQQNZrQWBIKfYbPoowK7W0-l6WWW0mWjBPMVEIIA.webp" group-title="StreamedSU - Basketball",Boston Celtics vs Portland Trail Blazers
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/jZPDrhIRjFdDGUOdbgAVNyGHgfKGsDHs/delta/stream/live_ncaa_duke-louisville-live-streaming-428969952/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Ohio State Buckeyes vs Penn St Nittany Lions" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Ohio State Buckeyes vs Penn St Nittany Lions
+https://strm.poocloud.in/secure/QmaASnioUPSLvFJFtFvfPAjKruJbWTLa/1769468400/1769492880/bostonceltics/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Chicago Bulls vs Los Angeles Lakers" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSFEDaUsHxDcQ+kiBS4QiCCBiajBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="StreamedSU - Basketball",Chicago Bulls vs Los Angeles Lakers
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/rNxrOUALbsCkzlFApXkhcxXkHTIIeiiM/delta/stream/live_ncaa_ohio-state-penn-state-live-streaming-462441312/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Columbus Blue Jackets vs Los Angeles Kings" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Hockey",Columbus Blue Jackets vs Los Angeles Kings
+https://strm.poocloud.in/secure/TXquURuTieYomzJynIcZRkzMYrwZcpGD/1769468400/1769492880/chicagobulls/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Houston Rockets vs Memphis Grizzlies" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECi4oQO3qG4g+IEhtwhEEEDGMgpBYEgp9hs+ijArNbD+XpZZmky0YB5iohBAA.webp" group-title="StreamedSU - Basketball",Houston Rockets vs Memphis Grizzlies
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/iQntxAeLRcZkvmdiSSSZctfhZmZcjkiQ/delta/stream/live_nhl_blue-jackets-kings-live-streaming-494815392/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="New York Rangers vs Boston Bruins" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Hockey",New York Rangers vs Boston Bruins
+https://strm.poocloud.in/secure/jbRawxalNohkXvaCEXNYLrZMStvguHIQ/1769468400/1769492880/houstonrockets/index.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE: Monday Night RAW" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEekEkIkQlgAlMAghOU4Ij5ZZISVn4MQClXxEKRnCepAhRggxHGsw7LsALY8wMIWBJcAY3EdLtCMD3txtvAOlhIMEkA.webp" group-title="StreamedSU - Fight",WWE: Monday Night RAW
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/fevlzigfTVcEWgqoRYULwHFMDzOIKBdD/delta/stream/live_nhl_rangers-bruins-live-streaming-494815824/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Philadelphia Flyers vs New York Islanders" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Hockey",Philadelphia Flyers vs New York Islanders
+https://strm.poocloud.in/secure/tXqHyzEWmdeAlISPKjRDFiwWFzNKTAZm/1769468400/1769493600/wrestling/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="UT Rio Grande Valley vs Texas A&M-Corpus Christi" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",UT Rio Grande Valley vs Texas A&M-Corpus Christi
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/fPCenGOWBVXliLfTsspzNrWIWUdSWhaL/delta/stream/live_nhl_flyers-islanders-live-streaming-494816256/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Tampa Bay Lightning vs Utah Mammoth" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Hockey",Tampa Bay Lightning vs Utah Mammoth
+https://lb1.strmd.top/secure/vBwnUhYMJGGkOXmbgVQIINFGWrIywLRA/delta/stream/live_ncaa_texas-am-cc-utrgv-live-streaming-428972544/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Brigham Young Cougars vs Arizona Wildcats" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Brigham Young Cougars vs Arizona Wildcats
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/rmgyfkHyPGeKvhzAwfJqgpuktdakJYMB/delta/stream/live_nhl_lightning-mammoth-live-streaming-494816688/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="South Carolina State Bulldogs vs Delaware State Hornets" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",South Carolina State Bulldogs vs Delaware State Hornets
+https://lb3.strmd.top/secure/fVqgUJFDmAykXfPSwsvLsCDnnDVmSbDd/delta/stream/live_ncaa_byu-arizona-live-streaming-462445200/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open vs Rod Laver Arena Sabalenka - Jovic" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",Australian Open vs Rod Laver Arena Sabalenka - Jovic
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/STVDCjqJcCAlZVhTUvnAgITCAyPvsOxz/delta/stream/live_ncaa_south-carolina-st-delaware-state-live-streaming-462444336/1/playlist.m3u8
+https://lb6.strmd.top/secure/NoLiRfRGEUcfNnVCdTnSIqjggMbmzKYi/charlie/stream/rod-laver-arena-1629481830/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Ohio State vs Penn State" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFA0FSQolCG4htfEMcQGDJfSBQFgSCn2Gz6KMCo1s35ellkamtGBuYqIQQA.webp" group-title="StreamedSU - Basketball",Ohio State vs Penn State
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/DWVyjWwQDgpDPqRhjBbnfnJXESEaHFmR/delta/stream/live_ncaa_ohio-state-penn-state-live-streaming-462441312/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Cleveland Cavaliers vs Orlando Magic" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKijCjCWYAAYQ3EHxAkQKXCEQQQMU7gLAkFPsNn1NKlFy3l6u0W8mWjAtMVEIIA.webp" group-title="StreamedSU - Basketball",Cleveland Cavaliers vs Orlando Magic
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://strm.poocloud.in/secure/mJBxRlWOqVNozrtPAjJKrlOWwClyLkgb/1769464800/1769489280/clevelandcavaliers/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Tampa Bay Lightning vs Utah Mammoth" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPmF5IQolGD4huIA1JAwQKM1dMhcBYEgp9hs+npUouYMvCJZZnky0YN5iohBAA.webp" group-title="StreamedSU - Hockey",Tampa Bay Lightning vs Utah Mammoth
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://strm.poocloud.in/secure/BdZNPPDwThzbSmQkchtLJKhyafPzLbkb/1769464800/1769490000/tampabaylightning/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Columbus Blue Jackets vs Los Angeles Kings" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJApcnECD4hu+jSBhbTFzQa1MkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="StreamedSU - Hockey",Columbus Blue Jackets vs Los Angeles Kings
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://strm.poocloud.in/secure/skZkplapKYCsQpsbDJqnaksfKZGgFvri/1769464800/1769490000/columbusbluejackets/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="New York Rangers vs Boston Bruins" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxBSQKEAPwbDfLSBg7TF7SBAKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="StreamedSU - Hockey",New York Rangers vs Boston Bruins
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://strm.poocloud.in/secure/MJxJFDbKZebYMwqLvXWTsxcjENekkOlQ/1769464800/1769490000/newyorkrangers/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Philadelphia Flyers vs New York Islanders" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbmD4gBhUdxD6tUkDBAoTF4yBMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="StreamedSU - Hockey",Philadelphia Flyers vs New York Islanders
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://strm.poocloud.in/secure/diydHxbZjckhQynIBpzjCyHVAeuIjFSa/1769464800/1769490000/philadelphiaflyers/index.m3u8
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open vs Margaret Court Arena Townsend/Mektic - Khromacheva/Harrison" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",Australian Open vs Margaret Court Arena Townsend/Mektic - Khromacheva/Harrison
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/qPbaYjAJkOglifULzBahseCYlryloWpy/charlie/stream/margaret-court-arena-1629481831/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Boston Common Golf vs The Bay Golf Club" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="StreamedSU - Golf",Boston Common Golf vs The Bay Golf Club
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/CuJjSZpAytHeXDivvayJXdFWXQBKflUw/echo/stream/tgl-boston-common-golf-vs-the-bay-golf-club-game-162626/1/playlist.m3u8
