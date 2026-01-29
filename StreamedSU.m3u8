@@ -1,31 +1,36 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Fenerbahce vs Anadolu Efes" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Fenerbahce vs Anadolu Efes
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="A vs KR" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECHYIGuEDBDcQfECRAoQEIwZPXGwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Basketball",A vs KR
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/kfuoIrDUNVXgrmigXccVQUVEdKwdBxss/charlie/stream/fenerbahce-beko-istanbul-vs-anadolu-efes-istanbul-1629480836/1/playlist.m3u8
+https://lb6.strmd.top/secure/smqbVLiGzWPeNoerVKehvgVJVPECzbnp/charlie/stream/al-qadisiyah-fc-vs-al-hilal-saudi-fc-1436077/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Celtic vs FC Utrecht" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Celtic vs FC Utrecht
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/XouXEBYFVzNWZbBcXoKpHXqNNzuHZwQU/delta/stream/live_uefa-europa-league_celtic-utrecht-live-streaming-441378288/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="FC Porto vs Rangers" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",FC Porto vs Rangers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/IdBclueOkZgsmvIjRxcFcudWZxhpdKsj/delta/stream/live_uefa-europa-league_porto-rangers-live-streaming-441379152/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Nottingham Forest vs Ferencvros TC" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Nottingham Forest vs Ferencvros TC
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/skJBTJwFLbVrfwnAeyTxbxZMTLklwhYt/delta/stream/live_uefa-europa-league_forest-ferencvaros-live-streaming-441382608/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Real Betis vs Feyenoord" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Real Betis vs Feyenoord
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/ClKjioxKhYrHzOBoVtWSupKIehqPEXxi/delta/stream/live_uefa-europa-league_real-betis-feyenoord-live-streaming-441383904/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Farmers Insurance Open Round 1" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCA1TYYFMCkhuIPiBIgDIEIhTncxgsCQU+w2fRRgVetp-L0ssnpMtGCeYqIQQA.webp" group-title="StreamedSU - Golf",Farmers Insurance Open Round 1
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/ERZgSGVWfxvMvsGjRiRHWnVkmelYTVsJ/echo/stream/farmers-insurance-open-pga-tour-tgl-001/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Al-Qadsiah vs Al-Hilal" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rATloAGWdxB6+IEiBM4UuEIgggpBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp" group-title="StreamedSU - Football",Al-Qadsiah vs Al-Hilal
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/AnbtiIiLCDgjVAYNRCnVqmGPYqwyxeMU/delta/stream/live_saudi-pro-league_al-qadsiah-al-hilal-live-streaming-441372672/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Pro League: Al-Qadisiyah FC vs Al-Hilal Saudi FC" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Pro League: Al-Qadisiyah FC vs Al-Hilal Saudi FC
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/CEpPEVDrZjKxbXbqvDnnrynmyDOhGlGd/charlie/stream/al-qadisiyah-fc-vs-al-hilal-saudi-fc-1436077/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Fiorentina W vs AC Milan W" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Fiorentina W vs AC Milan W
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/brfpLUYreZxdseyqtKsAcsLAZcDdTggU/charlie/stream/fiorentina-w-vs-ac-milan-w-1629480957/1/playlist.m3u8
+https://lb8.strmd.top/secure/haaIDqtiGAVomcowXzTCIcNCenXxXhau/echo/stream/farmers-insurance-open-pga-tour-tgl-001/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="PGA Tour: Farmers Insurance Open: Main Feed (First Round)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="StreamedSU - Golf",PGA Tour: Farmers Insurance Open: Main Feed (First Round)
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/YPVGYkpFfndydINoYBLROotHrdmQvLbr/charlie/stream/farmers-insurance-open-main-feed-first-round-1629480832/1/playlist.m3u8
+https://lb6.strmd.top/secure/nvboxMrzwHmvzeKWCxUbIFwkXkdusAVO/charlie/stream/farmers-insurance-open-main-feed-first-round-1629480832/1/playlist.m3u8
