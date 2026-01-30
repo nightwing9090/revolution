@@ -1,81 +1,41 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="KK Crvena zvezda vs Dubai Basketball" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENzAg61bhv18QUkIcTGQuIyYLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="StreamedSU - Basketball",KK Crvena zvezda vs Dubai Basketball
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/WITVXkiWuItYlHVxoOvteOLPyDDFwGmI/echo/stream/crvena-zvezda-vs-dubai-basketball-454525/2/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="NAC Breda vs Twente" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPSTNsIGdxD6+IEiBgbTIIxBApLBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="StreamedSU - Football",NAC Breda vs Twente
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/BeCEGzpgCJLjouHXXrVHyMzBRqWofebw/echo/stream/nac-breda-vs-twente-football-1381052/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Clermont Foot vs Stade de Reims" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFLAgxJEAPXc9IXRCM4puI-ALAkFPsNn0UYFSi6vy9LLPdNaYK46dEA.webp" group-title="StreamedSU - Football",Clermont Foot vs Stade de Reims
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/iNhLDJvanaYfQRQqgCDFBOVccJwQbXNl/charlie/stream/clermont-foot-vs-reims-1389302/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Al-Hilal Omdurman vs Mamelodi Sundowns" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXCBChc4kNxBSQfAyBggSICCeMSmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="StreamedSU - Football",Al-Hilal Omdurman vs Mamelodi Sundowns
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/DhhEaVevNhRcxwxuvZSdMQGVpcWbyoiw/charlie/stream/al-hilal-omdurman-vs-mamelodi-sundowns-1485439/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="Day 2" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title="StreamedSU - Darts",Day 2
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/UtBYZLzykhmmppBsObykMPXkEswQzxDb/charlie/stream/day-2-1629480895/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="AS Monaco Basket vs Virtus Pallacanestro Bologna" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUbXhgk-HiG4g+IKYZCITIXMZAkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Basketball",AS Monaco Basket vs Virtus Pallacanestro Bologna
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/WzVHVJLtxkJNEToKrSDkmfyQunobzXhA/echo/stream/monaco-vs-virtus-bologna-basketball-454524/1/playlist.m3u8
+https://lb3.strmd.top/secure/oknGcWJsLkFXvkdvQwFmpTfbZbfOFVKF/echo/stream/monaco-vs-virtus-bologna-basketball-454524/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Euroleague: AS Monaco Basketball vs Virtus Bologna" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Euroleague: AS Monaco Basketball vs Virtus Bologna
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/FKORTBRDSJZZdaDzrnbmPIFqaexbRFyJ/charlie/stream/as-monaco-basketball-vs-virtus-bologna-1629480893/1/playlist.m3u8
+https://lb10.strmd.top/secure/aPkbYQNXbZvBGurBAeVttEVylKynYEnx/charlie/stream/as-monaco-basketball-vs-virtus-bologna-1629480893/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Havelse vs Erzgebirge Aue" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Havelse vs Erzgebirge Aue
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/BHerysCFlZaCcjpzgoGUgIyVZWMniIPw/echo/stream/havelse-vs-erzgebirge-aue-football-1394269/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Farmers Insurance Open Round 2" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCA1TYYFMCkhuIPiBIgDIEIhTncxgsCQU+w2fRRgVetp-L0ssnpMtGCeYqIQQA.webp" group-title="StreamedSU - Golf",Farmers Insurance Open Round 2
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/aKzJWAMPREYzKFybLhSWOcGaficZMYwH/echo/stream/farmers-insurance-open-pga-tour-tgl-001/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="GKS Katowice vs Unia Owicim" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGwQgSIXiF0g+2kDBCIIZw1akFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="StreamedSU - Hockey",GKS Katowice vs Unia Owicim
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/vRdheVBwYieKjXvgRwKqgvNxIpWNXxHM/charlie/stream/zaglebie-lubin-vs-gks-katowice-1380554/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="FC Nrnberg vs Preuen Mnster" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbmBQg+YGaC3dtIEiAggYp3EZC4CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Football",FC Nrnberg vs Preuen Mnster
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/gZvxdaWyvarLayxqiewLqWszJUbdYESJ/echo/stream/1-fc-nurnberg-vs-preussen-munster-football-1388792/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Magdeburg vs Hannover" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOFJB8wAgWBDctIEiAggYp3Eb4gQBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="StreamedSU - Football",Magdeburg vs Hannover
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/ABSZmzdaGqIXQsdCKcbWzRujdBJloYPp/charlie/stream/1-fc-magdeburg-vs-hannover-96-1388791/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Al-Kholood vs Al-Nassr" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNkjAowUkHy0huekCRBmcKXCES6QBYJpj9hs+tpUouYMvCJZZnky0YN5iohBAA.webp" group-title="StreamedSU - Football",Al-Kholood vs Al-Nassr
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/NNapVEyhTqNhtdnJIZnEyfXOtYYtbXWP/charlie/stream/al-kholood-vs-al-nassr-1436083/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="2. Bundesliga: 1. FC Nurnberg vs Preuen Munster" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",2. Bundesliga: 1. FC Nurnberg vs Preuen Munster
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/icjEotUysUkBGzsGUkIsEOKcpUXslzCu/charlie/stream/1-fc-nurnberg-vs-preussen-munster-1388792/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Carl Zeiss Jena  W vs Bayern Munich W" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Carl Zeiss Jena  W vs Bayern Munich W
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/URttdHmDFOKtVFroSMdePORxKoKCzaQS/echo/stream/carl-zeiss-jena-w-vs-bayern-munich-w-football-1401317/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Antalyaspor vs Trabzonspor" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNjKzAwIKTpDcQfECRARdZk7hAwjBYEgp9hs+ijAqUXD+XpbRXky0YB5iohBAA.webp" group-title="StreamedSU - Football",Antalyaspor vs Trabzonspor
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/QHfzroWMIHzcvOtqOgoqePCwKUTvJZOE/charlie/stream/antalyaspor-vs-trabzonspor-1394605/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Kasmpaa vs Samsunspor" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJJwFUQOkNxB8QJEBBBSTR3Bb4FgSCjdYixKMCpRc35ellkemtGBuYqIQQA.webp" group-title="StreamedSU - Football",Kasmpaa vs Samsunspor
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/TtfhcwmgiuuVRiZhgPcSTKQIRZZDSrrQ/echo/stream/kasimpasa-vs-samsunspor-football-1394611/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE: Friday Night Smackdown" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOTdxAYxCCsIGME4gSg4CWCJEKEMOG8GIRPUUixs6SAWTBfbBLUpgrMOy7AC2POcLAkuPmY6XaEbezO345y2AvdgggA.webp" group-title="StreamedSU - Fight",WWE: Friday Night Smackdown
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/PaaOSAFcYNsDTaSBJvgINqtEVFSQRapQ/admin/stream/ppv-wwe-friday-night-smackdown/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="PGA Tour: Farmers Insurance Open: Main Feed (Second Round)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="StreamedSU - Golf",PGA Tour: Farmers Insurance Open: Main Feed (Second Round)
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/EuvjUxnexLpZhiwLfMjoyWrVqyCrTgig/charlie/stream/farmers-insurance-open-main-feed-second-round-1629480892/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="England tour of Sri Lanka: Sri Lanka vs England" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",England tour of Sri Lanka: Sri Lanka vs England
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/KfmVSMJMmQJXpObGBzNExzuuIhRMJuej/charlie/stream/sri-lanka-vs-england-1629480887/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="ONE Friday Fights 140 Kongchai vs Thway Lin Htet" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdihCyojfMGkheILFpCaTJkiCsRjLJBSwi5jFGFUoe78o2pzPevRg7uJiEEA.webp" group-title="StreamedSU - Fight",ONE Friday Fights 140 Kongchai vs Thway Lin Htet
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/puEVeWJfZYcjGYiXEINLmZaDuXGFveXb/echo/stream/ppv-event-01-one-friday-fights-140-kongchai-v-lin-htet-ppv-001/1/playlist.m3u8
+https://lb2.strmd.top/secure/CmPrEXsDyHXzFBNXeBDtynXeSgVIdQCM/echo/stream/havelse-vs-erzgebirge-aue-football-1394269/1/playlist.m3u8
