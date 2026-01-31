@@ -1,21 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="World Rugby Sevens Series: Singapore Day 1: Session 3" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true" group-title="StreamedSU - American Football",World Rugby Sevens Series: Singapore Day 1: Session 3
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Felgueiras vs Chaves" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Felgueiras vs Chaves
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/BZYaHgPAqRgvcvgUcnFZLiVhmZWowUMj/charlie/stream/singapore-day-1-session-3-1629480934/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Sydney FC vs Western Sydney Wanderers" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWlBIhwIYGBDcQfEFu0wQKEBAsGQ8AsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="StreamedSU - Football",Sydney FC vs Western Sydney Wanderers
+https://lb2.strmd.top/secure/RldAtcczfkNvsRbyVMbHGpQznSxZXKQb/charlie/stream/felgueiras-1932-vs-chaves-1398143/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Primera Divisin Femenina: Atletico Madrid W vs Granada" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Primera Divisin Femenina: Atletico Madrid W vs Granada
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/jFrYtLgelXPZEIvEGndnngvQzsFsHwbf/charlie/stream/sydney-vs-western-sydney-wanderers-1469643/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="ICC Under-19 Cricket World Cup: Bangladesh vs Zimbabwe" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",ICC Under-19 Cricket World Cup: Bangladesh vs Zimbabwe
+https://lb5.strmd.top/secure/ShGyRSQEEwvXfPdjOTDLzMZcubEknIfn/charlie/stream/atletico-madrid-w-vs-granada-1397194/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Frauen Bundesliga: Bayer Leverkusen W vs Nurnberg" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Frauen Bundesliga: Bayer Leverkusen W vs Nurnberg
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/rfiIVnFUJrZivNrlCnpgRiXrECYFrGKt/charlie/stream/bangladesh-vs-zimbabwe-1629480933/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="United Arab Emirates vs Ireland" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",United Arab Emirates vs Ireland
+https://lb5.strmd.top/secure/GYYktgzroFuGWqXxrfmbtfuaiVFKeqMl/charlie/stream/bayer-leverkusen-w-vs-nurnberg-1401314/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Bayer Leverkusen W vs Nrnberg" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Bayer Leverkusen W vs Nrnberg
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/MFqrFOSEubLbZTbGcwjnEdXeLjeqhBnX/charlie/stream/united-arab-emirates-vs-ireland-1629480932/1/playlist.m3u8
+https://lb1.strmd.top/secure/eAOPCryMJFfKErICTrrltpeXbbuMAzGO/echo/stream/bayer-leverkusen-w-vs-nurnberg-football-1401314/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Perth Glory vs Auckland FC" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VcDBB8wSQShDctIEiFOb9EEPsN8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Football",Perth Glory vs Auckland FC
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/uDGqkfPNvxuiCBivXoIvDNmNrKvmlPXj/charlie/stream/perth-glory-vs-auckland-1469644/1/playlist.m3u8
