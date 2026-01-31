@@ -1,66 +1,76 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Newcastle Jets vs Brisbane Roar" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJC0sYGapDcQfECRBmYIFCAiWDIGAWBIKfYbPoowKlFy-l6WLI+TLRgXmKiEEA.webp" group-title="StreamedSU - Football",Newcastle Jets vs Brisbane Roar
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/RyNLHAkUbtoJysVOXTZsyoJcYwSfoEhq/charlie/stream/newcastle-jets-vs-brisbane-roar-1469642/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="A-League Women: Sydney FC W vs Western Sydney Wanderers W" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",A-League Women: Sydney FC W vs Western Sydney Wanderers W
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/hlJFCjijAjQEiomGgblBKKsXZsHqOpvx/charlie/stream/sydney-fc-w-vs-western-sydney-wanderers-w-1484544/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="United Arab Emirates vs Ireland" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",United Arab Emirates vs Ireland
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/lRnbVlLIUkNQgntiwAIMVfyZKUymtFwW/charlie/stream/united-arab-emirates-vs-ireland-1629480932/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="World Rugby Sevens Series: Singapore Day 1: Session 2" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true" group-title="StreamedSU - American Football",World Rugby Sevens Series: Singapore Day 1: Session 2
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/kySylPRlOAeGcUZNnOTnCrSEIXaMmPtv/charlie/stream/singapore-day-1-session-2-1629480930/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Super Smash: Northern Districts vs Canterbury" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",Super Smash: Northern Districts vs Canterbury
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/EoUFmLjEwnHNzvVlryjEmyVYDaWhmHmQ/charlie/stream/northern-districts-vs-canterbury-1629480931/1/playlist.m3u8
+https://lb3.strmd.top/secure/WiXYcsRLMerQUCZBCXBlPtGzlDvroMsX/charlie/stream/northern-districts-vs-canterbury-1629480931/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="House of Glory City of Angels" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",House of Glory City of Angels
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/LeSmJaYlPTxwSAmwvjcyMfpymkoYuTia/echo/stream/ppv-event-08-house-of-glory-city-of-angels-ppv-08/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="FC Juarez vs Cruz Azul" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXn1i4w3MEhDcQUkCRMg+RkDAOWQBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="StreamedSU - Football",FC Juarez vs Cruz Azul
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/vPeKhYWFxhvJBXKyxTGXRJXwCrzxnTYP/charlie/stream/fc-juarez-vs-cruz-azul-1492491/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Golden State Warriors vs Detroit Pistons" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGDIxgABmZg+IbiEMkQKXCEQQjtkgWBIKfYbPopNbFF03l6WWW8mWjBPelEIIA.webp" group-title="StreamedSU - Basketball",Golden State Warriors vs Detroit Pistons
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://strm.poocloud.in/secure/flmTZvrcYDYuKNeljLGkzhUkinuCvEnH/1769821200/1769845680/goldenstatewarriors/index.m3u8
+https://lb1.strmd.top/secure/vMOPZxDmvlJiEJwBOeuOGbCKiXRkDtqS/echo/stream/ppv-event-08-house-of-glory-city-of-angels-ppv-08/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="TFNF Night of Champions VII" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",TFNF Night of Champions VII
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/mqcLMOtBIwBWhHmuKdWnAkSjuLRSsrsj/echo/stream/ppv-event-07-tfnf-night-of-champions-vii-ppv-07/1/playlist.m3u8
+https://lb3.strmd.top/secure/PfuvOwbijMnJoMDzHoHxFjfWLPgBmvWx/echo/stream/ppv-event-07-tfnf-night-of-champions-vii-ppv-07/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="CMLL International Weekend" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",CMLL International Weekend
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/desnbCtLtsZFrrambCJJmsxxSYLdVDgC/echo/stream/ppv-event-06-cmll-international-weekend-ppv-06/1/playlist.m3u8
+https://lb2.strmd.top/secure/caaLhJLMHtZaWgxHuEPtyFJZZquKavZu/echo/stream/ppv-event-06-cmll-international-weekend-ppv-06/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Fury FC 114" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Fury FC 114
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/cIdEDxvWiuDmNUwWvSYmKmvTRhUZBUJW/echo/stream/ppv-event-05-fury-fc-114-ppv-05/1/playlist.m3u8
+https://lb1.strmd.top/secure/eSUgvioLTnnCruWuQpOKuZKdBGZMJwxP/echo/stream/ppv-event-05-fury-fc-114-ppv-05/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Women's & Men's Doubles Championships" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",Australian Open: Women's & Men's Doubles Championships
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/nLtowRkCqGdCIONToKsKTJTGpbqdCgOQ/charlie/stream/womens-and-mens-doubles-championships-1629480917/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="DBX 5 Clark v Bittencourt  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",DBX 5 Clark v Bittencourt  
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/OpbMBStaOgmVyibyjVoZcYdPjTIXErBA/echo/stream/ppv-event-04-dbx-5-clark-v-bittencourt-ppv-004/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Australian Open | Women's Doubles Final - Melbourne Park" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Australian Open | Women's Doubles Final - Melbourne Park
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/fepEdaOLQQJswmQdXgSQOaetOQLixgyi/echo/stream/australian-open-womens-doubles-final-melbourne-park-game-183262/1/playlist.m3u8
+https://lb3.strmd.top/secure/uwdjHMDOJVICZRltUhZTgGvXnMeKnwaS/charlie/stream/womens-and-mens-doubles-championships-1629480917/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE: Friday Night Smackdown " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",WWE: Friday Night Smackdown 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/UQNrlMfHHVRDduekHvKytdbzPaWTTVRu/echo/stream/wwe-friday-night-smackdown-wwe-009/1/playlist.m3u8
+https://lb1.strmd.top/secure/TWZpuWvHeSeiLefFuhjwGIKRpsUoHcwG/echo/stream/wwe-friday-night-smackdown-wwe-009/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="DBX 5 Clark v Bittencourt  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",DBX 5 Clark v Bittencourt  
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/lADOqgDwrIutGTblHfcuszATsdbDpiPR/echo/stream/ppv-event-04-dbx-5-clark-v-bittencourt-ppv-004/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Australian Open | Women's Doubles Final - Melbourne Park" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Australian Open | Women's Doubles Final - Melbourne Park
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/iBhAOcSnlXUZnkWVpoGQUaEgyskYcIru/echo/stream/australian-open-womens-doubles-final-melbourne-park-game-183262/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Urijah Fabres A1 Combat 33 " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Urijah Fabres A1 Combat 33 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/ksUFLlNSJkPZgAgGEexzFOSEIWScaHxy/echo/stream/ppv-event-03-urijah-fabres-a1-combat-33-ppv-03/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Bryan Flores vs Starling Wilson Castillo" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",Bryan Flores vs Starling Wilson Castillo
+https://lb1.strmd.top/secure/KFdaKGwevbrqGQIdEVqRoSyxidUDUmke/echo/stream/ppv-event-03-urijah-fabres-a1-combat-33-ppv-03/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name=" Flores v Castillo " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other", Flores v Castillo 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/IRprfBZeRCkmGMdjXpgZppRkEtyjSVWm/echo/stream/ppv-event-02-flores-v-castillo-ppv-02/1/playlist.m3u8
+https://lb9.strmd.top/secure/YZYuudWdIhYFKDHllAYQFEMpheOfthRQ/echo/stream/ppv-event-02-flores-v-castillo-ppv-02/1/playlist.m3u8
