@@ -1,36 +1,61 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Al-Hilal vs Al-Ahli" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDDYha9JqG4g+IEiFM4UubSAt8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Football",Al-Hilal vs Al-Ahli
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Internacional de Bogot vs Deportes Tolima" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEHSQiHGV4gDWENpQmQZgyBAQQJFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="StreamedSU - Football",Internacional de Bogot vs Deportes Tolima
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/wIHkPIAbbmAgZZcilTHUvDJLbQeIVPsm/delta/stream/live_saudi-pro-league_al-hilal-al-ahli-live-streaming-441561888/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Kocaelispor vs Fenerbahe" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNqzChYICCG4g+IErpBTTJnCYlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="StreamedSU - Football",Kocaelispor vs Fenerbahe
+https://lb5.strmd.top/secure/ziGuDWHigxfOmuEQnfFHmWumWkyPkVke/echo/stream/internacional-de-bogota-vs-deportes-tolima-football-1505964/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Indiana Pacers vs Houston Rockets" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Indiana Pacers vs Houston Rockets
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/UOxhrqvsYgfmPEchWtmiIzDjQykHYolS/echo/stream/kocaelispor-vs-fenerbahce-football-1394612/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Serie A Women: Fiorentina W vs Napoli W" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Serie A Women: Fiorentina W vs Napoli W
+https://lb6.strmd.top/secure/HHbPeSLpNCxcVTbGDXpczhsmGSrBbfmv/delta/stream/live_nba_pacers-rockets-live-streaming-429445152/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Lamar Cardinals vs Southeastern Louisiana Lions" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Lamar Cardinals vs Southeastern Louisiana Lions
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/DDZTbkFMoLphSUVDrnGJmuWDYrnbZVwt/charlie/stream/fiorentina-w-vs-napoli-w-1479718/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Sper Lig: Kocaelispor vs Fenerbahce" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Sper Lig: Kocaelispor vs Fenerbahce
+https://lb5.strmd.top/secure/wNRxvBqbinIzbxtfSkGvQYQLhxPLjBva/delta/stream/live_ncaa_lamar-se-louisiana-live-streaming-429457680/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="North Carolina Tar Heels vs Syracuse Orange" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",North Carolina Tar Heels vs Syracuse Orange
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/KwFYoZjPGOUGuHnUkEVtsWtNyGolBqdH/charlie/stream/kocaelispor-vs-fenerbahce-1394612/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Frauen Bundesliga: VfL Wolfsburg W vs FC Koln W" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Frauen Bundesliga: VfL Wolfsburg W vs FC Koln W
+https://lb4.strmd.top/secure/JgluVMPMdrQzMfFqaKMXXvufoCGlfkxf/delta/stream/live_ncaa_north-carolina-syracuse-live-streaming-429458112/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Holy Cross Crusaders vs Boston University Terriers" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Holy Cross Crusaders vs Boston University Terriers
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/TMhwbvhpJNAiBOMOaqtKhclUcdYYmFVm/charlie/stream/vfl-wolfsburg-w-vs-fc-koln-w-1401320/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="ATP 250: ATP Montpellier" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",ATP 250: ATP Montpellier
+https://lb7.strmd.top/secure/VMGuhfSCzZyXGeRjKhVlBnMoNXuteQfd/delta/stream/live_ncaa_holy-cross-boston-uni-live-streaming-463029696/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Florida Panthers vs Buffalo Sabres" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Hockey",Florida Panthers vs Buffalo Sabres
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/bXHuYIQcHTrbGMGnvtcfwckCdXOcLnrh/charlie/stream/atp-montpellier-1629481044/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Al-Riyadh vs Al-Nassr" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNCG4gUIGHTA6tfECRBmcOnInMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="StreamedSU - Football",Al-Riyadh vs Al-Nassr
+https://lb6.strmd.top/secure/GwXySOyPbBjVAjVursHTJjQKPPLmUxyK/delta/stream/live_nhl_panthers-sabres-live-streaming-497488176/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Pittsburgh Penguins vs Ottawa Senators" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Hockey",Pittsburgh Penguins vs Ottawa Senators
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/IQgBOicTmQuvJiPryTcHPlpeSCZpKrzJ/charlie/stream/al-riyadh-vs-al-nassr-1436087/1/playlist.m3u8
+https://lb10.strmd.top/secure/DeAfGPxPZHCgpCdrXUBReqoZPhCvxFdO/delta/stream/live_nhl_penguins-senators-live-streaming-497488608/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Washington Capitals vs New York Islanders" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Hockey",Washington Capitals vs New York Islanders
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/pJWrlWqvkFhzKbdqntOfZoADMKrCMQqI/delta/stream/live_nhl_capitals-islanders-live-streaming-497489040/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Defensa y Justicia vs Estudiantes de La Plata" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmBAx5YFOJIheILCGkgUp4yAMnqIRfmBIKWEXMYowqvRy-lG1HJ6jvRgXvoMQA.webp" group-title="StreamedSU - Football",Defensa y Justicia vs Estudiantes de La Plata
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/MmKlmhsNHcUaviCMHlLixfUgmXIxLvyW/echo/stream/defensa-y-justicia-vs-estudiantes-lp-football-1491853/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Tigre vs Racing Club" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrOkhqlEDhgheekFpQnjJY1kMskFLCLmMUYVSh6vyjHWPf5WwGCu4mIQQA.webp" group-title="StreamedSU - Football",Tigre vs Racing Club
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/EZxURNeOGzYivLwBbUXLkBhKKiwTWCVu/charlie/stream/tigre-vs-racing-club-1491861/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Rosario Open: Day 2" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",Rosario Open: Day 2
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/KJjioLllozVBzXvVXlaVNDxriMvPBiAe/charlie/stream/day-2-1629482354/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="North Carolina Central Eagles vs Maryland Eastern Shore Hawks" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",North Carolina Central Eagles vs Maryland Eastern Shore Hawks
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/HlDYCxYuXBftrEvsPwNAGWlCnvVWoQks/delta/stream/live_ncaa_nc-central-maryland-eastern-live-streaming-497525760/1/playlist.m3u8
