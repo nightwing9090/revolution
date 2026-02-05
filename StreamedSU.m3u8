@@ -1,36 +1,51 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Bahia vs Fluminense" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCAgg2oMLKwheIA9JAoQpkCGraQJOyyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="StreamedSU - Football",Bahia vs Fluminense
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/KzgbJQPCmFocfyTOvfWrPGBxMVbWibNB/echo/stream/bahia-vs-fluminense-football-1492121/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Deportivo Riestra vs Deportivo Maip" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkhDVWwMHwQheILCGkgUICKfOGQMEPBZIKWEXMYowqlDy-lG2mI++DpgXuJiEEA.webp" group-title="StreamedSU - Football",Deportivo Riestra vs Deportivo Maip
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/tYEcupbPvydatAEAjFccMhBGslfbmJEz/echo/stream/deportivo-riestra-vs-deportivo-maipu-football-1503666/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Bryant Bulldogs vs Albany Great Danes" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Bryant Bulldogs vs Albany Great Danes
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/YRAAyfNJBkyLsQnpfhbbCOnevrfivxSy/delta/stream/live_ncaa_bryant-albany-ny-live-streaming-429550560/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Maine Black Bears vs Vermont Catamounts" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Maine Black Bears vs Vermont Catamounts
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/NuzCiWYQxkZVHUXHlsSwoxgLSufcjwRK/delta/stream/live_ncaa_maine-vermont-live-streaming-429554880/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Maryland Baltimore County Retrievers vs Binghamton Bearcats" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Maryland Baltimore County Retrievers vs Binghamton Bearcats
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/KkXlWXbqCQBCGpADfuFHJCugnZiBbUOQ/delta/stream/live_ncaa_maryland-baltimore-binghamton-live-streaming-429556176/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name=" International 500  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other", International 500  
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/UfgExcuXEuAnWovxZgFCeQHpwcMTDmEA/echo/stream/ppv-event-02-international-500-ppv-02/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Sporting CP vs AVS" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlhCIoSVgxC8Qm6SFOITKENS0GWSClhFzGKMKpQ835RtTkf8emBu4mIQQA.webp" group-title="StreamedSU - Football",Sporting CP vs AVS
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/kZqTkcusEBNzLMACyQODspEbNULypgfw/echo/stream/sporting-cp-vs-avs-football-1494404/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Accrington Stanley vs Salford City" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOOHCIQIKSG4g+IErhAQdFoyakFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="StreamedSU - Football",Accrington Stanley vs Salford City
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/MNJzGoEEJzAyCPZpRHITNUFFWhATIlpx/delta/stream/live_league-two_accrington-salford-live-streaming-441704448/1/playlist.m3u8
+https://lb5.strmd.top/secure/AYVHzsnDUhRmVvVqmPkOUILwSJFmaMON/echo/stream/sporting-cp-vs-avs-football-1494404/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Real Betis vs Atltico Madrid" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOTTkEBviBLAI2EChEhevFFLlYQiAMbBEEEPXEh1SjduwNgJcUYEwJrMOy7ACBi4WBJcSiRyu1RnQxLvxgYFYihhBAA.webp" group-title="StreamedSU - Football",Real Betis vs Atltico Madrid
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://kolkata.poocloud.in/secure/LQrWYrTOLTYqUsdIkUAxkpDEqAqAoGcf/1770310800/1770337800/esp_bet/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Strasbourg vs Monaco" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKquAAGDgg4heILEZAwD5w8YghF+YEgpYRcxijCqUPd+UbU5nu3owd3ExCCA.webp" group-title="StreamedSU - Football",Strasbourg vs Monaco
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/ppnpSzdtBQLAVAIfeZIATBoFKxRfYQhl/delta/stream/live_coupe-de-france_strasbourg-as-monaco-live-streaming-500284944/1/playlist.m3u8
+https://kolkata.poocloud.in/secure/tFAdGSDxMpSXTHKmWwAabavBNpLsDaqp/1770310800/1770337800/esp_bet/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Atalanta vs. Juventus" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEGbEEMAggAxsHjBOvEBEkgU8+f0GIp9EO07AS27HJ2IJw2VvX0UwVmHZdgBPRbCFgSXCIsdrtEwzx3xltZCvhBAA.webp" group-title="StreamedSU - Football",Atalanta vs. Juventus
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://kolkata.poocloud.in/secure/TGlbOjvwOzXbJYOcOnZszQqZCYHGPRXV/1770310800/1770337800/ita_ata/index.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Paris vs Fenerbahce" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Paris vs Fenerbahce
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/mTZQKvvJJOpSbLzZZHCvlcNKxwMhpwyv/echo/stream/paris-vs-fenerbahce-basketball-454542/1/playlist.m3u8
+https://kolkata.poocloud.in/secure/ibuLzYLyMRjSGOkJObjbQSXHLsPvvFjL/1770310800/1770337800/ita_ata/index.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Premier League Darts: Newcastle " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Premier League Darts: Newcastle 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/nMZKJPUlNIBCMjWNNjPXqRtRQvbPrLMh/echo/stream/premier-league-darts-newcastle-darts-1/1/playlist.m3u8
+https://lb10.strmd.top/secure/GlXjqhwXhEfaUKvKVvAlHriXhllKwbGD/echo/stream/premier-league-darts-newcastle-darts-1/1/playlist.m3u8
