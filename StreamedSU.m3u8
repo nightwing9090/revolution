@@ -1,76 +1,41 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Davidson Wildcats vs Loyola Chicago Ramblers" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Davidson Wildcats vs Loyola Chicago Ramblers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/wxudABUGCzQVGPHBEbMFChygawdlWtmZ/delta/stream/live_ncaa_davidson-loyola-chicago-live-streaming-463256064/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="wXw: We Love Wrestling 72" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",wXw: We Love Wrestling 72
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/uXKyLngDHGJLZgVQicDgUaaTtLHnEheZ/echo/stream/ppv-event-03-wxw-we-love-wrestling-ppv-03/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Chaves vs Penafiel" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELRwowUhCD4huIKbhBmzJUyaPwCwJBT7DZ9bSpRcwZeESyyPTLRgXmKiEEA.webp" group-title="StreamedSU - Football",Chaves vs Penafiel
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/bvjJBHFPiYykoVIggfvNUCyGgrLxVTVT/echo/stream/chaves-vs-penafiel-football-1398149/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Charlton Athletic vs Queens Park Rangers" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFPxACSW2CG5aQOnDpggziPvoLAkFPsNn0UYFRravy9LLI1NaYK5iohBAA.webp" group-title="StreamedSU - Football",Charlton Athletic vs Queens Park Rangers
+https://lb3.strmd.top/secure/tEujeYRJqfFCFZotRensePRYjAUyWcOw/echo/stream/chaves-vs-penafiel-football-1398149/2/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Charlton vs QPR" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Charlton vs QPR
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/MqVGIbcBIqNPhKWdchHTzbYMbTixwgPN/delta/stream/live_championship_charlton-qpr-live-streaming-441682416/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Championship: Charlton vs QPR" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Championship: Charlton vs QPR
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/ujMFUpzGqUTlMLUgeHvkYgrOwXbVWIzB/echo/stream/charlton-vs-qpr-football-1386912/1/playlist.m3u8
+https://lb8.strmd.top/secure/mSCvJWkgzNMQvDzsStUMssmTubNDmsbL/echo/stream/charlton-vs-qpr-football-1386912/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Leeds United vs Nottingham Forest" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rYGBDsQKEPTQhuIPiBIgYIRDgsnEJAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="StreamedSU - Football",Leeds United vs Nottingham Forest
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://kolkata.poocloud.in/secure/edOCJWTAsRCBaspuSvvIZJMqiRiJFRBX/1770397200/1770424200/pl_lee/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Celta Vigo vs Osasuna" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMCBQ86CUCG4g+IEvpARjIGLktmCwJBT7DZ9FGBVa278vSyytTLRg7mKiEEA.webp" group-title="StreamedSU - Football",Celta Vigo vs Osasuna
+https://kolkata.poocloud.in/secure/hBPClkdxVAsTgeRLdujSuiARNrGpBLJK/1770397200/1770424200/pl_lee/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Airdrie United vs ST Mirren" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Airdrie United vs ST Mirren
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://kolkata.poocloud.in/secure/mAabkPQJZEnlgVDwhJXzoyzKvirOfALZ/1770397200/1770424200/laligatv/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Derry City vs Sligo Rovers" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAd1iQQ3HXr4gphkBBCIQF3CBgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="StreamedSU - Football",Derry City vs Sligo Rovers
+https://lb10.strmd.top/secure/QsamMXLkBHMXNNGNfeeDTEQFbNqEkwCw/echo/stream/airdrie-united-vs-st-mirren-game-252/2/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Winter Olympics Opening Ceremony" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Winter Olympics Opening Ceremony
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/OkVTUvrNtpetwdvhOsEfIGAXGvoKiSND/echo/stream/derry-city-vs-sligo-rovers-football-1492616/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Waterford vs Shelbourne" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAy5gUsHzBSQfEN0MgDBiCEQgbuXAWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp" group-title="StreamedSU - Football",Waterford vs Shelbourne
+https://lb4.strmd.top/secure/eFfdnXDyUUhSyCgTeRevPrOPhbmWjyPL/echo/stream/winter-olympics-milano-cortina-opening-ceremony-game-1562822/2/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="ACA 200 Gasanov vs Tumenov" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",ACA 200 Gasanov vs Tumenov
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/VeVLArobfoIdRMZzsKNgbFVmrKJCKQMc/echo/stream/waterford-vs-shelbourne-football-1492618/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Galway United vs Drogheda United" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEInhgBrLMCkhuIPiAMGIGkFas4JTJBT7DZ9FGBUou78vT2jPTLRg7mKiEEA.webp" group-title="StreamedSU - Football",Galway United vs Drogheda United
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/rWHauFUTTVqeZCyZMiQGvbMwQNhUCZNK/echo/stream/galway-united-vs-drogheda-united-football-1492617/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Metz vs Lille" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENwSkNYURA0g+IEiH0gQMcyCkWQ8AsCQU+w2fRS62KLrvL0sst5MtGCe9HpAA.webp" group-title="StreamedSU - Football",Metz vs Lille
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://kolkata.poocloud.in/secure/JaToZOxsExIcUZGkTGTkTNwrTdLqJwbX/1770396300/1770423300/l1_metz/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Hellas Verona vs Pisa" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELSQMw3EDDohdfECRMgUGkBBBSQxmAWBIKfYbPoowKlFy-l6WLI+TLRgXmKiEEA.webp" group-title="StreamedSU - Football",Hellas Verona vs Pisa
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://kolkata.poocloud.in/secure/ErbSNWxdMWgVSetENiSXddmtOWLcogka/1770396300/1770423300/sa_ver/index.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Baskonia vs FC Barcelona Basquet" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUDJSVBIENxB8QUgyETHdiGLgLAkFPsNn0UYFVravy9LLK1NaYK5iohBAA.webp" group-title="StreamedSU - Basketball",Baskonia vs FC Barcelona Basquet
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/ZxgyEurnjotpTUcLeGvnhvmlVrAxETHx/echo/stream/baskonia-vs-barcelona-basketball-454547/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Union Berlin vs Eintracht Frankfurt" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiBgheKZiBLaQffSAibThg8YlMkFPsNn0UYFbravy9LLN1NaYK5iohBAA.webp" group-title="StreamedSU - Football",Union Berlin vs Eintracht Frankfurt
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://kolkata.poocloud.in/secure/vnkyrgiIpgqfuQXGzzpwNKxQhqUAOOIh/1770395400/1770422400/bl_fcu/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Ekstraklasa: Lechia Gdansk vs Cracovia Krakow" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Ekstraklasa: Lechia Gdansk vs Cracovia Krakow
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/RoVGmbixKVbvysCVmtszOZgQtxOanudr/echo/stream/lechia-gdansk-vs-cracovia-krakow-football-1380560/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Winter Olympics Opening Ceremony" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOTTkekLAwEgYICCADGIeMBLCQ0hSIHBE7CMHH8Qq5XN5ypSkQxTBWYdl2AFsec4WBJcEsx0u0NnBvdsywlpo+EEA.webp" group-title="StreamedSU - Olympics",Winter Olympics Opening Ceremony
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://kolkata.poocloud.in/secure/aNsQZBdHOxkvBaUWniyZXCsXqgoteISU/1770392400/1770422400/NBC/index.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Leicester Tigers vs Newcastle Red Bulls" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title="StreamedSU - Rugby",Leicester Tigers vs Newcastle Red Bulls
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/nqSnAbGvDSJPvuCyTNyJooaNogZnBOgu/echo/stream/leicester-tigers-vs-newcastle-red-bulls-rugby-51088/1/playlist.m3u8
+https://lb4.strmd.top/secure/RTjxyRGxRYyLhqPThVHxpOXUlsZsCLhV/echo/stream/ppv-event-02-aca-200-gasanov-v-tumenov-ppv-02/3/playlist.m3u8
