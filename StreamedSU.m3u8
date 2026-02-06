@@ -1,41 +1,46 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Davidson Wildcats vs Loyola Chicago Ramblers" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Davidson Wildcats vs Loyola Chicago Ramblers
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Davidson vs Loyola-Chicago" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKWBQh6M-CETcQUkHxO4zhgyBAFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="StreamedSU - Basketball",Davidson vs Loyola-Chicago
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/wxudABUGCzQVGPHBEbMFChygawdlWtmZ/delta/stream/live_ncaa_davidson-loyola-chicago-live-streaming-463256064/1/playlist.m3u8
+https://lb4.strmd.top/secure/WIHIKRBqkKOsNixfXyBWpjwtPVTzdnIU/delta/stream/live_ncaa_davidson-loyola-chicago-live-streaming-463256064/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Dayton vs VCU" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Dayton vs VCU
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/ejCkHjSaqWwwXLFcYSNQbDJyumqGUDCb/delta/stream/live_ncaa_vcu-dayton-live-streaming-463260816/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Brown vs Yale" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Brown vs Yale
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/nQPIEtWcjGBMIiYVrdFwuVittFPchNVF/delta/stream/live_ncaa_yale-brown-live-streaming-463261248/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="World of Outlaws Sprint Cars" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",World of Outlaws Sprint Cars
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/WDsWOnkBsIrBHVPVPUXpDYTbTyLmqgSn/echo/stream/ppv-event-10-world-of-outlaws-sprint-cars-ppv-10/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="wXw: We Love Wrestling 72" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",wXw: We Love Wrestling 72
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/uXKyLngDHGJLZgVQicDgUaaTtLHnEheZ/echo/stream/ppv-event-03-wxw-we-love-wrestling-ppv-03/1/playlist.m3u8
+https://lb10.strmd.top/secure/QiNSuENAqrKMNmmWvpRAIbqimNgEpvmt/echo/stream/ppv-event-03-wxw-we-love-wrestling-ppv-03/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name=" ACA 200 Gasanov v Tumenov  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other", ACA 200 Gasanov v Tumenov  
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/cBeMiBxznTwBmqYibaYFMoNnYaWxjuLF/echo/stream/ppv-event-02-aca-200-gasanov-v-tumenov-ppv-02/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Chaves vs Penafiel" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELRwowUhCD4huIKbhBmzJUyaPwCwJBT7DZ9bSpRcwZeESyyPTLRgXmKiEEA.webp" group-title="StreamedSU - Football",Chaves vs Penafiel
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/tEujeYRJqfFCFZotRensePRYjAUyWcOw/echo/stream/chaves-vs-penafiel-football-1398149/2/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Charlton vs QPR" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Charlton vs QPR
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/mSCvJWkgzNMQvDzsStUMssmTubNDmsbL/echo/stream/charlton-vs-qpr-football-1386912/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Leeds United vs Nottingham Forest" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rYGBDsQKEPTQhuIPiBIgYIRDgsnEJAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="StreamedSU - Football",Leeds United vs Nottingham Forest
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://kolkata.poocloud.in/secure/hBPClkdxVAsTgeRLdujSuiARNrGpBLJK/1770397200/1770424200/pl_lee/index.m3u8
+https://lb3.strmd.top/secure/QGLXfmFdSEkDhodidnlUyKlERDXabfhg/echo/stream/chaves-vs-penafiel-football-1398149/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Airdrie United vs ST Mirren" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Airdrie United vs ST Mirren
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/QsamMXLkBHMXNNGNfeeDTEQFbNqEkwCw/echo/stream/airdrie-united-vs-st-mirren-game-252/2/playlist.m3u8
+https://lb5.strmd.top/secure/RcalwbtykKQQhxdGdqWyTAiHKhAnzirQ/echo/stream/airdrie-united-vs-st-mirren-game-252/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Winter Olympics Opening Ceremony" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Winter Olympics Opening Ceremony
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/eFfdnXDyUUhSyCgTeRevPrOPhbmWjyPL/echo/stream/winter-olympics-milano-cortina-opening-ceremony-game-1562822/2/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="ACA 200 Gasanov vs Tumenov" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",ACA 200 Gasanov vs Tumenov
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/RTjxyRGxRYyLhqPThVHxpOXUlsZsCLhV/echo/stream/ppv-event-02-aca-200-gasanov-v-tumenov-ppv-02/3/playlist.m3u8
+https://lb5.strmd.top/secure/nleEukWfslEdGlLesSKqlEhhabzaUIuc/echo/stream/winter-olympics-milano-cortina-opening-ceremony-game-1562822/1/playlist.m3u8
