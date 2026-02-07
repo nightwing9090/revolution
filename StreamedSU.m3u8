@@ -1,16 +1,46 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Canterbury Bulldogs vs North Queensland Cowboys" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title="StreamedSU - Rugby",Canterbury Bulldogs vs North Queensland Cowboys
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Scotland Cricket vs West Indies Cricket" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdohg8UPaiF4gshkDBB6IJkIguT8wJBSwi5jFGFU6O78o2pyddvRg7uJiEEA.webp" group-title="StreamedSU - Cricket",Scotland Cricket vs West Indies Cricket
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/SLjVfFZjaUrfDCHVPTklbOTvOQFgyzaW/echo/stream/canterbury-bulldogs-vs-nq-cowboys-game-236363/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Netherlands Cricket vs Pakistan Cricket" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvg4hqTTpBC8QWIyBjaQEUwZCJpLJBSwi5jFGFUoe78ox1jPmvRg7uJiEEA.webp" group-title="StreamedSU - Cricket",Netherlands Cricket vs Pakistan Cricket
+https://lb9.strmd.top/secure/IGnDhqfieCyqfBACXHncKLKXlxjdUlRi/echo/stream/mens-t20-world-cup-west-indies-vs-scotland-cricket-hundred-1/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Women's Freeski Slopestyle: Qualifying" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdET4TkDBAQQWQSADG49iKEgQ7REv7BE8+iBKqQiPuxKD+IFMANj6J1mHZdgBbHmBhCwJLgkmO12hBXsT9vBO1sC+MkA.webp" group-title="StreamedSU - Olympics",Women's Freeski Slopestyle: Qualifying
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/kFecguTQlGLJwJDuxAjxxcvEbPfRTxrp/echo/stream/mens-t20-world-cup-pakistan-vs-netherlands-cricket-787894/1/playlist.m3u8
+https://kolkata.poocloud.in/secure/qbZEZCTsLhaSWaGRbMaXNwXtHHeYuzgb/1770445800/1770471300/olympics_2026-02-07_freestyle-skiing_womens-freeski-slopestyle-qualifying/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Qatar Masters | DP World Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Qatar Masters | DP World Tour
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/uoHfUPwYNKOqtZwpfHmoeLVqntnpZVHY/echo/stream/qatar-masters-dp-world-tour-tgl-001/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Switzerland vs. Sweden (MD Round-Robin)" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdECEGEO0QkGIFME4gpWEIgDGwETL6IY2dZJSypU4IizYxvMYuARxrMOy7AC6i4WBJcc8Ryu0IEhnlt7gYFZmPhBAA.webp" group-title="StreamedSU - Olympics",Switzerland vs. Sweden (MD Round-Robin)
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://kolkata.poocloud.in/secure/pFUFYZMrmLeqzBXjVULbpVsaDeZSPMUV/1770444300/1770469500/olympics_2026-02-07_curling_switzerland-vs-sweden-md-round-robin/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Great Britain vs. Canada (MD Round-Robin)" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEE4CYHywhOIeIODjhMXpMEgU2MSBlZ+EkiHZ9R9LXM0gQA9hEWsw7LsALY8wMIWBJcAY0UdLtAZwb3b4mCW6qZAA.webp" group-title="StreamedSU - Olympics",Great Britain vs. Canada (MD Round-Robin)
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://kolkata.poocloud.in/secure/ZQXobyzRQlObrVIqpFPtoHLxagaXNnWc/1770444300/1770469500/olympics_2026-02-07_curling_great-britain-vs-canada-md-round-robin/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Africa Amateur Golf Championship" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Africa Amateur Golf Championship
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/TswyoraaNPnjyHlIdTSLmqSipYYavvyq/echo/stream/africa-amateur-golf-championship-pga-526234/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Western Sydney Wanderers vs Melbourne City" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGF4AGLnwQhuIPiBIgzMEChARLuIwWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp" group-title="StreamedSU - Football",Western Sydney Wanderers vs Melbourne City
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/yxfRuqfVZCibHferOsmqQKeDilrXeduY/echo/stream/western-sydney-wanderers-vs-melbourne-city-football-1469650/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="St George-Illawarra Dragons vs Newcastle Knights" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title="StreamedSU - Rugby",St George-Illawarra Dragons vs Newcastle Knights
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/DjQJlqlVxiDjClakvgHYiPsgPDgDTwuK/echo/stream/dragons-vs-newcastle-knights-game-3373252/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Christian Medina vs Adrian Curiel" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdigokQsshBC8QWIyBgh9Z4-sTSWSClhFzGm1Sh5gy8ItTnv8rMBgnuJiEEA.webp" group-title="StreamedSU - Fight",Christian Medina vs Adrian Curiel
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/lAxXanBUJdRZIENuiGLqVGKutamtnJsD/delta/stream/live-event_christian-medina-vs-adrian-curiel-live-stream/1/playlist.m3u8
+https://lb9.strmd.top/secure/zDsbxxdocCjzptLHAtlYDGkddGRmAwtN/delta/stream/live-event_christian-medina-vs-adrian-curiel-live-stream/1/playlist.m3u8
