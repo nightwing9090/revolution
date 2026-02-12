@@ -1,21 +1,66 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="AT&T Pebble Beach Pro-Am | PGA Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",AT&T Pebble Beach Pro-Am | PGA Tour
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Maccabi Tel Aviv BC vs Bayern Mnchen Basketball" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rYAn6kQJEFJDcQfPUZCJ9IMyBh6CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Basketball",Maccabi Tel Aviv BC vs Bayern Mnchen Basketball
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/FRhYFfdtMJsBsqdbNxvHyWVULtMLvBoF/echo/stream/att-pebble-beach-pro-am-pga-tour-atp1000/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Czech Republic Ice Hockey vs Canada Ice Hockey" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdijBkyOFHxC8QWIyBgmSICKZA2QLJBSwi5jTar0ct5RtTl78rMBgWuJiEEA.webp" group-title="StreamedSU - Hockey",Czech Republic Ice Hockey vs Canada Ice Hockey
+https://lb6.strmd.top/secure/WyWhisceMbmYzHOnrDEwxOTWGcWzNbUq/echo/stream/maccabi-tel-aviv-vs-bayern-basketball-454549/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Atltico Madrid vs Barcelona" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Atltico Madrid vs Barcelona
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/VvakemEHlQLfGKlUDqdGqswAnydKyVMJ/echo/stream/czech-republic-vs-canada-hockey-395370/1/playlist.m3u8
+https://lb10.strmd.top/secure/pQYLyPDDBqNODLUIiUZYYtEccjCbUOQN/delta/stream/live_copa-del-rey_atl-madrid-barcelona-live-streaming-503283888/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Womens Snowboard Halfpipe Final Run 1" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmKQCwJECAYheILMZAw9ICKZPUQJFkgpYRcxih0cUPHeUbU5XviswGAejGIQQA.webp" group-title="StreamedSU - Olympics",Womens Snowboard Halfpipe Final Run 1
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/XiyKSVwsRAPCkfjOdDWGJmNeQOzVnhDX/1770910200/1770933900/olympics_2026-02-12_snowboarding_womens-snowboard-halfpipe-final/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Denmark vs. Japan (W Round-Robin)" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEGYCXv34gSIeiAjBOYkCl6zsMmCE6LlWIfCFYJIAMbDl4uTogpgrMOy7AC2PBcLAkuPeY5Xak1e3N2tYFZC7BBAA.webp" group-title="StreamedSU - Olympics",Denmark vs. Japan (W Round-Robin)
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/DhlZgXhcnwJURaWzXFtxihdWTYFZwRcC/1770908700/1770937500/olympics_2026-02-12_curling_denmark-vs-japan-w-round-robin/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="China vs. Great Britain (W Round-Robin)" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEFYE-iBjYQEEFhDxBAYyFDgnQYqkT6vBfMRiUINSGCJpwMbL70+rMOy7AC2PMDCFgSXNL4crtCAoYO7UmBWxn4QQA.webp" group-title="StreamedSU - Olympics",China vs. Great Britain (W Round-Robin)
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/ADKiBJwxZDkELzXBcrOFksVcLibTPztX/1770908700/1770937500/olympics_2026-02-12_curling_china-vs-great-britain-w-round-robin/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Italy vs. South Korea (W Round-Robin)" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEGYRTiE4NgwkkJAR+ILCBLYQi+eL70QAYwUQQiZXOmbtKSYrkpgrMOy7AC2PBcLAkudeY5XaU4e3N34FlbAUuwQQA.webp" group-title="StreamedSU - Olympics",Italy vs. South Korea (W Round-Robin)
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/YYinqKoznpFSeGYUcuhVCmpJglWAFdrC/1770908700/1770937500/olympics_2026-02-12_curling_italy-vs-south-korea-w-round-robin/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Sweden vs. USA (W Round-Robin)" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdELYRTsAgh4QkAGMQ7LFNmDEKKWJDBB0pRFX8Q81TpAwtfCCmCsw7LsALY8ZwsCS5xpjhdqa1dm6LAWhDEJAA.webp" group-title="StreamedSU - Olympics",Sweden vs. USA (W Round-Robin)
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/RCpUVWbSKNluSHYdgNtKiKPYvgNcmkMS/1770908700/1770937500/olympics_2026-02-12_curling_sweden-vs-usa-w-round-robin/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="AGF Aarhus vs FC Midtjylland" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",AGF Aarhus vs FC Midtjylland
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/TsQGAKZJoOyxmcxFhVqPqtDHNuywEbEu/echo/stream/aarhus-vs-fc-midtjylland-football-1491736/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="Premier League Darts: Night 2" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdERE4RDGAkQIgMYhOIEAN4h6crCBTAIDUSDHqpakSIgglBztgGyxK1mHZdgBU5cLAkuCx2DXaak+xX34HtaqDKpAA.webp" group-title="StreamedSU - Darts",Premier League Darts: Night 2
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/anvgzKhVIlbyLikoTSheWLzWrRsKnnkc/1770908400/1770940800/darts/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="AT&T Pebble Beach Pro Am Round 1" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VMkmBSQUotxD7tKEBBBnthkIkbAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="StreamedSU - Golf",AT&T Pebble Beach Pro Am Round 1
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/mNQoSjqUBenGeLXmZqIbXqwCaqyDXNnj/echo/stream/att-pebble-beach-pro-am-pga-tour-atp1000/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="VfL Wolfsburg W vs Juventus W" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",VfL Wolfsburg W vs Juventus W
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/ZNDlhfKkOtKnmYgekRwbUPJqnjNncXSZ/echo/stream/vfl-wolfsburg-w-vs-juventus-w-football-1494516/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Anadolu Efes SK vs Virtus Pallacanestro Bologna" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGzCiQlfiG4g+IKYZCITIMyBggFTJBT7DZ9FFrYouW8vQ2jPTLRg7vSiEEA.webp" group-title="StreamedSU - Basketball",Anadolu Efes SK vs Virtus Pallacanestro Bologna
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/eTotausCNxzWvVBJwPMgmMPUlIQuxfiu/echo/stream/anadolu-efes-vs-virtus-bologna-basketball-454548/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Gold Zone: Day 6" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEdzkRChAxsDEFjET4oxFnHBBYmMIUgSIAMYgIwTjOAlgOiAN4pgrMOy7ACo82ELAkuDeY5XaOve3N3pYFZGDEZAA.webp" group-title="StreamedSU - Olympics",Gold Zone: Day 6
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/CWnJpskIXfDChAztwMLExEkDVBEgAjkO/echo/stream/winter-olympics-gold-zone-day-5-game-2899333/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Mens Moguls Final 1" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvSRhZKEHES8QWI3pBmIJmCEQgWWmAJFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="StreamedSU - Olympics",Mens Moguls Final 1
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://ortdruuckehagkdtgwevu.poocloud.in/secure/lTVnOSjwBSFLRhtBZiTEbgoGPIVYORav/1770904800/1770925500/olympics_2026-02-12_freestyle-skiing_mens-moguls-final/index.m3u8
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/GVzmjHBJrfMfLZTlfLHjPZxqpxEfrwVh/1770890400/1770940800/olympics_2026-02-12_gold-zone-day-6/index.m3u8
