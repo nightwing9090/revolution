@@ -1,16 +1,36 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Canberra Raiders vs Melbourne Storm" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title="StreamedSU - Rugby",Canberra Raiders vs Melbourne Storm
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="New South Wales Waratahs vs Queensland Reds" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlFkgBIXiBi6QWENJBmIRkIj0oQJFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="StreamedSU - Rugby",New South Wales Waratahs vs Queensland Reds
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/MEhORwvssGalZcoqedCpoczzlQBPWprI/echo/stream/canberra-raiders-vs-melbourne-storm-game-3373252/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Highlanders Super Rugby vs Crusaders Super Rugby" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjBBaSIQYS29dIaVpAQjiQyhDN8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp" group-title="StreamedSU - Rugby",Highlanders Super Rugby vs Crusaders Super Rugby
+https://lb1.strmd.top/secure/yjyoevWzKBTbRSMgTKOdjFOPqumKZDHm/echo/stream/waratahs-vs-reds-rugby-51785/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Western Sydney Wanderers vs Wellington Phoenix" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEChDgk5EhpDcQfEHq0x9EfYglMdMfsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="StreamedSU - Football",Western Sydney Wanderers vs Wellington Phoenix
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/aLQQULQRTzgHpmEBzteeFPzLLacAxwPK/echo/stream/highlanders-vs-crusaders-rugby-51784/1/playlist.m3u8
+https://lb10.strmd.top/secure/ZVFoBYTHNhVhOTzfYnOINiXEFhJIMDkl/echo/stream/western-sydney-wanderers-vs-wellington-phoenix-football-1469652/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Great Britain Curling vs Italy Curling" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBjBpIMjF2UQvEFhOazJEIlOJF+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="StreamedSU - Olympics",Great Britain Curling vs Italy Curling
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/yDDSmcbHuBpPYntiNjutEHfNCjCEwGce/1770959100/1770987900/olympics_2026-02-13_curling_great-britain-vs-italy-m-round-robin/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Switzerland vs. Czechia (M Round-Robin)" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdET4E-sAgN+IYe3ogp8ISBQgAxiKwgBiEiEkpsDOcBkRVmkFkGcp21mHZdgBHZcLAkuBdo7Xawvu232ZYNZCIhBAA.webp" group-title="StreamedSU - Olympics",Switzerland vs. Czechia (M Round-Robin)
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/ZYRWkUFscMingGZkwmfHiZwJOxFujYsq/1770959100/1770987900/olympics_2026-02-13_curling_switzerland-vs-czechia-m-round-robin/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="China vs. Norway (M Round-Robin)" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOTCEebEIM7BeWEGJIgAxiE7jgJESBQiGa9pMGIt4kBAEydWbCtZh2XYAWx5gYQsCS4pKjudr7h7Fdf5hzquwQQA.webp" group-title="StreamedSU - Olympics",China vs. Norway (M Round-Robin)
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/sSjmIXnrkGxiyyNvikzTDGKGOzVRAzIR/1770959100/1770987900/olympics_2026-02-13_curling_china-vs-norway-m-round-robin/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Canada vs. USA (M Round-Robin)" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdECELfsE4gYIAMbA+JESBJDJvcf1myGyudLEq+nYHIjYQ9EChAg9KYKzDsuwAtjxXCwJLjGWON2gd3tLDvBWNpIMkkA.webp" group-title="StreamedSU - Olympics",Canada vs. USA (M Round-Robin)
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/QxcTNXTYbAdjsLyDdczUHAOjBhyWrzNJ/1770959100/1770986700/olympics_2026-02-13_curling_canada-vs-usa-m-round-robin/index.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Australia Cricket vs Zimbabwe Cricket" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmUH4QjehBC8QWIyBghqO0+auL8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp" group-title="StreamedSU - Cricket",Australia Cricket vs Zimbabwe Cricket
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/pNMTVOdbXoZZhyhsTcDBKdciYYDENsLE/echo/stream/mens-t20-world-cup-australia-vs-zimbabwe-cricket-787894/1/playlist.m3u8
+https://lb9.strmd.top/secure/PFDIDIKhZifHlQVfNobSlmENtOXRAfCL/echo/stream/mens-t20-world-cup-australia-vs-zimbabwe-cricket-787894/1/playlist.m3u8
