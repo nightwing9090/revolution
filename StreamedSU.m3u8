@@ -1,71 +1,91 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Womens Freeski Big Air Final Run 1" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKik7QYA+SF4gshkDBBmIxg4hgskFLCLmMUYVZo6vyjanM35WwGCu4mIQQA.webp" group-title="StreamedSU - Olympics",Womens Freeski Big Air Final Run 1
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Pairs Free (Venue Feed)" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEekRGLxBZsIMSIjCQnECWCSAxtmWJFIFPLEgYDWeu3BEKIYgUbWYdl2AFl5wsCS4zHYJdoRgnBnhuG3lvI+EEA.webp" group-title="StreamedSU - Olympics",Pairs Free (Venue Feed)
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://ortdruuckehagkdtgwevu.poocloud.in/secure/uVPxzvrPFnOgClbUmXkGRyUYgwCsxlTL/1771255800/1771278600/olympics_2026-02-16_freestyle-skiing_womens-freeski-big-air-final/index.m3u8
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/WhTgHFKslilOVxuAxcivxLjzORAvOkir/1771257600/1771287300/olympics_2026-02-16_figure-skating_pairs-free-venue-feed/index.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Michigan Wolverines vs. Oregon State Beavers (Baseball)" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEGEEkJxDCAxsAGdgkyfRBZ+UqSBEKhieSmGDlwCCHbxdIROyEhsKYKzDsuwAtjxXCwJLhGWON2hEXtLDoZgNroMukA.webp" group-title="StreamedSU - Baseball",Michigan Wolverines vs. Oregon State Beavers (Baseball)
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/PjWhkymrkcFmykdnjySuIZHyxcoPsyxS/1771257600/1771288200/collegebaseball-7/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Girona FC vs Barcelona" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Girona FC vs Barcelona
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/JNTryekQIcnWrSPmmvaPjgJoiNvfSoHN/delta/stream/live_laliga_girona-barcelona-live-streaming-442031040/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Coventry City vs Middlesbrough" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Coventry City vs Middlesbrough
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/JMAzgOStspdEBinwYadAkJagSlJpfJfu/delta/stream/live_championship_coventry-middlesbrough-live-streaming-441942912/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Cagliari vs Lecce" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Cagliari vs Lecce
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/inxYUoqCVbPOMzXhKpNKDoTjPBBnihff/delta/stream/live_serie-a_cagliari-lecce-live-streaming-442025424/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Women's Freeski Big Air: Final" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEGbYCCHogSwErxABjflmwhBKIWIFys8kJynLNkkLM3C149pwYpgrMOy7AC-c2ELAkuSeY5XaEYKfbm78BZWKuwQQA.webp" group-title="StreamedSU - Olympics",Women's Freeski Big Air: Final
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/pcqrLGGQXFNvreBgZpVqdlCYPFppyDIx/1771255800/1771278600/olympics_2026-02-16_freestyle-skiing_womens-freeski-big-air-final/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Macclesfield FC vs Brentford" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Macclesfield FC vs Brentford
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/iulqxSPjGXKnEOjEjsCyCivEwjrsaXvd/delta/stream/live_fa-cup_macclesfield-fc-brentford-live-streaming-503393184/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Japan vs. Canada (W Round-Robin)" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEXmEfp2DxgJEBBBZgnEChBiAxtknKZvJRJDDZvbAz1CZiEsAgMUwVmHZdgBPRbCFgSXAosdrtM0PYX7ImDWpvoQQA.webp" group-title="StreamedSU - Olympics",Japan vs. Canada (W Round-Robin)
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://ortdruuckehagkdtgwevu.poocloud.in/secure/sWgcIAgEDMHVFoqWDaSZXXIAzBxsiDJk/1771254300/1771283100/olympics_2026-02-16_curling_japan-vs-canada-w-round-robin/index.m3u8
+https://lb10.strmd.top/secure/tgpCuANKFfsxgVkERqeXlXEiQOTDPuNM/delta/stream/live_fa-cup_macclesfield-fc-brentford-live-streaming-503393184/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="South Korea vs. China (W Round-Robin)" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOTRAY2AjBOIGCGG8QgiCHZYx8uXJAMQc-tJQgtUlfVXBEJEEZQNTrMOy7AC2PMDCFgSXL1MdLtQZwb3b8B0sBXwggA.webp" group-title="StreamedSU - Olympics",South Korea vs. China (W Round-Robin)
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://ortdruuckehagkdtgwevu.poocloud.in/secure/cwKUSYhTPjMuNFugKhJZuoJBzjdXCLaz/1771254300/1771283100/olympics_2026-02-16_curling_south-korea-vs-china-w-round-robin/index.m3u8
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/ieiDYuXVABXRQTekUqSeFqKpdrtmTydM/1771254300/1771283100/olympics_2026-02-16_curling_south-korea-vs-china-w-round-robin/index.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Switzerland vs. Great Britain (W Round-Robin)" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEekGECmzBEiLCBLBOICCMEgAxsAghpKeUNnjJ7TlOwgQBxOyxyFQ1mHZdgBYZcLAkuCx2DXasveyH34HtbKDMpAA.webp" group-title="StreamedSU - Olympics",Switzerland vs. Great Britain (W Round-Robin)
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://ortdruuckehagkdtgwevu.poocloud.in/secure/KnVfKrfBzTGSJEMQOLruJzwJnNUmONoN/1771254300/1771283100/olympics_2026-02-16_curling_switzerland-vs-great-britain-w-round-robin/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Penafiel vs Lusitnia Lourosa" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvTB9g0kCB0heILMZAwQKC1ZO6SLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="StreamedSU - Football",Penafiel vs Lusitnia Lourosa
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/xcNypZnRcVkfRMDFcSGprKOrKraRBdCV/1771254300/1771283100/olympics_2026-02-16_curling_switzerland-vs-great-britain-w-round-robin/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Japan vs. Canada (W Round-Robin)" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEXmEfp2DxgJEBBBZgnEChBiAxtknKZvJRJDDZvbAz1CZiEsAgMUwVmHZdgBPRbCFgSXAosdrtM0PYX7ImDWpvoQQA.webp" group-title="StreamedSU - Olympics",Japan vs. Canada (W Round-Robin)
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/llDvuRgXjUoxzdQViIcfhnLNFWpOxyFV/echo/stream/penafiel-vs-lusitania-lourosa-football-1398163/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Women's Monobob: Run 3" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEEkCbCCxDeIGIPGIYIKSHbDx9EMoDGY4BBkaQnfiBSjODYImUQUwVmHZdgBbHkuFgSXCosdrtAUfYX78JbWGsYQQA.webp" group-title="StreamedSU - Olympics",Women's Monobob: Run 3
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/qCQZzMQMEaApjOXcxzPYzPQDzcAynAiU/1771254300/1771283100/olympics_2026-02-16_curling_japan-vs-canada-w-round-robin/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="USA vs. Italy (W Round-Robin)" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOTTkekAMbBEAwSF6JOwCCBTTgJBXxAkQWefAbDZYlGJkwlEYLxAM5rMOy7AC2PMDCFgSXALkcrtY1PZy7mmBW8uwQQA.webp" group-title="StreamedSU - Olympics",USA vs. Italy (W Round-Robin)
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://ortdruuckehagkdtgwevu.poocloud.in/secure/mAjJfgnRHihnUpDoYGqkBLeWObXwsrzT/1771254000/1771275600/olympics_2026-02-16_bobsled_womens-monobob-run-3/index.m3u8
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/xTWfCeJYHtAOFVqnDvsnZVdGTgycyKQB/1771254300/1771283100/olympics_2026-02-16_curling_usa-vs-italy-w-round-robin/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Texas A&MCommerce Lions vs Southeastern Louisiana Lions" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Texas A&MCommerce Lions vs Southeastern Louisiana Lions
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/vdZcsxAuKRFUYGXGGXpcAkMydKktBmOk/delta/stream/live_ncaa_amcommerce-se-louisiana-live-streaming-430395120/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Sonderjyske vs Silkeborg" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Sonderjyske vs Silkeborg
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/pgJHchqoBxqJpMubJvbrPeLhASQarHQu/echo/stream/sonderjyske-vs-silkeborg-football-1379467/1/playlist.m3u8
+https://lb1.strmd.top/secure/rApAZNNYcwlUOenDNRFTYdckYmDrxVBi/echo/stream/sonderjyske-vs-silkeborg-football-1379467/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Penafiel vs Lusitnia Lourosa" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Penafiel vs Lusitnia Lourosa
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/YyEQnkDpEGwknNaDUOqGJSOsgpfzRRsN/echo/stream/penafiel-vs-lusitania-lourosa-football-1398163/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Nieciecza vs Gornik Zabrze" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Nieciecza vs Gornik Zabrze
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/cjZZxIhFEpyhTKClOyquQJdaoifAIkZU/echo/stream/nieciecza-vs-gornik-zabrze-football-1380570/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Kasmpaa vs Fatih Karagmrk" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXmwFte3ELr4gSICCCnHDIRDBAoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Football",Kasmpaa vs Fatih Karagmrk
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/dGCENLgJsnOfnzxDbOFHANqpfRyVSfyJ/echo/stream/kasimpasa-vs-fatih-karagumruk-football-1394628/1/playlist.m3u8
+https://lb2.strmd.top/secure/SFZeKTylOdSWbRoPDvuJtLfgXKfaaqrX/echo/stream/nieciecza-vs-gornik-zabrze-football-1380570/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Men's Super Team Large Hill" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEekEkAGMQEYIk7BOILJMkgpfQbIggUIdWpUzx6sSBgjVwAQaz99KYKzDsuwAtjxXCwJLkGWON2qIntLDvBWNsCi7BBAA.webp" group-title="StreamedSU - Olympics",Men's Super Team Large Hill
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://ortdruuckehagkdtgwevu.poocloud.in/secure/swBPvpMVxCRnCnQIvJmghQYdHwYPqCMW/1771250400/1771279200/olympics_2026-02-16_ski-jumping_mens-super-team-large-hill/index.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Italy Curling vs USA Curling" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrxAQtHbMGkhNWEMZgmQJEIhRXDLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="StreamedSU - Olympics",Italy Curling vs USA Curling
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://ortdruuckehagkdtgwevu.poocloud.in/secure/kADWSvEfqiDqOEQLiRTyGlhVbEEgduKi/1771254300/1771283100/olympics_2026-02-16_curling_usa-vs-italy-w-round-robin/index.m3u8
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/YfmeGFYbqjGeyPelFkfvVFdzMVISiQAC/1771250400/1771279200/olympics_2026-02-16_ski-jumping_mens-super-team-large-hill/index.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Gold Zone: Day 10" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEdzkRChAxsDEFjET4oxFnHBBYmMIUgSIAMYgIwTjOAlgOiAN4pgrMOy7ACo82ELAkuDeY5XaOve3N3pYFZGDEZAA.webp" group-title="StreamedSU - Olympics",Gold Zone: Day 10
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://ortdruuckehagkdtgwevu.poocloud.in/secure/EcGFlUeDsokyIEyWexSlnLzvTAtJdsPS/1771236000/1771286400/olympics_2026-02-16_gold-zone-day-10/index.m3u8
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/APDZlHtBBCMuVhTZGrABVeQFFOnVOYLW/1771236000/1771286400/olympics_2026-02-16_gold-zone-day-10/index.m3u8
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="Players Championship - Board 2" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEAY2AggIAgSESIQIEnyEh6ITnKWTEKECmDSYckYJAj5MBptH0NrMOy7AC2PMDCFgSXLw0dLtYZ2Mbb8B0sDASA.webp" group-title="StreamedSU - Darts",Players Championship - Board 2
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://ortdruuckehagkdtgwevu.poocloud.in/secure/TcqRFHaDhlQYoSWnnArFeRiDKlzqmvUY/1771236000/1771282800/darts2/index.m3u8
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/PCkrlctDUevVXSwbXWZIArqhpzrZudkU/1771236000/1771282800/darts2/index.m3u8
