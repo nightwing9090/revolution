@@ -1,96 +1,46 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Ajagba v Martin" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",Ajagba v Martin
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Zuffa Boxing 3 Ajagba vs Martin" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHA4sIKDiQheIHTpghpIRJpSaQJFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="StreamedSU - Fight",Zuffa Boxing 3 Ajagba vs Martin
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/XoMSUYLtemOLgeFaMpyqlurdngJezPAr/echo/stream/ppv-event-04-ajagba-v-martin-ev-4/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Murray State vs Belmont" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgpYbThUhuWkH2O5TekIhAFgSCn2Gz6KMCpRdX5ellnumtMFcxUQggA.webp" group-title="StreamedSU - Basketball",Murray State vs Belmont
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/tRkDlrySWkhlpvzKXURwWpEPvCxSXqOc/1771183800/1771223400/zuffa/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Fortaleza FC vs Chico" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Fortaleza FC vs Chico
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/AQXtfQQlTXecJAzTNfSNSIqIhrhEThQC/delta/stream/live_ncaa_murray-st-belmont-live-streaming-464098464/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Butler vs Seton Hall" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGHOLciaENxBSQfI7hM5EKECQLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="StreamedSU - Basketball",Butler vs Seton Hall
+https://lb5.strmd.top/secure/ZbYmgvMOcluYjXDnlwhOxwcWUzAjssFO/echo/stream/fortaleza-fc-vs-chico-football-1505993/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Seattle vs Oregon State" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Seattle vs Oregon State
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/IyJPmFOycehwqxkHstVtDVpqcwadyQhs/delta/stream/live_ncaa_butler-seton-hall-live-streaming-430362288/1/playlist.m3u8
+https://lb5.strmd.top/secure/pGtYylemPUKrWPIbjjadbzaiDtKhXpjL/delta/stream/live_ncaa_seattle-oregon-st-live-streaming-464109696/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Rosario Central vs Barracas Central" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKo3ZRGOECF4gsIaSBTHDIEqZAQbLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="StreamedSU - Football",Rosario Central vs Barracas Central
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/JnIoxiDfvNlOqfenxJqXLjwigGsZAXIA/echo/stream/rosario-central-vs-barracas-central-football-1491889/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Instituto Cordoba vs Central Cordoba de Santiago" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Instituto Cordoba vs Central Cordoba de Santiago
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/lifGKIqsSEQjsSuWgbpkvyvtJXQCkeOL/echo/stream/instituto-cordoba-vs-central-cordoba-de-santiago-football-1491888/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Oklahoma Sooners vs. TCU Horned Frogs" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOTCELbYJ0HDOIGCFEgQAY0EgUIEvIbAS2KXxmbRWEInpbdSpTFUpgrMOy7ACA82ELAkuaeY5XaEYe3N34FlbA3uwQQA.webp" group-title="StreamedSU - Baseball",Oklahoma Sooners vs. TCU Horned Frogs
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/qYSllefIAYZfZlRBymHTBcIZimSiBsVB/1771191000/1771221600/collegebaseball-15/index.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Holy Smokes" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",Holy Smokes
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/XhcXCynkRUhNtlrOxVguOVcSLzBaEwmh/delta/stream/live-event_gcw-holy-smokes-live-stream/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="AEW Revolution" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",AEW Revolution
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/bnldPaaqvNTHIRjZkWMVJxyRZlSrCtxn/delta/stream/live-event_aew-revolution-live-stream/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Arizona Wildcats vs. Michigan Wolverines" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEEkFfiCwgYwCA37ZgJYInogQ2EWJEh5wxTIhqG0kAGM1qvonHdgrMOy7ACUlBcLAkufQ45XaZ3Q7vwLVmK6EEA.webp" group-title="StreamedSU - Baseball",Arizona Wildcats vs. Michigan Wolverines
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://ortdruuckehagkdtgwevu.poocloud.in/secure/vTOkASraxakOWjFReJlPgqxtXhYTPFMX/1771185600/1771216200/collegebaseball-14/index.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Monmouth Hawks vs Towson State Tigers" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Monmouth Hawks vs Towson State Tigers
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/xcCypWweLFUqASdIVLiJEhJGqZAIFLzL/delta/stream/live_ncaa_monmouth-towson-live-streaming-430283232/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="GCW Holy Smokes" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",GCW Holy Smokes
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/XkJTQAiDBFMGoIBsiMXkLfAZExLQGBiy/delta/stream/live-event_gcw-holy-smokes-live-stream/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Cruz Azul vs Tigres" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VcPT64wUnSG4gpuECYjGtJEGZIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="StreamedSU - Football",Cruz Azul vs Tigres
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/rKpFIAFtGPkMigsurPdPguCgCyXQfnHI/echo/stream/cruz-azul-vs-tigres-uanl-football-1492516/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Boca Juniors vs Platense" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKiAYgy-JAJC8QWENJAoTRkFZLaDLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="StreamedSU - Football",Boca Juniors vs Platense
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/tWvGNsPaurifZXGzbCTVfQOTZxLKkfEo/echo/stream/boca-juniors-vs-platense-football-1491881/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Zuffa Boxing 03" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdETkEkBBDChKEDGHj+wAVkmiQAY37Dsk4SWB8IweDN4gswHQOEwUwVmHZdgBbHkuFgSXIosdrtHZwaP7emDWxn4QQA.webp" group-title="StreamedSU - Fight",Zuffa Boxing 03
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://ortdruuckehagkdtgwevu.poocloud.in/secure/cBzSLXNIJvFNeqGkaLVtLQNwBCVMmDol/1771183800/1771223400/zuffa/index.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="NBA All Star Stars vs World" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmFwoQ1EDCYheILMb0gIIbTBAkQd6SyQUsIuYxRhVKHp-KNqct74rMCaYozhQA.webp" group-title="StreamedSU - Basketball",NBA All Star Stars vs World
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/uGHojLaevJTKsLwehmUHStkZzQwbUlzJ/echo/stream/nba-all-star-game-game-18733/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Campbell vs College of Charleston" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Campbell vs College of Charleston
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/OLtUXXSiJdIhdUUNAoafxOAZquYoFqEu/delta/stream/live_ncaa_campbell-charleston-live-streaming-430276320/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="75th NBA All-Star Game" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEEkLfiBTZgnEDBF8I-BiADGIRWLEwhM+MA2IxEUcGlZRIZSET5grMOy7ACI4WELAkuOcI5Xauzgzy3NFlb6vhBAA.webp" group-title="StreamedSU - Basketball",75th NBA All-Star Game
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://ortdruuckehagkdtgwevu.poocloud.in/secure/vWsVJtuMrWSPFuTbSzEitDjcmfmRkDrh/1771182000/1771214400/allstar/index.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="San Diego Toreros vs San Francisco Dons" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",San Diego Toreros vs San Francisco Dons
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/kTyAAkctpUEwpbXifImFMJDCOWoNHtAR/delta/stream/live_ncaa_sd-toreros-san-francisco-live-streaming-464099328/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Team USA Stripes vs Team USA Stars" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Team USA Stripes vs Team USA Stars
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/FyCvnnHVQEjcSpAAkbXmPQmZonhJNIhK/delta/stream/live_nba-all-star-game-round-robin_team-usa-stripes-team-usa-stars-live-streaming-505129824/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="North Alabama vs Eastern Kentucky" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCF6iVkTSCkgUh4xoh6SIGAWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="StreamedSU - Basketball",North Alabama vs Eastern Kentucky
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/zpJESnzMTuKqMdmlIZhYIVyyBzCNVRZq/delta/stream/live_ncaa_north-alabama-lions-eastern-kentucky-live-streaming-464108400/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="UC Santa Barbara Gauchos vs. Southern Miss Golden Eagles" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEGYEkChACQIRDF7ZeIeiE5yQWBiADGYwcIUR+wbZ36ah2xPqyKUwVmHZdgBbHkuFgSXCosdrtPQ0f34lta6vhBAA.webp" group-title="StreamedSU - Baseball",UC Santa Barbara Gauchos vs. Southern Miss Golden Eagles
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://ortdruuckehagkdtgwevu.poocloud.in/secure/yotXcbNroGfanvOTkphpMTbIBvOAvYTP/1771178400/1771209000/collegebaseball-13/index.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="UC San Diego Tritons vs. UCLA Bruins" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEdzkfvxS8QiECBLjR47CAizE9EDCkBjXsBLZgEEFk1zlynSGGngrMOy7AC2lBcLAkuVQ45Xa8zgzy3g8BZWOr4QQA.webp" group-title="StreamedSU - Baseball",UC San Diego Tritons vs. UCLA Bruins
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://ortdruuckehagkdtgwevu.poocloud.in/secure/bPShsFXWBisLqkzFRZPASDRyRGlrKMmP/1771178400/1771209000/collegebaseball-12/index.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Texas Tech Red Raiders vs. Arkansas Razorbacks" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOTekGERJxDCYwISRBYxICUIDGwCCCFCsIFIoEheSxBIjBEaxEs7Z1G1mHZdgBbHmBhCwJLjkaO12gbPsN9vBO1ooMikA.webp" group-title="StreamedSU - Baseball",Texas Tech Red Raiders vs. Arkansas Razorbacks
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://ortdruuckehagkdtgwevu.poocloud.in/secure/NnvmRIVQcXZInptQLSAIGfOZZZUNtpJg/1771176600/1771207200/collegebaseball-11/index.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="NASCAR Cup Series: Daytona 500" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOTEkREYIhLBeKYJwYgAxg3HAIICNnkgxWVXIUDEnRSHohdw+POVlgrMOy7ACysWELAkuKWI5XaSiezF2TYFam7BBAA.webp" group-title="StreamedSU - Motor Sports",NASCAR Cup Series: Daytona 500
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://ortdruuckehagkdtgwevu.poocloud.in/secure/uNgNakrttdvuDeDGiKflGRbdxHuNtAME/1771169400/1771209000/FOX/index.m3u8
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/oZUnhZqbtCYZGrUzappBYudpGCsyBHUy/1771185600/1771216200/collegebaseball-14/index.m3u8
