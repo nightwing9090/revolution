@@ -1,11 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Arizona State vs Texas Tech" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Arizona State vs Texas Tech
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="South Africa Cricket vs UAE Cricket" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoPwhwcJBxC8QWIyBghqICKZCJDk-MCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="StreamedSU - Cricket",South Africa Cricket vs UAE Cricket
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/zcOjSOvQERrgQiWlGkOPsanGujXWwICh/delta/stream/live_ncaa_arizona-state-texas-tech-live-streaming-464155920/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE: NXT" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",WWE: NXT
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/xFuKuOgnGPRegwjNPvKGNhKLOJOfPRAu/echo/stream/wwe-nxt-nxt-2025/1/playlist.m3u8
+https://lb9.strmd.top/secure/TBNTpLqxqkVwJffDpNsEwbaiOvTYnPkf/echo/stream/mens-t20-world-cup-south-africa-vs-uae-cricket-787894/1/playlist.m3u8
