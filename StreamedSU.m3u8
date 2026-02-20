@@ -1,11 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="BFL 86  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",BFL 86  
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="New South Wales Waratahs vs Fijian Drua" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkkp9YIRIl4gsIaSFMRDukNRAGsLJBTvtR4lGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="StreamedSU - Rugby",New South Wales Waratahs vs Fijian Drua
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/oAeLhFrnXdrggJAtLmQSICyivocJPovP/echo/stream/ppv-event-04-bfl-86-ppv-004/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Honda LPGA Thailand" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Honda LPGA Thailand
+https://lb1.strmd.top/secure/CyJFUlGvQZrAIoXZQoQsoVuKCZefAglv/echo/stream/waratahs-vs-fijian-drua-rugby-51790/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Adelaide United vs Perth Glory" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rQgJkAGOiETcQfEDGN7TOHAYVMkFPsNn0UYFSi4vy9LLLdNaYFzFRCCA.webp" group-title="StreamedSU - Football",Adelaide United vs Perth Glory
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/CwHkizgotLGcfmBvcWbwDqmhOtRmbDsK/echo/stream/honda-lpga-thailand-game-162626/1/playlist.m3u8
+https://lb1.strmd.top/secure/jTMeBsIsTatuTTqIxuBcrrTHInRLGTrj/echo/stream/adelaide-united-vs-perth-glory-football-1469658/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="FORMULA 1 ARAMCO PRE-SEASON TESTING 2 2026 Day 3 Session AM" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",FORMULA 1 ARAMCO PRE-SEASON TESTING 2 2026 Day 3 Session AM
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/gbpMOoCKKqqATYRNPmzJYDrFiKyASWnI/echo/stream/formula-1-aramco-pre-season-testing-2-2026-day-3-session-am-game-4u8337/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="New Zealand Warriors vs Dolphins" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCFpiADCCjwwSELxBZTxvSBSWQIEiHgskFLCLmMUYVSh5fyjajkffFZgMC9xMQggA.webp" group-title="StreamedSU - Rugby",New Zealand Warriors vs Dolphins
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/ocUpPyGuEcbwIDcvRoOIWaSBrIupUjeV/echo/stream/new-zealand-warriors-vs-dolphins-game-17u3262/1/playlist.m3u8
