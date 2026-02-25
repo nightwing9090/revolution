@@ -1,16 +1,51 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Real Madrid U19 vs Chelsea U19" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Real Madrid U19 vs Chelsea U19
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Atalanta vs Borussia Dortmund" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdklYhBo4EhC9tRmAZBmzJcyBZIKWEXMYowqlDxflG1OW-ytgYC7iYhBAA.webp" group-title="StreamedSU - Football",Atalanta vs Borussia Dortmund
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/FdqjeMLypBgzKggOkLkGNecCVjMwVNVU/echo/stream/real-madrid-u19-vs-chelsea-u19-football-1520399/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="Players Championship - Board 3" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEAY2AggIAgSESIQIEnyEh6ITnKWTEKECmDSYckYJAj5MBptH0NrMOy7AC2PMDCFgSXLw0dLtYZ2Mbb8B0sDASA.webp" group-title="StreamedSU - Darts",Players Championship - Board 3
+https://ortdruuckehagkdtgwevu.modifiles.fans/secure/IjeIsiqtfisjaZNvpqmvXHAeAgBgcZTM/1772030700/1772059500/ucl_ata/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Fenerbahce vs Partizan Mozzart Bet" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Fenerbahce vs Partizan Mozzart Bet
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://ortdruuckehagkdtgwevu.modifiles.fans/secure/eySjYPEzblltYEBoplUMvQUFhfvMrVkV/1772013600/1772060400/darts3/index.m3u8
+https://lb2.strmd.top/secure/ZdCVjiYFJxuKjdBolXTebjvSbrRCCuid/echo/stream/fenerbahce-vs-partizan-mozzart-bet-basketball-454558/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Miami Marlins vs Houston Astros" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Miami Marlins vs Houston Astros
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/rTwrQuoyZCQwMJhvuUJpONXKNvehuePi/delta/stream/live_mlb_marlins-astros-live-streaming-508575888/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Mets vs St. Louis Cardinals" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",New York Mets vs St. Louis Cardinals
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/FDrXUThOTMryiTLUTwWVERRHRDNNSYmE/delta/stream/live_mlb_mets-cardinals-live-streaming-508576320/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Atlanta Braves vs Pittsburgh Pirates" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Atlanta Braves vs Pittsburgh Pirates
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/FcUaYgjZpaMzFrzZTzErwqWhZbpkQDaz/delta/stream/live_mlb_braves-pirates-live-streaming-508573728/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Baltimore Orioles vs Tampa Bay Rays" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Baltimore Orioles vs Tampa Bay Rays
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/mOYIVJmtoLZHneiiNrffivtuuAppfNUP/delta/stream/live_mlb_orioles-rays-live-streaming-508574160/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Detroit Tigers vs Toronto Blue Jays" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Detroit Tigers vs Toronto Blue Jays
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/XRnpFZTQmoEbRahUBTOWqLrYAATyviwG/delta/stream/live_mlb_tigers-blue-jays-live-streaming-508574592/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Minnesota Twins vs Boston Red Sox" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Minnesota Twins vs Boston Red Sox
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/kKWJoRZRISITcJGEAJzoPdbIXLJNAqma/delta/stream/live_mlb_twins-red-sox-live-streaming-508575024/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="Players Championship - Board 1" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEAY2AggIAgSESIQIEnyEh6ITnKWTEKECmDSYckYJAj5MBptH0NrMOy7AC2PMDCFgSXLw0dLtYZ2Mbb8B0sDASA.webp" group-title="StreamedSU - Darts",Players Championship - Board 1
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ortdruuckehagkdtgwevu.modifiles.fans/secure/AsARtRaRvDoWAlwBXvTPEoucfgipoGEy/1772013600/1772060400/darts1/index.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="WTA 500 Merida / ATP 500 Acapulco / WTA 250 Austin " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",WTA 500 Merida / ATP 500 Acapulco / WTA 250 Austin 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/kjASntRXZpKFOAFtaVYHvigtyPjaaqjr/echo/stream/wta-500-merida-atp-500-acapulco-wta-250-austin-tn-1/1/playlist.m3u8
+https://lb3.strmd.top/secure/aCELdSwYECOhiTXMGLSiAHVejLMflHpk/echo/stream/wta-500-merida-atp-500-acapulco-wta-250-austin-tn-1/1/playlist.m3u8
