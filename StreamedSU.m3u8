@@ -1,6 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Brisbane Roar vs Perth Glory" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMCBQgpIED34huIPiBK6QMTSAhWdjYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="StreamedSU - Football",Brisbane Roar vs Perth Glory
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="ACT Brumbies vs Blues Super Rugby" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjA5hpYJGF7YQvEFhDSQFiCZCJqZkIvzA9mrCLmMUYVSh7fyjNRyvk70YN7iYhBAA.webp" group-title="StreamedSU - Rugby",ACT Brumbies vs Blues Super Rugby
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/XThjRUyeJpzBujCTZTinMRkNHfDByxcZ/echo/stream/brisbane-roar-vs-perth-glory-football-1469667/1/playlist.m3u8
+https://lb7.strmd.top/secure/kTBZSWDXprhSYyRwZYJFBixCOikXaBBg/echo/stream/brumbies-vs-blues-rugby-51798/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Macarthur FC vs Western Sydney Wanderers" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUaykg+1biD18QJECZggUICOZBapBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="StreamedSU - Football",Macarthur FC vs Western Sydney Wanderers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/DJCwpHoesLXGGSTUwiSHEnvFHjSElaKA/echo/stream/macarthur-vs-western-sydney-wanderers-football-1469668/1/playlist.m3u8
