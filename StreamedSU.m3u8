@@ -1,11 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="LIV Golf Hong Kong | HSBC LIV Golf Hong Kong" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",LIV Golf Hong Kong | HSBC LIV Golf Hong Kong
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="South Korea vs Czechia" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",South Korea vs Czechia
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/HDGAbckPEYtLlxJlBpjvHMyBdVyxatWO/echo/stream/liv-golf-hong-kong-hsbc-liv-golf-hong-kong-game-162626/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Blue Bay China | PGA Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Blue Bay China | PGA Tour
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/vKjoCukdMlOXUjmPclzFerJrVeuLtqjc/echo/stream/blue-bay-china-pga-tour-atp1000/1/playlist.m3u8
+https://lb8.strmd.top/secure/avxKmxylMczpjkIqpWixJbZKuHeEkNNs/delta/stream/live_world-baseball-classic-pool-c_south-korea-czechia-live-streaming-511411104/1/playlist.m3u8
