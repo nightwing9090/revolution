@@ -1,16 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Arnold Palmer Invitational | PGA Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Arnold Palmer Invitational | PGA Tour
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/OHfoIsJgVzitVMUyucDvMncmsEtnTSdH/echo/stream/arnold-palmer-invitational-pga-tour-pga-526234/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Panama vs Cuba" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Panama vs Cuba
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/KxLaXhEipvniycaLVDTFqtJIhpOqeHiF/delta/stream/live_world-baseball-classic-pool-a_panama-cuba-live-streaming-512241408/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Formula 1 2026 - Australia GP" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",Formula 1 2026 - Australia GP
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/efPSefILbzKxAJxxgLvTThiVWyvEtByM/delta/stream/live-event_formula-1-2026-australia-gp-live-stream/1/playlist.m3u8
+https://lb1.strmd.top/secure/MXqxBZjlSCuNcVFTQHzghyXxwrWzZDUE/delta/stream/live-event_formula-1-2026-australia-gp-live-stream/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="UK Open Darts - Session 1 & 2  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",UK Open Darts - Session 1 & 2  
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/ACHwaWshUbdKyhfvUKpbfJADBEtuQMWW/echo/stream/uk-open-darts-session-1-2-darts-1/1/playlist.m3u8
+https://lb1.strmd.top/secure/biMcyFeZjYODgWtXpzGLcxcGbjUAZaQn/echo/stream/uk-open-darts-session-1-2-darts-1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Joburg Open | DP World Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Joburg Open | DP World Tour
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/kVCGUBKzvXmDpxcZJPexCHqywkieSGkb/echo/stream/joburg-open-dp-world-tour-tgl-001/1/playlist.m3u8
+https://lb7.strmd.top/secure/SOzABnoMUeCdugRhtcSPCgxkarMJSURz/echo/stream/joburg-open-dp-world-tour-tgl-001/1/playlist.m3u8
