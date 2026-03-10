@@ -1,41 +1,61 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="The Golazo Show" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEFECXiHadgnECGARs-ECSEgAxtKVZRDaRJGr4okFpk6x9EDFEpgrMOy7AC2PBcLAkuBeY5XaUke3N2dYFaS6hBAA.webp" group-title="StreamedSU - Football",The Golazo Show
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.modifiles.fans/secure/srbJNusadXamPEfrxrbtpqLBRiiZyDnN/1773156600/1773194400/golazo/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Stanford vs Pittsburgh" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdETkebCCF8IwCPwa8QJEChDjOwRO0Ry5MksD5CBWEAGMhIFWPkMUwVmHZdgBbHkuFgSXPosdrtUYvYX7AmDWYgxiQA.webp" group-title="StreamedSU - Basketball",Stanford vs Pittsburgh
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.modifiles.fans/secure/mpYQshRSqBwTqyJjYMfcQTWQNaZFyrwH/1773154800/1773185400/ACCN/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ATP/WTA 1000: Indian Wells " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",ATP/WTA 1000: Indian Wells 
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/hUwUdQLRxUsZqBtQSDiGLAGqrKDMwxUZ/echo/stream/atpwta-1000-indian-wells-tn-1/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Galatasaray vs Liverpool" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXIJC4QA0Nx0GcEEDBD6pIEiHgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="StreamedSU - Football",Galatasaray vs Liverpool
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.modifiles.fans/secure/WcpwuUnCVjcWUkZkyldFJHPpBEjYlsRv/1773153900/1773182700/ucl_gal/index.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Miami Marlins vs Washington Nationals" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXGBlJKzBiG4g+h-SEQ4YICxBBSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Baseball",Miami Marlins vs Washington Nationals
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/iPiSIKzBrmXEKAVfhMaGKidPdHoypocx/delta/stream/live_mlb_marlins-nationals-live-streaming-514213056/1/playlist.m3u8
+https://lb2.strmd.top/secure/aAEKlcQYbuQBjSbSFbCYbilyJiZhoXto/delta/stream/live_mlb_marlins-nationals-live-streaming-514213056/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Mets vs St. Louis Cardinals" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKWG5gkRUdxD6+II-sQ4YIC1JAKmOmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="StreamedSU - Baseball",New York Mets vs St. Louis Cardinals
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.modifiles.fans/secure/BuwluaFFAbdRcemJOGvzfGhFYJYwuReJ/1773151800/1773182400/newyorkmets/index.m3u8
+https://lb2.modifiles.fans/secure/JDyxYTCcVSpPOtmsQdwYbgmyunghMqRZ/1773151800/1773182400/newyorkmets/index.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays vs Atlanta Braves" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxAoQcXgNDcNRw4hwwdICFoLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="StreamedSU - Baseball",Toronto Blue Jays vs Atlanta Braves
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.modifiles.fans/secure/KCRlAwZqSrmlNAClvEmtSBKvDSNUqfPb/1773151620/1773182220/torontobluejays/index.m3u8
+https://lb4.modifiles.fans/secure/SfbnyhOfHYQrtIKJjQhgPBifqMHxrfSG/1773151620/1773182220/torontobluejays/index.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Tampa Bay Rays vs Minnesota Twins" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMJTaQQtfCG4g+h-TtwgY5kCR0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="StreamedSU - Baseball",Tampa Bay Rays vs Minnesota Twins
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/QeNcfZmpwbxeHOzGBcuWRPKlzWqHhBqy/delta/stream/live_mlb_rays-twins-live-streaming-514213488/1/playlist.m3u8
+https://lb9.strmd.top/secure/YsSSSYOJDWNCwuWAoeLdKyABWogSCmbn/delta/stream/live_mlb_rays-twins-live-streaming-514213488/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Houston Astros vs Baltimore Orioles" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeNCxgpYFAhDcQfIwZCIcMEJeNSCwJBT7DZ9PSpRcwZDfSyyPTLRgXmKiEEA.webp" group-title="StreamedSU - Baseball",Houston Astros vs Baltimore Orioles
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.modifiles.fans/secure/CoBWVhVmyEooPrHdzSaDKWOjEvKLIBvR/1773151500/1773182100/houstonastros/index.m3u8
+https://lb1.modifiles.fans/secure/iaXUCfBpKOVSbMwHWnpOeuPpSxswXwjY/1773151500/1773182100/houstonastros/index.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox vs Detroit Tigers" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKPhgZUASBDcQfIwZCIcMEJZQGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Baseball",Boston Red Sox vs Detroit Tigers
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/opRSgrfiZXrfYkoFYVlYmKJpaaPeKHnz/delta/stream/live_mlb_red-sox-tigers-live-streaming-514209600/1/playlist.m3u8
+https://lb6.strmd.top/secure/cAIbUUIIDpeTOuUHJNlfIYdOihSHtXzh/delta/stream/live_mlb_red-sox-tigers-live-streaming-514209600/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies vs New York Yankees" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJMCRgZG7iD4g9Bg3sQ4YIC1MMFNFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="StreamedSU - Baseball",Philadelphia Phillies vs New York Yankees
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.modifiles.fans/secure/sHfSZhuAuZvCZgSzXQNTLsMMqiLiQGBx/1773151500/1773182100/philadelphiaphillies/index.m3u8
+https://lb2.modifiles.fans/secure/NnBmwUHKEtjHtvsZEEgGdcOReLzlVWwm/1773151500/1773182100/philadelphiaphillies/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Arizona State vs Baylor" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOTE4ThkFhAwQJEJxAoQEYSADG04Iix8Q8JeMnT5moTA0TEU+iHYmYKYKzDsuwAtjxXCwJLjmWON2hD4MnDupgNsC+7BBAA.webp" group-title="StreamedSU - Basketball",Arizona State vs Baylor
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.modifiles.fans/secure/lLeaMFfTYtiPCLubkkTHVEyezGSyFbOC/1773149400/1773180000/cbb-2/index.m3u8
+https://lb2.modifiles.fans/secure/CVelfsuIgylbJmsIXXoVPpmoBJvwSgfz/1773149400/1773180000/cbb-2/index.m3u8
