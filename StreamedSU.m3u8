@@ -1,21 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Hurricanes Super Rugby vs Western Force" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGMAAMbMHzCjuIQ3xBSQ5iCBOJEMEAqZIKfYbPop9bFF33l6WWW8mWjBPelEIIA.webp" group-title="StreamedSU - Rugby",Hurricanes Super Rugby vs Western Force
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Essendon Bombers vs Hawthorn Hawks" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Afl",Essendon Bombers vs Hawthorn Hawks
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/SZmNPNlsLXlLZlpGczRqTlkOHbobaeiF/echo/stream/hurricanes-vs-western-force-rugby-51804/1/playlist.m3u8
+https://lb7.strmd.top/secure/FkVPgSbFZjqTGEblTlwLDVDPjYENGTfz/echo/stream/essendon-bombers-vs-hawthorn-hawks-australian-football-3351/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Brisbane Roar vs Western Sydney Wanderers" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDJQhEWMFMghuIPiBIhzMEFohXbVpkgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="StreamedSU - Football",Brisbane Roar vs Western Sydney Wanderers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/chuKOCySXpZClQpRZWTvdZhiLUyuMRHD/echo/stream/brisbane-roar-vs-western-sydney-wanderers-football-1469676/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="New Zealand Warriors vs Canberra Raiders" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcCkEoK3ELr4gpIYyT24QEEAZIFgSCn2Gz62lZrZgy8IllmamtGCeYqIQQA.webp" group-title="StreamedSU - Rugby",New Zealand Warriors vs Canberra Raiders
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/ZwjKINMHYxtbiUUMEIAhEsfrXYGLSReQ/echo/stream/new-zealand-warriors-vs-canberra-raiders-game-3373252/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="World Rally Championship 2026 Season" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",World Rally Championship 2026 Season
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/CDqBMPFOuzQSqIrWDdheSVUDsLGSUqXU/echo/stream/world-rally-championship-2026-season-racing-0059/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="LIV Golf Singapore" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",LIV Golf Singapore
+https://lb4.strmd.top/secure/RHeggjcrEJlrOlRDynGdHJCqgSYQaTGt/echo/stream/world-rally-championship-2026-season-racing-0059/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Chinese Grand Prix Practice 1" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBIhG9AAw15IXiCwmQiatqunL8FkgpYRcxijCqUPd+UbU5n-FZgMHdxMQggA.webp" group-title="StreamedSU - Motor Sports",Chinese Grand Prix Practice 1
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/tZyxLjErizfSWGDwmmninZjRalzsTiBZ/echo/stream/liv-golf-singapore-game-162626/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="High Limit Racing Vegas   " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",High Limit Racing Vegas   
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/SKONhQOWFsouOlSfkZnmYtGPYjKPttil/echo/stream/ppv-event-01-high-limit-racing-vegas-ppv-001/1/playlist.m3u8
+https://lb3.modifiles.fans/secure/wYAioMQrBqkiYhoyIGTMsBxqActavJxW/1773376200/1773400440/skyf1_china_sprint-q/index.m3u8
