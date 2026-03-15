@@ -1,11 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Melbourne Demons vs St Kilda Saints" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Afl",Melbourne Demons vs St Kilda Saints
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Melbourne Victory vs Macarthur FC" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rARBBaUzZiG4g+IGMZCITOHAYVMkFPsNn0UYFTravy9LLJ1NaYK5iohBAA.webp" group-title="StreamedSU - Football",Melbourne Victory vs Macarthur FC
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/GmvttqXyZsDOUpetlmNpGdhOTJNEtDrQ/echo/stream/melbourne-demons-vs-st-kilda-saints-australian-football-3357/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="LIV Golf Singapore" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",LIV Golf Singapore
+https://lb3.strmd.top/secure/GsIBvklGxVYdvvlmQPjKvKffvSIyAlwh/echo/stream/melbourne-victory-vs-macarthur-football-1469681/1/playlist.m3u8
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Gold Coast Football Club vs West Coast Eagles" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJOxDcQosFv18QhnDBApcIS+ZIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="StreamedSU - Afl",Gold Coast Football Club vs West Coast Eagles
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/SotGItXgqBqwGFlgDAshBoDkQoRHriwS/echo/stream/liv-golf-singapore-game-162626/1/playlist.m3u8
+https://lb9.strmd.top/secure/LLMicNVmcKMgkSMUOmVqNlpFSZpFQnMO/echo/stream/gold-coast-suns-vs-west-coast-eagles-australian-football-3358/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Chinese Grand Prix" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlH4ht8kLz0gshkIhIgzMENW0hpLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="StreamedSU - Motor Sports",Chinese Grand Prix
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.modifiles.fans/secure/CkYLnllWwPjMIllWDqGHbzaDxmTaWIzw/1773547200/1773576000/skyf1_china_race/index.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Race | Shanghai International Circuit | 305.1 Kms" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",Race | Shanghai International Circuit | 305.1 Kms
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/oZXJEUTRKPQgQZqULbOpYmAmoafrJAXK/echo/stream/race-shanghai-international-circuit-3051-kms-formula-1-2526/1/playlist.m3u8
