@@ -1,41 +1,66 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Al-Ahli vs Al-Hilal" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Al-Ahli vs Al-Hilal
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/sRYdhIlumJiUpkHhqReXgtRGHrIqaySj/delta/stream/live_kings-cup_al-ahli-al-hilal-live-streaming-483401952/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Al-Kholood vs Al-Ittihad" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Al-Kholood vs Al-Ittihad
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/iodUWFivkZWwAisDoJMeyzKcMdemDZnG/delta/stream/live_kings-cup_al-kholood-al-ittihad-live-streaming-483400656/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="The Golazo Show" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0IUkx3gWAFNp51JQw7gOBOdEFECXiHadgnECGARs-ECSEgAxtKVZR9aRJGr4okFpk6xdEDFEpgLcOy7AC2PBcLAkuBeY5sKUke3N2dYGyS6hBAA.webp" group-title="StreamedSU - Football",The Golazo Show
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.modifiles.fans/secure/pyFarhSjcKxxIjaltKJDjmdjRKmyXLjF/1773849600/1773887400/golazo/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Chelsea W vs Brighton W" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Chelsea W vs Brighton W
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/iCoUaRRRTYfMOrxsmeMsQBpDgcvoCiTz/echo/stream/chelsea-w-vs-brighton-w-football-1417294/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Grizzly Wolfsburg vs Schwenninger" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Hockey",Grizzly Wolfsburg vs Schwenninger
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/WavAkzgBZqPbDJDcuQtQxzAjmfTyaJjl/echo/stream/grizzly-wolfsburg-vs-schwenninger-hockey-422926/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Frosinone vs Bari" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPApswDdiG4g+IEiCkgYuU+eswCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Football",Frosinone vs Bari
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/ixCAXUGBIvqzdwhvwHMpaovdSmtDajGC/echo/stream/frosinone-vs-bari-football-1419896/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Barcelona vs Newcastle United" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHF5SQM1uu4g+h3CAgaQB7SRAgCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Football",Barcelona vs Newcastle United
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/iAqndlmIEfNtCUTaJoztFdWHCJLLjBuA/rtmp/stream/ucl_bar/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays vs Baltimore Orioles" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJGGlhefENz0hdu-YhwwQUw4YLANMfsNn0Umtii6by9LLPdNaYK70ohBAA.webp" group-title="StreamedSU - Baseball",Toronto Blue Jays vs Baltimore Orioles
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/eGdEitdVeHcWQuCCtIRQJSksqdpRKQyn/delta/stream/live_mlb_blue-jays-orioles-live-streaming-517460832/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Atlanta Braves vs Philadelphia Phillies" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEOyIakCENxB8DekIhwwj5vgWA6Y-YbPoowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="StreamedSU - Baseball",Atlanta Braves vs Philadelphia Phillies
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/GjSWpRVRosNWnaIJJXvhTCRJbqkbDjiR/delta/stream/live_mlb_braves-phillies-live-streaming-517459536/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="St. Louis Cardinals vs Houston Astros" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGSi4AGOaBDcQfQ-pCIcMEFJDWFTJBT7DZ9FGBWa2b8vSyzNTWjA3MVEIIA.webp" group-title="StreamedSU - Baseball",St. Louis Cardinals vs Houston Astros
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/lndcHxXEBWeCznjJLICahxSMdzqnKYuw/delta/stream/live_mlb_cardinals-astros-live-streaming-517460400/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Yankees vs Boston Red Sox" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHDL1eIXSG4g+h-SEQ4YxkvoLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="StreamedSU - Baseball",New York Yankees vs Boston Red Sox
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/BSucbmKfZzUmFfGKZrncjpCmNokZNzxk/delta/stream/live_mlb_yankees-red-sox-live-streaming-517459968/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Besiktas Basketbol vs Trento" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Besiktas Basketbol vs Trento
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/rurSmTrgnZDnDNRdAhrWODxHmyGwdpOO/echo/stream/besiktas-vs-trento-basketball-495703/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Eypspor vs Trabzonspor" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECClhuYJGD7YQ3EHxAkQETRbPWNMAsD0x+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="StreamedSU - Football",Eypspor vs Trabzonspor
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/MDoWeipXYFvkQrbwCNtxFsEusCeuxuvY/echo/stream/eyupspor-vs-trabzonspor-football-1394670/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="stanbul Baakehir vs Antalyaspor" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWvV7AEIEiG4g+ukBBBSTx00fgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="StreamedSU - Football",stanbul Baakehir vs Antalyaspor
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/lTzpEfkaDLoNsAxhbAMivNFMKKCpAFAD/echo/stream/basaksehir-vs-antalyaspor-football-1394668/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Eintracht Frankfurt Women vs 1899 Hoffenheim Women" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECQ24wopKRDcQfLccSaQIGBY0FgSCn2Gz6KHWxRcd5ellkemtGBu9KIQQA.webp" group-title="StreamedSU - Football",Eintracht Frankfurt Women vs 1899 Hoffenheim Women
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/dpmGMFGLIlQvhSDrQjZjqUMozKlJBFAM/echo/stream/eintracht-frankfurt-w-vs-1899-hoffenheim-w-football-1401308/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Carl Zeiss Jena Women vs VfL Wolfsburg Women" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxC0ovTSBDcNIEkcQn9hnBKZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="StreamedSU - Football",Carl Zeiss Jena Women vs VfL Wolfsburg Women
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/hoxXDFsJRvYbudwzuhCbSRefitAuhZjt/echo/stream/carl-zeiss-jena-w-vs-vfl-wolfsburg-w-football-1401310/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Braga vs Ferencvros" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGG4gQDYElggtfEMZwQQMQyCkntBPRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Football",Braga vs Ferencvros
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.modifiles.fans/secure/qngFCnbjFjXsQJKcoddjVxTiTzxsdxXt/1773837000/1773865800/uel_bra/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="SC Braga vs Ferencvarosi TC" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",SC Braga vs Ferencvarosi TC
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/amawcxCzsgLMFtUZdDnacirOiiJmcHts/echo/stream/sc-braga-vs-ferencvarosi-tc-football-1528348/1/playlist.m3u8
+https://lb8.strmd.top/secure/hqqDRDFTKymZurMHJquJPUqkCaKKxqyB/echo/stream/besiktas-vs-trento-basketball-495703/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ATP/WTA 1000: Miami " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",ATP/WTA 1000: Miami 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/hVhgSFJUVzqAdABweZgIkjwGaVFKcRkv/echo/stream/atpwta-1000-miami-tn-1/1/playlist.m3u8
+https://lb6.strmd.top/secure/sSYTFflmEXcKRPsnVTVqiDWBCinBdCSr/echo/stream/atpwta-1000-miami-tn-1/1/playlist.m3u8
