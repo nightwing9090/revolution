@@ -1,6 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Greater Western Sydney Giants vs St Kilda Football Club" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxAQQopCEQ5NfEMZwwQKXBZMgYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="StreamedSU - Afl",Greater Western Sydney Giants vs St Kilda Football Club
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="New South Wales Waratahs vs Blues Super Rugby" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rYGBSbKbMFJDcQfEPpAgIRkImtGCwJBT7DZ9LSpRcwZeESyyPTLRgXmKiEEA.webp" group-title="StreamedSU - Rugby",New South Wales Waratahs vs Blues Super Rugby
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/mcUbeRIyKMzjhjOWjPFKWUnNlpteRpRL/echo/stream/greater-western-sydney-giants-vs-st-kilda-saints-australian-football-3362/1/playlist.m3u8
+https://lb3.strmd.top/secure/OrzwIAEaXjYxuvJOdcdEZBSWGpnspjfE/echo/stream/waratahs-vs-blues-rugby-51813/1/playlist.m3u8
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Fremantle Dockers vs Melbourne Demons" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Afl",Fremantle Dockers vs Melbourne Demons
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/ndudMJXfAsKRlXdsupfnmdOmdXXnxflb/echo/stream/fremantle-dockers-vs-melbourne-demons-australian-football-3363/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="South Sydney Rabbitohs vs Wests Tigers" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEClIhuYFLA3aQfEFJBmShnBcR8CwJBVusRYvSs1swZeESyzNTLRgXmKiEEA.webp" group-title="StreamedSU - Rugby",South Sydney Rabbitohs vs Wests Tigers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/lOvPNRIMbsxLQsJlKsELpErZfMhaLkxx/echo/stream/south-sydney-rabbitohs-vs-wests-tigers-game-236363/1/playlist.m3u8
