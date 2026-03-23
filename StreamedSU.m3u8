@@ -1,31 +1,41 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="La Salle Explorers vs Binghamton Bearcats" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",La Salle Explorers vs Binghamton Bearcats
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/GohDDebGpnxzSoEcJZwZplFDotvXTqZT/delta/stream/live_womens-national-invitation-tournament_la-salle-explorers-binghamton-bearcats-live-streaming-1220623155/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Marshall Thundering Herd vs UMBC Retrievers" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Marshall Thundering Herd vs UMBC Retrievers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/IuWxiERmZyvtNGgLRoBSBQNSXnYfMuUT/delta/stream/live_womens-national-invitation-tournament_marshall-thundering-herd-umbc-retrievers-live-streaming-1220624154/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Connecticut Huskies vs Syracuse Orange" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Connecticut Huskies vs Syracuse Orange
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/FIyvzZOaCtQerGJZMxJFGHReWovasIZt/delta/stream/live_ncaa-division-i-championship-women_uconn-syracuse-orange-live-streaming-1223605170/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Estudiantes L.P. vs Central Cordoba de Santiago" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Estudiantes L.P. vs Central Cordoba de Santiago
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/UMVOacLpfePlmheSpbVtRLueluHgPYHd/echo/stream/estudiantes-lp-vs-central-cordoba-de-santiago-football-1491990/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Independiente Santa Fe vs Independiente Medelln" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFJR4gZZCCG7aQfECb2Ip+3LgLAkFPsNn0UYFRravy9LLI1NaYK5iohBAA.webp" group-title="StreamedSU - Football",Independiente Santa Fe vs Independiente Medelln
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/hfmDGqoMumLhteNfaPQgPWYJPulQkMRf/echo/stream/santa-fe-vs-independiente-medellin-football-1506052/1/playlist.m3u8
+https://lb1.strmd.top/secure/sCgleDGDlEzycYQVLDIGTJLsHusomqhS/echo/stream/santa-fe-vs-independiente-medellin-football-1506052/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="West Virginia Mountaineers vs Kentucky Wildcats" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",West Virginia Mountaineers vs Kentucky Wildcats
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/YpZMLqjWXFDVPWTNaTMuRtQfsKmhFpSt/delta/stream/live_ncaa-division-i-championship-women_west-virginia-mountaineers-kentucky-wildcats-live-streaming-1223609166/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Ohio State Buckeyes vs Notre Dame Fighting Irish" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Ohio State Buckeyes vs Notre Dame Fighting Irish
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/knTyAIGBvGUDwNcPWfxQRWRwvQLfApyl/delta/stream/live_ncaa-division-i-championship-women_ohio-state-buckeyes-notre-dame-live-streaming-1223608167/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Ultimate Pool Champions League " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Ultimate Pool Champions League 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/HuPSvcvBHpYvntXYEsQIbjacRlEEiLEb/echo/stream/ultimate-pool-champions-league-game-298775/1/playlist.m3u8
+https://lb8.strmd.top/secure/gqILbZjjpyfsKXdmCepnqsuXpdwHWjzx/delta/stream/live_ncaa-division-i-championship-women_west-virginia-mountaineers-kentucky-wildcats-live-streaming-1223609166/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Baller League" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Baller League
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/JdoEXfjvLfrXbYAmmGunNHUnTkiSynBw/echo/stream/baller-league-game-16782186/1/playlist.m3u8
+https://lb3.strmd.top/secure/rJfkdHHTvDLfdlhoOwQmvLmYKwxXlaDx/echo/stream/baller-league-game-16782186/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ATP/WTA 1000: Miami " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",ATP/WTA 1000: Miami 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/iWrsxLrHzURuRLMijkLMXLoqUZZREbSH/echo/stream/atpwta-1000-miami-tn-1/1/playlist.m3u8
+https://lb5.strmd.top/secure/kVXglCdfvHuDWaIdgQmfRWTaIdQvTVnt/echo/stream/atpwta-1000-miami-tn-1/1/playlist.m3u8
