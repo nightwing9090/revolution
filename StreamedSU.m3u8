@@ -1,11 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Moldova vs Lithuania" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Moldova vs Lithuania
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Georgia vs Israel" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Georgia vs Israel
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/uTNBFMmwSWJgJvDgqXLJSEqxHENeIvZC/echo/stream/moldova-vs-lithuania-football-1514459/1/playlist.m3u8
+https://lb1.strmd.top/secure/cFZZvGcwwEvQoYksvCPSnfzzGSQQMtXY/echo/stream/georgia-vs-israel-football-1502469/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Malta vs Luxembourg" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNohB0QfXCG46QEPSSMhEKc7gLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="StreamedSU - Football",Malta vs Luxembourg
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.modifiles.fans/secure/zGlwJgbcTCCmkjwDStakGOnPeZXAbCKw/1774533600/1774560600/uefa_mlt/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Gibraltar vs Latvia" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKJD825ECG4g+ICLg3GQiFBZAwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Football",Gibraltar vs Latvia
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.modifiles.fans/secure/XZnOXnCHQOrgPHEEDmpvVbPKSvHKEpcC/1774533600/1774560600/uefa_gib/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Trkiye vs. Romania" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdEbkIIElBIAMaDgJYAIjZgciCBgKQnRA0lYQSlPx39sILDIUUZxlMDbhOPYAXlWw5JLjFWuHBG26M8DuZgHGacEEA.webp" group-title="StreamedSU - Football",Trkiye vs. Romania
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.modifiles.fans/secure/qrUDXLCncYxnwnkteOVYAvekSjHxLIHj/1774533600/1774560600/fifa_tur/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ATP/WTA 1000: Miami " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",ATP/WTA 1000: Miami 
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/RasSNGOwSRXyKdAZddgLlaHbVpnLlbpm/echo/stream/atpwta-1000-miami-tn-1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Texas Children's Houston Open | PGA Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Texas Children's Houston Open | PGA Tour
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/zYibRdEDPVfFxPvUUshHHlGCmkXBwwyk/echo/stream/texas-childrens-houston-open-pga-tour-pga-526234/1/playlist.m3u8
+https://lb6.strmd.top/secure/SVYRQRUQExlKRFWmGijaIWgBrTHwDcAJ/echo/stream/texas-childrens-houston-open-pga-tour-pga-526234/1/playlist.m3u8
