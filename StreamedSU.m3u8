@@ -1,26 +1,51 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Harrogate Town vs Notts County" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGF5I6YJJBDcQfECVwgIISyjMwQMAsD0x+w2fRRgVKLp-L0sst5MtBqi9GFAA.webp" group-title="StreamedSU - Football",Harrogate Town vs Notts County
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Connacht vs Ospreys" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXmFjQBfENxBSQJEDAO4QEEFdPwCwJBT7DZ9FGBUou78vSyzPTLSaovQhQA.webp" group-title="StreamedSU - Rugby",Connacht vs Ospreys
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/giIxkJkpKVxxQlVuTiVqYGCZVxbkSjCE/echo/stream/harrogate-town-vs-notts-county-football-1386472/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Bulls vs Munster" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rQlMggoMENz0g+IEoZBTTJ-bqkFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="StreamedSU - Rugby",Bulls vs Munster
+https://lb6.strmd.top/secure/bvqkAjPnaNUTCkQxCBiCwfkAvLfShfZP/echo/stream/connacht-vs-ospreys-rugby-49651/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="San Marino vs Faroe Islands" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKkhCyosnDBC8QWIyAhaQKENQsGQ8FkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="StreamedSU - Football",San Marino vs Faroe Islands
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/VzZglpFoYkFvpkGIBlHQFJpgdoqbjBVb/echo/stream/bulls-vs-munster-rugby-49650/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Everton FC Women vs Liverpool FC Women" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOLTYgQ3MEh0g+IEoYMwDUkBG0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="StreamedSU - Football",Everton FC Women vs Liverpool FC Women
+https://lb3.modifiles.fans/secure/cWXupkMNIuzJwzleHFsrunOmNaVtAIbw/1774695600/1774722600/fifa_smr/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="MotoGP Americas Grand Prix" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",MotoGP Americas Grand Prix
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/IYLGfibaUhrTOoNQNCsVwwgWAAyFvSTT/echo/stream/everton-w-vs-liverpool-w-football-1417308/1/playlist.m3u8
+https://lb7.strmd.top/secure/lKIwzGAQkxjGFhxumQmeHmvKMvGmMcJj/echo/stream/motogp-americas-grand-prix-game-122273/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Manchester United W vs Manchester City W" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Manchester United W vs Manchester City W
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/mWRmPBCgsjhVVIHHVtnQMICyCxuTkIJn/echo/stream/manchester-united-w-vs-manchester-city-w-football-1417305/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="UAE Warriors 69" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmRTBZyhCF4gshkBH0hqIFCcvmWSClhFzGKMKq0c35RtTlb8rMBgbuJiEEA.webp" group-title="StreamedSU - Fight",UAE Warriors 69
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/WUziBSEKszIRNCuqJsGLOHtNCDBBONEx/echo/stream/ppv-event-07-uae-warriors-69-ev-007/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Gloucester vs Leicester Tigers" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELSQI57ECRDcQfPSFPGzJ01ILAtMfsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="StreamedSU - Rugby",Gloucester vs Leicester Tigers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/qMYloHWbEtxpxGDXwHRZAaGkjqZmZybt/echo/stream/gloucester-vs-leicester-tigers-rugby-50099/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="AD Ceuta FC vs Cadiz" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",AD Ceuta FC vs Cadiz
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/OjHBcENmTOvDEdndAsajAHNYgXYlJjLY/echo/stream/ad-ceuta-fc-vs-cadiz-football-1392112/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Bayern Munich W vs Nrnberg" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Bayern Munich W vs Nrnberg
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/gecHhFfimVvLSWzfqNUDmqzXUtwyrNph/echo/stream/bayern-munich-w-vs-nurnberg-football-1401356/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="MXGP of Switzerland: Day 1" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdEfxA2ohEWYNxAkQMSbM4QQQksCkyJEbMKyyJ8kBJSMQAYxDaWwNuE49gBbHkvkkuY4a4cEbbo0f36YBzAGvJAA.webp" group-title="StreamedSU - Motor Sports",MXGP of Switzerland: Day 1
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.modifiles.fans/secure/TyhwXJENpubkCYxZaiXJnDQSkqCCpUtt/1774684800/1774728000/mxgp/index.m3u8
+https://lb2.modifiles.fans/secure/PBZjCCfpISsKrhhqlKMtsGNoVsmhbflt/1774684800/1774728000/mxgp/index.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="World SBK Portugal Round" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",World SBK Portugal Round
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/ucDPHDJjVzXjWgKZJnEZSXWwbFjhnpOS/echo/stream/world-sbk-portugal-round-racing-0059/1/playlist.m3u8
+https://lb7.strmd.top/secure/sYPHexalBtbRAuKjCwQCOgciFayKDzqT/echo/stream/world-sbk-portugal-round-racing-0059/1/playlist.m3u8
