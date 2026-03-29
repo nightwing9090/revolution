@@ -1,26 +1,36 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Straubing Tigers vs Eisbren Berlin" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRDihIwIOiG4g+IEoZAQQMY1fN8CwbTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Hockey",Straubing Tigers vs Eisbren Berlin
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/MLFfZDBWruYsDJLHcnAQaQweKYvFPRSa/echo/stream/straubing-tigers-vs-eisbaren-berlin-hockey-422933/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Eibar vs Las Palmas" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJWCQh4YFHRDcQfECRMgIuA9pBTtBYEgp9hs+ijAq9bD+XpZZeky0YB5iohBAA.webp" group-title="StreamedSU - Football",Eibar vs Las Palmas
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/pIzmCRhmorvOzKPtfqkTAYpxkWNJqDiz/echo/stream/eibar-vs-las-palmas-football-1392107/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Werder Bremen Women vs SGS Essen Women" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDPjZOtFCG4g+IEoZCITIXKfgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="StreamedSU - Football",Werder Bremen Women vs SGS Essen Women
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/ZgiWPQlwbYdIdnqdBnBAsyMZopjXuQSs/echo/stream/werder-bremen-w-vs-sgs-essen-w-football-1401361/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="FIM Motocross World Championship Season" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",FIM Motocross World Championship Season
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/TSZZHfGiOrInVtmWpvwbpRoOTyyxUlBH/echo/stream/fim-motocross-world-championship-season-game-288226/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="West Ham Women vs London City Lionesses" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAaG5gytFCG4g+IEof0gYZqSEQgCwJBT7DZ9FNrYou28vSyzPTLRg7vSiEEA.webp" group-title="StreamedSU - Football",West Ham Women vs London City Lionesses
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/nppzGYmPHbciqehiuqcEuaCCkHosYBzB/echo/stream/west-ham-w-vs-london-city-lionesses-football-1417304/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Chelsea W vs Aston Villa W" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Chelsea W vs Aston Villa W
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/QcAhmevMPdrefhnpcEtuVDtMDvZDdhbU/echo/stream/chelsea-w-vs-aston-villa-w-football-1417307/1/playlist.m3u8
+https://lb7.strmd.top/secure/cadpCQdHWpxwRJnJMIFTnCfgIPqwTMuN/echo/stream/west-ham-w-vs-london-city-lionesses-football-1417304/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="World SBK Portugal Round" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",World SBK Portugal Round
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/svTSzQaozAIJJXvkKBsWcwzZiVrpWdNH/echo/stream/world-sbk-portugal-round-racing-0059/1/playlist.m3u8
+https://lb10.strmd.top/secure/WbFPEMaSSshuaTsjXrsvGNHZhXXgATXt/echo/stream/world-sbk-portugal-round-racing-0059/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="MXGP of Switzerland: Day 2" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdETkiADGjYIJghu1CthBZgUiQxATEEOSEEkx2YOs77GKlQp0tgbcJx7ACulBfJJcQh1w4I23UQ7v0wHHqiEEA.webp" group-title="StreamedSU - Motor Sports",MXGP of Switzerland: Day 2
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.modifiles.fans/secure/HFAmRCoHNWNivCYsyiwnHbmkiLJrnIlG/1774759200/1774809600/mxgp/index.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Hero Indian Open | DP World Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Hero Indian Open | DP World Tour
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/dsWMBAVljaVFNwIJPtwrzKtAVytvQCsO/echo/stream/hero-indian-open-dp-world-tour-game-162626/1/playlist.m3u8
+https://lb2.modifiles.fans/secure/LUCYmadIqRUQNNaXCFDZhwPySlrzEPQZ/1774759200/1774809600/mxgp/index.m3u8
