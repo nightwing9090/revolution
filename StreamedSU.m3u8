@@ -1,31 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Santos vs Remo" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VcHxACADGCTAwIblpBSQKUyCs5NiRsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="StreamedSU - Football",Santos vs Remo
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/AhxcYVpzWBeKytIWuNqEDefwVPkbGnDL/echo/stream/santos-vs-remo-football-1492199/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Chapecoense-sc vs Atletico-MG" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Chapecoense-sc vs Atletico-MG
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/NtQIaZxLZfWkIIdrmkjMbzBlMPnoojgH/echo/stream/chapecoense-sc-vs-atletico-mg-football-1492193/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="America de Cali vs Bucaramanga" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",America de Cali vs Bucaramanga
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/mwIoNqXBtYIhdeQnOgJVcGfGlLWavkfy/echo/stream/america-de-cali-vs-bucaramanga-football-1506072/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Tigre vs Independiente Rivadavia" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBu4huYGVJB9tBkPpQnj+-TFwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="StreamedSU - Football",Tigre vs Independiente Rivadavia
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/sbhbWvFNybAXfaIzCuTEtuGbMWmZrkUg/echo/stream/tigre-vs-independ-rivadavia-football-1492011/1/playlist.m3u8
+https://lb3.strmd.top/secure/hHOOfxVJsGNHuDApOokTurbRjOEdYlZB/echo/stream/america-de-cali-vs-bucaramanga-football-1506072/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago White Sox vs Toronto Blue Jays" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Chicago White Sox vs Toronto Blue Jays
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/IujWURazIrvALcTyYMMNTYWwxcvKEIAp/echo/stream/chicago-white-sox-vs-toronto-blue-jays-baseball-178103/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Lyon W vs VfL Wolfsburg W" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Lyon W vs VfL Wolfsburg W
+https://lb9.strmd.top/secure/VchNcXvhYreIZlCYNjYiJiSoGoZtDQOy/echo/stream/chicago-white-sox-vs-toronto-blue-jays-baseball-178103/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Premier League Darts: Manchester " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Premier League Darts: Manchester 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/KmlHZTaxAfWUywBIYRlklGKIRoakKYpI/echo/stream/lyon-w-vs-vfl-wolfsburg-w-football-1525673/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Kansas City Royals vs Minnesota Twins" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDKDeIFAJDUQOrCBMkjIRIZ3mULJBSwi5jFGFV6O78o2py9+KzAYO7iYhBAA.webp" group-title="StreamedSU - Baseball",Kansas City Royals vs Minnesota Twins
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.modifiles.fans/secure/bZuzRrJbFDIYpDpXjmcWDXnSQazXRhVi/1775142600/1775173200/kansascityroyals/index.m3u8
-#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="Premier League Darts: Night 9" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdEREhRAxgJEGIDGIbiBBDEDfiCzVgERuJASNM9WLERlIQ92wUhElMDbhOPYATNWw5JLktdrTSutOcrjvRgHGqMakA.webp" group-title="StreamedSU - Darts",Premier League Darts: Night 9
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.modifiles.fans/secure/tdXxwtdEfSNjpWqypIpnBGRAjEYwysGj/1775142000/1775174400/darts/index.m3u8
+https://lb5.strmd.top/secure/kcTQuFOmYYSvUMVKMkoLfRMTKmArmZdZ/echo/stream/premier-league-darts-manchester-darts-1/1/playlist.m3u8
