@@ -1,41 +1,56 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="PPV EVENT 03: Ares 39" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",PPV EVENT 03: Ares 39
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/XxlBCsDRXAbwAuLdIblKEjyKIUIHCeNm/echo/stream/ppv-event-03-ares-39-ev-3/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="PPV EVENT 02: Brown v Ducar" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",PPV EVENT 02: Brown v Ducar
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/qvMzKEqdZEnRcYtXXUfRphHoDLJfSjoj/echo/stream/ppv-event-02-brown-v-ducar-ev-2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Detroit Tigers vs St. Louis Cardinals" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrOogcbMEhC9tRkgZCIthrCBgskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp" group-title="StreamedSU - Baseball",Detroit Tigers vs St. Louis Cardinals
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.modifiles.fans/secure/rUlOfBVUMspeMatzafwpLzoaamPuVsJz/1775225400/1775256000/detroittigers/index.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Washington Nationals vs Los Angeles Dodgers" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQh61SsAAMlELxBZTIEse0hqV6cZZIKWEXMYowqlD0-lGusW98VmAwT3ExCCA.webp" group-title="StreamedSU - Baseball",Washington Nationals vs Los Angeles Dodgers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.modifiles.fans/secure/AClRcvCkLYMbXRMwOJfEcKCTftOfKWxZ/1775225100/1775255700/washingtonnationals/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Trk Telekom BK vs Bourg-en-Bresse" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEChBSwfEHpYhuIXSQ25DICCFO6pBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="StreamedSU - Basketball",Trk Telekom BK vs Bourg-en-Bresse
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/cBEupeqgFULpYUpaxPacSQdXaFvssapu/echo/stream/turk-telekom-vs-jl-bourg-basketball-496226/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Guimaraes vs Tondela" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Guimaraes vs Tondela
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/ZUFwxQxUymqWxyAdCohArMMEYyuApnTp/echo/stream/guimaraes-vs-tondela-football-1396488/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Bahcesehir Kol. vs Besiktas" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Bahcesehir Kol. vs Besiktas
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/DnyHwySUcjIkQFQgemFBkIKTbGpPjMCW/echo/stream/bahcesehir-kol-vs-besiktas-basketball-496225/1/playlist.m3u8
+https://lb10.strmd.top/secure/vomIOLGgwdKIfnCmsAdZfKPgGZbVJlZY/echo/stream/bahcesehir-kol-vs-besiktas-basketball-496225/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="PPV EVENT 07: RMSHA at Tamarack" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",PPV EVENT 07: RMSHA at Tamarack
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/AfkmGrPNUBTKmOoQYKGyivbAnZEolZYo/echo/stream/ppv-event-07-rmsha-at-tamarack-ev-7/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Chennai Super Kings vs Punjab Kings" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKKYoQMvmG4gDfQ7h1mYpg-ALAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="StreamedSU - Cricket",Chennai Super Kings vs Punjab Kings
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.modifiles.fans/secure/TaRfriTwWociBawZbQgHbOZGghVikckG/1775214000/1775242800/ipl/index.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="St Helens vs Wigan Warriors" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKKzMwSNiG76QfEFI0hz5nBEPwCwJBT7DZ9FGBUou78vS2jPTLRg7mKiEEA.webp" group-title="StreamedSU - Rugby",St Helens vs Wigan Warriors
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/IAbxieICRyJXytpQLlWiofbKmQBcfoAd/echo/stream/st-helens-vs-wigan-warriors-game-184842/1/playlist.m3u8
+https://lb1.strmd.top/secure/fQeWXfjYbHjnJGOKZkaKrzkwOFksGsLs/echo/stream/ppv-event-07-rmsha-at-tamarack-ev-7/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="ONE Friday Fights 149 Tomyamkoong vs Maximus " tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBTAADKDAoEII7xBZTIEiBOIUIGFZCL8wJBSwi5jA6q0cwZeCJqOS1nejB-cTEIIA.webp" group-title="StreamedSU - Fight",ONE Friday Fights 149 Tomyamkoong vs Maximus 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/LoSzmTiHDmlFDSBSYrxNITrRelRPibtL/echo/stream/ppv-event-01-one-friday-fights-149-tomyamkoong-v-maximus-ev-01/1/playlist.m3u8
+https://lb5.strmd.top/secure/aRHwynSsNyAyDFcJrwhaUrNANvHtgpPF/echo/stream/ppv-event-01-one-friday-fights-149-tomyamkoong-v-maximus-ev-01/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Valero Texas Open | PGA Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Valero Texas Open | PGA Tour
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/kRxzaAVQBaVJbQJJcGkJmnkUZVvxLpaI/echo/stream/valero-texas-open-pga-tour-pga-526234/1/playlist.m3u8
+https://lb3.strmd.top/secure/cuIpMtyhnKvoHLipqmwCJuFbXATOLuCy/echo/stream/valero-texas-open-pga-tour-pga-526234/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ATP / WTA: Bucharest / Houston / Marrakech / Bogota / Charleston " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",ATP / WTA: Bucharest / Houston / Marrakech / Bogota / Charleston 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/ygwKFxoZuvFNOXGDvzGLqiHiLSkFZlHc/echo/stream/atp-wta-bucharest-houston-marrakech-bogota-charleston-tn-1/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Nascar Truck Series 2026 - Black's Tire 200" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",Nascar Truck Series 2026 - Black's Tire 200
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/tPFKPWlWZxTiPRjgHxjdkLfkBVnvosEg/delta/stream/live-event_nascar-truck-series-2026-black-s-tire-200-live-stream/1/playlist.m3u8
+https://lb10.strmd.top/secure/GXZnFXhIJuMrrwenMfKrDuiCtBoEDsjD/echo/stream/atp-wta-bucharest-houston-marrakech-bogota-charleston-tn-1/1/playlist.m3u8
