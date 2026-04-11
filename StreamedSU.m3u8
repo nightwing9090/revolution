@@ -1,31 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Auckland FC vs Melbourne Victory" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELVDcKWUiG4g+IEiFMwQKYyHOIpBYEgp9hs+ijAqUXD+Xq7RXky0YB5iohBAA.webp" group-title="StreamedSU - Football",Auckland FC vs Melbourne Victory
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Hurricanes Super Rugby vs Blues Super Rugby" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmBDESIWkhDcQfEFJBmIR3SAswQMAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="StreamedSU - Rugby",Hurricanes Super Rugby vs Blues Super Rugby
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/BnnxbMMtunegBchEEKhoUdFbFUMCgLAP/echo/stream/auckland-vs-melbourne-victory-football-1469695/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Fijian Drua vs Western Force" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECAbApIbmFFJdIPiB0aIxkIkQpTBYEgp9hs+in1sUXfeXpZZXky0YB70ohBAA.webp" group-title="StreamedSU - Rugby",Fijian Drua vs Western Force
+https://lb7.strmd.top/secure/eaosRGmUvlDfIziDiDiyYAmiqqglMJMa/echo/stream/hurricanes-vs-blues-rugby-51825/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Newcastle Jets vs Adelaide United" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWmDACksEHu4g+IGMZCITOS3oLAdMfsNn0UYFSi6vy9LLPdMNrmKiEEA.webp" group-title="StreamedSU - Football",Newcastle Jets vs Adelaide United
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/ysEsszMBhjyfGEiGrfYVhAgyuxEJYagL/echo/stream/fijian-drua-vs-western-force-rugby-51824/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="ONE Fight Night 42 Mann vs Dzhabrailov" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOTExkDGAQKIENhDcQJEBBABjRqLHdRMEJ3pYQiOTMX1ViFIOD9VDFMDbhOPYAWx5r5JLnlWuHBGwvPH9GAcwkoQQA.webp" group-title="StreamedSU - Fight",ONE Fight Night 42 Mann vs Dzhabrailov
+https://lb4.strmd.top/secure/CrLSgsWGFmxqzUoafpcCcBFNnxKkaext/echo/stream/newcastle-jets-vs-adelaide-united-football-1469696/1/playlist.m3u8
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Sydney Swans vs Gold Coast Football Club" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAVThREibiD77cIGCBRGzJxsCQU+w2fRRgVKLs-L0ss101phnYqIQQA.webp" group-title="StreamedSU - Afl",Sydney Swans vs Gold Coast Football Club
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://netanyahu.modifiles.fans/secure/YCrxhrHNIASpvuGyaYmizxmkjxGabRTD/1775858400/1775898000/onefightnight/index.m3u8
+https://lb7.strmd.top/secure/qodAxpqGjNxmDrguXHuXmayzrdjIkWqi/echo/stream/sydney-swans-vs-gold-coast-suns-australian-football-3385/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="DBX 6: Perez vs Garcia" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",DBX 6: Perez vs Garcia
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/VugkpWSZPoLUxKXoAlSAtTjnKBIOEhdB/delta/stream/live-event_dbx-6-perez-vs-garcia-live-stream/1/playlist.m3u8
+https://lb4.strmd.top/secure/xNzjrMwJMQxCTzkokVNqXmhazmIsWOZI/delta/stream/live-event_dbx-6-perez-vs-garcia-live-stream/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="V8 Supercars Taupo Super400" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",V8 Supercars Taupo Super400
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/yDAKhUvOGvvVvSGXhibSvaCULIPsRzFE/echo/stream/v8-supercars-taupo-super400-game-288226/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Hebert Conceicao vs Johan Gonzalez" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",Hebert Conceicao vs Johan Gonzalez
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/LGKxURcaPJeRsuKXNnbYhIlFBcTPyjLm/delta/stream/live-event_hebert-conceicao-vs-johan-gonzalez-live-stream/1/playlist.m3u8
+https://lb4.strmd.top/secure/FUXisgKSgAUFhiThghkIqqPtQlAqvFHp/echo/stream/v8-supercars-taupo-super400-game-288226/1/playlist.m3u8
