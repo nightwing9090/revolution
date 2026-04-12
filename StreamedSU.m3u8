@@ -1,86 +1,96 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Mainz vs Freiburg" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiAEhKYDSBDdNIDRBAwQpw-pzwCwJBT7DZ9FLrYouu8vSyzPTLRg7vSiEEA.webp" group-title="StreamedSU - Football",Mainz vs Freiburg
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/xmkaHtcBwtZiBGsFVcnXFrlWMhIqSTUX/rtmp/stream/bl_m05_720/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="1860 Munich vs Jahn Regensburg" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",1860 Munich vs Jahn Regensburg
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/HFwqRLbSfTBBErbDClvqIvtpnldGroXl/echo/stream/tsv-1860-munchen-vs-ssv-jahn-regensburg-football-1394378/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Galatasaray vs Kocaelispor" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGfQAMzSghDcQfECRAQQU08asmYBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp" group-title="StreamedSU - Football",Galatasaray vs Kocaelispor
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/mBlAPeDCzcbrSwICexUZViPUBsgchNFX/echo/stream/galatasaray-vs-kocaelispor-football-1394689/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Braga vs Arouca" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rejIAMIeGBRhuIQ3xAmYIFBZBSQEEPfgFgSCn2Gz6+lSi5gyu+ixZHyZaMD8xUQggA.webp" group-title="StreamedSU - Football",Braga vs Arouca
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/GYlNwgRUOBkdxKBgDiEpAmnMYfzOXgZo/echo/stream/sc-braga-vs-arouca-football-1396492/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Benfica vs Nacional de Madeira" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeETZgQGqSG4g+hkDBAozIPRBA3GwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Football",Benfica vs Nacional de Madeira
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/AQbUgicpKMMvbSLSXndLtvyjhgvbntFb/echo/stream/benfica-vs-nacional-football-1396491/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Celta Vigo vs Real Oviedo" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKWCQhwUXqG4g+IEiAMRjIGCEQ4YBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="StreamedSU - Football",Celta Vigo vs Real Oviedo
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/qgedyjVmqrbfrqWpJhYKiHfptVaGZEuA/rtmp/stream/laligatv/1/playlist.m3u8
+https://netanyahu.modifiles.fans/secure/soKikUnNWeQveIlfeRqNLvDExHnhMudS/1776000600/1776027600/laligatv/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Mirandes vs Castelln" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Mirandes vs Castelln
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/VNLBaJsCZMgtbukmBHpTtsuZhkawzrBr/echo/stream/mirandes-vs-castellon-football-1392143/1/playlist.m3u8
+https://lb5.strmd.top/secure/pzhHnwPProYfdWTRJQzbmiVZYUDvQEQK/echo/stream/mirandes-vs-castellon-football-1392143/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Cadiz vs FC Andorra" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Cadiz vs FC Andorra
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/fuVxlHiHgTKfRSdiDxnPShCGASEtBhDR/echo/stream/cadiz-vs-fc-andorra-football-1396983/1/playlist.m3u8
+https://lb1.strmd.top/secure/VeHusGlZPveYdAgyXYMcbaKvbWyWeRzp/echo/stream/cadiz-vs-fc-andorra-football-1396983/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="Dallas Renegades vs Columbus Aviators" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true" group-title="StreamedSU - American Football",Dallas Renegades vs Columbus Aviators
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/CvlBcgCKSSeSqoEIWIiPWMYIDOCFojlb/delta/stream/live_ufl_dallas-renegades-columbus-aviators-live-streaming-1234753011/1/playlist.m3u8
+https://lb9.strmd.top/secure/nGIdzLhXvIsGAxNhPnHysngvsxnMlnsJ/delta/stream/live_ufl_dallas-renegades-columbus-aviators-live-streaming-1234753011/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Bologna vs Lecce" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDEqymSbCG4g+IEsZAoQiCGdyGCwXZr7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Football",Bologna vs Lecce
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/pmycJGWrlkbPPtxJXuGKFfVqAFQBeIgL/rtmp/stream/sa_bol_720/1/playlist.m3u8
+https://netanyahu.modifiles.fans/secure/FiitXdihUqIOwVuqxTnmWhPbCKqKOWQx/1775998800/1776025800/sa_bol/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Randers FC vs FC Copenhagen" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvVmFEcECF4gshkIgggUJkCRDSTLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="StreamedSU - Football",Randers FC vs FC Copenhagen
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/ZINcctNzuUUGaJwaYnqPlSpCxfBuAcqP/echo/stream/randers-fc-vs-fc-copenhagen-football-1530539/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Chelsea vs Manchester City" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEIlFJiYEBBDcQfECRAwNuMyBQHcBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="StreamedSU - Football",Chelsea vs Manchester City
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/ynSySqdtbVkXfikkdwBLKiJamEmNKvUK/rtmp/stream/pl_che_720/1/playlist.m3u8
+https://lb6.strmd.top/secure/OfauZZgJCtMRjmgGifmEGaQqEMaUXmIj/echo/stream/randers-fc-vs-fc-copenhagen-football-1530539/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Stuttgart vs Hamburg" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbjRB9IWkN10kQEEDCN6QFxAqZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="StreamedSU - Football",Stuttgart vs Hamburg
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/TVkNvnRdaFmgpzhqTPXOuiewfEKLyDDC/rtmp/stream/bl_vfb_720/1/playlist.m3u8
+https://netanyahu.modifiles.fans/secure/wRoiIsoteZCFkCGBkqiKahOOSNOWsvxM/1775997000/1776024000/bl_vfb/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Lech Pozna vs GKS Katowice" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMLjBks2EIm4g+IEiBh6QEcyhA2pBYEgp9hs+ii1sUXLeXpZZXky0YB70ohBAA.webp" group-title="StreamedSU - Football",Lech Pozna vs GKS Katowice
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/veqdrGDmOZKMpJICwbtrlnnLbGPhvOJz/echo/stream/lech-poznan-vs-gks-katowice-football-1380629/1/playlist.m3u8
+https://lb3.strmd.top/secure/bdUSaMfQsioFKNNtFSpafLbXJkySBshT/echo/stream/lech-poznan-vs-gks-katowice-football-1380629/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="The Masters | Men's Golf Major" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",The Masters | Men's Golf Major
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/wZxGPnOKpVbXGlFGfMxgEhszezRsRqhp/echo/stream/the-masters-mens-golf-major-pga-526234/1/playlist.m3u8
+https://lb9.strmd.top/secure/msOAQJPQATruLGwmtqNjLTAzypeRdxSR/echo/stream/the-masters-mens-golf-major-pga-526234/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Toulouse vs Lille" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDBC0pYHbT4huIAyRAQQFzRYspcBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="StreamedSU - Football",Toulouse vs Lille
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/DrOBeYimzNFnNLMwrCYMuscsfXYRXtBs/rtmp/stream/l1_tou_720/1/playlist.m3u8
+https://netanyahu.modifiles.fans/secure/krrgPkfYWJwcHBsRsfleqVZAZjQwQYlO/1775996100/1776023100/l1_tou/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Nice vs Le Havre" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECjApKIEiHp7uIPrv0hzMc1fMSmSCn2Gz6mldrZgy8IllnamtGCeYqIQQA.webp" group-title="StreamedSU - Football",Nice vs Le Havre
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/bHCwuNxBvCYSMfgjDQwYBkqGlKyLxiIT/rtmp/stream/l1_nice_720/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Adler Mannheim vs EHC Red Bull Mnchen" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rHH3K0m+ENxB8QJAyAggYRkChA2UBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="StreamedSU - Hockey",Adler Mannheim vs EHC Red Bull Mnchen
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/WqKAJlrLyuhggtOtYSbIRdQLQxCtZudr/echo/stream/adler-mannheim-vs-munchen-hockey-423882/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Mallorca vs Rayo Vallecano" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJPxAwQfECRAHuOvSCMQT2xDgVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="StreamedSU - Football",Mallorca vs Rayo Vallecano
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/GewqOJcIpgoISgBOWcMdPwJSzQCNweco/rtmp/stream/laligatv_720/1/playlist.m3u8
+https://netanyahu.modifiles.fans/secure/DzGbQTsoxPKacrCUJEBrZgVmiYDtHfPT/1775996100/1776023100/l1_nice/index.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Mumbai Indians vs Royal Challengers Bangalore" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFG1hg+IWjm4gdBnFJCmYuEBYlMkFPsNn0UYFRs1l4RLLI1NaYK5iohBAA.webp" group-title="StreamedSU - Cricket",Mumbai Indians vs Royal Challengers Bangalore
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://netanyahu.modifiles.fans/secure/JFduwdcKDaPjsDHrPZacMYhrKLSSzxgw/1775991600/1776024000/ipl/index.m3u8
+https://netanyahu.modifiles.fans/secure/RkvWKdGAoFUtZSfddIGvSbfNzdqBejSY/1775991600/1776024000/ipl/index.m3u8
 #EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Union Bordeaux Bgles vs Stade Toulousain" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBghGvbSHD7dWEMZL7NF6SF0oWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="StreamedSU - Rugby",Union Bordeaux Bgles vs Stade Toulousain
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://netanyahu.modifiles.fans/secure/QnQVUELZvavBvOpQZVWFTRxDmaplVdBH/1775991600/1776024000/european-rugby-champions-cup_uni/index.m3u8
+https://netanyahu.modifiles.fans/secure/RuxwrZTimPmkIvonOeqrryuQLsRLqGZX/1775991600/1776024000/european-rugby-champions-cup_uni/index.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ATP 1000: Monte Carlo " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",ATP 1000: Monte Carlo 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/fMyAPZHAJWmVxRnFzQWfcpUSqNUoAUot/echo/stream/atp-1000-monte-carlo-tn-1/1/playlist.m3u8
+https://lb2.strmd.top/secure/NDoRGIZLNiRotgIigYMlIIBzQxovdodN/echo/stream/atp-1000-monte-carlo-tn-1/2/playlist.m3u8
