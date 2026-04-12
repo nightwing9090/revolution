@@ -1,6 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Port Adelaide Power vs St Kilda Saints" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Afl",Port Adelaide Power vs St Kilda Saints
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/WBgGVRMllhualSiIEDlfoEqgnxtGgPCd/echo/stream/port-adelaide-power-vs-st-kilda-saints-australian-football-3389/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Perth Glory vs Macarthur FC" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxAoKU7DxDcNIGMZCITOQyhBSCwJBT7DZ9bSpRcwZeESyyPTLRgXmKiEEA.webp" group-title="StreamedSU - Football",Perth Glory vs Macarthur FC
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/lXHibKvhkOSpiFRAxFjBHWCQMPtCBTeR/echo/stream/perth-glory-vs-macarthur-football-1469699/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="RIZIN Landmark 13" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdECENxBZqgxo34gAxsBKyQneoinVgAkRFnYQiFOJEhg3NZJjaywNuE49gBbHkvkkuKXq4cEbY5z336YBxq4hBAA.webp" group-title="StreamedSU - Fight",RIZIN Landmark 13
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://netanyahu.modifiles.fans/secure/ffZnfBNHUAQgduvWhFFKtVSKArJCaZJh/1775959200/1776013200/rizin/index.m3u8
+https://netanyahu.modifiles.fans/secure/HIirMunPKRyNYECAwaXPpqWBznVAtJKJ/1775959200/1776013200/rizin/index.m3u8
