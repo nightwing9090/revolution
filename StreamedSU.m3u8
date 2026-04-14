@@ -1,21 +1,36 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="UCL Multicast" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",UCL Multicast
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/EfvhYpKrysIrDfKfkllBUAhdssqLKxeT/echo/stream/ucl-multicast-game-1111/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Liverpool vs Paris SG" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCH68wKYLI29NILMZAQQFmGYs2sLJBTvtR4lGFW6O78o2pzd+KzAYO7iYhBAA.webp" group-title="StreamedSU - Football",Liverpool vs Paris SG
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://netanyahu.modifiles.fans/secure/riTzTcYYAEiidulSfTBWzLNSixhXqflH/1776182400/1776209400/ucl_liv/index.m3u8
+https://netanyahu.modifiles.fans/secure/AGkTuIqkXpvyKLGGXBQVkuzknZyterwM/1776182400/1776209400/ucl_liv/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Portsmouth vs Ipswich Town" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rCCEQyoSEHu4g+IErmMgY5kAY1SCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Football",Portsmouth vs Ipswich Town
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/zzGJGKgXTMmLAXlHPYjCvihPxOsqFttI/delta/stream/live_championship_portsmouth-ipswich-live-streaming-1239590169/1/playlist.m3u8
+https://lb6.strmd.top/secure/cmXjFBnHPAlTjTSnuyVfSYYQICwzzmXo/delta/stream/live_championship_portsmouth-ipswich-live-streaming-1239590169/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Atltico Madrid vs Barcelona" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvlYgQW+GBQheILMZARtIGGYvaULJBSwi5jFGFUoe78o2pzPmvRg7uJiEEA.webp" group-title="StreamedSU - Football",Atltico Madrid vs Barcelona
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://netanyahu.modifiles.fans/secure/YsKHhZaBaShGtIALZfqPsbiZWnMqzdSE/1776182400/1776209400/ucl_atm/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Port Vale vs Barnsley" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLAjogQWviG4g9JXCAggUIY3pwwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Football",Port Vale vs Barnsley
+https://netanyahu.modifiles.fans/secure/bdolRcHVfFdavsBSUTegOUiZNjAItoen/1776182400/1776209400/ucl_atm/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Southampton vs Blackburn Rovers" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKFG5heSMHxDcQ+krhAmYBy4hIFgumP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="StreamedSU - Football",Southampton vs Blackburn Rovers
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/GoSkuWsQNyrYmLakUoMUHkIwGtAprRBM/echo/stream/port-vale-vs-barnsley-football-1387397/1/playlist.m3u8
+https://lb2.strmd.top/secure/zQbYXYrNAMdXcKRdSdwEvHAGwtFHjItD/echo/stream/southampton-vs-blackburn-football-1387087/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Atletico Madrid vs Barcelona" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Atletico Madrid vs Barcelona
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/ljWIiTsISDVgnvLOetdHAwVPQIzKAQeT/echo/stream/atletico-madrid-vs-barcelona-football-1534910/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Al-Ittihad vs Al Wahda" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Al-Ittihad vs Al Wahda
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/BJJwyQLPNLcnbJbssoXLiWOcznLbBBdB/echo/stream/al-ittihad-fc-vs-al-wahda-fc-football-1524399/1/playlist.m3u8
