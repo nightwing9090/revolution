@@ -1,41 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Adelaide United vs Macarthur FC" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEFwAMxKiRDcQfEDGMhEJnDkRSCwJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp" group-title="StreamedSU - Football",Adelaide United vs Macarthur FC
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="MXGP of Trentino (ITA) | Day 2" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdELYBBAlg3UfwoTuIRJ0T0s1ao2GSGIdTBBD60gMYzGwEkoEtgbcJx7AC2PBfJJcelFwtNKEUUbd36YByCRhBAA.webp" group-title="StreamedSU - Motor Sports",MXGP of Trentino (ITA) | Day 2
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/GMyqVBosZPkBMwwiEuXHVzudpsDvFvbK/echo/stream/adelaide-united-vs-macarthur-football-1469705/1/playlist.m3u8
-#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Melbourne Demons vs Brisbane Lions" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Afl",Melbourne Demons vs Brisbane Lions
+https://netanyahu.modifiles.fans/secure/OGUzHtmDwyTeMJyyftOuUASBWngSMZKC/1776573300/1776627300/mxgp/index.m3u8
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="West Coast Eagles vs Fremantle Dockers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Afl",West Coast Eagles vs Fremantle Dockers
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/auRYoCrJqndYufGBMnETiBAJtUkFaHUS/echo/stream/melbourne-demons-vs-brisbane-lions-australian-football-3397/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Sydney Roosters vs Newcastle Knights" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGBSKIYEhAkQ3EHxBSQFw8ZymLCpkgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="StreamedSU - Rugby",Sydney Roosters vs Newcastle Knights
+https://lb5.strmd.top/secure/wsVRCBIZBuuFpVeJkOrsCutvqZPcHBPS/echo/stream/west-coast-eagles-vs-fremantle-dockers-australian-football-3398/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Parramatta Eels vs Canterbury Bulldogs" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title="StreamedSU - Rugby",Parramatta Eels vs Canterbury Bulldogs
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/BPexMMhbMJVtBZtUlgjWtxvCsbWEkwoC/echo/stream/sydney-roosters-vs-newcastle-knights-game-2737723/1/playlist.m3u8
-#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="North Melbourne Kangaroos vs Richmond Tigers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Afl",North Melbourne Kangaroos vs Richmond Tigers
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/HsxkIfDXPgEJzKbNwdenSaRlRiDaFdTT/echo/stream/north-melbourne-kangaroos-vs-richmond-tigers-australian-football-3396/1/playlist.m3u8
+https://lb5.strmd.top/secure/BEfcyaTKKLJWLvIuVUWxHbexCrWWAXcV/echo/stream/parramatta-eels-vs-canterbury-bulldogs-game-17u3262/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="SD Fight Night Mansour v King" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",SD Fight Night Mansour v King
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/ftWIWpEvkLEPpjjDlEUcpLtzVLSHyZvX/echo/stream/ppv-event-08-sd-fight-night-mansour-v-king-ppv-08/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="RAF 08: Dvalishvili vs. Cejudo" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdakLCBAUQAYzHVg3EVmAQpIBiBjZGC+hEUjuIDRJKLlc1QZgpgbcJx7ACq82HJJco81w4I20zubv0wHMacEEA.webp" group-title="StreamedSU - Fight",RAF 08: Dvalishvili vs. Cejudo
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://netanyahu.modifiles.fans/secure/vHvyFLifPNeDKQcBZtmntSEAIwlpBHVd/1776546000/1776592800/raf/index.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Manny Pacquiao vs Ruslan Provodnikov" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",Manny Pacquiao vs Ruslan Provodnikov
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/wBJTlmgtDRSOFuqoQVRgcdauVhIeiEDD/delta/stream/live-event_manny-pacquiao-vs-ruslan-provodnikov-live-stream/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WrestleMania 42 Saturday" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmTjUQWECGBIQvHSekhEEI1cswWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="StreamedSU - Fight",WrestleMania 42 Saturday
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/wvMWIFMRThSMXNLCUFhTulxkBtjZiAOT/delta/stream/live-event_wrestlemania-42-live-stream/1/playlist.m3u8
+https://lb1.strmd.top/secure/qupMfMuSTFSXDYRARzWCTmRjUkTAJWAt/echo/stream/ppv-event-08-sd-fight-night-mansour-v-king-ppv-08/1/playlist.m3u8
