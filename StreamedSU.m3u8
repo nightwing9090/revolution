@@ -1,11 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Crusaders Super Rugby vs New South Wales Waratahs" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeGFFVumsCBDcQfEFP0gIRkIgs4pBYEgp9hs+ik1sUXXRvpZZXky0YB70ohBAA.webp" group-title="StreamedSU - Rugby",Crusaders Super Rugby vs New South Wales Waratahs
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="MotoGP Spanish Grand Prix" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",MotoGP Spanish Grand Prix
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/NWcpZWFaxzLfpxEtsVlCvCsPxRNEsbte/echo/stream/crusaders-vs-waratahs-rugby-51832/1/playlist.m3u8
+https://lb8.strmd.top/secure/kGTfFYpQrsxxuSOMFnWfZwmRQXJKWnvI/echo/stream/motogp-spanish-grand-prix-game-122273/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Brisbane Broncos vs Canterbury Bulldogs" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title="StreamedSU - Rugby",Brisbane Broncos vs Canterbury Bulldogs
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/LuwGtsWYFaCMkHfVYsAdqSYrWDsWYkdD/echo/stream/brisbane-broncos-vs-canterbury-bulldogs-game-576373/1/playlist.m3u8
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Richmond Tigers vs Melbourne Demons" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Afl",Richmond Tigers vs Melbourne Demons
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/lXyOzvhYVlMWlQxBuLdMllOtrlRLxmAT/echo/stream/richmond-tigers-vs-melbourne-demons-australian-football-3400/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ATP/WTA 1000: Madrid " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",ATP/WTA 1000: Madrid 
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/TrxwpdwaNnKLCMrHhIBKxNGAHYgkMrJo/echo/stream/atpwta-1000-madrid-tn-1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Volvo China Open | DP World Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Volvo China Open | DP World Tour
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/TMYCbgTshztYTLDZenrnNOrGscOgzfrz/echo/stream/volvo-china-open-dp-world-tour-game-162626/1/playlist.m3u8
+https://lb2.strmd.top/secure/jrBVwfFXcumqtFvEefYhynhFWAqAzxEQ/echo/stream/volvo-china-open-dp-world-tour-game-162626/1/playlist.m3u8
