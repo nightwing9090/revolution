@@ -1,51 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="St George-Illawarra Dragons vs Sydney Roosters" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title="StreamedSU - Rugby",St George-Illawarra Dragons vs Sydney Roosters
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/tjVdyfMpWgEnKHYdCSLxmzIgqXlgTWlM/echo/stream/dragons-vs-sydney-roosters-game-2737723/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="MotoGP Spanish Grand Prix" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",MotoGP Spanish Grand Prix
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/SjmMIGKOYkkPdeWjlRjDKVinXoTimPGo/echo/stream/motogp-spanish-grand-prix-game-122273/1/playlist.m3u8
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Essendon Bombers vs Collingwood Magpies" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Afl",Essendon Bombers vs Collingwood Magpies
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/gHLbrbEVaJYHZZLOjNMAMLyNiBnJoWNj/echo/stream/essendon-bombers-vs-collingwood-magpies-australian-football-3402/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Hurricanes Super Rugby vs ACT Brumbies" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLLBACQzENz1aQUkCYiHEZnCgLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="StreamedSU - Rugby",Hurricanes Super Rugby vs ACT Brumbies
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/GRIcsMcKPZAtRHWlZDoSqhIuNENMpakO/echo/stream/hurricanes-vs-brumbies-rugby-51834/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="LUX 060" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",LUX 060
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/LkxAWKUEGbzRXirMvTgmmwjziwDMvKxt/echo/stream/ppv-event-06-lux-060-ppv-06/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Tuff N Uff 153" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Tuff N Uff 153
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/ifndhmxqlmmAxUNNyAOksGqMyvTjyhKB/echo/stream/ppv-event-07-tuff-n-uff-153-ppv-07/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Portland Trail Blazers vs San Antonio Spurs" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiBRgkFMGD4gNBkptwhEiCIZB8CwHTH7DZ9LSpRcwZeESyyPTLR6ovQhQA.webp" group-title="StreamedSU - Basketball",Portland Trail Blazers vs San Antonio Spurs
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://netanyahu.modifiles.fans/secure/CwhgYsihJUqnSaOviEjOPYxtwuQRpXdZ/1777073400/1777101480/portlandtrailblazers/index.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Dodgers vs Chicago Cubs" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFLAyqosGD4huIAwZKGQiHBBBmQBYEgp9hs+ijAqUXD+XpZZXky0eqL0oUA.webp" group-title="StreamedSU - Baseball",Los Angeles Dodgers vs Chicago Cubs
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://netanyahu.modifiles.fans/secure/jpbqrbYLJWcYHFeyElSfiqWZEfJeZJtE/1777072500/1777103100/losangelesdodgers/index.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Francisco Giants vs Miami Marlins" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGAAGCuHA5uIPkZAkQhxDgimjBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp" group-title="StreamedSU - Baseball",San Francisco Giants vs Miami Marlins
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://netanyahu.modifiles.fans/secure/eIVzzVzaMFUxTrqaDhSEcifcNCuqsZVN/1777136700/1777167300/sanfranciscogiants/index.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="TFNF Night of Champions XI" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",TFNF Night of Champions XI
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/lEapZpWYGVvvSPjTJsyCsLOAaqmYKZyo/echo/stream/ppv-event-05-tfnf-night-of-champions-xi-ppv-05/1/playlist.m3u8
+https://lb3.strmd.top/secure/sooetISxClKxOYmgIVWlZWpQuxGvnKZn/echo/stream/hurricanes-vs-brumbies-rugby-51834/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Volvo China Open Round 3" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="StreamedSU - Golf",Volvo China Open Round 3
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/QeKvRdnUYDbHTQCPMXeOFtKNfkuRBZsi/echo/stream/volvo-china-open-dp-world-tour-game-162626/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="BKFC Fight Night Clearwater Gaskins vs Guymon" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",BKFC Fight Night Clearwater Gaskins vs Guymon
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/puseOhVgkOPGXUMMqMqyEmhwtEotlRWF/delta/stream/live-event_bkfc-fight-night-clearwater-gaskins-vs-guymon-live-stream/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="World of Outlaws Sprint Cars Knoxville" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",World of Outlaws Sprint Cars Knoxville
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/IEBnvvoIHrIseOtdyYKJSXlfNaYTlkvD/echo/stream/ppv-event-16-world-of-outlaws-sprint-cars-knoxville-ppv16/1/playlist.m3u8
+https://lb4.strmd.top/secure/PNTHeMowmusZhPxWFRIrMtQiFtCYLMdA/echo/stream/volvo-china-open-dp-world-tour-game-162626/1/playlist.m3u8
