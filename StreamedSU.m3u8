@@ -1,36 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Brisbane Lions vs Adelaide Crows" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Afl",Brisbane Lions vs Adelaide Crows
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Melbourne City vs Adelaide United" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJGBRhRfXGG4gDukiFMwQKECfOmpBYBpj9hs+lpUou28vSyzPTLRg2mKiEEA.webp" group-title="StreamedSU - Football",Melbourne City vs Adelaide United
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/CYCXMeIpPnnhXAmbvqRfsJwLdcxmFvsM/echo/stream/brisbane-lions-vs-adelaide-crows-australian-football-3406/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Sydney FC vs Auckland FC" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGPhgkPZiG4g+IEiFMwQKYyHOnGwJBT7DZ9FGBUou78vQ2jPTLRg7mKiEEA.webp" group-title="StreamedSU - Football",Sydney FC vs Auckland FC
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/jFAbArDiTYbJZForjFelhfDyYebsvVPx/echo/stream/sydney-vs-auckland-football-1469710/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Chiefs Super Rugby vs Fijian Drua" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcCgZiqUkNxB8QukCAgGQiM2YlMkFPsNn0UYFZravy9LLM1NaYK5iohBAA.webp" group-title="StreamedSU - Rugby",Chiefs Super Rugby vs Fijian Drua
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/lQkEtyXHywNhlvxjsXgeJJWgkXAosKCn/echo/stream/chiefs-vs-fijian-drua-rugby-51835/1/playlist.m3u8
+https://lb5.strmd.top/secure/MzRTUJCqUyIDDNcgMmaKuHYqIjBXDDPp/echo/stream/melbourne-city-vs-adelaide-united-football-1469711/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Volvo China Open | DP World Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Volvo China Open | DP World Tour
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/JSftpzkyMdtqcEofDmaAEstturNUKzsu/echo/stream/volvo-china-open-dp-world-tour-game-162626/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Jarrell Miller vs Lenier Pero" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKr2whqIWWEoheILMd0gUpmNpAkbLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="StreamedSU - Fight",Jarrell Miller vs Lenier Pero
+https://lb2.strmd.top/secure/sXRyZVdQJmsJjLqqwGnBfGaCJMhpjPYW/echo/stream/volvo-china-open-dp-world-tour-game-162626/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Jarrell Miller vs Lenier Pero" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",Jarrell Miller vs Lenier Pero
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/fYYwjFMremnuNaHtEaHvYRqcZWFTCEuw/delta/stream/live-event_jarrell-miller-vs-lenier-pero-live-stream/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Julio Cesar Chavez Jr vs Jhon Caicedo" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",Julio Cesar Chavez Jr vs Jhon Caicedo
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/CloohysMzjbQWzLFuatqqLCuxOGlWubu/delta/stream/live-event_julio-cesar-chavez-jr-vs-jhon-caicedo-live-stream/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="American Flat Track Ventura" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",American Flat Track Ventura
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/BzdjNhIsEfyHfrcCvCmOrJTXAxkqJyvw/echo/stream/ppv-event-19-american-flat-track-ventura-ppv-19/1/playlist.m3u8
+https://lb10.strmd.top/secure/ARQNpbkEnbQCOhrsOGusuxrDSdcpmtrx/delta/stream/live-event_jarrell-miller-vs-lenier-pero-live-stream/1/playlist.m3u8
