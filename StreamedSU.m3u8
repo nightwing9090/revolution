@@ -1,16 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Arka Gdynia vs Grnik Zabrze" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiHjYQ9fCH3cQfEBpiadFsxCMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="StreamedSU - Football",Arka Gdynia vs Grnik Zabrze
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/cUsqnQZxVDbIoGqEspHNXDxUxcPStbEc/echo/stream/arka-gdynia-vs-gornik-zabrze-football-1380654/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Forge vs Supra du Qubec" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Forge vs Supra du Qubec
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/kGlRobcneEflUUZjRslVKRpwyYghqnJF/echo/stream/forge-vs-supra-du-quebec-football-1517281/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Royal Challengers Bangalore vs Kolkata Knight Riders" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHzBlwMECmBSQ3DUdwhDh3cZQgFTJBT7DZ9FFrb62W8vSyz9TLRg7vSiEEA.webp" group-title="StreamedSU - Cricket",Royal Challengers Bangalore vs Kolkata Knight Riders
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/rsOKNNvaOhvBwKcSpoBrUvRxGdlMEDnY/rtmp/stream/SnUgJnG8t39rVI-xxpOVTrH4W9cMfqhr1WOv_r9ORbyh5MJ-MXDRiG4Ag0KGGbt10l2fd6M/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="Players Championship 16" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdEAY2AQQEIUJCJEIECQEiQDENwUrpiFNWCyYCscJBjFMRlvEMUwNuE49gBbHkvkkufha4cEbbiYv36YByGQkA.webp" group-title="StreamedSU - Darts",Players Championship 16
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/BzMaRwhDGnAiNoJdIbwMeqAvuglAYZAe/rtmp/stream/hQ7MUHQfSKBqHcF2l7FmCFKQEznFjmJGKeJS8pbDT_df1d0gFfUNFUTEUaxavmRGKhCAgOmaNzM/1/playlist.m3u8
+https://lb9.strmd.top/secure/KKwKLwWTqZFTZknaoCotiwzMDWdSwIUC/rtmp/stream/pci0Kw_LjG_IY8z3gbl30UcAVKv71pduCS4RvdDnEgvC3MjlhbOSUM78Y85Okw5JJN_mufOLNJs/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ATP/WTA 1000: Rome " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",ATP/WTA 1000: Rome 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/GsJBHkqDHATnTDNiwtaFORDbCqSBCnGk/echo/stream/atpwta-1000-rome-tn-1/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="UCI Giro dItalia | UCI World Tour " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",UCI Giro dItalia | UCI World Tour 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/FRSAIFlYGYqNFjnlAsRzftszUTeWUkXR/echo/stream/uci-giro-ditalia-uci-world-tour-game-13622/1/playlist.m3u8
+https://lb7.strmd.top/secure/RHegYINYyodLfKkBUmTqxrpgXYiVCmNw/echo/stream/atpwta-1000-rome-tn-1/1/playlist.m3u8
