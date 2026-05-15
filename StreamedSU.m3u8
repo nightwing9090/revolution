@@ -1,16 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Dodgers vs San Francisco Giants" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdr2gxxSSiF4gsh4yRAQQ0kFeohm+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="StreamedSU - Baseball",Los Angeles Dodgers vs San Francisco Giants
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Chiefs Super Rugby vs Highlanders Super Rugby" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAdxD0ADGCSkQmviCkgzEEMcQWUZgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="StreamedSU - Rugby",Chiefs Super Rugby vs Highlanders Super Rugby
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/hLDzkHezLEFDuPhcPdlENnugWcpYuZHu/rtmp/stream/pQx2QwoVsSsDswZV1qk0ceGNj7W77JFyyZX6tM5p-l2VuYQUtYgePXqKzu0afS-gePNT81ThOmmGEIFlmHnLodVo1Q/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Portland Fire vs New York Liberty" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOTCELMG6NsIMYM4khIAMYh6wiMH5LuIYYpAkQDEDAoCho-fzFqYKYG3CcewAtjxXySXDMtcOCNsM6WH9GAcyiIQQA.webp" group-title="StreamedSU - Basketball",Portland Fire vs New York Liberty
+https://lb19.strmd.top/secure/rAKmZFtsMUHaMTkqLGUQuceSHYZOQGvB/echo/stream/chiefs-vs-highlanders-rugby-51847/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="MotoGP Grand Prix of Catalunya " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",MotoGP Grand Prix of Catalunya 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/fQlJltJtYqLobGvPTNsmWIwAlxznQSHc/delta/stream/live_wnba_fire-liberty-live-streaming-1210331457/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Anaheim Ducks vs Vegas Golden Knights" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAPA4pIFGCQhuGkDpi6QZs33ONgSCn2Gz6elSi5gy8IllnumtGCeYqIQQA.webp" group-title="StreamedSU - Hockey",Anaheim Ducks vs Vegas Golden Knights
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb16.strmd.top/secure/LQWgCjTMiYroYUvIgBDMyMSVYSvmlNud/rtmp/stream/YqZpqrShvND8KEQ8BeFPzGr8yBT7v48W7QY3qOifaep4Tm3xSEn8aBHJQNoyOp-gPJZijfYfY_2GfrklbQM/1/playlist.m3u8
+https://lb14.strmd.top/secure/PyepcgCJXcFMidjKBMtGSBPNqZTOZKga/echo/stream/motogp-grand-prix-of-catalunya-game-122273/1/playlist.m3u8
