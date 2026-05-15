@@ -1,36 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Canada Ice Hockey vs Sweden Ice Hockey" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdEAYxAMQJYNxEgsICNIHZgM8YJSSQiECG4VG8rVJUoxwEtQHV5ZYG3CcewAvMNhySXP0NcOCNls6GH9GAcCjoQQA.webp" group-title="StreamedSU - Hockey",Canada Ice Hockey vs Sweden Ice Hockey
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Rizespor vs Beikta" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRBBDwwfENxBS9IXSRCbDm07s0SmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="StreamedSU - Football",Rizespor vs Beikta
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb19.strmd.top/secure/KoswVIzdwdSHpBuTkFGFeQFQDmtuFNVz/rtmp/stream/Ajdcj6N5SHp6mNRKO8Kzh8GCSmyvbmTlht_JIRsE1uTMoCt0pgbV7OCQtxv7u7CT6vIfgi7telCo-A/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Finland Ice Hockey vs Germany Ice Hockey" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdEGEAGNgEfsG7ZsILCAYgSwEvxAgpMCiG7KtwuRKUyIG0UcQytMFMDbhOPYAUlWw5JLkFWuHBGwmcrjvRgHCKMIkA.webp" group-title="StreamedSU - Hockey",Finland Ice Hockey vs Germany Ice Hockey
+https://lb8.strmd.top/secure/QAxpqfYwBPVSJvBYvhNNXnQBAPbUfgnC/echo/stream/rizespor-vs-besiktas-football-1394736/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Karen Chukhadzhyan vs Paddy Donovan" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",Karen Chukhadzhyan vs Paddy Donovan
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb14.strmd.top/secure/lZmOvrzsDvSzmKphVeSeeQdVgyDPVBvZ/rtmp/stream/grovlQFht1FlYl3e1LQv0zBrDhZga6ikgOoksNwClly1558xL89jUBXolhs2hyR2QAXq54vhRvKjHQ/1/playlist.m3u8
+https://lb7.strmd.top/secure/zbEpxnullCEKmfevqkwhHSxwIhyCoUSc/delta/stream/live-event_karen-chukhadzhyan-vs-paddy-donovan-live-stream/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Zaglebie Lubin vs Pogon Szczecin" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Zaglebie Lubin vs Pogon Szczecin
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb16.strmd.top/secure/uqvfKrwEVjmvcXmIdOEFmbsfUWAJSaQB/echo/stream/zaglebie-lubin-vs-pogon-szczecin-football-1380680/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Indy 500: Practice " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",Indy 500: Practice 
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb14.strmd.top/secure/LPOavbwPRpzfKJwNrnxpPqGPhJGbVeLD/echo/stream/indy-500-practice-racing-0059/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Lucknow Super Giants vs Chennai Super Kings" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFLDhaAlGBIhuIPodwbzMM5akFgSCn2Gz6elSi77y9LLPdNaYPpiohBAA.webp" group-title="StreamedSU - Cricket",Lucknow Super Giants vs Chennai Super Kings
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/TVDzOyTvTLQrsXGDcSbniCCdHREynsYq/rtmp/stream/i-9CVnR1cw53yNsUCRoelRBtE6dti7aUDaEFguOn8VbrXByDJcFXm2oOeC8MFcVs2ISMSl8/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="World SBK Czech Republic | World SBK Championship Season " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",World SBK Czech Republic | World SBK Championship Season 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb16.strmd.top/secure/aZWWDlSqTFfcQENjNhStdUdkYVAKOvoG/echo/stream/world-sbk-czech-republic-world-sbk-championship-season-game-4u8337/1/playlist.m3u8
+https://lb9.strmd.top/secure/DCndSwknwrWJpTeUiokmaNNniqeMqPmS/rtmp/stream/oOZnGWvk6wSD7nz_tKi-7_ujB027EUUvOZ2PDW9aFV9eIki43rhTBcm_PiyuWEWtQKSbwWY/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="PGA Championship | Men's golf major" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",PGA Championship | Men's golf major
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb17.strmd.top/secure/pMHCTfVXQSZsCpBmMowvBJWonwhGPFeN/echo/stream/pga-championship-mens-golf-major-game-162626/1/playlist.m3u8
+https://lb12.strmd.top/secure/cUWGUSsaYyAnHNpfEmvahCwgefjjyTHg/echo/stream/pga-championship-mens-golf-major-game-162626/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="ONE Friday Fights 154 & The Inner Circle" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOTRFYCRABjEEJAhukiRUFiQnCCCXdgEOZwYh6qqUqFCUIkY0lqBbcJx7AC2PMDDkkuYQK4cEbVZwF36YBxqjGpAA.webp" group-title="StreamedSU - Fight",ONE Friday Fights 154 & The Inner Circle
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/pnLLvwJGLyasjQtpXYaxSqsnSdUugKlb/rtmp/stream/5W0IBC7pCtnEqu83vGIF6Xo77d_fxSt3vnKDw8mqz3GxGNS19LT-UCsM11p8wVSLxUDsU_6AqA/1/playlist.m3u8
+https://lb5.strmd.top/secure/fFgJsoNPIIbbaDNsRrZRUgKPsyxKigev/rtmp/stream/y2LaCcOIa7FkNyic7JIBvW9WA8QqJhaJ0DO8U32uvPHAhIkytxOxi8XRCrdjmZAXc6ESEdqHkQ/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ATP/WTA 1000: Rome " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",ATP/WTA 1000: Rome 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/KojIgIOkjfToNdsVDhNfQQnoRTdqmhcl/echo/stream/atpwta-1000-rome-tn-1/1/playlist.m3u8
+https://lb2.strmd.top/secure/JhxPBglNoKwldcVKehLEHXuxwQTDVRzh/echo/stream/atpwta-1000-rome-tn-1/1/playlist.m3u8
