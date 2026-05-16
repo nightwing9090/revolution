@@ -1,16 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Blues Super Rugby vs Hurricanes Super Rugby" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAzAZIEIhkkQ3EHxBSdICMd0gDRmAWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp" group-title="StreamedSU - Rugby",Blues Super Rugby vs Hurricanes Super Rugby
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Carlton Football Club vs Western Bulldogs" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMtzBIwonCBDcQUkHxAkjJkBAMWJTbTH7DZ9FDrYouO8vSyzPTLRg7vSiEEA.webp" group-title="StreamedSU - Afl",Carlton Football Club vs Western Bulldogs
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb14.strmd.top/secure/XoDGwdsDvMCyMGGhZXVqnSByGoflVNKo/echo/stream/blues-vs-hurricanes-rugby-51849/1/playlist.m3u8
-#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Melbourne Demons vs Hawthorn Hawks" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Afl",Melbourne Demons vs Hawthorn Hawks
+https://lb10.strmd.top/secure/cdIsLgPNiPXJhcytcktVFCEhQRtRWkte/echo/stream/carlton-blues-vs-western-bulldogs-australian-football-3431/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Western Force vs Queensland Reds" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEANrBYYJCH3cNIKfpAQjiEiBjGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Rugby",Western Force vs Queensland Reds
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/xHSDpaXWsXkiAbvUiBQUzqtTgeWCUFLM/echo/stream/melbourne-demons-vs-hawthorn-hawks-australian-football-3430/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Wests Tigers vs Manly Sea Eagles" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBFydNvddxB8QUkCZIh9OFBpAkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Rugby",Wests Tigers vs Manly Sea Eagles
+https://lb4.strmd.top/secure/xLawShkNJLyuVZOIKUBnXTkqlrxPSHtB/echo/stream/western-force-vs-reds-rugby-51850/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="World SBK Czech Republic | World SBK Championship Season " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",World SBK Czech Republic | World SBK Championship Season 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/msTgbIScceBDkWqEUhQtQYqGMyPLRvDH/rtmp/stream/J8k7fMj2MLNkeRr1SVinvz8N7SZr_0wNxP_yufwjBukXkGHmPekPig1wsUw7vF8FEH2nlw0o1EyISic/1/playlist.m3u8
+https://lb16.strmd.top/secure/cQSCBlJrSHGglOshDFEePUfkzTxlUQAV/echo/stream/world-sbk-czech-republic-world-sbk-championship-season-game-4u8337/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="MotoGP Grand Prix of Catalunya " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",MotoGP Grand Prix of Catalunya 
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/UbfBSqtZrbEOSKBCXnoDReeZyrlYnYcy/echo/stream/motogp-grand-prix-of-catalunya-game-122273/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Sydney Roosters vs North Queensland Cowboys" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLiAggpIEMB3cQfbbpAkQhnCiMgYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="StreamedSU - Rugby",Sydney Roosters vs North Queensland Cowboys
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb19.strmd.top/secure/hucPDTyynZsdTlAVbFYSjMSPYCWjHRCc/rtmp/stream/A9ybVJhsK8S6k8o3NDIGvVLEUwy69h-F1SN3t-qFqfHykpSRptXGfXXr-bYRrUkg8f2rgz_VOWSkqb8/1/playlist.m3u8
