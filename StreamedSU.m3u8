@@ -1,51 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Adelaide Crows vs North Melbourne Kangaroos" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Afl",Adelaide Crows vs North Melbourne Kangaroos
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Blues Super Rugby vs Hurricanes Super Rugby" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAzAZIEIhkkQ3EHxBSdICMd0gDRmAWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp" group-title="StreamedSU - Rugby",Blues Super Rugby vs Hurricanes Super Rugby
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb19.strmd.top/secure/agkBORlmpkHnkSMzggHiqmpdUCQfDtto/echo/stream/adelaide-crows-vs-north-melbourne-kangaroos-australian-football-3429/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Phoenix Mercury vs Chicago Sky" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJGCSUQKCvhDcQUkCQM7zIEBBB8dBYBpj9hs+rpUouYMvCJZZnky0YN5iohBAA.webp" group-title="StreamedSU - Basketball",Phoenix Mercury vs Chicago Sky
+https://lb14.strmd.top/secure/XoDGwdsDvMCyMGGhZXVqnSByGoflVNKo/echo/stream/blues-vs-hurricanes-rugby-51849/1/playlist.m3u8
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Melbourne Demons vs Hawthorn Hawks" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Afl",Melbourne Demons vs Hawthorn Hawks
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/DoagJBmmMdzhFQXSTrJqTYoNNAHwaDfu/rtmp/stream/OtvmZEkBSGjmuAQNfFLcadk2pdeiJ6DZ0YTf9pxAPQvOjWvQI9ct9FjNlL-kQIKoJykDu3XfwYet-aVl1T89Og/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Los Angeles Sparks vs Toronto Tempo" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdEAY2AQQMEPXpYQk7gOAyUQgSAiKZMRsupTgJEJ13D+IY6PVYKyhW3CcewAtjzAw5JLn4KuHBG26MnDvRgHEL+EEA.webp" group-title="StreamedSU - Basketball",Los Angeles Sparks vs Toronto Tempo
+https://lb1.strmd.top/secure/xHSDpaXWsXkiAbvUiBQUzqtTgeWCUFLM/echo/stream/melbourne-demons-vs-hawthorn-hawks-australian-football-3430/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Wests Tigers vs Manly Sea Eagles" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBFydNvddxB8QUkCZIh9OFBpAkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Rugby",Wests Tigers vs Manly Sea Eagles
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/cmOrnanquCguIfirjyxwciAVfqaDYXey/rtmp/stream/Son7LyJWj9bfVU9CKkSWWByHcIKh9A8DXbZ5TeyN9RvkRKGkFXjOoiJpLFDfVMgKXyIUDnr0UUMmwl6FrBPJ5rbH/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Seattle Mariners vs San Diego Padres" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmDBIEoLRxC8QWIyZIgIIaSGuIQLbTAEi5jFGFUoe78o2pzP+KzAmmKMoUA.webp" group-title="StreamedSU - Baseball",Seattle Mariners vs San Diego Padres
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/tPxgCbriSjJQoQImBIXXEjyBBcQPdovf/rtmp/stream/GQN8QVFKEKQGu9w8Zd6W9jGpajM94kGq0c4fSfhsb2y7Vhz-lrs6Vqn6-KI3wLB8qbdfljHgdpzR2lkU1oJkiNk/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Athletics vs San Francisco Giants" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmGBJgm3thDSQvEFhNmSICAZA2rIFkgpYRcxijCqUPD+UbU5XvisOh7iYhBAA.webp" group-title="StreamedSU - Baseball",Athletics vs San Francisco Giants
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/UIziFLWQLiSOGwyyBGOhAooypNymTfnC/rtmp/stream/Nk1lcpVHdh5UDl4HhgZEgEHxTFf4iZCbgNy3_axYRgvT9XqC4lT74dfYng9OATtZy8uTJWvBJmDGcK4/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Angels vs Los Angeles Dodgers" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdhzBMQvENQE6QWIyZIgIIaSGsXm+YEgpYRcxijCqUPD+Ub6xXvb0YB7iYhBAA.webp" group-title="StreamedSU - Baseball",Los Angeles Angels vs Los Angeles Dodgers
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/LabnOGTkwZlHTNUmmmMZDCbdbvYZNuuZ/rtmp/stream/Opu2CeDTHGpoo1BBcu1dr-v18O1eWXN6X6AC9UAxNvUqH6VTpMofy7s-QFyNwP3ioaan0GyYTi55b0fCcQgveYHz/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Minnesota Timberwolves vs San Antonio Spurs" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXqPhgkXHNxB8QJEClwhEiEAasFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="StreamedSU - Basketball",Minnesota Timberwolves vs San Antonio Spurs
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb19.strmd.top/secure/kPqDJQUvfcOtuhKXjudunyUdfiDeNSMM/rtmp/stream/ixOpEZCc5ZNxydvmDGzODsqUwBiLUkWh-YEuEZfOUyVIOTVENaCxUPnYNvQeyTS2UJhq9a628xLc-pnmNkfq3fmbnG0jn7g/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Fight to Win 315 " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Fight to Win 315 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/TYPimEqDIyflTuYXWAwaqipZxYcoefkK/echo/stream/ppv-event-02-fight-to-win-315-ppv-02/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Minnesota Wild vs Colorado Avalanche" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Hockey",Minnesota Wild vs Colorado Avalanche
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/MYsueOIFvGoOCJGhGzFlRnAsXRdiulhG/delta/stream/live_nhl-playoffs_wild-avalanche-live-streaming-1306875816/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Friday Night SmackDown" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",Friday Night SmackDown
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/CFTqkgMVQSLNeeKjGhTouWsPmCfdIeNu/delta/stream/live-event_friday-night-smackdown-live-stream/1/playlist.m3u8
+https://lb9.strmd.top/secure/msTgbIScceBDkWqEUhQtQYqGMyPLRvDH/rtmp/stream/J8k7fMj2MLNkeRr1SVinvz8N7SZr_0wNxP_yufwjBukXkGHmPekPig1wsUw7vF8FEH2nlw0o1EyISic/1/playlist.m3u8
