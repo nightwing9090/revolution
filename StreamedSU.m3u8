@@ -1,26 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Seattle Mariners vs Chicago White Sox" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGqsQjFGDHSQvEFhNmSOkIZA2rLJBSwi5u-RxQ995RlrEf8rMBgboxiEEA.webp" group-title="StreamedSU - Baseball",Seattle Mariners vs Chicago White Sox
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ATP / WTA: Hamburg / Geneva / Strasbourg / Rabat " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",ATP / WTA: Hamburg / Geneva / Strasbourg / Rabat 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/kBPuIqqJlSSBbwQyTNBASvOqiRNTyJHN/rtmp/stream/nwePXf_W0IlfZ8IPUPd2xfafQbYUvTnZSWoQYUhevtjEwYggFRiFQpIfe-fWXQ6ZOqTclVBTvSKSDgqPCwCae24/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Diego Padres vs Los Angeles Dodgers" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrXpiyKYAAYQvEFmOmSICCGkgbNrCyQV77UeJRhVujh-KNqc3XxWYDAPcTEIIA.webp" group-title="StreamedSU - Baseball",San Diego Padres vs Los Angeles Dodgers
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/lJNKsGDngGodEGNKsnUifnNrNhCenQyK/rtmp/stream/wzX0MtFC06o-BmO4l7oclRoPjZYThHFMCP8idomJv76Q_EizyHOX50gsE0us-fMgHDiWcHplKt6MKE-sso0aWA/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Arizona Diamondbacks vs San Francisco Giants" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjHmkQ-MCBI6QWIyYMQQ0kFZRGWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="StreamedSU - Baseball",Arizona Diamondbacks vs San Francisco Giants
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/KwbGSPbWPqnfNycMvQmWsZdjEspUmdWN/rtmp/stream/qWeWMTNcRlzTqcrcOGVtvCbdREF5l6Q2GaO5ztMflWRtK9c0_3yClouvTysJIMS8wqLvYUWnFxt7uK7qYZGCgr33UdSy/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Angels vs Athletics" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDHU+IHElIheu41k0gIIaSGsoQzfMCQUsIuYxRhVKHp-KNtYt4O9GCe4mIQQA.webp" group-title="StreamedSU - Baseball",Los Angeles Angels vs Athletics
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb19.strmd.top/secure/pGPhKdhwsgxdvmhJnLcbIcbHXiNIGviG/rtmp/stream/-i5J9P3r83y0ji8kq5vgPzkktwFa4ERbNgpXI1YDbj6GkO0d40jyoB7vd2lmehA1hV1to6CUm0P7Q1LesICVgupb/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Monday Night Raw" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",Monday Night Raw
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/LdRYPtVJDxDUkzdlyOvOKQFrZQyragwp/delta/stream/live-event_monday-night-raw-live-stream/1/playlist.m3u8
+https://lb10.strmd.top/secure/fIKovzDTsPEcWGDCkeqrapfsIQnlZtyN/echo/stream/atp-wta-hamburg-geneva-strasbourg-rabat-tn-1/1/playlist.m3u8
