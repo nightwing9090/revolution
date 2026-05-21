@@ -1,36 +1,61 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Panetolikos vs Asteras Tripolis" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECRD0pRJKBDcQUgyFPGUuS3xB8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Football",Panetolikos vs Asteras Tripolis
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Wolfsburg vs Paderborn" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGohZwMGXhheII1hCmUIRBG3GQFrCyQUH7UeJR6OKHnvKNqct74rLqejGIQQA.webp" group-title="StreamedSU - Football",Wolfsburg vs Paderborn
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb15.strmd.top/secure/aOXSNPcuyBuaTANwmAXMZFyuLrfgIlYp/echo/stream/panetolikos-vs-asteras-tripolis-football-1537106/1/playlist.m3u8
+https://lb11.strmd.top/secure/oCSEFhXaYxPpGCBNgiKXPnQJHXTVGwDU/echo/stream/vfl-wolfsburg-vs-sc-paderborn-07-football-1545417/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Switzerland Ice Hockey vs Great Britain Ice Hockey" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDFjCKELOkheILMZBndJEBFPUQzfMCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="StreamedSU - Hockey",Switzerland Ice Hockey vs Great Britain Ice Hockey
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb14.strmd.top/secure/LSQutehitpVecSgdprSgSnauxytttQCS/delta/stream/live_world-championship-group-a_switzerland-great-britain-live-streaming-1307780910/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Denmark Ice Hockey vs Slovakia Ice Hockey" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKiGAAGeWCRhesELxBZTICyhAkQEc9Vst9MASLmMUYVSh5fyjajkffFZgMC9xMQggA.webp" group-title="StreamedSU - Hockey",Denmark Ice Hockey vs Slovakia Ice Hockey
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb16.strmd.top/secure/ObZRlQEUufwUimBpnrXXsUhaqQODfuvJ/rtmp/stream/jOsngWnnD_XCvzZlf-kckpcKbjp176_bs9yhrYMKf5iJlgaNMpY5uVzWHeGjirNDokqiVquZ3YZgTw/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Switzerland vs. United Kingdom" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6ECgogsISjRBMQC+ZQgLgQkBGbMQxEDGCysWzet0LEKHdhA1tMBeL5gBwhtjzAw9JLmLjBzgjkQlrijJRgzsCaAhBAA.webp" group-title="StreamedSU - Hockey",Switzerland vs. United Kingdom
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/dUzzEowWrlrlcuhpLFAvundaUFBkPWKz/rtmp/stream/WuFnCeZSmBwQ5oiuoA2YbJX-CrBPJcZQKvXBi2DgOaqkPSjlKbFD61uYwjjTf169AtSrwBJZPJWBoA/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Grasshoppers vs Aarau" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Grasshoppers vs Aarau
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/MznUzJdRadUFQpDZJlausrTcWtykxvcT/echo/stream/grasshoppers-vs-fc-aarau-football-1545231/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Al-Nassr vs Damac" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rYNVokQZECG4g+OvbhApT57XwLAkFa+tn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="StreamedSU - Football",Al-Nassr vs Damac
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/qvFdKorqenTuywKbghSiIjPEMopSXuWY/delta/stream/live_saudi-pro-league_al-nassr-damac-live-streaming-1096662240/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Al-Fayha vs Al-Hilal" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUb1bh4YKSG4g+IEiFM4UuEBdNSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Football",Al-Fayha vs Al-Hilal
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/ZQPGBZscWMchgniBNOxeVdhcFuWEQzsD/delta/stream/live_saudi-pro-league_al-fayha-al-hilal-live-streaming-1096656246/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="2026 Premier League Darts: Sheffield" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EEJAwQKZtmDjSEEBGwSpwZVhACBWYDTW7EAxCiUh94xZUWa6wPmAHCGs6WHpJcxaYMcJyQjLSjJRgjuoyEEA.webp" group-title="StreamedSU - Darts",2026 Premier League Darts: Sheffield
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb17.strmd.top/secure/pQjtqGWInSHvvPLpNJdKCxkTitvTCVcY/rtmp/stream/-1CtrM_1n0eLnRXlUYTNaESRkAb0LvdNeF4bhngviQw0464i1ZlIrF3DiASRv_AQaOTozaRh-2Zk/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="St. Louis Cardinals vs Pittsburgh Pirates" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtVbAwIRCRDUQvEFhNn9EENJApdRlkgpYRcxijCqUPD+UaaxXvhaYB7iYhBAA.webp" group-title="StreamedSU - Baseball",St. Louis Cardinals vs Pittsburgh Pirates
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/IECIPpYBxjFHXEcBAuyJjfrRCKaYytKF/rtmp/stream/iTALq_cTwUqRKygIKq3YXbITGKIwPiTl3tW8-fCXbci6XG5CiAtX8zJesvJ2a249p8wRb3DASuVpHWiuhgfzbFMT/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Detroit Tigers vs Cleveland Guardians" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCFrVgABkphwKELxBZT5kiAghpII4mkskFLCLmMUYVSh5fyjbTEffFZgMC9xMQggA.webp" group-title="StreamedSU - Baseball",Detroit Tigers vs Cleveland Guardians
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb15.strmd.top/secure/LcjYrNECjobJCfJFVFVnhFQvQcPBLCnE/rtmp/stream/bI1BRnv2zZdfVc_nfSh18lGz3Y9yPPN9POfuT2d9K5R2uLtLt3wSdO45KVUoy0mjs3Pt3jvuaGjMx_P0fmE9/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Brondby vs FC Copenhagen" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Brondby vs FC Copenhagen
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb19.strmd.top/secure/QBHSMpjDWApMMFCOxMhHfxTjcVPogDgG/echo/stream/brondby-vs-fc-copenhagen-football-1545410/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="The CJ Cup Byron Nelson | PGA Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",The CJ Cup Byron Nelson | PGA Tour
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb15.strmd.top/secure/GXPTOCBFFuemxThgyiEoJtUvlXoUzIZn/echo/stream/the-cj-cup-byron-nelson-pga-tour-pga-526234/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Kifisia vs Larisa" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Kifisia vs Larisa
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/YpqLTMLITUcouIuaBsphBLphtsNvbWjS/echo/stream/kifisia-vs-larisa-football-1537107/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Atromitos vs Panserraikos" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECn4gQc2GD4huIA0Zw5TIEiCmWCwJBT7DZ9FGBWa278vSyzNTLRg7mKiEEA.webp" group-title="StreamedSU - Football",Atromitos vs Panserraikos
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/bDfKRkuRqGchtezyyprnuaknAnubigyM/echo/stream/atromitos-vs-panserraikos-football-1537108/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Latvia Ice Hockey vs Finland Ice Hockey" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiBAow0rcFloQvEFhOatIEiAhnjW-MCQUsIuY22qUPMGXhFqcl4O9GA+4mIQQA.webp" group-title="StreamedSU - Hockey",Latvia Ice Hockey vs Finland Ice Hockey
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb17.strmd.top/secure/VrPQwgGuUaczfepYYrYgIhTFXnigzvQC/rtmp/stream/ACeUaus3NSWDxsRikQYuIm8Vw062-wAZ7U92OIqQXWGNxrgVRHCQ2K8hHsrjqXhAmgVHyD7fHoHKfw/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Canada Ice Hockey vs Norway Ice hockey" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmOqV5IeGBQheILMZBmDJEBFPUQMFkgpYRcxijCqUPD+UZaxXviswGAe4mIQQA.webp" group-title="StreamedSU - Hockey",Canada Ice Hockey vs Norway Ice hockey
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/CovOcwCpNKxOxXqbcffLwBsvOVWMgSTd/rtmp/stream/7BIqzoI46im_N0TB12Gfdbky1eX2kcaVbL_l2ZzroyQzqcwvwqXbXzu3RilpAmaTwRqLZFXZOtzDNA/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Chennai Super Kings vs Gujarat Titans" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUChCiwWsEhDcQfA7hBSzIGCc3wCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Cricket",Chennai Super Kings vs Gujarat Titans
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/CNVynEaWzfkCuLZUMpqNmJVDIcOzsiNq/rtmp/stream/ILk_6iurS4x5bSlX_UAe0zuVh1wjREQBzyh2mT5B0OE1BjfsKvvt6juvFqmmC4HSxRC1mlE/1/playlist.m3u8
+https://lb12.strmd.top/secure/droVtDssFOIxLWxZJwVlImVyIiULRUqP/echo/stream/the-cj-cup-byron-nelson-pga-tour-pga-526234/1/playlist.m3u8
