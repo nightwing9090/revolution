@@ -1,21 +1,36 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Soudal Open | DP World Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Soudal Open | DP World Tour
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Panetolikos vs Asteras Tripolis" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECRD0pRJKBDcQUgyFPGUuS3xB8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Football",Panetolikos vs Asteras Tripolis
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb11.strmd.top/secure/ombrJoOalxJSTTbJztilQgNRKUgTnoJR/echo/stream/soudal-open-dp-world-tour-atp1000/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="UCI Giro dItalia | UCI World Tour " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",UCI Giro dItalia | UCI World Tour 
+https://lb15.strmd.top/secure/aOXSNPcuyBuaTANwmAXMZFyuLrfgIlYp/echo/stream/panetolikos-vs-asteras-tripolis-football-1537106/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="The CJ Cup Byron Nelson | PGA Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",The CJ Cup Byron Nelson | PGA Tour
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb12.strmd.top/secure/jonBcKlKNLTAJcKobDSXAtzyofWyVjzV/echo/stream/uci-giro-ditalia-uci-world-tour-game-13622/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Canberra Raiders vs Dolphins" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKChBwY-EBBDcQfEFJBmSB3CE2aSBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="StreamedSU - Rugby",Canberra Raiders vs Dolphins
+https://lb15.strmd.top/secure/GXPTOCBFFuemxThgyiEoJtUvlXoUzIZn/echo/stream/the-cj-cup-byron-nelson-pga-tour-pga-526234/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Kifisia vs Larisa" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Kifisia vs Larisa
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/WybbTzgvxlzBxqSuXMsbdsINKDVDMGZb/rtmp/stream/Hj0sp3sDgFfE7odLFSJRok3iDzNPshXFpDhaQBPd20m8GEOAOyCwMxxgyyZvpiGI1quN5I-DE4swMG0/1/playlist.m3u8
-#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Hawthorn Hawks vs Adelaide Crows" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Afl",Hawthorn Hawks vs Adelaide Crows
+https://lb3.strmd.top/secure/YpqLTMLITUcouIuaBsphBLphtsNvbWjS/echo/stream/kifisia-vs-larisa-football-1537107/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Atromitos vs Panserraikos" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECn4gQc2GD4huIA0Zw5TIEiCmWCwJBT7DZ9FGBWa278vSyzNTLRg7mKiEEA.webp" group-title="StreamedSU - Football",Atromitos vs Panserraikos
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/lscgEqMIEwAyOdUKzWLdWxorXyUnqosD/echo/stream/hawthorn-hawks-vs-adelaide-crows-australian-football-3435/1/playlist.m3u8
+https://lb3.strmd.top/secure/bDfKRkuRqGchtezyyprnuaknAnubigyM/echo/stream/atromitos-vs-panserraikos-football-1537108/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Latvia Ice Hockey vs Finland Ice Hockey" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiBAow0rcFloQvEFhOatIEiAhnjW-MCQUsIuY22qUPMGXhFqcl4O9GA+4mIQQA.webp" group-title="StreamedSU - Hockey",Latvia Ice Hockey vs Finland Ice Hockey
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb17.strmd.top/secure/VrPQwgGuUaczfepYYrYgIhTFXnigzvQC/rtmp/stream/ACeUaus3NSWDxsRikQYuIm8Vw062-wAZ7U92OIqQXWGNxrgVRHCQ2K8hHsrjqXhAmgVHyD7fHoHKfw/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Canada Ice Hockey vs Norway Ice hockey" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmOqV5IeGBQheILMZBmDJEBFPUQMFkgpYRcxijCqUPD+UZaxXviswGAe4mIQQA.webp" group-title="StreamedSU - Hockey",Canada Ice Hockey vs Norway Ice hockey
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/CovOcwCpNKxOxXqbcffLwBsvOVWMgSTd/rtmp/stream/7BIqzoI46im_N0TB12Gfdbky1eX2kcaVbL_l2ZzroyQzqcwvwqXbXzu3RilpAmaTwRqLZFXZOtzDNA/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Chennai Super Kings vs Gujarat Titans" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUChCiwWsEhDcQfA7hBSzIGCc3wCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Cricket",Chennai Super Kings vs Gujarat Titans
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/CNVynEaWzfkCuLZUMpqNmJVDIcOzsiNq/rtmp/stream/ILk_6iurS4x5bSlX_UAe0zuVh1wjREQBzyh2mT5B0OE1BjfsKvvt6juvFqmmC4HSxRC1mlE/1/playlist.m3u8
