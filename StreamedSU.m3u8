@@ -1,36 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Olympiacos vs Fenerbahce" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Olympiacos vs Fenerbahce
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Trabzonspor vs Konyaspor" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Trabzonspor vs Konyaspor
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/xHboTOfBIsKqAXgzPtQDCPnhJrLJqQqb/echo/stream/olympiacos-vs-fenerbahce-basketball-499238/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Germany Ice Hockey vs Hungary Ice Hockey" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQcQvMFuqcdILMZBmUIEiAinqmlkgpYRcxijCqtHD+UYGxWviswGAe4mIQQA.webp" group-title="StreamedSU - Hockey",Germany Ice Hockey vs Hungary Ice Hockey
+https://lb17.strmd.top/secure/KSNprbkdzzjzRTNHBDIztaTEjTLpLThG/echo/stream/trabzonspor-vs-konyaspor-football-1545069/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Somerset t20 vs Hampshire t20" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBpiVqMqSG4g9JEIgggUIPiDNmJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Cricket",Somerset t20 vs Hampshire t20
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb16.strmd.top/secure/YNnFoeUruvNFsgLiRHUrwhgkFOiOnXMp/rtmp/stream/g4o-WDX9lLF8yuzxc9f-oLHFsJPr1uyk_WAdwwoXrOwabtliiFAw8nV_scoYaTXm2OKpVuotWzGdoQ/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Canada Ice Hockey vs Slovenia Ice Hockey" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdqEbSwSELOoheILMZBmUIEiAinEMFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="StreamedSU - Hockey",Canada Ice Hockey vs Slovenia Ice Hockey
+https://lb17.strmd.top/secure/jaXmbzxscYRrjQuTmHtBZYWrhXiGMyZY/echo/stream/mens-vitality-blast-somerset-vs-hampshire-cricket-hundred-1/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="International Darts Open | Day 1 - Evening" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICcmGhRAoQArCGIghIRXJkxgEEDBARsExXskLEKCsDFDxpAYkWImxvmAHCG2PMDD0kuYscGOE5OYCxoyUYI5qzGpAA.webp" group-title="StreamedSU - Darts",International Darts Open | Day 1 - Evening
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/uYKqhJrAsPGgMNdXgRxMYtnyFsEKiznr/rtmp/stream/B79Iye7u0L6JXRp07bNE63i00y_4xyeVxjmp0cAh3xshrjjlJmiIeHwyLbqPhL03-bEHs7Ae6SBIwA/1/playlist.m3u8
+https://lb6.strmd.top/secure/XISIURveInHFEaVzmuMYOrykZfmDWVxF/rtmp/stream/5s522JsJChCVc0YhTnwv6LhABrCxOQ0uG7fPf3cZ_sV_2V9BwWzH3pvTJUEb2NyDUvc1dX4hig/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Canadian Grand Prix Practice 1" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGTjgxKbENxB8DICCBS4QMC8dMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="StreamedSU - Motor Sports",Canadian Grand Prix Practice 1
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/VMXBrvzmpUtdxYxjXPsrEXVEBqSBCZUd/rtmp/stream/S3jhfTl_7myeVmwhKIxilWxdMRGrONGedp1OV05Ga8_Dv6FJ8iIcCdF2UAu8pXJPbyHaopZwT-hC8KZTBc2kBQFj/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="1st Practice | Circuit Gilles-Villeneuve |" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",1st Practice | Circuit Gilles-Villeneuve |
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/CPOiRoEjGyyoXDLPUrAmydMIYBIHMgpt/echo/stream/1st-practice-circuit-gilles-villeneuve-formula-1-2543/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="The CJ Cup Byron Nelson | PGA Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",The CJ Cup Byron Nelson | PGA Tour
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/eQJzewihyZLzvKSmRZDzDTERLjkrLZYQ/echo/stream/the-cj-cup-byron-nelson-pga-tour-pga-526234/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Sunrisers Hyderabad vs Royal Challengers Bangalore" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGUhAoiIdiG4g++3CCmmQME5ZQFgSCn2Gz62lSi5gy8IllnumtGCeYqIQQA.webp" group-title="StreamedSU - Cricket",Sunrisers Hyderabad vs Royal Challengers Bangalore
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/OTqLPdnjhArAuvDUpueDatOdkWjdlCoS/rtmp/stream/WpsUO-Vgu-lNTS2yjkezchleMXc9vRazlMrmfXlxjraMASl5VFaJc4u11gKnlq1aVTCJj1k/1/playlist.m3u8
+https://lb20.strmd.top/secure/whxTCaghQRaXBseKDOQzITutpaANnoeg/rtmp/stream/8MkXPoLzGbNbCKnPZ25BHs8PgyyIcnyberEb3fl_5p1eSB20Yj1SXL3EkStMEaLJBZ6QXd8/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="ATP / WTA: Hamburg / Geneva / Strasbourg / Rabat " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",ATP / WTA: Hamburg / Geneva / Strasbourg / Rabat 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/BrffyHyhEnFEhGaSKcoLEbHqIRTJcGpv/echo/stream/atp-wta-hamburg-geneva-strasbourg-rabat-tn-1/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="International Darts Open 2026 " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",International Darts Open 2026 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/dfcibejWIMtRUBjTABilAKBMCtKZwaIy/echo/stream/international-darts-open-2026-darts-1/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Formula 1 2026 - Canada GP" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",Formula 1 2026 - Canada GP
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb12.strmd.top/secure/llbrTiZZcgfwJNnnrLdlOxsAKUksbTAA/delta/stream/live-event_formula-1-2026-canada-gp-live-stream/1/playlist.m3u8
+https://lb20.strmd.top/secure/YMRcfUGTwGKzMfBvThKbwaohvKvwBtsU/echo/stream/atp-wta-hamburg-geneva-strasbourg-rabat-tn-1/1/playlist.m3u8
