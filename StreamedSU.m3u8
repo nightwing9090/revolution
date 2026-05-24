@@ -1,26 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Men's Vitality Blast: Middlesex vs Surrey" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Men's Vitality Blast: Middlesex vs Surrey
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Middlesex t20 vs Surrey t20" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiDhQYwAAz8Q3EFJAbEEEChB8QFnDALAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp" group-title="StreamedSU - Cricket",Middlesex t20 vs Surrey t20
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb13.strmd.top/secure/BkXiLIhCzwHLCMIDOhnWjLmGJNNKOkpU/echo/stream/mens-vitality-blast-middlesex-vs-surrey-cricket-hundred-1/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Ajax vs Utrecht" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLEVYoQ9EiG4g+IKSG0mjMEFZMwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Football",Ajax vs Utrecht
+https://lb2.strmd.top/secure/UPTxPBrlMZfqPVAeoboTCVDVERUezNCE/echo/stream/mens-vitality-blast-middlesex-vs-surrey-cricket-hundred-1/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Parma vs Sassuolo" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKIAM0GfhD7uIPhpMoQiErhAxrBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp" group-title="StreamedSU - Football",Parma vs Sassuolo
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb20.strmd.top/secure/ZHsmFxiRgMFRCSNugXcooPLVIZmCXtNg/echo/stream/ajax-vs-utrecht-football-1546052/1/playlist.m3u8
+https://lb14.strmd.top/secure/JWvCnWdNluiJHVyiLzOqQAQKFrWdbAZP/rtmp/stream/gSfFY1-MNsYGw2aC6nZ_bnccXMyY-Rj2oWLUegUrigAmsoNS1iXyr9Vc_I51swTnx8U8KZJFgG8/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="2026 PFL MENA 1" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",2026 PFL MENA 1
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/YOohamBDAlIsQOyfWFlHhzNgXmfgbSQW/delta/stream/live-event_2026-pfl-mena-9-the-rise-of-the-gulf-live-stream/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Bolton Wanderers vs Stockport County" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMBRTApIcDu4g+IErhAQQKM1aMwCwJBT7DZ9FGBVa278vSyytTLQaovQhQA.webp" group-title="StreamedSU - Football",Bolton Wanderers vs Stockport County
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb11.strmd.top/secure/XIxglZjhjAsHMldmWEcRxXqEAcizyjhV/rtmp/stream/6ujwgSMJeh_m4Isgop2oeHDOOwStDfU9Dk_ZRUyqWIyKw_1NU63VhVOfTJmOgs88M7UEFekoACGP/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Stade Lausanne Ouchy vs St. Gallen" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Stade Lausanne Ouchy vs St. Gallen
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/dUwxcPqvpGMyRLIgdaLewJTXguvRhnyu/echo/stream/stade-lausanne-ouchy-vs-fc-st-gallen-football-1541944/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Mumbai Indians vs Rajasthan Royals" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXGClgkwLaKkhuIPodwgDBmKZTmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Cricket",Mumbai Indians vs Rajasthan Royals
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/fbOjwwQQDfGbvkyROWpZIjhhMPJnAlMS/rtmp/stream/bgWvwiMlLamorc90oQo5njqWP5lv7XJmZyG9lly_Q8QXRlKd9Kgo23IyfOSnfUUVwpH3MFc/1/playlist.m3u8
+https://lb13.strmd.top/secure/YdQIJgwyyrMbNLfEOXRlVKhznKOURGLC/rtmp/stream/WGokYuM3NF6MGWP3h6qpR1SdCi5hlLgBPyivSu5IYWO9wl70AISSA7lHKd1_Jvvwf7vMUdM/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="International Darts Open | Day 3 - Afternoon" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICcmGhRAoQArCGIghIRXJkxgEEDBARsExXskLEKCsDFDxpAYkWImxvmAHCG2PMDD0kuYscGOE5OYCxoyUYI5qzGpAA.webp" group-title="StreamedSU - Darts",International Darts Open | Day 3 - Afternoon
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/IYMJpYpKJdPaewdiGKstIdjEUcMLDKYv/rtmp/stream/klI2OnETj-7KTY9FEXFwD5NINzhq7hoiDySl64310I9KBdIOLoJvgnB2MFqqDI6fgQ8s7eX01w/1/playlist.m3u8
+https://lb3.strmd.top/secure/iuHFGPJyCaonKILNoGJrkfvpIbKNycyS/rtmp/stream/YX19CSqLoj9TYVz_0puODDpKqTSZJb2sjEe8rX5SJl9t4pgydguPVg2DIqghdNzSKw23vG7-lA/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Roland Garros French Open " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Roland Garros French Open 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/uzKhRSzqdFBsItiOWNRFRzvLlqacTmob/echo/stream/roland-garros-french-open-roland-2026/1/playlist.m3u8
+https://lb14.strmd.top/secure/ruqaDInMEepcHBNSboxiMjeIhFKCyZiB/echo/stream/roland-garros-french-open-roland-2026/1/playlist.m3u8
