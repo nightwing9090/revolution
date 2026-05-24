@@ -1,11 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="North Queensland Cowboys vs South Sydney Rabbitohs" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPRQgQDMElIhuIPiCnaQJQyEQwrJAsCQU+w2ZrAqUXD+XpZZXky0YB5iohBAA.webp" group-title="StreamedSU - Rugby",North Queensland Cowboys vs South Sydney Rabbitohs
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Roland Garros French Open " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Roland Garros French Open 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/ySSiqKAsjWRVDLXveTXabfwVwCQaDzjL/rtmp/stream/HCrdFvU5PXe1H428-NC-X-LGoPvzRr5C265uza8uakSfymWk7nHDsIxcvXC8QwIQPQt8Z5bfoTAOFmE/1/playlist.m3u8
-#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Western Bulldogs vs Melbourne Football Club" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rYGBDAkIGVmAAGEN10gSp8yhAQQMUygLaKfYbPoowKlF0-l6+0W8mWjBPMVEIIA.webp" group-title="StreamedSU - Afl",Western Bulldogs vs Melbourne Football Club
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb16.strmd.top/secure/EDWnNNUauiYDPxKniPXhvcTxFYhOlbDj/echo/stream/western-bulldogs-vs-melbourne-demons-australian-football-3443/1/playlist.m3u8
+https://lb10.strmd.top/secure/QwaGhjeVwfslawXHwqrGUMlDAfuXrAHH/echo/stream/roland-garros-french-open-roland-2026/1/playlist.m3u8
