@@ -1,11 +1,36 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Switzerland Ice Hockey vs Finland Ice Hockey" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGmboSPiH28QWI-pAoQJEBBNbF+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="StreamedSU - Hockey",Switzerland Ice Hockey vs Finland Ice Hockey
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians vs Washington Nationals" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAYQ1ECgpQYIXiCwmzJEBDOHjzfMCQUsIuYz2qUPMGXhFqcz3t6MG9xMQggA.webp" group-title="StreamedSU - Baseball",Cleveland Guardians vs Washington Nationals
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb11.strmd.top/secure/HXBScKynKlxyQBgZmLPyvtpDNHxoJCDB/delta/stream/live_world-championship-group-a_switzerland-finland-live-streaming-1308487203/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Czechia vs Canada" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Hockey",Czechia vs Canada
+https://lb17.strmd.top/secure/yYIVAxOpDeCCihORESdAFtwMLijyodaS/rtmp/stream/dpQHt4SUVErB6EPIOAzANNPc1WO0qZkRaItO90y-H9hfsg7QAhKqbrGLTxjZedErQDIVp1JRUiHNshSpLzbIiFa40x4/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="So Paulo vs Boston River" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rYGG4gB8MFO0gtfAxBBmtFsyBIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="StreamedSU - Football",So Paulo vs Boston River
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb11.strmd.top/secure/kowsLNbgqvtwqJZbNamKZJKRJTWiCHLv/delta/stream/live_world-championship-group-b_czechia-canada-live-streaming-1308489201/1/playlist.m3u8
+https://lb17.strmd.top/secure/hPhbXHtDpvEVgtwJkNQikowcsHDdowep/echo/stream/sao-paulo-vs-boston-river-football-1535231/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Millonarios vs O'Higgins" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHzC8pIUVlghuG4xBBmjFkChAKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="StreamedSU - Football",Millonarios vs O'Higgins
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb11.strmd.top/secure/VvLLrUaOSSZvhAuonTuNGQvitqkRPNel/echo/stream/millonarios-vs-ohiggins-football-1535224/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Palestino vs Deportivo Riestra" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOFJAhgSLWBIhuIPsZAQthy0ZTGCOin2Gz6KfWxRd95ellkemtGBu9KIQQA.webp" group-title="StreamedSU - Football",Palestino vs Deportivo Riestra
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb14.strmd.top/secure/BiMcLIhgxEHJGQdpRMkNtDSziYWeGPTE/echo/stream/palestino-vs-deportivo-riestra-football-1535226/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="LDU Quito vs Always Ready" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWkmBgQUsKJAhuIPsZAQDhyzhSGCwJBT7DZ9FHrYoue8vSyzPTLRg7vSiEEA.webp" group-title="StreamedSU - Football",LDU Quito vs Always Ready
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/IBjqAOnKAhJtCOEcnSafagbjqGYpJczh/echo/stream/ldu-de-quito-vs-always-ready-football-1535324/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Gremio vs Atletico Torque" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Gremio vs Atletico Torque
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/dZAMjMPVgLcyHnKUVfnaqFPoxUVHIyxS/echo/stream/gremio-vs-atletico-torque-football-1535223/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Lanus vs Mirassol" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Lanus vs Mirassol
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/nNqoNzeqrvHpkqVHPhdVitwgRuPlyBTl/echo/stream/lanus-vs-mirassol-football-1535323/1/playlist.m3u8
