@@ -1,6 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="LIV Golf Korea | LIV Golf Series" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",LIV Golf Korea | LIV Golf Series
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="UCI Giro dItalia | UCI World Tour " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",UCI Giro dItalia | UCI World Tour 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb20.strmd.top/secure/YNYSBbXLMYXRUyJYNIbgYfWecPHcCgxA/echo/stream/liv-golf-korea-liv-golf-series-game-162626/1/playlist.m3u8
+https://lb2.strmd.top/secure/nRiJjRNnDPqnuWVEgzTQfmUcWXnIOBfT/echo/stream/uci-giro-ditalia-uci-world-tour-game-13622/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Austrian Alpine Open | DP World Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Austrian Alpine Open | DP World Tour
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/OBlowpjsqxRRGRPaFUsQmbEsfVvJazct/echo/stream/austrian-alpine-open-dp-world-tour-atp1000/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Ireland vs New Zealand" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Ireland vs New Zealand
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/iTJsvgigERWHAtIeXpRihGQEzkEtqeuH/echo/stream/ireland-v-new-zealand-cricket-1/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Road to UFC S5: Day 1" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICcbbMBogswCMxAxxIEMCEgaspRBAoQAodh3TFFEJsVSsISivmbtW4HzADhDMSgf0kuYu8FOE5HoC7oyUYE7SzNJAA.webp" group-title="StreamedSU - Fight",Road to UFC S5: Day 1
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb20.strmd.top/secure/IKoTMgQlJRRPPhhcyiGPwMwBrUpeDJwu/rtmp/stream/HlIgKr7efeL72gtpgTu5RQK5ZoXEvMGEWjE9SfKtVPn4MUQx6rdHab__UMZzP9RAHfXnLIUVSRQImHMq5A/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Roland Garros French Open " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Roland Garros French Open 
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb14.strmd.top/secure/DjUtyEByuzQUmbYopaZNzsuJKjpOAEGb/echo/stream/roland-garros-french-open-roland-2026/1/playlist.m3u8
