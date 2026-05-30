@@ -1,41 +1,41 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Dmitry Bivol vs. Michael Eifert" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EDGYgh2EChDFJwCCCwUQNYELFzsGxRpCJKiLHMnLgNU0pAXp+YHzADhDHSgf0kuYu8FOE5FIC7oyUYE56AhBAA.webp" group-title="StreamedSU - Fight",Dmitry Bivol vs. Michael Eifert
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/HcdYuWKGStxzHpatgpkBUgmkehuTUnUt/rtmp/stream/noUFJNmhpDMiGKpj1XeRCyFvg_Mf8MCwf0wEka8WhQGNqGWLz6xoH5kjNW8mDw9Yrfbrdf1Gak7YlxQ/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="MotoAmerica Superbikes Road America" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",MotoAmerica Superbikes Road America
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb20.strmd.top/secure/sVYQmxkDyYXYRLlKndDmuUPCdrVSPDFw/echo/stream/ppv-event-15-motoamerica-superbikes-road-america-pppv15/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Ceuta vs Albacete" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXlVGj6KENxB8QJIyAi49JsxKZIKfYbJ1gVKLs-L0ss101phnYtpAA.webp" group-title="StreamedSU - Football",Ceuta vs Albacete
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb16.strmd.top/secure/dwQUDglWmcddZJjcWPIdhrgwfsTzHCYf/echo/stream/ad-ceuta-fc-vs-albacete-football-1392223/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Real Sociedad II vs Cultural Leonesa" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Real Sociedad II vs Cultural Leonesa
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb14.strmd.top/secure/WZNmtbnlaAFqJHPqppYRDzKQlYisoLTr/echo/stream/real-sociedad-ii-vs-cultural-leonesa-football-1392225/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Northampton Saints vs Gloucester" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGWhDcQtEHq0g+IEvqN6jU-SQLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="StreamedSU - Rugby",Northampton Saints vs Gloucester
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb13.strmd.top/secure/OCxrkiPdnuFayZXuvabcAYhCcfOgLdPv/echo/stream/northampton-saints-vs-gloucester-rugby-50127/1/playlist.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Switzerland Ice Hockey vs Norway Ice hockey" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXlQghwUFCG4g++kFNwhEJMzhIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="StreamedSU - Hockey",Switzerland Ice Hockey vs Norway Ice hockey
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb15.strmd.top/secure/wngZwesUqqFuNWezJLqfeOzhHVNUcLDT/rtmp/stream/ba6skjSSlTmcaz9hUeVXV2phBVVHGdaXXfBeXnnQAFJA-Wyhr2YJ_wJ-yS51hn1wkG1F06p6/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Saracens vs Harlequins" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELxQIQfEChAwNOkCRBnd5kFLNmCwJBT7DZ9LSpRcwZeESyyPTLRgXmKiEEA.webp" group-title="StreamedSU - Rugby",Saracens vs Harlequins
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb15.strmd.top/secure/CmZuYDuiuDTvsJHlsawWmPkpVbjCIaTW/echo/stream/saracens-vs-harlequins-rugby-50128/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Scotland vs Curaao" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELRAhuIGUynaQfIyAi6QKDeeNSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Football",Scotland vs Curaao
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb12.strmd.top/secure/foJFIUEiNhRLGeDYWkWRBbXVLhNqjpSV/echo/stream/scotland-vs-curacao-football-1511779/1/playlist.m3u8
+https://lb13.strmd.top/secure/xJdYwdjnjzYNpKMEITnKOdVCCvZrYAwu/rtmp/stream/Q2NAmNtW0o_cbYgfS0mhoBSV0dqLgTYdFhecSwLx43knyacfSYImJc5UQc95hk8VRTehyLOG/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="PDC Darts Elten Safety Shoes Baltic Sea Darts Open  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",PDC Darts Elten Safety Shoes Baltic Sea Darts Open  
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/xVzszllQbXKlNQheeVOXbaWnMLrURpKl/echo/stream/pdc-darts-elten-safety-shoes-baltic-sea-darts-open-darts-1/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Austrian Alpine Open | DP World Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Austrian Alpine Open | DP World Tour
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb18.strmd.top/secure/SNMgQUgRSJDiQnHKGOMZjcZarCGYNlNX/echo/stream/austrian-alpine-open-dp-world-tour-atp1000/1/playlist.m3u8
+https://lb19.strmd.top/secure/WgXIzHZfPPaUgFPRFHxygrkHyPGaXAUx/echo/stream/pdc-darts-elten-safety-shoes-baltic-sea-darts-open-darts-1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Roland Garros French Open " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",Roland Garros French Open 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb18.strmd.top/secure/UAxUQMVfBAsIYLXJEJtEBZQGTVzEKOpz/echo/stream/roland-garros-french-open-roland-2026/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="UFC Fight Night 277 Song vs Figueiredo" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EDBCUmIAVKzAaIENkUgUFEEOBCQWaTuarVWrSGKnjiFEYE1lRvmAHCG2PMDD0kuYmsGOE5JoCaoyUYI7AEMyRQA.webp" group-title="StreamedSU - Fight",UFC Fight Night 277 Song vs Figueiredo
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/nGWaBxSDEYsqczeNWbbWmsELACFTxTqo/rtmp/stream/lVexUdt8eZZvb4q-3M8xqscr9HpJWlLQ7ykO4H72lr3IMhiwUo8GLmZ4e5URqxxWpyM_p8Q/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="MotoGP Italian Grand Prix " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",MotoGP Italian Grand Prix 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb17.strmd.top/secure/mYVCSLCAqbSwUzCGjswhRwuvUAfXsvLT/echo/stream/motogp-italian-grand-prix-game-122273/1/playlist.m3u8
+https://lb9.strmd.top/secure/ZEJcMahkPnurlBPIHrKbfTbCIQJtTwrG/echo/stream/roland-garros-french-open-roland-2026/1/playlist.m3u8
