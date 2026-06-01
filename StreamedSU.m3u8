@@ -1,11 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Cracker Barrell 400" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Cracker Barrell 400
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Roland Garros French Open " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Roland Garros French Open 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/WDwbBqeAvkjnWfjcKSqRPyMgtZUdLuCR/echo/stream/ppv-event-10-cracker-barrell-400-ppv-10/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="FURY FC 120" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICcbEMRCIUwIc2kVgEZmJA0QQkCCUyZq1ShAQQMCkYNma08xoNS+YAcIbY8wMPSS5iUwfYTkZAlKMlGD2CrIQQA.webp" group-title="StreamedSU - Fight",FURY FC 120
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/IjBchZCyJzPkqjRkeZRTgBCfMOHzTNMb/rtmp/stream/eGBPuu4UiHcBtyHAjJeETAQRLCCaGxJQ5NWuhwdHmMkGX2788bd_958hV6cTIUDM_3ScFee2Qu8/1/playlist.m3u8
+https://lb6.strmd.top/secure/fETiEjEvLJFDiRHGPJwEXHPneyWXnwmD/echo/stream/roland-garros-french-open-roland-2026/1/playlist.m3u8
