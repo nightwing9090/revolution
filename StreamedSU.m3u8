@@ -1,16 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Ramirez vs Richards" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",Ramirez vs Richards
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Hawthorn Football Club vs Western Bulldogs" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPFjYQcXhBDcQUkCSMmQKEPpghbJAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="StreamedSU - Afl",Hawthorn Football Club vs Western Bulldogs
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/iEwVRhXVyNqbXSnPTfiTmREXMZOdwIih/delta/stream/live-event_ramirez-vs-richards-live-stream/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="UFC BJJ 9: Fowler vs Johnson" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",UFC BJJ 9: Fowler vs Johnson
+https://lb19.strmd.top/secure/PZSOHZodQrqVDoaRBKEuuaRTgfiPsbFh/echo/stream/hawthorn-hawks-vs-western-bulldogs-australian-football-3452/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="England vs New Zealand" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",England vs New Zealand
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/wTImZgbJIjgKFUCTtarXYKtgRZVNWbuH/delta/stream/live-event_ufc-bjj-9-fowler-vs-johnson-live-stream/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="BKFC Fight Night Hollywood Henry vs Lane" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",BKFC Fight Night Hollywood Henry vs Lane
+https://lb6.strmd.top/secure/TJEwBonRMBtOxqicTJVLQsQhTPfgXRay/echo/stream/england-vs-new-zealand-first-test-cricket-1/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Formula 1 2026 - Monaco GP" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",Formula 1 2026 - Monaco GP
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/bXxkopDGcOIVzZHNgvFDyPZJFMAsrwwq/delta/stream/live-event_bkfc-hollywood-henry-vs-lane-live-stream/1/playlist.m3u8
+https://lb8.strmd.top/secure/LwNFGAuGHyreAZRxDqpRXKXriVRGlBTd/delta/stream/live-event_formula-1-2026-monaco-gp-live-stream/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Melbourne Storm vs Newcastle Knights" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSG4g+28kk3aQGkCBIHEMI5oLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="StreamedSU - Rugby",Melbourne Storm vs Newcastle Knights
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb16.strmd.top/secure/WFMqSjOSXVMwqiTBeIJAffOWjbNfLPuf/rtmp/stream/1k4KqesBcxkfnnby4vGaH8mjIisPLjFxK4tZDKOJhK995JF4OPehlSAmSbJ7Llc_iyo9_Hys9OfkagU/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="MotoGP Grand Prix of Hungary " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",MotoGP Grand Prix of Hungary 
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb18.strmd.top/secure/MdCjNNRTVsjpoVYBlQeHmqnKhIqzlwxg/echo/stream/motogp-grand-prix-of-hungary-game-122273/1/playlist.m3u8
