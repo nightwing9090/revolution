@@ -1,26 +1,36 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Brisbane Broncos vs Gold Coast Titans" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNih64QKMCRDcQfEFJBn9hxDB0gSBYEgp9hs+rpWa2e8vSyzNTLRgemKiEEA.webp" group-title="StreamedSU - Rugby",Brisbane Broncos vs Gold Coast Titans
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="LIV Golf Andalusia | LIV Golf Series" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",LIV Golf Andalusia | LIV Golf Series
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb12.streami.su/secure/eCLswOVjqxNxxSWUksumwbGQBQPUyrzf/echo/stream/brisbane-broncos-vs-gold-coast-titans-game-576373/1/playlist.m3u8
+https://lb2.streami.su/secure/jXfZDsaODjbULUDdtzBmdKOsFRSAnSui/echo/stream/liv-golf-andalusia-liv-golf-series-game-162626/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="KLM Open | DP World Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",KLM Open | DP World Tour
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.streami.su/secure/BgvWFOwdydgYxTpUBHMzyhfHFDOufDzZ/echo/stream/klm-open-dp-world-tour-atp1000/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="MotoGP 2026 - Grand Prix of Hungary" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",MotoGP 2026 - Grand Prix of Hungary
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.streami.su/secure/gutnbDTOEFDFvvfuZNuqTPzFmIckVVUm/echo/stream/motogp-grand-prix-of-hungary-game-122273/1/playlist.m3u8
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="West Coast Eagles vs Port Adelaide Football Club" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMClgSICCDggQ3EHxO59IFOas4YBYEgp9hs+im1sNbbeXpZZGky0YB70ohBAA.webp" group-title="StreamedSU - Afl",West Coast Eagles vs Port Adelaide Football Club
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.streami.su/secure/GApeOrgoFTFcoHbBXQzBdaNDQEdswQfh/echo/stream/west-coast-eagles-vs-port-adelaide-power-australian-football-3455/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="England vs New Zealand" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",England vs New Zealand
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb12.streami.su/secure/lFnoAtHQqTNsXmzzCKUacjPStMklAVQp/echo/stream/england-vs-new-zealand-first-test-cricket-1/1/playlist.m3u8
+https://lb3.streami.su/secure/EmDbAoTredTqRRIklRNEepiGnnCUrOaI/echo/stream/england-vs-new-zealand-first-test-cricket-1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Roland Garros French Open " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",Roland Garros French Open 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.streami.su/secure/lhyESXWOcamaZpSrAyXbIPLJeoUjoGwa/echo/stream/roland-garros-french-open-roland-2026/1/playlist.m3u8
+https://lb6.streami.su/secure/tviMwnIrimTNezmaeYpxgeDYCfcCWNoO/echo/stream/roland-garros-french-open-roland-2026/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Willibaldo Garcia vs Andrew Moloney" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",Willibaldo Garcia vs Andrew Moloney
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.streami.su/secure/uGDVKulEfUbTSmtkdSPbaMxjRyTYVKMJ/delta/stream/live-event_willibaldo-garcia-vs-andrew-moloney-live-stream/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="MotoGP Grand Prix of Hungary " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",MotoGP Grand Prix of Hungary 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.streami.su/secure/dveqmUDYPScsOwfsNvxbHGpQrjvEuspb/echo/stream/motogp-grand-prix-of-hungary-game-122273/1/playlist.m3u8
+https://lb1.streami.su/secure/TGJANSTONNmWfjlnwfBCJCblLQZrCwgC/delta/stream/live-event_willibaldo-garcia-vs-andrew-moloney-live-stream/1/playlist.m3u8
