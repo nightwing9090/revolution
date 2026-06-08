@@ -1,46 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="UWC 58" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",UWC 58
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Collingwood Magpies vs Melbourne Demons" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Afl",Collingwood Magpies vs Melbourne Demons
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.st/secure/BdhloVMCJSWrvtjVRzIzLkPkkkYoMfqv/echo/stream/ppv-event-06-uwc-58-ppv-06/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Appalachian LM Speedweek Potomac" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Appalachian LM Speedweek Potomac
+https://lb14.strmd.st/secure/FYKopddHrzbndGorjutEpbhucFTTLDnS/echo/stream/collingwood-magpies-vs-melbourne-demons-australian-football-3458/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Oklahoma Sooners vs Kansas Jayhawks" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Oklahoma Sooners vs Kansas Jayhawks
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.st/secure/MOiFKLxorGAsCSyvUMQCJNexMDmHdNmq/echo/stream/ppv-event-05-appalachian-lm-speedweek-potomac-ppv-05/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="World of Outlaws Sprint Cars Angell" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",World of Outlaws Sprint Cars Angell
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb18.strmd.st/secure/vVgJeufNswIUSbjpYGFwXtfuxdqsBXsU/echo/stream/ppv-event-04-world-of-outlaws-sprint-cars-angell-ppv-004/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Los Angeles Sparks vs Portland Fire" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEYPAkiQAY1IgaEWcCoglMkMOBKdILCAOISyskv0pSEvSGM1VWC-zCCRTbPTCFgSXDItDnVnEtMgsCKTBnbUsIIA.webp" group-title="StreamedSU - Basketball",Los Angeles Sparks vs Portland Fire
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb18.strmd.st/secure/FoTXnnyxZUNYcSQryOoiKOZNkoqgXaLf/rtmp/stream/QCChLoorjM3tg9r0oQB-tnUtZqGsNEubhiwhKJzTdD3ZE3z6hmr8J0sZuzoD51CN1_jJG2tFxeO9pSSeyMMnpB4O/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Colombia vs Jordan" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VED2AAGNiD0oQ3EH2MgIIKSAOIYpiUyQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="StreamedSU - Football",Colombia vs Jordan
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb20.strmd.st/secure/uDTvBWTFKfhxUchLQDaqdHLLhfbPDZXk/rtmp/stream/khKUqpyTCvtAsc5ns_4MHlu2qYXUbq37c3IlX7sPTa_GMWHpW8tJMAYotVg2uWDxobv0X1W4u8fdiA/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="St Louis BattleHawks vs Louisville Kings" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcQGMQWEBNIhhskCQXKQKdevlkyEEFWlqaMxTKkzEevcfUpyEUGEEim2emELAkuCXaFPWB2FSegJgeHInYAddIA.webp" group-title="StreamedSU - American Football",St Louis BattleHawks vs Louisville Kings
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.st/secure/pLnGSzxXnsjXpntwPgKBRJtCeDffknrt/rtmp/stream/cCW2_aXXBQIZSP_Mqj3ejR7nYCGeW0VSlOxR0V3aXwTI9Neef6pappzfOCiYp_m15GPDwLw/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="NTT IndyCar Series " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",NTT IndyCar Series 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb19.strmd.st/secure/TgrXyVOfDldphZdovMHuVLpZEDmyUMmQ/echo/stream/ntt-indycar-series-racing-0059/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="GCW Cage of Survival 5 " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",GCW Cage of Survival 5 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb19.strmd.st/secure/GvrzvvNpbaxqELEWkSMaCvqbSzZfZRUq/echo/stream/ppv-event-03-gcw-cage-of-survival-5-ppv-03/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="2026 NASCAR Cup Series at Michigan" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",2026 NASCAR Cup Series at Michigan
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb11.strmd.st/secure/suCMFcEMMLzgQvjjhIGzednbvJObmDCI/delta/stream/live-event_2026-nascar-cup-series-at-michigan-live-stream/1/playlist.m3u8
+https://lb14.strmd.st/secure/OGYtCVGRgEWGaWjLydwqlmVVMFtepxBw/delta/stream/live_ncaa-division-i-championship_oklahoma-sooners-kansas-jayhawks-live-streaming-1338550110/1/playlist.m3u8
