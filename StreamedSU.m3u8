@@ -1,6 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="ATP / WTA: Stuttgart / Hertogenbosch " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",ATP / WTA: Stuttgart / Hertogenbosch 
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="France vs N.Ireland" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE522ECFIgs4iVRAkQ8bOJQSQwkBGCJ5EEHp0TSIhQfPzFiqinLaBQkUxW2whYElwBjW0LDdObWETWwIdcn9gbTIIIA.webp" group-title="StreamedSU - Football",France vs N.Ireland
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.st/secure/mdscpqqhIShBLYLKHrcmNkBtAVOilssX/echo/stream/atp-wta-stuttgart-hertogenbosch-tn-1/1/playlist.m3u8
+https://lb20.strmd.st/secure/SSfmCHehGtMoMXERSqydQgAVKDrCZTVn/rtmp/stream/RPFd8FC4ynWZuThIoc6PudJnF08kir6c7wff9ca7o5gU1VgQKKzM_11v7BgWue1vXJbbsdQCAybbaw/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Netherlands vs Uzbekistan" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKuJBZsIYSEQ0SsqSpoSUMmMHjAa0shFIyAxiGOkQSlFN0gtVDfzCCRTbPTCFgSXMY1DnVkNhIw0CbXJnYEMDIA.webp" group-title="StreamedSU - Football",Netherlands vs Uzbekistan
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb12.strmd.st/secure/AxcmOPdQHxmhFwFHhaKBTQswuUPzkZic/rtmp/stream/5W1k2rTMV64md3lHcB-ITAPgF0P4Afx411aXgpqoO7dZaq2ibPTKEaRPBJf2GoqV8-TMF8s1EkksOg/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE: Monday Night RAW" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiCohEiGlJTAIIYcuCIJWNSCVZJpEJt0SammsMUGQIYFMS6IC-mEEim2emELAkuAMYKhZ1YIVzIFAjVyZ0VSRSA.webp" group-title="StreamedSU - Fight",WWE: Monday Night RAW
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.st/secure/cHnInNIAfHoYZRstTcFBefPQsYuULNpI/rtmp/stream/eFCkba7Nj3_nvN6EzNXX7MfkAr_TfA-ec9pbClj22z3AH0cXs0GhCJaBSM0TCBZTCpwbC3Lcsw/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Super Series Pool  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Super Series Pool  
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb17.strmd.st/secure/IJZBpSOGvKSbkwHNWOnWLbENcMyldaLH/echo/stream/super-series-pool-pick3/1/playlist.m3u8
