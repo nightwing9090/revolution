@@ -1,6 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Armenia vs Moldova" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPDDdcuMEjBSQ2viBMQQhlBpAxTIEgWD6Y-YbPoowKlFy-l6WLI+TLRgXmKiEEA.webp" group-title="StreamedSU - Football",Armenia vs Moldova
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb13.strmd.st/secure/lDuPAqUsGfWsyOkhyxYbhumYOZuFFrvJ/rtmp/stream/PJy2qPQ1o98X2_8jZpklvTu7R1FuXG2nrVjBPEZiWDFm-Q1VSYem_Zmm8irnONcdUB37Sg_c8v0ARQ/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="ATP / WTA: Stuttgart / Hertogenbosch " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",ATP / WTA: Stuttgart / Hertogenbosch 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb19.strmd.st/secure/FlDYwnDsfaQoyqudVlGvQSkShLntXEOA/echo/stream/atp-wta-stuttgart-hertogenbosch-tn-1/1/playlist.m3u8
+https://lb17.strmd.st/secure/oVXGOUsZaSTjkABwxTnysxtvNGUvxLvg/echo/stream/atp-wta-stuttgart-hertogenbosch-tn-1/1/playlist.m3u8
