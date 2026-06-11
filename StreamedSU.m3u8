@@ -1,26 +1,46 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="UCI Tour Auvergne | UCI World Tour " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",UCI Tour Auvergne | UCI World Tour 
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="24 Hours of Le Mans - Hyperpole" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEKRBUQAY2ARg04SOzjZ6mSGFqF2rCAgH1ZLKVWJpiFCFPaqKcgoFCVBbPTCFgSXDIdCwbk5dMwc3eHJA+TMIIA.webp" group-title="StreamedSU - Motor Sports",24 Hours of Le Mans - Hyperpole
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb15.strmd.st/secure/wDerUKzJBwOUexzWewtcHJamnSdsCNpl/echo/stream/uci-tour-auvergne-uci-world-tour-game-13622/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="24 Hours of Le Mans - Practice 3" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEFmwSQw6SGBUQ4lCBQKZS7CNKkQMVUo1qIu+YiwgAxrsS9yJgUO0EtasIWBJcltULDdOE2EdNRd4cn9gEzIIIA.webp" group-title="StreamedSU - Motor Sports",24 Hours of Le Mans - Practice 3
+https://lb10.strmd.st/secure/SqjlqfnBWXbvJMTdUpZqSPMsxkcZDANS/rtmp/stream/EK2uMzAQWAK4GbIOeq-_tQGyMPu61Qhe8Lh3L6l-kwCs7aXcg1BHozTJKr_jiPHm8r4f0OaaseRd8yViPfbO-fNyYEDM7L89kyI/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="World Cup 2026 Opening Ceremony" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",World Cup 2026 Opening Ceremony
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.st/secure/RVQrETXFAtFHeOrrNZiTYHWABpNirVtv/rtmp/stream/J1kz546RDSXiFfXp9sOnSakf7kkqDI-L7br7LBxdhIkFgfUH7GvMapibadQbv3mTae-i5LiXEHguijjKQjORIZ_3zPk/1/playlist.m3u8
+https://lb10.strmd.st/secure/mluBFoJYNpOyOPHiixIBLZaadQEnCetn/delta/stream/live-event_world-cup-2026-opening-ceremony-live-stream/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Miami Marlins vs Arizona Diamondbacks" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdjjLwwKMEhAoQvEFhBmYIagevSQESyyQUsIuY12qUPMFqLU5XviswGA+4mIQQA.webp" group-title="StreamedSU - Baseball",Miami Marlins vs Arizona Diamondbacks
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb15.strmd.st/secure/CMeHHtaiIyjrUznjfPVQuFmEdNbgSJxu/rtmp/stream/EkbXI-VAk3-7lixxoeS8-_jq0I2CXiYf2xnf3GjpBKoex1jIQB7H28WrFWk5cXZpK30bIRHOZBBpzeApD1s/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Mets vs St. Louis Cardinals" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCETwwSWLBAwQvEFhBnD1ECishpICJpa6YAkXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp" group-title="StreamedSU - Baseball",New York Mets vs St. Louis Cardinals
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb17.strmd.st/secure/YKrhyiblqACkgnflDMlvmUYyuwPCPgTS/rtmp/stream/aae2k42m7r1-vouIB-nmMQJ-txmQ6UI1c-UBT4tsYqkl3-HCoiNdJhY8eoR3f0Bxs9GhywbEZZQ4W9Q2eg/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Detroit Tigers vs Minnesota Twins" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGkhqIQfDAhgW3rpBmY2kCiuaQEOyyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="StreamedSU - Baseball",Detroit Tigers vs Minnesota Twins
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb18.strmd.st/secure/LVJwTxzCTLbkDmTkWrqjeEnjsbGZtfGf/rtmp/stream/wcxz9y6XwcuoLcwZrkgspInKuGBnnIyYZnsFDarmzzl3Gx6yovKhCQ-sLo1HM7Ic_uwskn7HT0oaG7ix6Qpp/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Mexico vs South Africa (GERMAN & SPANISH)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Mexico vs South Africa (GERMAN & SPANISH)
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb18.strmd.st/secure/IKnqwlBeeMMhFEqwUhlFvtvXeMYDcpWo/echo/stream/mexico-vs-south-africa-german-spanish-game-111/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Ferrari Challenge Europe - Le Mans" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",Ferrari Challenge Europe - Le Mans
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb16.strmd.st/secure/PBdtIhgstLrDMqJMWkPCXfMxUuVZtIiU/echo/stream/ferrari-challenge-europe-le-mans-game-19996/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Endurance World Championship Circuit des 24 Heures " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",Endurance World Championship Circuit des 24 Heures 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.st/secure/DBleJUHiAXFamTYIHHYbRmDnlARqNTAg/echo/stream/endurance-world-championship-circuit-des-24-heures-racing-0059/1/playlist.m3u8
+https://lb19.strmd.st/secure/rvlYhNMLfdKUCrSDVUHsiKznEtsTpnwM/echo/stream/endurance-world-championship-circuit-des-24-heures-racing-0059/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="RBC Canadian Open Round 1" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGWBCIIIekhDcQfECRBSQFlFpNHLTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Golf",RBC Canadian Open Round 1
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.st/secure/XEaYZtFSuuImngiGMegnRyneojiEysnn/echo/stream/rbc-canadian-open-pga-tour-pga-526234/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="ATP / WTA: Stuttgart / Hertogenbosch " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",ATP / WTA: Stuttgart / Hertogenbosch 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb15.strmd.st/secure/ClsNCZcdeOguZnQNMbIMOTeFMTGcVChK/echo/stream/atp-wta-stuttgart-hertogenbosch-tn-1/1/playlist.m3u8
+https://lb3.strmd.st/secure/bTXTcBdRbkoUDHjpCcGUjKEdHSPEuvke/echo/stream/rbc-canadian-open-pga-tour-pga-526234/1/playlist.m3u8
