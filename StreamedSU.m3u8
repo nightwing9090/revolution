@@ -1,21 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="South Sydney Rabbitohs vs Brisbane Broncos" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPDBIEIPmBTYQ3XSCkhzJIxqvGpBYNpj9hs+gZUouYMpvpZZnky0YN5iohBAA.webp" group-title="StreamedSU - Rugby",South Sydney Rabbitohs vs Brisbane Broncos
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="UCI Tour Auvergne | UCI World Tour " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",UCI Tour Auvergne | UCI World Tour 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.st/secure/MNbFoELWJanSIqXkFenyjKECNVMBdbsh/rtmp/stream/seoiK-Bee1I684ClH6q6a9xMnTzQ-wPSdUmRT-pntV9EILIlfiCobwwdkCPpFQhngAv7jojgnruirik/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Penrith Panthers vs New Zealand Warriors" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title="StreamedSU - Rugby",Penrith Panthers vs New Zealand Warriors
+https://lb15.strmd.st/secure/wDerUKzJBwOUexzWewtcHJamnSdsCNpl/echo/stream/uci-tour-auvergne-uci-world-tour-game-13622/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="24 Hours of Le Mans - Practice 3" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEFmwSQw6SGBUQ4lCBQKZS7CNKkQMVUo1qIu+YiwgAxrsS9yJgUO0EtasIWBJcltULDdOE2EdNRd4cn9gEzIIIA.webp" group-title="StreamedSU - Motor Sports",24 Hours of Le Mans - Practice 3
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.st/secure/RRDovuIMVKZXKUEpYWXKmBnFyjRjTQuz/echo/stream/south-sydney-rabbitohs-vs-brisbane-broncos-game-197832/1/playlist.m3u8
-#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Western Bulldogs vs Adelaide Football Club" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGVBikQOviG4g9enDBApcZixKZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="StreamedSU - Afl",Western Bulldogs vs Adelaide Football Club
+https://lb5.strmd.st/secure/RVQrETXFAtFHeOrrNZiTYHWABpNirVtv/rtmp/stream/J1kz546RDSXiFfXp9sOnSakf7kkqDI-L7br7LBxdhIkFgfUH7GvMapibadQbv3mTae-i5LiXEHguijjKQjORIZ_3zPk/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Endurance World Championship Circuit des 24 Heures " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",Endurance World Championship Circuit des 24 Heures 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb19.strmd.st/secure/eCBkWHoWOcxhoPGTSVXCARsUrtHyBOEd/echo/stream/western-bulldogs-vs-adelaide-crows-australian-football-3459/1/playlist.m3u8
+https://lb5.strmd.st/secure/DBleJUHiAXFamTYIHHYbRmDnlARqNTAg/echo/stream/endurance-world-championship-circuit-des-24-heures-racing-0059/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="RBC Canadian Open Round 1" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGWBCIIIekhDcQfECRBSQFlFpNHLTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Golf",RBC Canadian Open Round 1
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.st/secure/XEaYZtFSuuImngiGMegnRyneojiEysnn/echo/stream/rbc-canadian-open-pga-tour-pga-526234/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="ATP / WTA: Stuttgart / Hertogenbosch " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",ATP / WTA: Stuttgart / Hertogenbosch 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb13.strmd.st/secure/QcMJCgaCuUtJdNuTkpJJMRigyABahXiC/echo/stream/atp-wta-stuttgart-hertogenbosch-tn-1/1/playlist.m3u8
+https://lb15.strmd.st/secure/ClsNCZcdeOguZnQNMbIMOTeFMTGcVChK/echo/stream/atp-wta-stuttgart-hertogenbosch-tn-1/1/playlist.m3u8
