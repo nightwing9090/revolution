@@ -1,26 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Baltimore Orioles vs Seattle Mariners" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKhBAoBIeGDFYQvEIZAgYIaluvSQmrfmBIKWEXMYp9HbR33lG1HLajvRgXoxiEEA.webp" group-title="StreamedSU - Baseball",Baltimore Orioles vs Seattle Mariners
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Portland Fire vs Las Vegas Aces" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGhBCSSIFLJDCQIUuODxgEEeKUbSwKqrKJFNLCADGemcpkwlIXuU0ChIptnphCwJLnMpXMG5OTWE9AII1ciDdMgggA.webp" group-title="StreamedSU - Basketball",Portland Fire vs Las Vegas Aces
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.st/secure/iDBhaiQNTmaASVYmDqpQzpJohXAjqqcU/rtmp/stream/H8oarWEkCukIQw_Bk5Udvcp7dsb1M8m76Cy-xcy62SW7VYPSzhW8hM8NQ7mJs9VgvBj8k3obEXYtGL_jUth0DLlf/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Indiana Fever vs Chicago Sky" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFPIgQ9PiD3cNIEiEMoQ57RB06CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="StreamedSU - Basketball",Indiana Fever vs Chicago Sky
+https://lb7.strmd.st/secure/EXISLNtDYAesaNWeNCJkBbnYtqgMcNpi/rtmp/stream/sWv8r5sxqyIiytju-cP90DiaE4kFxWNxXct52Wa0i93QGDMA5wCBwzEXVYqMLVb_wFU2dS3rd3GOazFcS0Y/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="South Korea vs. Czechia" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFNhDwRUkDHFyQNRMPHAIICMEQ0skkCBIgsB4wqpmY6kdtLAqE-mEE2C2emELAkuAMYShZ1YtYTsJN2kwZ2syCCA.webp" group-title="StreamedSU - Football",South Korea vs. Czechia
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.st/secure/TjBHHmKgSrMgxHnHVLuaGkhvMdSGduBW/rtmp/stream/zBFIyIpJdP9aWXk5KA-J0Hk_C11GGZGP-WSqjd6BPHyDLv6ORxEWU6yaiJeTTo9MKnEJEh3_Xg4_6cgBfZE/1/playlist.m3u8
+https://lb3.strmd.st/secure/GKIRFjjIJEUAjrcFrpLlbTZpOcIZotBT/rtmp/stream/r_itdBA8PpL1b9IknbZjhCz3Hs_be-rfWvrnXVVJbPpFvaZzQcirkLPAslHLoGED6xg6r6lM/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago White Sox vs Atlanta Braves" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKo2rAwYaSHqJeILCFMwQ1ECisg9EYyyQUsIuYxRhVKHp-Ka53vis2p7iYhBAA.webp" group-title="StreamedSU - Baseball",Chicago White Sox vs Atlanta Braves
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb16.strmd.st/secure/iRSiveAnBkJLAwnkxyhGupqzfkfqxiOI/golf/stream/23093/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Wilkens Mathieu vs Esquiva Falcao" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",Wilkens Mathieu vs Esquiva Falcao
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.st/secure/VnDrsGLfIsgAwcYneRbARdgGCESnGSDA/delta/stream/live-event_wilkens-mathieu-vs-esquiva-falcao-live-stream/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="USAC Indiana Midget Week Lincoln " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",USAC Indiana Midget Week Lincoln 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb12.strmd.st/secure/ZRrnecWEWPHKUoUAJcAyHLIrqAxyViSK/echo/stream/ppv-event-01-usac-indiana-midget-week-lincoln-ppv-01/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Pittsburgh Pirates vs Los Angeles Dodgers" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtJCDZ4GMAAMIXlpCmYIaiBRWQmiBZZIKWEXMYowqlD0-lG1OW98VmAwT3ExCCA.webp" group-title="StreamedSU - Baseball",Pittsburgh Pirates vs Los Angeles Dodgers
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.st/secure/IXfssxSSHyiJXnPfSLZrloioHzFsQudM/rtmp/stream/pVKcEYJJYXJEpYmnRkEkg1A9vqG-87Ot6687pLOttREPtrXNpPvaLEiGncIRNRmKaujRBqRAWVK4Hz48D_amnerrwA/1/playlist.m3u8
+https://lb1.strmd.st/secure/mjLhqaoaBzoFXhZLveTETWJQRdCRHbpM/delta/stream/live-event_wilkens-mathieu-vs-esquiva-falcao-live-stream/1/playlist.m3u8
