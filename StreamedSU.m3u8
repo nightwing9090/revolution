@@ -1,21 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Portland Fire vs Las Vegas Aces" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGhBCSSIFLJDCQIUuODxgEEeKUbSwKqrKJFNLCADGemcpkwlIXuU0ChIptnphCwJLnMpXMG5OTWE9AII1ciDdMgggA.webp" group-title="StreamedSU - Basketball",Portland Fire vs Las Vegas Aces
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Formula 1 2026 - Spain GP" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",Formula 1 2026 - Spain GP
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.st/secure/EXISLNtDYAesaNWeNCJkBbnYtqgMcNpi/rtmp/stream/sWv8r5sxqyIiytju-cP90DiaE4kFxWNxXct52Wa0i93QGDMA5wCBwzEXVYqMLVb_wFU2dS3rd3GOazFcS0Y/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="South Korea vs. Czechia" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFNhDwRUkDHFyQNRMPHAIICMEQ0skkCBIgsB4wqpmY6kdtLAqE-mEE2C2emELAkuAMYShZ1YtYTsJN2kwZ2syCCA.webp" group-title="StreamedSU - Football",South Korea vs. Czechia
+https://lb12.strmd.st/secure/QjREwEkEGgEYjgkueGASeMurKsAtsUZa/delta/stream/live-event_formula-1-2026-spain-gp-live-stream/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="World SBK Italian Round | World SBK Championship Season " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",World SBK Italian Round | World SBK Championship Season 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.st/secure/GKIRFjjIJEUAjrcFrpLlbTZpOcIZotBT/rtmp/stream/r_itdBA8PpL1b9IknbZjhCz3Hs_be-rfWvrnXVVJbPpFvaZzQcirkLPAslHLoGED6xg6r6lM/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago White Sox vs Atlanta Braves" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKo2rAwYaSHqJeILCFMwQ1ECisg9EYyyQUsIuYxRhVKHp-Ka53vis2p7iYhBAA.webp" group-title="StreamedSU - Baseball",Chicago White Sox vs Atlanta Braves
+https://lb12.strmd.st/secure/VXvLVjFYQAQImFKJzByXsBxMRxVQDObF/echo/stream/world-sbk-italian-round-world-sbk-championship-season-game-4u8337/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Le Mans Cup | 24 Hours of Le Mans " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",Le Mans Cup | 24 Hours of Le Mans 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb16.strmd.st/secure/iRSiveAnBkJLAwnkxyhGupqzfkfqxiOI/golf/stream/23093/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Wilkens Mathieu vs Esquiva Falcao" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",Wilkens Mathieu vs Esquiva Falcao
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.st/secure/mjLhqaoaBzoFXhZLveTETWJQRdCRHbpM/delta/stream/live-event_wilkens-mathieu-vs-esquiva-falcao-live-stream/1/playlist.m3u8
+https://lb13.strmd.st/secure/qErjWhVKCDcexMUUACBkfAHqNXPApjlt/echo/stream/le-mans-cup-24-hours-of-le-mans-racing-0059/1/playlist.m3u8
