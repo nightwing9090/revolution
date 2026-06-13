@@ -1,81 +1,96 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Washington Nationals vs Seattle Mariners" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAZKIfrKhYdIAyBAwQ1ECkshpN8yyQUsIuYxRhVKHh-KNqcr3xWYDAPcTEIIA.webp" group-title="StreamedSU - Baseball",Washington Nationals vs Seattle Mariners
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Jones v Carranza 2 " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",Jones v Carranza 2 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.st/secure/nPIoZqGjghqzJegTcpIloyPQevbvMdPt/rtmp/stream/c1hgQa655LOJXXBgW-SBEaBY2LgbATmRbnR8EWCkI7XXJFFaUtvtniOlPiksVpWKOhVqU3dIatq1wG0BKV4vpvoKc2al/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Pittsburgh Pirates vs Miami Marlins" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtLBJg0kPHK7eILCFMwQ1ECishdukiyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="StreamedSU - Baseball",Pittsburgh Pirates vs Miami Marlins
+https://lb11.strmd.st/secure/mhpPUKtbpjmUAZsGPhYVlGpwJMYdlGXj/echo/stream/ppv-event-01-jones-v-carranza-2-ppv-01/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Arizona Diamondbacks vs. Cincinnati Reds" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKuOCJhILCADGC4BGUgQ2EMNIgyJNaol61RkBBAoDayYf29yKgUJFNs9MIWBJc8i0LDdOFS0yCwIpcn9lUmUgA.webp" group-title="StreamedSU - Baseball",Arizona Diamondbacks vs. Cincinnati Reds
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.st/secure/jxzCoTmqGHfDalvrpwIyeaDPofoWoYHn/rtmp/stream/Wy_pVywazz0MeFtyLzikTPGzKu6yg9jcNL-8x9L29rdBdEdmvRISMs4AQD-FYiSue1VTkRBgwFeqHb__3s7KTmrquQ/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Baltimore Orioles vs San Diego Padres" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmPziQAkFhC89IYzBDUQKCyGlH4LJBSwi5jFGFUoe78o2pzPWvRg7uJiEEA.webp" group-title="StreamedSU - Baseball",Baltimore Orioles vs San Diego Padres
+https://lb15.strmd.st/secure/ylbxYtsupXgQzFbIYxVlJaVUzomJZqNJ/rtmp/stream/QZa_KPx6tZFGqbQQvPErKLInws_zAWnGDvukY6T9SP8PJAa4RTgKcOfwoza5v-7Qzapn9sipetWCg5f3NYMjaA/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Texas Rangers vs. Boston Red Sox" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MieCOAQQMmVRA1h2EBLJZswGiRDCQAY30LNymtIMoFhxBClSU5GwKGSCG+2ELAkuPfaFhuThslMntXCTAA2zIIIA.webp" group-title="StreamedSU - Baseball",Texas Rangers vs. Boston Red Sox
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.st/secure/znJHvRoyiFJioTmQPazxznDpeaWQOzEv/rtmp/stream/Q71WL6aYHVcBiOE_2mzuGKNay66QXaTo04BjhQMlcxJRBe8rFNpQM-FBNV9Y6aCSnfVpJfF1B-4wXxwCJBdKsWKX/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays vs New York Yankees" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvDDgUIaiH759ILCFMxdIHTukgb8FkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="StreamedSU - Baseball",Toronto Blue Jays vs New York Yankees
+https://lb15.strmd.st/secure/bmJaHdEkFtiNuKnEvMVottNtyVqyigiI/rtmp/stream/_WfgqP-SKwlLHxUY2ii2XnqYWc3y1tHDnPUGvcIoSJtbAX208F1KtkjeI0d60JXrLN65ylUIM7766QmSJKY/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Dodgers vs. Chicago White Sox" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICNhDDxILKRApgEWSBCTFNKuOBb4SnVIXBEGqcdVHpNCREX8wgkU2z0whYElwBjRUIesJYVJ6AmNyB30yCCA.webp" group-title="StreamedSU - Baseball",Los Angeles Dodgers vs. Chicago White Sox
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb18.strmd.st/secure/KwkygsMpnqKciCJPYrOvfQsKLbbjNMKQ/rtmp/stream/edayY2ErXRE-eVwqgFCk7Kjm52IqeksTi18tMO8ERW1wm7hjnIqN1vkt_OlULtnqR3KZ8fbIhZQNBn4iHrH1SWA/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Qatar vs Switzerland" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMCTAZKEBvwhuIPsZAkQMMyGuIcEpkgp9hs+ijAqNbD+XpZZ+szAYB5iohBAA.webp" group-title="StreamedSU - Football",Qatar vs Switzerland
+https://lb2.strmd.st/secure/asZddFUmBMVMQutdCtDVtpmwyyBAIaRZ/rtmp/stream/dc7_HviNcvQshMnAsRIZfGIcHJyYV5HnHGgovkaiKEbIM85aJ23FQJdJmg2i6cnLBcLXSg5KBgdE-YsVdBVayN4/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Detroit Tigers vs. Cleveland Guardians" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMlhABjadjlYRIYcAiKZIYImUKSIRPqUgNy1Yl26qRzUfEpyqgUJFM5dsIWBJcUu0LDdOVWUyOwJNcn8VUhUgA.webp" group-title="StreamedSU - Baseball",Detroit Tigers vs. Cleveland Guardians
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb13.strmd.st/secure/ZAaNrHZBfBDjqJJNByljggQXCOjJKrIJ/rtmp/stream/6q1wG4Y4TOdnqH37clO5hGtzT-8mYOB75-MbJeSjELaXJMERVh4luyPdeyhb_Q4WMGGoo1N7/1/playlist.m3u8
+https://lb17.strmd.st/secure/omhqWZVDVRwPUtpYTdjEvdqVHKJFYTbx/rtmp/stream/72hpobA6ArBzHn8Nnjnp5erCVGjmaO4Ca5MoKXDJz7wfUZixTWq78yTYP_Y-f19DCasfrfvQ4TMrJ5T9OkRZwP0WIao/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Atlanta Braves vs. New York Mets" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52ILCAggSIGCJABjYIgXTsk7MAiaqIPXqzL9MEIhRaQNKbrJSTJc-zCCRTTY8LAkuBeaHPWbWFSegJlcmctEIggA.webp" group-title="StreamedSU - Baseball",Atlanta Braves vs. New York Mets
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb17.strmd.st/secure/wPMhlmNynyCqOZSmhNXSHZBOAHTcGAcU/rtmp/stream/LibwHP6WJ40B_2bulFWC6AXeKIKvAAfbx0rjjub67zEudMfvEcdRNGa0KImiyHCaPhC1uXIGk9ztbTcVIw/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Miami Marlins vs. Pittsburgh Pirates" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IFCADGwCCCogY4kMOA0sq0lKmayKsogmyUwA5ulYlZEpeP8wgkU2z0whYElyTjQ+6wiOyYwITcnsZUhkgA.webp" group-title="StreamedSU - Baseball",Miami Marlins vs. Pittsburgh Pirates
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.st/secure/ulmjbPtAgstxPDZtNYCVSuOrEBWHQgTH/rtmp/stream/u2lAg0oBGYg3cmMUP-r5DgC5JWQy2IF7xJfNQY392myCVxtYtoYq8EAzFlRAULEpR4rvGLMNM8LFMlKP4aY8O1Gamg/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Diego Padres vs. Baltimore Orioles" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEIgDGIECInAqIGohhKFwKSAggsIaTNXx1EEaQ3zhO4Ntk0qKciYFDTBbPTCFgSXJIdCwbk4TYTMHNyMwQOszCCA.webp" group-title="StreamedSU - Baseball",San Diego Padres vs. Baltimore Orioles
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb20.strmd.st/secure/ktBjOqWEKjqyEJQIAZixjvLqDoFtiIYm/rtmp/stream/U4YXiibwgMHEUHPTPSlT_64dBpVHGap_f7Fw4lTIDjBg___26PME_9qlUMD3MeNdamr28-0NlaPFGOgC-9TT_RiY/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Seattle Mariners vs. Washington Nationals" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCBIhpEkMAghEAYxBZsq4IhiLp8kMP0i90rCBpqIpHTBE7E+cpYFCjBbPTCFgSXEpQuwbk5LYVJ6N3hyQPkwiCA.webp" group-title="StreamedSU - Baseball",Seattle Mariners vs. Washington Nationals
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb16.strmd.st/secure/wIwyNFwaAwNHGrSFliZMmrsUQlspEQdT/rtmp/stream/txTX29D9QjeYVeMHQ_SacXBifRDpp3p02ucNWtEpUb8gvZzcKl7SZr4o1Tp7Ne20oeVh8NK49FBHkgNgR7bAckKsSE0C/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Yankees vs. Toronto Blue Jays" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEDGAQpwKiADGIaWRqJJZMvGwzhILRD2kQKELvmyRRkCCzWlUlOWkChlgtsdhCwJLnmOhMG5OaWFSenctMCCZMgggA.webp" group-title="StreamedSU - Baseball",New York Yankees vs. Toronto Blue Jays
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb16.strmd.st/secure/KDljmSFtzrbrLzjoxTuJGujzRyuNimgT/rtmp/stream/oZPqA2WM5CJeTO_sR0N_iDC7iZp9_ZP_SMTXWVzw9a13gXnbFvIzwhSSuZ4SqO2ijQmmX1GlbSaNxJnbjvvvVf0/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="DC Defenders vs. Louisville Kings" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IGONLZJEEaRCIAxvKog1EBSBIgaWESA1kyGtaomKQys8CopysgULkFs9MIWBJciu0LDdOWWEpOxd4cn9gWWMgA.webp" group-title="StreamedSU - American Football",DC Defenders vs. Louisville Kings
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb13.strmd.st/secure/CrlAGvAEltkaWIERWPgNvyegatylWGli/rtmp/stream/oahoyJ17DqTFV40JgMa1BCkm6JNZza7RN5aicdHOPIVIsJXhGrZRoLmI1A1-FC-n0ceiFy8/1/playlist.m3u8
+https://lb1.strmd.st/secure/cOChgYktpgCrpnMTymbTXDmxWrzvSvnS/rtmp/stream/IY_8GWeJ2qCu9afSo7cYWxnfbkdk45tzIC7XJ5xPoqf2_5k27AsLl2b53neVONm0x6B0hT4/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Alabama Crimson Tide vs Oklahoma Sooners" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Alabama Crimson Tide vs Oklahoma Sooners
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb16.strmd.st/secure/sUIWyhWotLGxVyYRdBGwJQpZSCzUoeiT/delta/stream/live_ncaa-division-i-championship_alabama-crimson-tide-oklahoma-sooners-live-streaming-1345236417/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Minnesota Twins vs St. Louis Cardinals" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdqrD9qwJPJC8QWECZghqIFJZDSbRlkgpYRcxijCqUPD+UY6xXviswGAe4mIQQA.webp" group-title="StreamedSU - Baseball",Minnesota Twins vs St. Louis Cardinals
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.st/secure/sjXRmlWqLWRofwAocQKJnVOnUWTEagWL/rtmp/stream/eoDfeyuFo9-aRU4DvFYRvrvF4BbCNL7KX6b7jnBm2QH8R_xxlWrUcvadqNdZP9Y12VP_2ryccQ_v11kDXAyvtA/1/playlist.m3u8
+https://lb3.strmd.st/secure/IXWGijzusGDksLPVRdipdnJFGyNEhpRT/delta/stream/live_ncaa-division-i-championship_alabama-crimson-tide-oklahoma-sooners-live-streaming-1345236417/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PFL Africa Adeshina v Campos" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",PFL Africa Adeshina v Campos
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb19.strmd.st/secure/hrChBqtKTiEmQoRLYwDOFqpikvKfNktX/echo/stream/ppv-event-10-pfl-africa-adeshina-v-campos-ppv-10/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Tommy Fury vs Eddie Hall" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCF5h+1AWDEpNILCFO8QMU8avTNLJBSwi5jFPo4oe+8o10H5rMBg7oxiEEA.webp" group-title="StreamedSU - Fight",Tommy Fury vs Eddie Hall
+https://lb4.strmd.st/secure/vMwBaCMEbQSHmlmbQbogfQQrIgpEdZjA/echo/stream/ppv-event-10-pfl-africa-adeshina-v-campos-ppv-10/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Tommy Fury vs. Eddie Hall" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGoiogU4kaWwgIIRAGNlIYYpEgS4kDDk0yWEGqW6ZSkKXUhTKchFBhBcgtnphCwJLhUOhF1YnYXkHd3hyF2AnMgggA.webp" group-title="StreamedSU - Fight",Tommy Fury vs. Eddie Hall
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb11.strmd.st/secure/UAuGJiDdMJySkNsshIwPyFuHUqyZuTib/rtmp/stream/YPv0GAAW7mOK314wtB7QlH5PWWCNdQI-g89A8M6hpTpk3UfxXacURoQgzbxesUWzVzcVdhBJSyV4D2OfHA/1/playlist.m3u8
+https://lb4.strmd.st/secure/TObHUMYBagSTKNEbfhGQkjmtYDiYWaBC/rtmp/stream/0ei3WJ8lTUskA0-Bw97sd3ZkhinYGvy1dJwNIAKUVX2KGZpO_7XoP9iolQIvNQWobMCRt3mfFi1UfwiOXw/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Floyd Mayweather Jr vs Mike Zambidis" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",Floyd Mayweather Jr vs Mike Zambidis
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.st/secure/EqrLDTpQJdyxOVJBwIIikbUkPLgbibxk/delta/stream/live-event_floyd-mayweather-jr-vs-mike-zambidis-live-stream/1/playlist.m3u8
+https://lb18.strmd.st/secure/aOtERstxOVSJXhNSaEWSlBICbAjknMJi/delta/stream/live-event_floyd-mayweather-jr-vs-mike-zambidis-live-stream/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="2026 PFL Africa 2: Nigeria" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",2026 PFL Africa 2: Nigeria
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb15.strmd.st/secure/dyXebwfOlrrtuIkpDBzEXRjfakaypzlT/delta/stream/live-event_2026-pfl-africa-2-nigeria-live-stream/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="AMA Supercross Championship Lakewood" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",AMA Supercross Championship Lakewood
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.st/secure/JoyhAgNIJlxSlQUOGvJIBFjUYUGXwULH/echo/stream/ppv-event-14-ama-supercross-championship-lakewood-ppv14/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Glory Collision 9" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICNhAwQM6fGA0s4kMJBUZU4BBCJ1cnSBTB521dsRYFpEVeHGj-MIJsFs9MIWBJcAYyNCnVgk7MiNXeTAnLWsIIA.webp" group-title="StreamedSU - Fight",Glory Collision 9
+https://lb10.strmd.st/secure/umsTglPkbpliyKumPRNNVEkkhZwqfQlc/echo/stream/ppv-event-14-ama-supercross-championship-lakewood-ppv14/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="GLORY COLLISION 9" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICNhAwQM6fGA0s4kMJBUZU4BBCJ1cnSBTB521dsRYFpEVeHGj-MIJsFs9MIWBJcAYyNCnVgk7MiNXeTAnLWsIIA.webp" group-title="StreamedSU - Fight",GLORY COLLISION 9
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb14.strmd.st/secure/mUGwodUxkZFlRmPTdZINkwvtNLoZomrR/rtmp/stream/lZ-A2nizprytxoDcRX7V9DKDO3DhrHDXw41VBXu63EaLRzEtbRMlN6BEE6RPKaJWVChgTKQoqAYgeek/1/playlist.m3u8
+https://lb13.strmd.st/secure/IgqGMbWgAixaQMoqDhYMKySkBYSByMzs/rtmp/stream/Y_0xLLoSS62aYpbAcYJQCEbfd13jTtYSm5olxZmjboymWxlGgmFlt8HPJ4cTEuS1freIqO9-tHOOBc8/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Pro Motocross: Thunder Valley" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCEkBjcSBggqIRBDkgsIFSFIiQwjbqWTsIKSOMRg8bXppW9KYFQf8wgswWz0whYElxSHIVdWC2FtBw8rMFdgCzIIIA.webp" group-title="StreamedSU - Motor Sports",Pro Motocross: Thunder Valley
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.st/secure/wCkOMGXQOIhdiOfcDyAPZERCnnTNjHHB/rtmp/stream/qnK_jFdOLTGl8cScOKun6uHU9X7tZG6S4bEH-bqbYvTL9WsOh1n7lQa9Y_gKYk1uSlOi5ws/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PFL Africa 2 Nigeria" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdihDSQYlWG28QWECcMwTITce2L8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp" group-title="StreamedSU - Fight",PFL Africa 2 Nigeria
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.st/secure/kInYeDMernZLWCWnvrZPWJjvNXvFYgCr/delta/stream/live-event_2026-pfl-africa-2-nigeria-live-stream/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="24 Hours of Le Mans" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXGxB8QcLGCQhuIKbi3GQJEFcQoQKAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="StreamedSU - Motor Sports",24 Hours of Le Mans
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb20.strmd.st/secure/SrJZCwjoiCgJEYneKhsKLDvdAhqeCxnY/rtmp/stream/o5BVa2duP-K5kemTcoxYXny3WU7CjaRPCWcRwUZXXdfvP_o7fs1dnzy_9Sxh1sktZWE9mZw1lZKLuWkCNfCzfYu9iOYp/1/playlist.m3u8
+https://lb13.strmd.st/secure/VRmDnfbztGyuLvlOAUshVcJjrkshGNrV/rtmp/stream/DK3D9-RvMJ9QiEmb8Bwne0SCL_M5N6xFyJw5BtTk9A77dT7m5A9g-bAOLaNWDo47NwhVapo/1/playlist.m3u8
