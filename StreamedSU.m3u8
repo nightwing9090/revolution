@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Spain vs Cape Verde" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEOxAoGYXvhDcQfIyBIgYpkFcQ4tTJBT7DZ9FGBXa278vSyztTLRg7mKiEEA.webp" group-title="StreamedSU - Football",Spain vs Cape Verde
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Belgium vs Egypt" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUaKRgkIUSBDcQfI7pAxT+xDhIFgWmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="StreamedSU - Football",Belgium vs Egypt
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb16.strmd.st/secure/AUoyQdiqhTwidHpSfHkIaWeeCcPXBpDV/rtmp/stream/RNpV0ob4gCLtXjylRa05i6mIcE0f4kY4HqzwkBYni8PZvqQYBE71tVvVLwHNGch7aH5QXM4/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="ATP / WTA: Halle / Berlin " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",ATP / WTA: Halle / Berlin 
+https://lb10.strmd.st/secure/TEpwTFCufADLTAJSVYpHRQbvRGatNJKy/rtmp/stream/rU5vudmW1tf76ePkc9MzFOXiPPL4RaOXQkpkA-cfKkHL7wt9kXlGc4LzyFiRJC8P9_enPMc/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Texas Longhorns vs Alabama Crimson Tide" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Texas Longhorns vs Alabama Crimson Tide
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb16.strmd.st/secure/CvjgrkyKGNRiabAXOyEuMSnakcDFhBBw/echo/stream/atp-wta-halle-berlin-tn-1/1/playlist.m3u8
+https://lb9.strmd.st/secure/TMBFUOcXVyDzdFLqZjfMMtBRoGdXzeAb/delta/stream/live_ncaa-division-i-championship_texas-alabama-crimson-tide-live-streaming-1349424225/1/playlist.m3u8
