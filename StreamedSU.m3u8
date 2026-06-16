@@ -1,11 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="2026 Players Championship 21" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMbAIICFKkhEiECCoSZIEiGEadyxChApgqmBrnSQczTFLH5JI-zCCRTbPTCFgSXOKNDnVllhWyMCYHhyZyspIA.webp" group-title="StreamedSU - Darts",2026 Players Championship 21
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="France vs Senegal" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxC0+YKWFEoQ3DSZIgYIMyC02JTJBT7DZ9FPrYou+8vSyzPTLRg7vSiEEA.webp" group-title="StreamedSU - Football",France vs Senegal
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.st/secure/MHXwgwRXbWNbDgOBHnbWHOibZqplvfKN/rtmp/stream/Wun9dDpbEuHsa0lfikeFmFT7JQP5rDBKKreCj1vbVhme10AsJ9cqyu0bL7qhFyjzSl_DBpaTAh0/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="ATP / WTA: Halle / Berlin " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",ATP / WTA: Halle / Berlin 
+https://lb7.strmd.st/secure/zfNairdNwflBqauABoDepogVCISieEmW/rtmp/stream/1dwOgEcHu7qXrgZT8v2vWvzA1HALPuGMT6YPRP7eLsL7ECsez1GHi4qBkSdA9dOCRB_RheI/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Troy Trojans vs West Virginia Mountaineers" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Troy Trojans vs West Virginia Mountaineers
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb14.strmd.st/secure/ewcpTSdbXUgaMPncWqQuCPtWxYOoOOEQ/echo/stream/atp-wta-halle-berlin-tn-1/1/playlist.m3u8
+https://lb14.strmd.st/secure/mTCnQyOryJgObfneDSgKqnhfWeSsRtRh/delta/stream/live_ncaa-division-i-championship_troy-trojans-west-virginia-mountaineers-live-streaming-1350234414/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="World Weightlifting Championships " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",World Weightlifting Championships 
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb14.strmd.st/secure/pzqEVHFLALeERKOSGEpPTmpkctxuxTtJ/echo/stream/world-weightlifting-championships-game-1037674/1/playlist.m3u8
