@@ -1,11 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Austria vs Jordan" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjBBxpIeGCTAADCF4gsIC6Z2abWrSyQUsIuYxRhVKHh-KNqcr3xWYDAPcTEIIA.webp" group-title="StreamedSU - Football",Austria vs Jordan
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="New South Wales Blues vs Queensland Maroons" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgIIEMETCQ8YFQkgyw4BGwgUU1VkUTtGxImnjNIBQZJTlV0inJaBQkU2z0whYElzinITBuTi0NMicCOXJgzVJNIA.webp" group-title="StreamedSU - Rugby",New South Wales Blues vs Queensland Maroons
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.st/secure/SjaJrnPCVDdCdqpkDATXeSWpRAHttAha/rtmp/stream/-fmBiL65zUW4VaSynRJcTobDRvWc8V5mbOLYeA4cO4RAe20CaiJuZJWutlM3gUWiHIPycg0_fg/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Atlanta Braves vs San Francisco Giants" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Atlanta Braves vs San Francisco Giants
+https://lb17.strmd.st/secure/acxhoawPsFHKyydBdNSolRsyduZuIOUb/rtmp/stream/47MkFymKJob_HqNs-IhUGP3L9j66nVwa0ZG1NMR_nQlGg-hO_CqnsBFF91OcsAg1oWksMm-hEPYS24mGjA/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="ATP / WTA: Halle / Berlin " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",ATP / WTA: Halle / Berlin 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.st/secure/BfpxIvBldSRqYPbwMnzqOpecIDaLgzAH/delta/stream/live_mlb_braves-giants-live-streaming-1328201469/1/playlist.m3u8
+https://lb12.strmd.st/secure/yoRGBKbTYumiKeWEMVVhYIKNwebahGnf/echo/stream/atp-wta-halle-berlin-tn-1/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="England vs New Zealand" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",England vs New Zealand
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb12.strmd.st/secure/OyMpabXbssfDUntgBQodLkJqQJeFnClt/echo/stream/second-test-england-vs-new-zealand-cricket-hundred-1/1/playlist.m3u8
