@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Czechia vs. South Africa" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Czechia vs. South Africa
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="NAPA OH Speedweek Waynesfield" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",NAPA OH Speedweek Waynesfield
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb18.strmd.st/secure/XAhGzFNwSiCFjppgteZscLwUGJxwWJOY/rtmp/stream/fLGn00MonNewJdIn0UekNVVpwL8o9LBv7U1QmbU9HvHit3zY561Q200MW9fxlp0SRwua0YvpwQ/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="U.S. Open Championship" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",U.S. Open Championship
+https://lb19.strmd.st/secure/QuSMjburqRHpKMVAVELvayMXEIjAIHJp/echo/stream/ppv-event-01-napa-oh-speedweek-waynesfield-ppv-01/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies vs New York Mets" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Philadelphia Phillies vs New York Mets
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb14.strmd.st/secure/nNqPHXOQINABUqDlvtRyzfaFjgYFLjkU/echo/stream/us-open-championship-atp1000/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="England vs. New Zealand" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",England vs. New Zealand
+https://lb19.strmd.st/secure/FcbsNXSzQfHLINoJEVVNOvzWJzAvqqey/rtmp/stream/MOp1mdYFIUN8Plei1CrzSJAbO9P40FTuuOv6Z6kUUVfG_0X8MZRfxM58-A0Gi898rN1bQNB3g5jWbJqMCZIfNRb0xw95vw/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Canada vs Qatar" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Canada vs Qatar
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.st/secure/PTnZMtgiXiCcQvtcJEuxIoyDVPLMoXXI/rtmp/stream/UhOK8-tcVMV3GjXTNYefOU9uzlBBhMnW_MT8r1lOB4h9Qvk3UdiPdR-mpy3WFChOyGwinjzNg3c/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ATP / WTA: Halle / Berlin " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",ATP / WTA: Halle / Berlin 
+https://lb2.strmd.st/secure/vsjZHpugPQAinTHvViYFgPashXYAOzxe/rtmp/stream/gbzsptzKfgn5E6JskKtBzRTuT5hsmAf6aaEMDBuGbDZXhC0WRMxf7DLBsy8DA9caHQ0d3uwSzA/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Seattle Mariners vs Baltimore Orioles" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Seattle Mariners vs Baltimore Orioles
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.st/secure/KnMgbrjWRinmoplNfJRxYASKWIGLwMKg/echo/stream/atp-wta-halle-berlin-tn-1/1/playlist.m3u8
+https://lb9.strmd.st/secure/GXuiIgpswcoQYyHpEdvIUaLsmeXwZtmG/rtmp/stream/CpbGYlrnHjfaTeC1PUaIaAmVnQ4XR-R-DUBZ-mkfBZrQVUIDoOD1zrE_oy8WzJ1qpnMHP4h872IA2xV4YweDoFo/1/playlist.m3u8
