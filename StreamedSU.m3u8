@@ -1,36 +1,41 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Hull Kingston Rovers vs Leigh Leopards" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title="StreamedSU - Rugby",Hull Kingston Rovers vs Leigh Leopards
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.st/secure/kaPFXXozdMaoOqtvGgeckCKovKfBreOp/rtmp/stream/dIzr8H6J8rf1-uEiku6IW4Y3u5-TKcTQSstJCt6cH170Jgo_1qdBrTnDpAT4uuteemusZIznPYfnZ8I/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Hull F.C. vs Wakefield Trinity Wildcats" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title="StreamedSU - Rugby",Hull F.C. vs Wakefield Trinity Wildcats
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.st/secure/FvQmOMAqTUiOXomfEowKzMExMBhAtiPx/echo/stream/hull-fc-vs-wakefield-trinity-game-184842/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="USA vs Australia" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",USA vs Australia
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb15.strmd.st/secure/QQFipKKaXjbmVvnguBHksVXpQJPgdaPK/rtmp/stream/1ub9uwFJhNd2izQ9Oy4dPm5hvjt_F8K5irByFGMlDpHlfv_0AogPY4-G7P5vGP-EarOTl2gm2Q/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Leinster vs Bulls" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title="StreamedSU - Rugby",Leinster vs Bulls
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.st/secure/uYXZiydZuRVlRmiHJYXTcytaZvvPbZpN/rtmp/stream/M35L8bFuT5Wf-ayYMjbHLZUXFxyFtaoZS5NMcYvCOubeatefCVNa5ENFGieFzfkwIi_p9dk/1/playlist.m3u8
+https://lb5.strmd.st/secure/QDXzchCAWPHGLBrKUNadVHaisXFCGcki/rtmp/stream/AV7n_n6vP0oAvFxr_Rb_mfOyTNjBIgZ7R_RKgTvS_VPQ_JIgIIQ67eU3vqQnnAcAiwxJyYg/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago Cubs vs Toronto Blue Jays" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Chicago Cubs vs Toronto Blue Jays
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.st/secure/mjGAgeFxVHnysUhBlndVIRvcDLZMgHJG/rtmp/stream/7-SKPYzqpSI8Nii3DWvf0wxQ6r7Y018UUf2XWN0Sr2zbEA_9Jn2ntqN7VoYo9NLtGHdrzDTEaTW8G5KK9A/1/playlist.m3u8
+https://lb10.strmd.st/secure/tmeHHvaBgvvXaVLuDwHgVWJtrmAMKfgQ/rtmp/stream/Vm6tn1bxXBe46BgM0PM-abZ9kRRsGUH6o0pOBNmj7rkcaFWsmAJ6oC69mZhdixWV7hX2FEz-nw8FTNQ-RA/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Cage Warriors 206 Unplugged" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",Cage Warriors 206 Unplugged
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.st/secure/oObZmZczUSyMOiGuLirjOLjXQXTxKliY/rtmp/stream/pmk0K2q1IFpHquYEokNKTGq0uVnYkajf-zng2cDdj-Wbs_5ximCuKeeKREhfJvESHp0UhJZe4sP3YiJ_rdE/1/playlist.m3u8
+https://lb7.strmd.st/secure/vjNCooWNPaLVOlKbZVQocpEcTSwsFCja/rtmp/stream/DOfjguTuMpeBIOYKe8BTnEDZXD5xNLFzhSHkaiLJuQrXBuMo64WfE1RooM-nc-D0oj-v1mDNHDT43U1dyNI/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="2026 PFL MENA 2: Jeddah" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",2026 PFL MENA 2: Jeddah
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb16.strmd.st/secure/caetXfuRNtnXetWibFTpeewwPqrAAKHF/delta/stream/live-event_2026-pfl-mena-2-jeddah-live-stream/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Nascar Truck Series 2026 - NASCAR CRAFTSMAN Truck Series Race at San Diego" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",Nascar Truck Series 2026 - NASCAR CRAFTSMAN Truck Series Race at San Diego
+https://lb14.strmd.st/secure/lielkxRuGPGzpkZkwYoslqSHVASUyxUi/delta/stream/live-event_2026-pfl-mena-2-jeddah-live-stream/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ONE Friday Fights 159 Gonzalez v Chatanan " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",ONE Friday Fights 159 Gonzalez v Chatanan 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb16.strmd.st/secure/tcgoihunSDnlWFxzXoYimiMlqtUeReMT/delta/stream/live-event_nascar-truck-series-2026-nascar-craftsman-truck-series-race-at-san-diego-live-stream/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="U.S. Open Championship" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",U.S. Open Championship
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.st/secure/vyOHhzmTOZOwoVOXLvENRqTvQuEJaqkg/echo/stream/us-open-championship-atp1000/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="Slovak Darts Open | Day 1" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title="StreamedSU - Darts",Slovak Darts Open | Day 1
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb15.strmd.st/secure/avKaUtFaizAUmfTLfvjLoAfkQVOFOFbK/rtmp/stream/omG4-hEDW2k6uL_zEes_0DT-rbfiRS1HMYX2ILDY1_6Kwau94TpmVgsAiww6rxCG4IJgPskbCA/1/playlist.m3u8
+https://lb16.strmd.st/secure/FZiCiyPqAMflQcZFaQgoNRqDwUIxgEtV/echo/stream/ppv-event-01-one-friday-fights-159-gonzalez-v-chatanan-ppv-01/1/playlist.m3u8
