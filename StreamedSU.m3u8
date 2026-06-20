@@ -1,56 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Wests Tigers vs Dolphins" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title="StreamedSU - Rugby",Wests Tigers vs Dolphins
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="England vs New Zealand" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",England vs New Zealand
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.st/secure/rTZfggFNEspRSytNgjaDxamAMjVfwbSo/rtmp/stream/6I0LGgG-Tr1ZA-aIZMntw_Ds07O_0Egw1LQNL4K9L1FSwBVbs2_uU-7LtUvp8hwJUx5UtQ6sieeR9RA/1/playlist.m3u8
-#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Adelaide Crows vs Melbourne Demons" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Afl",Adelaide Crows vs Melbourne Demons
+https://lb9.strmd.st/secure/xmRgSWfCLsRSvYQibFsniQfthAnyspjN/echo/stream/second-test-england-vs-new-zealand-cricket-hundred-1/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Gold Coast Titans vs Penrith Panthers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title="StreamedSU - Rugby",Gold Coast Titans vs Penrith Panthers
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.st/secure/EPVkKjCXhoyLoywAhOxZBbNVURBCizFK/echo/stream/adelaide-crows-vs-melbourne-demons-australian-football-3468/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Trkiye vs. Paraguay" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Trkiye vs. Paraguay
+https://lb17.strmd.st/secure/SnBNgZTNAJGXbzeHlrVURJZbknGZKQrx/rtmp/stream/SPEuA2bilcaJVHQPG8KsFVRhqoIFnwa_gw85fXb0C5njJSOwizaHgDNjrfte9qnp07f9khfEA-prjnM/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Sydney Ice Dogs vs. Sydney Bears" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Hockey",Sydney Ice Dogs vs. Sydney Bears
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.st/secure/HLqJIxPqQTyOIczXvFOpbXmZRbtAxmhI/rtmp/stream/9cgruPFqWIh1-kGiqqHoSmvnYVFC_iq6k_JnyqKIyfEXaxi75XwzXKdzJGZcFqQJ49J5J5sItQ/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Dodgers vs Baltimore Orioles" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Los Angeles Dodgers vs Baltimore Orioles
+https://lb17.strmd.st/secure/AiESsbAMcfIWEzRuZMJPWqQDkTekLTlN/rtmp/stream/6x_3Zavfe_0BCimYL0xDiMGgmqXQqK3IYQGN7txAux3NMCzMheccXfzHQcBVQnwnZfp3H8To/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="MotoGP Czech Republic Grand Prix  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",MotoGP Czech Republic Grand Prix  
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb20.strmd.st/secure/mnsPQXVgGBDzjvKByZvATHkbYJRBeOrX/rtmp/stream/oNz46C0_HsBY5uC9fjlyHdoc6kc3nr79mD5hIdEGjFBAud00U_zYG1eAVj7Hr-952kOXumn0AUgjNg_hcpL3UYnXTA/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Seattle Mariners vs Boston Red Sox" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Seattle Mariners vs Boston Red Sox
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb18.strmd.st/secure/PssxgsVsTeBhLADJwhbltJdOHfYZcgkG/rtmp/stream/tq8K9A5z6_8IJnDgUwu9ecuejwkk62zMU-p1ps94U_jKFv9qHyXfdQN60h3wAwh9lPwGgQO1SvubG1LQlI0oUdo/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Arizona Diamondbacks vs Minnesota Twins" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Arizona Diamondbacks vs Minnesota Twins
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.st/secure/pOozMZdtlVtzrAbjHGGTVwvtGfvbrkZy/rtmp/stream/GH_j2SKrGctEjcsfAKqBShwl4i3OjHG_6iHPQ5RfEKe7V5Doc47PQZK9v8VRcN_zvf2srsi1FKiqX8pJ6YzDL5_GLcPC/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Athletics vs Los Angeles Angels" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Athletics vs Los Angeles Angels
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.st/secure/rJYDPGlYtuzUzoktPUwQxjqGBspRnxlQ/delta/stream/live_mlb_athletics-angels-live-streaming-1328537133/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="BKFC Fight Night Nashville" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",BKFC Fight Night Nashville
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.st/secure/gTKVOuUUiCuGqtojtKlwHSLtLLzcxxHy/delta/stream/live-event_bkfc-fight-night-nashville-live-stream/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="NARC Super Dirt Cup Skagit" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",NARC Super Dirt Cup Skagit
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.st/secure/TgKZoCJzRpIKjITtUeteVfVqHZDnIpJz/echo/stream/ppv-event-22-narc-super-dirt-cup-skagit-ppv-22/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Formula E Sanya ePrix | Formula E 2026 Season" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",Formula E Sanya ePrix | Formula E 2026 Season
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.st/secure/xtNPZhCCgUQhzdJwyVVERPXLpDRkngsu/echo/stream/formula-e-sanya-eprix-formula-e-2026-season-game-19996/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Ashton Sylve vs Joseph Jo Jo Diaz" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",Ashton Sylve vs Joseph Jo Jo Diaz
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb20.strmd.st/secure/VRRyKCSZLBurZCKgZbciCLhYQfDBWigK/delta/stream/live-event_ashton-sylve-vs-joseph-jo-jo-diaz-live-stream/1/playlist.m3u8
+https://lb6.strmd.st/secure/mIBTRjeEUGNBeBxKUZMEZuYfXhCaSEMw/echo/stream/motogp-czech-republic-grand-prix-game-122273/1/playlist.m3u8
