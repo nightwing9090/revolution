@@ -1,36 +1,46 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="Rhein Fire vs Berlin Thunder" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true" group-title="StreamedSU - American Football",Rhein Fire vs Berlin Thunder
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.st/secure/GhhsEzQAzEIfNcrBvfVtDeJGZtGuwUEb/rtmp/stream/Td2r5ogGWpVcpBVBqAdINr--uHmEXQ890WT55juGKSFLRI0TtdQFvZBENkPpf4b1g21R3rGqdoLTAsWJ59OYRw/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="St Helens vs Huddersfield Giants" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title="StreamedSU - Rugby",St Helens vs Huddersfield Giants
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.st/secure/YtQSPDcMWrgivYAaLBJPWqbKiSaBBuBp/echo/stream/st-helens-vs-huddersfield-giants-game-182283/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="U.S. Open Championship" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",U.S. Open Championship
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.st/secure/AeRkBKrbcxfdtnOsTcjQADwYzCmGmErn/echo/stream/us-open-championship-atp1000/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="London Warriors vs Vienna Vikings" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true" group-title="StreamedSU - American Football",London Warriors vs Vienna Vikings
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb11.strmd.st/secure/CdFDfEPsHGNhcZkLEibRmtgnFSqbLrfW/rtmp/stream/-3ci004bLd2UvPSubn9XC0HCzq7CW-BoYis4fEa7FKtXheMnm02Ql6IIkR0Id6Kc5cAeFuvuXSFISkCvYXyI4hsM1LD-/1/playlist.m3u8
+https://lb5.strmd.st/secure/rLJvmZJQuCCXGNcPuTPoNPIxYuzcxizH/rtmp/stream/VDw970o95PQnqJyN0JauaBNGmr0SHR0BsV3i5laJ0tuqNiNigDOOul5n5VC2U7TxjVOMej9IgMqdDOUxiuWAKdTdefgE/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="British GT 2026: Spa - Francorchamps " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",British GT 2026: Spa - Francorchamps 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.st/secure/xjkaYMsTaHMIOOrSPlJtfXyhayebTUHM/echo/stream/british-gt-2026-spa-francorchamps-game-4u8337/1/playlist.m3u8
+https://lb8.strmd.st/secure/mgthLfecTZsPUefUSMMiszZuuQMberbr/echo/stream/british-gt-2026-spa-francorchamps-game-4u8337/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="Slovak Darts Open | Day 3" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title="StreamedSU - Darts",Slovak Darts Open | Day 3
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.st/secure/ixDQZEEKofNRwdmGZxzOSSXffVfLDBnZ/rtmp/stream/nl9j4JD26qN21qiD1Sy4k1Ehz08owHqo854x999cEu2v6M5ZWqSuhUYEoWoF_6IC7JQp_zfjog/1/playlist.m3u8
+https://lb1.strmd.st/secure/WHunYyfEJkrwvOEpuTCIOazCrKzbiExW/rtmp/stream/_MBpD7PcsGrWl0mhcg7VdaBPCnjfjdPCBrb7zsHtX_lV6g9AMyfkCzACY0A6V3GkrHcdTVsr6g/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="England vs. New Zealand" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",England vs. New Zealand
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.st/secure/BsLSlbSlrOjEMCmcNuFfqsEoSdibXCgn/rtmp/stream/YHblATFEHi_7jpPMUHsfaeby4S9nSG3usaVAU_W4nExUTkM0Vzk6CHJD24eEZXE7eHXPJctR2vs/1/playlist.m3u8
+https://lb18.strmd.st/secure/gelAnWjdztILZYVcZSsmNtAJBawwVdcm/rtmp/stream/FzZoTPwBQ8HtrQyAZfmJcRlnBxycI4c73-_EoisJhFVvDkR5PoLaslU2yKSEHCCpajQJMEQhGlU/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="ATP / WTA: Halle / Berlin " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",ATP / WTA: Halle / Berlin 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb11.strmd.st/secure/fTzSrfmNYgJPqcGNcNwtxfgMoMpoiEVr/echo/stream/atp-wta-halle-berlin-tn-1/1/playlist.m3u8
+https://lb12.strmd.st/secure/hZJEoTZZIcivwqUpPsouTzGRHoBLUQcu/echo/stream/atp-wta-halle-berlin-tn-1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Nascar Cup Series 2026 - Anduril 250" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",Nascar Cup Series 2026 - Anduril 250
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb16.strmd.st/secure/LJPjzPSEwldhJeJcOtGrcmDNuIgUHMlB/delta/stream/live-event_nascar-cup-series-2026-anduril-250-live-stream/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="MotoGP Czech Republic Grand Prix  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",MotoGP Czech Republic Grand Prix  
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb17.strmd.st/secure/jWzzzFmWkLyEkwSxWoFMolHwrOcXegrH/echo/stream/motogp-czech-republic-grand-prix-game-122273/1/playlist.m3u8
+https://lb4.strmd.st/secure/VewHEmFchGeUQkjhBderkOcjYPmUsqcS/delta/stream/live-event_nascar-cup-series-2026-anduril-250-live-stream/1/playlist.m3u8
