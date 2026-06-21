@@ -1,31 +1,36 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="London Warriors vs Vienna Vikings" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true" group-title="StreamedSU - American Football",London Warriors vs Vienna Vikings
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb11.strmd.st/secure/CdFDfEPsHGNhcZkLEibRmtgnFSqbLrfW/rtmp/stream/-3ci004bLd2UvPSubn9XC0HCzq7CW-BoYis4fEa7FKtXheMnm02Ql6IIkR0Id6Kc5cAeFuvuXSFISkCvYXyI4hsM1LD-/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="British GT 2026: Spa - Francorchamps " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",British GT 2026: Spa - Francorchamps 
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.st/secure/xjkaYMsTaHMIOOrSPlJtfXyhayebTUHM/echo/stream/british-gt-2026-spa-francorchamps-game-4u8337/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="Slovak Darts Open | Day 3" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title="StreamedSU - Darts",Slovak Darts Open | Day 3
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.st/secure/ixDQZEEKofNRwdmGZxzOSSXffVfLDBnZ/rtmp/stream/nl9j4JD26qN21qiD1Sy4k1Ehz08owHqo854x999cEu2v6M5ZWqSuhUYEoWoF_6IC7JQp_zfjog/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="England vs. New Zealand" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",England vs. New Zealand
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb15.strmd.st/secure/BGWofTuelewLyZaJDNtIAkXcmcDpkPxA/rtmp/stream/aHctK-Cmc0k3inb-B7oMYGP7VybOZFs7MXohsUfKowgISznixVHAcDqFpEO86qawjvMfEINP2Zs/1/playlist.m3u8
+https://lb2.strmd.st/secure/BsLSlbSlrOjEMCmcNuFfqsEoSdibXCgn/rtmp/stream/YHblATFEHi_7jpPMUHsfaeby4S9nSG3usaVAU_W4nExUTkM0Vzk6CHJD24eEZXE7eHXPJctR2vs/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="ATP / WTA: Halle / Berlin " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",ATP / WTA: Halle / Berlin 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb15.strmd.st/secure/yppoUffhGAngMqnBtPCFywEzSjwpeMXx/echo/stream/atp-wta-halle-berlin-tn-1/1/playlist.m3u8
+https://lb11.strmd.st/secure/fTzSrfmNYgJPqcGNcNwtxfgMoMpoiEVr/echo/stream/atp-wta-halle-berlin-tn-1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Nascar Cup Series 2026 - Anduril 250" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",Nascar Cup Series 2026 - Anduril 250
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.st/secure/mecCjukHvzaFFrPMcAKoyGCluiXvyOHb/delta/stream/live-event_nascar-cup-series-2026-anduril-250-live-stream/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Sydney Roosters vs Cronulla Sharks" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title="StreamedSU - Rugby",Sydney Roosters vs Cronulla Sharks
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb20.strmd.st/secure/aGisjeHaLlWAACTYTxZhcgpIdCpHVdWW/rtmp/stream/3M3-BVn63q7V4ddPZF3cFAbIYt8uMzfXUCHFkhikyQyJcL5CIPv08X-8voUEOs4SmZIEobcYGT9gYxw/1/playlist.m3u8
+https://lb16.strmd.st/secure/LJPjzPSEwldhJeJcOtGrcmDNuIgUHMlB/delta/stream/live-event_nascar-cup-series-2026-anduril-250-live-stream/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="MotoGP Czech Republic Grand Prix  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",MotoGP Czech Republic Grand Prix  
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.st/secure/bLEQEDdGAajtlIIkBkVanmbXaeCgBzyK/echo/stream/motogp-czech-republic-grand-prix-game-122273/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="V8 Darwin Triple Crown | V8 Supercars Championship" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",V8 Darwin Triple Crown | V8 Supercars Championship
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb18.strmd.st/secure/QBqjQVhrXWqtxMfxZgRszthlHxcRAUwW/echo/stream/v8-darwin-triple-crown-v8-supercars-championship-game-19996/1/playlist.m3u8
+https://lb17.strmd.st/secure/jWzzzFmWkLyEkwSxWoFMolHwrOcXegrH/echo/stream/motogp-czech-republic-grand-prix-game-122273/1/playlist.m3u8
