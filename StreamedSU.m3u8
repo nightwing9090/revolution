@@ -1,31 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Melbourne Storm vs Canberra Raiders" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title="StreamedSU - Rugby",Melbourne Storm vs Canberra Raiders
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="England vs. New Zealand" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",England vs. New Zealand
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb11.strmd.st/secure/zLrmuanNdejLUtEnVFEjGqtyUVXJdYdz/echo/stream/melbourne-storm-vs-canberra-raiders-game-3373252/1/playlist.m3u8
-#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="St Kilda Football Club vs Western Bulldogs" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Afl",St Kilda Football Club vs Western Bulldogs
+https://lb15.strmd.st/secure/BGWofTuelewLyZaJDNtIAkXcmcDpkPxA/rtmp/stream/aHctK-Cmc0k3inb-B7oMYGP7VybOZFs7MXohsUfKowgISznixVHAcDqFpEO86qawjvMfEINP2Zs/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="ATP / WTA: Halle / Berlin " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",ATP / WTA: Halle / Berlin 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb14.strmd.st/secure/aNcGIQAOFeSSzuAqJTlzNQTvJcfTOAYd/echo/stream/st-kilda-saints-vs-western-bulldogs-australian-football-3472/1/playlist.m3u8
+https://lb15.strmd.st/secure/yppoUffhGAngMqnBtPCFywEzSjwpeMXx/echo/stream/atp-wta-halle-berlin-tn-1/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Nascar Cup Series 2026 - Anduril 250" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",Nascar Cup Series 2026 - Anduril 250
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.st/secure/mecCjukHvzaFFrPMcAKoyGCluiXvyOHb/delta/stream/live-event_nascar-cup-series-2026-anduril-250-live-stream/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Sydney Roosters vs Cronulla Sharks" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title="StreamedSU - Rugby",Sydney Roosters vs Cronulla Sharks
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb20.strmd.st/secure/aGisjeHaLlWAACTYTxZhcgpIdCpHVdWW/rtmp/stream/3M3-BVn63q7V4ddPZF3cFAbIYt8uMzfXUCHFkhikyQyJcL5CIPv08X-8voUEOs4SmZIEobcYGT9gYxw/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="MotoGP Czech Republic Grand Prix  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",MotoGP Czech Republic Grand Prix  
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.st/secure/bLEQEDdGAajtlIIkBkVanmbXaeCgBzyK/echo/stream/motogp-czech-republic-grand-prix-game-122273/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="V8 Darwin Triple Crown | V8 Supercars Championship" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",V8 Darwin Triple Crown | V8 Supercars Championship
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.st/secure/INnIGLGqZUgwDxXKJtYxUNZnDqmXEBDS/echo/stream/v8-darwin-triple-crown-v8-supercars-championship-game-19996/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="New Zealand Warriors vs North Queensland Cowboys" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title="StreamedSU - Rugby",New Zealand Warriors vs North Queensland Cowboys
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.st/secure/MCaiwuMKPZJnYeJQTLghuRaggSrAdgKx/rtmp/stream/r6Z36-rfKxUWwpqqsPawFa7Zs1vm2DRo6FGHooHNXCYRKjnS7W8lCu02sJPHqKwrw0HtrVlN-oU-m_U/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Tunisia vs Japan" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Tunisia vs Japan
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb14.strmd.st/secure/gQoynazRsGmUCcTtUoHBusYZaaOoFesf/rtmp/stream/ep3pPKgGdzcAWJKyfYb0-s60Xt5wD3ms0H8G1GH7BcJpwm_3t9UrzFX1dW2NCbQnqangLJCyNA/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Oscar Collazo vs Neider Valdez" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",Oscar Collazo vs Neider Valdez
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb14.strmd.st/secure/isSiGHQOJVlIFSTUYWCgmEPYuDiWTEwB/delta/stream/live-event_oscar-collazo-vs-neider-valdez-live-stream/1/playlist.m3u8
+https://lb18.strmd.st/secure/QBqjQVhrXWqtxMfxZgRszthlHxcRAUwW/echo/stream/v8-darwin-triple-crown-v8-supercars-championship-game-19996/1/playlist.m3u8
