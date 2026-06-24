@@ -1,16 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Angels vs Baltimore Orioles" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Los Angeles Angels vs Baltimore Orioles
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb20.strmd.st/secure/QgLhPhFgXGVSYWayhHBFvlwrcVorKaeY/rtmp/stream/8S8acBkl1kwJ5iZf8J7MzT94_kfI9vf2oBbqFfSddghESuWJROflQb28Nqm9gEr-uWCZWfb7Rwlz-Aa3pInLnVPA/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Colorado Rockies vs Boston Red Sox" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Colorado Rockies vs Boston Red Sox
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.st/secure/AoaDbEMmnYlchSmMaFjlmRZbTLiajILU/rtmp/stream/d8TRL_NK-uEbY6eYE0DaI6a-g7ADwcZhfO2a104L9ioh0ebMBC2KpBSSwam4-nmlb04AfusrCUCLUfLl2DnJGbY/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Switzerland vs Canada" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Switzerland vs Canada
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.st/secure/mbPZGfNQsrrEnxnHFkCVWjbJiXayqcNi/rtmp/stream/o22M6xlpseg3McMFzvDZmQ9OGV9A5wRhOrI1601KjN6vy14eSczqxDpZ_7HgYy3bwgowoKV3vw/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Bosnia-Herzegovina vs Qatar" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Bosnia-Herzegovina vs Qatar
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb17.strmd.st/secure/imGtDIRAblqdvoBIdLDIRVjhrGPszhkA/rtmp/stream/t3RDs8UNTt4uvX3OhQC0VXAFp4b7LxCthG0zn59DkUbdklg_wiDZS9D2jWQSowSs1WXpiDN4/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago White Sox vs Cleveland Guardians" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Chicago White Sox vs Cleveland Guardians
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb14.strmd.st/secure/ATqWOSnoQGgqbmtOodpnyzqfMwXneqWA/rtmp/stream/ycqyhOM57pxcFaWFQ3VkQzFd3eYP_V3srzDjYujwHtKYENOPDvuHG76SxXjRd8U_h0YgbZ9Ny5p2k9CHxkZV9Og/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Mets vs Chicago Cubs" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",New York Mets vs Chicago Cubs
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.st/secure/eGOThKAYpBMBnoMafVLwnvHJSJLOljDY/rtmp/stream/eZe-aMjWHn9JIVJfo7hGXLF9bj86o5ne6sbG1vqDFgAPnfRxh_zserrkueI7_olbp6zKc6_nTBV6W93k2w/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Miami Marlins vs Texas Rangers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Miami Marlins vs Texas Rangers
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.st/secure/rnpijEVeWCYGkQognKxBlcdMhvcDRmYh/rtmp/stream/-FiKz8vjuBEwwNIQL_fLiMIK0Tqtnw95gVBoRHgAft1RiKZgPwJX2dKuZTnlLR_NmJkmY6AJ39ygTYFHlx4/1/playlist.m3u8
+https://lb16.strmd.st/secure/bnnFZIWnRPVIDclgdJpCSBuQniqwQViU/rtmp/stream/jd7IkSLKbdtSatZbv_ifk_qRNE5uAaOYBGcLtabLtcpwMOMGIcOSLSikVFdyvV8y8nfEND7zopCtp9sFaC4UrsM/1/playlist.m3u8
