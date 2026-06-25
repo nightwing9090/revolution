@@ -1,16 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Pittsburgh Pirates vs Seattle Mariners" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Pittsburgh Pirates vs Seattle Mariners
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Curaao vs Ivory Coast" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Curaao vs Ivory Coast
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb19.strmd.st/secure/SJprqExRUKtAdOVGSygWWiZJKgaYYVcf/rtmp/stream/n6GO6IYqPXbWEUkpbJei-fWqMKMlRJZMDrzvFLgz6cr3uabBaoTgvGQe0fjXoz2uyqjIArOVt0APw7s94Z3gj8pdgw/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Tampa Bay Rays vs Kansas City Royals" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Tampa Bay Rays vs Kansas City Royals
+https://lb11.strmd.st/secure/GuWCgoeItglWYSzTfmyOiUKcpdIZgMLc/rtmp/stream/COTLboRlSCCVossomFTTv8LITdx23QC4IBdwy4H8C_CGDFCAMWD9130tsWsXgqCL8B1KFXxi/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Ecuador vs Germany" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Ecuador vs Germany
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb19.strmd.st/secure/yrALfmmLZQUgHHNIdjaDyrbxKoJyihwo/rtmp/stream/nCDyWX2NokrXkjd_3J9YduwBLbf28nr7Un9A-vDU6wadGN8bRc9mXe69wcULgTTnfz73QwgnaRsm98fKikU/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="World Rally Championship Greece " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",World Rally Championship Greece 
+https://lb8.strmd.st/secure/wfYiIYbgajWqLeDOOmdbpgGgSjrVEUAj/rtmp/stream/jZ3nB4txPOHHCQSe4nHXiEQoPS7B9uDOk20gPnlXpcHfDTjCouRkFwcVXba6e2HbQijcesG_mQ/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Curaao vs Cte d'Ivoire" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Curaao vs Cte d'Ivoire
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb12.strmd.st/secure/VgLhRjfOqfBIANVsnGvCxdEMfgLFCQtd/echo/stream/world-rally-championship-greece-racing-0059/1/playlist.m3u8
+https://lb17.strmd.st/secure/qsmnOslZhiZYYbmeRCVnMCMUedaVXjSi/delta/stream/live_world-championship-gr-e_curacao-cote-divoire-live-streaming-1243814940/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Francisco Giants vs Athletics" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",San Francisco Giants vs Athletics
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.st/secure/UrZTWBnDJaTgnSlVAOXBTJTAvqtzMqeW/rtmp/stream/4c-KFqzAljIrtDnc14mIcsk_PRTa00tNN8xAgQ7hhN-ur3qO4JvBYchI54pjG1Zt-48OhnSF3WkoSXSNIDR4qxDpMxQ/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Warrington Wolves vs Catalans Dragons" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title="StreamedSU - Rugby",Warrington Wolves vs Catalans Dragons
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.st/secure/boCLLqfXzhTZunMRenijvjoVRRbWBIdW/echo/stream/warrington-wolves-vs-catalans-dragons-game-37322/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Travelers Championship | PGA Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Travelers Championship | PGA Tour
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.st/secure/bgFXaYyJHwzXNoIcKNVvIGyjOpcuQeGI/echo/stream/travelers-championship-pga-tour-pga-526234/1/playlist.m3u8
