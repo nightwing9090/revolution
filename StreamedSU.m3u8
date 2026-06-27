@@ -1,36 +1,36 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Night Of Champions" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",Night Of Champions
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb20.strmd.st/secure/YJWUCSOPXUmwUpHgGkwcKSXlsMAbmagL/rtmp/stream/UBeLZicUxgpbgBsUFM00yijQVFmpCt7d3rWNfnY6Dppo7VOHFyg2In0WTAKjzyGFBIr7Wz0/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Toulouse Olympique vs Leigh Leopards" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title="StreamedSU - Rugby",Toulouse Olympique vs Leigh Leopards
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.st/secure/gXsPRMPnfpxtrtDEGVOSdcUWUGZQYwon/echo/stream/toulouse-olympique-vs-leigh-leopards-game-37322/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Yankees vs. Boston Red Sox" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",New York Yankees vs. Boston Red Sox
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb12.strmd.st/secure/BGJUUTyLCioBSXoZoWSZHkacxhlBpZGC/rtmp/stream/QLMrd1AQ3I-3XrPGDu8O6-EUH-w1_QMtI5Wy7CsTZrhaoqRiJD1rFKu9bBaHsoGXkikeCNZcvQkgOL934m4/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="Alpine Rams vs Rhein Fire" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true" group-title="StreamedSU - American Football",Alpine Rams vs Rhein Fire
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.st/secure/LyAJylVsXDfbBRoJHYpqblHJDAwFjBMy/rtmp/stream/GOH5WPrJBPEoYz561dTdrvNOvJPb7KeMdkdxrEjXxT-jPz0tgEFYNvkvuQTVSuAINd1pa0LVs0c6OUj9W9iljMw/1/playlist.m3u8
+https://lb8.strmd.st/secure/TvQBwyCbpNfuxuroKEligocpfPFYLeDC/rtmp/stream/UFtz20E2UMINBSxGTi4-hD8fnAgjh9nVugJE4hhuckLQHqBmbBJ3JXM3ZoPqiSXy4fgtUQPIvECY6vL8VgKGXrk/1/playlist.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="2026 NHL Draft | Rounds 2-7" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Hockey",2026 NHL Draft | Rounds 2-7
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.st/secure/rCUtcRCnbKwDVZtjXtUkdhpobgWVZciv/rtmp/stream/iKiFVRU8cd2Lb710PqM0ms8m70QhbFt0e1Qp55jxlYy8xvqYSNFXJ6K0cdctRksO3BaQDyr6/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Austrian Grand Prix Practice 3" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",Austrian Grand Prix Practice 3
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.st/secure/mrrtGeGgmfSVOzZPWpGstTNqDNVWlDfM/rtmp/stream/aWZpcOu6AVDozVGfgo_Z5-_z0oxDd1n3w1IBx9mqk9yVUKJSWHQZZ-REtF4VhBTLBc9FFl0_qNC06PGzMecI0GbuFYniAhzm8PgK/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Hull F.C. vs Wigan Warriors" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title="StreamedSU - Rugby",Hull F.C. vs Wigan Warriors
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.st/secure/aQcrufDoDrkybIGEGtPWvMWEGSAkXPJH/echo/stream/hull-fc-vs-wigan-warriors-game-184842/1/playlist.m3u8
+https://lb3.strmd.st/secure/piHLiTwyxuQgXxPHNhSMJEmiCtpedHeY/rtmp/stream/NvsQY9bYpLxUjEdFt-ZswkJysoSSLhwvzvwmk8LQq1tX1UDAvYf956jRm-4cHZ03sl5UXNT-/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="UFC Fight Night 280 Fiziev vs Torres" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",UFC Fight Night 280 Fiziev vs Torres
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb14.strmd.st/secure/RjjEmNaFWeZqIoMXUExSGibKnZBQfaDB/rtmp/stream/EYZoXFmd5kAtsnqmVtUF7Ue0cDU3HDBLTUUIKKrDzaCh2l8TSAYFNB_h8kpAS28J_YdDS8g/1/playlist.m3u8
+https://lb6.strmd.st/secure/ELdYOrNsAWMmOMMbKzNbChyEivTUTRHp/rtmp/stream/N3WD9LjC4CE53o4kaeCenO6elkHVYFNHAM1uAtGLMOpUg_lgBYyeaCfq9nnVyWjVGvjVByc/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="ATP / WTA: Bad Homburg / Mallorca " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",ATP / WTA: Bad Homburg / Mallorca 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb19.strmd.st/secure/fsbdJBNivnldwIFnnJrlsHsREeGqdugS/echo/stream/atp-wta-bad-homburg-mallorca-tn-1/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="England vs New Zealand" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",England vs New Zealand
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb12.strmd.st/secure/SKUMBTJRkclRRCXDhSOErrMZJkerIFrY/echo/stream/england-vs-new-zealand-third-test-cricket-hundred-1/1/playlist.m3u8
+https://lb16.strmd.st/secure/IXsVqldHYlBzndrYBcGOsbzwGjXvwHjC/echo/stream/atp-wta-bad-homburg-mallorca-tn-1/1/playlist.m3u8
