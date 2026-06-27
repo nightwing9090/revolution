@@ -1,41 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="UFC Fight Night 280 Fiziev vs Torres" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",UFC Fight Night 280 Fiziev vs Torres
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.st/secure/lyhsQLUVnPhqKqgUnBjkfjzeAiaWbTUe/rtmp/stream/2oEhoXafvJWmeSXeKzH12w8DMdVJbR-9LjlelaUX5nn4TlsRjiqsPO05O185KcEaCn9yn1w/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="ATP / WTA: Bad Homburg / Mallorca " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",ATP / WTA: Bad Homburg / Mallorca 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb20.strmd.st/secure/DjYgSSRIhPUwMrhWrnFnzctkcebSuUpo/echo/stream/atp-wta-bad-homburg-mallorca-tn-1/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Austrian Grand Prix Practice 3" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",Austrian Grand Prix Practice 3
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb11.strmd.st/secure/qByAZaZGyqeBadoSvccQgirpchqSdPxn/rtmp/stream/n1u8FP9gDGgeYn7_qNBMF6MmwCSJxA65apx9o1WJusshoWJMstb4NHuKWeuGMCMHeEAtVSTyC0ulBhiilzeLi1FmMHE/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="3rd Practice | Red Bull Ring |" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",3rd Practice | Red Bull Ring |
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb16.strmd.st/secure/aRmDokQRmrUQalWRSWcWmGZAtqvREhbj/echo/stream/3rd-practice-red-bull-ring-formula-1-2557/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Manly Sea Eagles vs Melbourne Storm" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title="StreamedSU - Rugby",Manly Sea Eagles vs Melbourne Storm
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb16.strmd.st/secure/NbsQJPDsfgSOqrEbJuXBAYtcjvSXtsRl/rtmp/stream/8WiM9BmNhw6hR3uXkqoBUkPAIncgOdSI5GCPJpRZxZXR-zu5ubOEaDDGNvhJAvLmRK8xt6fo1GRXKac/1/playlist.m3u8
-#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Port Adelaide Power vs Adelaide Crows" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Afl",Port Adelaide Power vs Adelaide Crows
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb18.strmd.st/secure/vkqBmZYghhqGDENVBstfpjqytxIeVxcw/echo/stream/port-adelaide-power-vs-adelaide-crows-australian-football-3555/1/playlist.m3u8
+https://lb10.strmd.st/secure/NIuDQiiPUGDgviUhgRFmNlDpcolFogPS/echo/stream/atp-wta-bad-homburg-mallorca-tn-1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="England vs New Zealand" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",England vs New Zealand
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.st/secure/WqrcpzQqYrvvipFlgVGQBNcFLdzfoFmH/echo/stream/england-vs-new-zealand-third-test-cricket-hundred-1/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Formula 3: Austria -R5 | Formula 2: Austria -R6 " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",Formula 3: Austria -R5 | Formula 2: Austria -R6 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.st/secure/RweHNGkPzEhqGEleqfYZNsNvfmntKNxe/echo/stream/formula-3-austria-r5-formula-2-austria-r6-game-19996/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="World Rally Championship Greece " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",World Rally Championship Greece 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb15.strmd.st/secure/kKzDGpwebbRRpWcNUuKJkHCHsKmdyJuN/echo/stream/world-rally-championship-greece-racing-0059/1/playlist.m3u8
+https://lb1.strmd.st/secure/traVIuFQFKZwMpYLGhPeLBPBNrCKfmbY/echo/stream/england-vs-new-zealand-third-test-cricket-hundred-1/1/playlist.m3u8
