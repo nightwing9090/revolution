@@ -1,51 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="Montreal Alouettes vs Ottawa Redblacks" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true" group-title="StreamedSU - American Football",Montreal Alouettes vs Ottawa Redblacks
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.st/secure/akKAfgBAJQzVreGVQkvJNkOQUCWZjXHe/rtmp/stream/LNGU49WcarIGYRzl7v7Q4JyxF3jyWAWLM_8iThAVhwLvTuSdc2EtbAHzrhq3Yg4rHQHWyiwOWGA-DSCxHH9d35nr_kIojtB4MLD3/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Golden State Valkyries vs New York Liberty" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Golden State Valkyries vs New York Liberty
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.st/secure/JVoOZgtjyaRXsCkFKDRkUArSqmdmyLPI/rtmp/stream/8e4AcpaTZ-GYRUi0U5lo7Ir1eCNBo6ibJSO864sliHYjCKhJTEDe_kb4MEwU_kfDkAXr0DaPOQTwtiR42wdMwTX1JUUveg/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Los Angeles Knight Riders vs Seattle Orcas" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",Los Angeles Knight Riders vs Seattle Orcas
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb12.strmd.st/secure/WqclIjQsxDoiGrqoFuDohtUhFjWUoszo/echo/stream/mlc-la-knight-riders-vs-seattle-orcas-cricket-1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="De Los Santos vs Valenzuela" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",De Los Santos vs Valenzuela
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb11.strmd.st/secure/NASOshZDqMVvPmjGnaYyZvyXSKTVImIR/rtmp/stream/KxbIyU5Y9cFiykSX7ztfBh87DBjvRk-JIEgHN6RnSWXvmiQiPGZF7sXTR5MnnMHHkJyJ78Utlw/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Diego Padres vs Los Angeles Dodgers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",San Diego Padres vs Los Angeles Dodgers
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb14.strmd.st/secure/JQEjwsXmfOviyecnVguCseQUhrAyipns/rtmp/stream/xeYtakrpshqDSctMuz2AjASD6ndLmagBIzWaPuuXNFQa22Pr9KplUDtqNCuPUp-3v6H5THGhF3s6kVCPsAzmWw/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Francisco Giants vs Atlanta Braves" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",San Francisco Giants vs Atlanta Braves
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.st/secure/efOPezMAjxfyDCjHbeowrqSYIdLceNWl/rtmp/stream/9ni10DHm6I5uvnf9z__ygRiQ08HKhWIBEbQMaCwuxRry93P-2R5xX5MSUom8_9uzc1tyMnBCxrnzjcEVhlG3TRRfxc0/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="TNA Slammiversary 2026" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",TNA Slammiversary 2026
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.st/secure/KImLaSDOJqoPRcARAKoJEYjfJQQwMxCt/rtmp/stream/wfK37jXY-5u9kqH69JNsQxTVWCC5A8rxewQvox5fm-4Ag0eN5N2B43Y6muueZr0mOFIHFYk/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Travelers Championship | PGA Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Travelers Championship | PGA Tour
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.st/secure/YwJjosDEdXDwCBbMMBdPRvriiSrcdKVh/echo/stream/travelers-championship-pga-tour-pga-526234/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Monster Energy Mammoth Motorcross " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Monster Energy Mammoth Motorcross 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.st/secure/KfkylKgNtrjoQgMZjiTrlxQdEaxhFDvL/echo/stream/ppv-event-01-monster-energy-mammoth-motorcross-ppv-01/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="MotoAmerica Superbikes Ridge Motorsports " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",MotoAmerica Superbikes Ridge Motorsports 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb14.strmd.st/secure/LYBmbRyrEcWcIMktZUQOHPFnLnyvTWgy/echo/stream/ppv-event-02-motoamerica-superbikes-ridge-motorsports-ppv-02/1/playlist.m3u8
+https://lb19.strmd.st/secure/sCCDHwszExKGaLxmDwBaqMLbRVInSEuu/rtmp/stream/4iWgtKOQpT1auk6bDCgvJETmKSOD92wEBztVgcJLiVp_AUA4I97v3dHD97PMxviBFWtYbl0hAg/1/playlist.m3u8
