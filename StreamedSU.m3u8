@@ -1,11 +1,46 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Milwaukee Brewers vs Cincinnati Reds" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Milwaukee Brewers vs Cincinnati Reds
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.st/secure/YRIpTYHCvxTbKxWmaJzVfsiHBBBbkEZi/rtmp/stream/4p7IZ6HcU6DmLUexEsETgp10ZZbVe_IfFN5SweL7x3hxAGDPuDQWEhWk8hELr6z5oaZgHTFRxJLvpYSr7KfaH0O4/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox vs Washington Nationals" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Boston Red Sox vs Washington Nationals
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb16.strmd.st/secure/sAGXrDHSTuYqWVTVdUGaYTEowHPyHUQY/rtmp/stream/UQBPgh1qCr38wN8yRlR7r_rAp8UbbMcUWqoakhayLRlUiAo2vM0x38MALpZvw8Ye5WcxEPBnQuB0Uk2seT8/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays vs New York Mets" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Toronto Blue Jays vs New York Mets
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.st/secure/BrYzJoksjcbgoyKnZhUFlBRUjfEhaRYN/rtmp/stream/BeHqxFg9bv9qCurDUu8gs6QGylrDTMKouokCCERrfi8tkTf6BmI1iohuCkkdg-BOxwJvzVEfmocwOsIFDyov9DY/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Yankees vs Detroit Tigers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",New York Yankees vs Detroit Tigers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb14.strmd.st/secure/PZADQfVljFwnLdmNOIuTdDNkguYpaRLZ/rtmp/stream/MXN24mpmfxHXerIwbKn2Kf8kMVnhzrL8WUulV6NZkz5f0_fvFIrBz_IksAFWPER4hPCVFaGPPP0ser2Fr0GwMQ/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians vs Texas Rangers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Cleveland Guardians vs Texas Rangers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb14.strmd.st/secure/HEnZbOpAQjuEbYxFyXgPBBBeNolBQVbi/rtmp/stream/LGcRa1MeJ1zXqVl5oKk2n6YzTuhVyxeCwFdG_cf5faffEVfkAIyAOM2Wkmvy6we6tcGx3G5c2zmFhUfCLMJ4Gf2V9YU/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies vs Pittsburgh Pirates" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Philadelphia Phillies vs Pittsburgh Pirates
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb13.strmd.st/secure/oZHDVkxkGzoTOyGezjXJtvxSDHhXYDGA/rtmp/stream/mOVnpHAbFV8u52-tbMDvnBlJBkD6Yl6otm7LRj0JKtqUePG84p1_fJ0elP2Btehe8xcJV3CRjQOcfioLfB--geU5xNhgAA/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Baltimore Orioles vs Chicago White Sox" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Baltimore Orioles vs Chicago White Sox
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb19.strmd.st/secure/FYQqYeDxahhLQjSPJRRnDzpFIGmluCks/rtmp/stream/aidyWOkPmVTH4eWJTxVCRKkUwbxxMbsb1Oeg9vhVhFOMwI7RaTQQGRGvhtTjxjW3qUJDf3uaENIFNdQ7yNdkCbhL/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE: Monday Night RAW" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",WWE: Monday Night RAW
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.st/secure/kjqnIqVHpFcJmzhRBSpapeOvrKkDRJVf/rtmp/stream/uVDY1A9BydmKI8rzpf-fmlXW2F9HaG_HhpUME5CKsjEfC-b4snLHRnykxddCq2h27b3v6J8MTQ/1/playlist.m3u8
+https://lb11.strmd.st/secure/uHPcgbEPnHGleyvjzHfrFmouuoeSOskz/rtmp/stream/hpgObquRUuV_4W1HsKPoPRUwjVGN-1jyiojKeSIIyQQTVif3geurVn5X5swwDyqy1EiBTsZA4A/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Germany vs Paraguay" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Germany vs Paraguay
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.st/secure/mZwIPoqnDwxrurYxVGpUBbnRfBOFBxBT/rtmp/stream/SOkn0V5VvTVNzgY6p5rA5c7tbSX6LPcLQeSd3cFF_wroLRRIp0uUU6sLn90rqWLoUATef4z6-w/1/playlist.m3u8
+https://lb10.strmd.st/secure/eKeTrRfSVWCruYTckyfUrifRjlnMenZr/rtmp/stream/iaLJOZkdBLVtvMhkhWdYDDK1MBhnMz07-pktENyuwNBreQ_LhBSnx_5Y2pTfO74wcEL_9_tFBg/1/playlist.m3u8
