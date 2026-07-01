@@ -1,6 +1,41 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Yankees vs Detroit Tigers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",New York Yankees vs Detroit Tigers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.st/secure/cheWpggRFXYXezZvNWesGqXDObfGNtKa/rtmp/stream/DVuZdfiGz30l8QlyLKCkdqtTR0R8CCTT0RfEGksD2T-zZQ176x7gRYPHFFDwVxr4jXOV_tTHcx8F0mpamzpU1A/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox vs Washington Nationals" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Boston Red Sox vs Washington Nationals
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.st/secure/lwZdRRlTnnslbMlTodvOKMgTHLakJPpi/rtmp/stream/xDy4A4xyGZ_NFLC0A4MktzL0BsllO5dzI--Wk_vuycnJWheZQQwQdOk_XRDSZ0FlPlzrWhl2YkxuWyGNPRg/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians vs Texas Rangers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Cleveland Guardians vs Texas Rangers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb12.strmd.st/secure/OjJFyRAXXxuEeoSHSiOJqqsmKPIIPPyt/rtmp/stream/O9K10z1BRxkCxuz8dQxhGysFcl-w6NM_egaAu1D1boD7FMPZfME1sMg7XFqIQE4DPkvn1_-b8-U_mWnF1d5NphzKlSA/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Forge vs Vancouver FC" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Forge vs Vancouver FC
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb15.strmd.st/secure/HLhovnnlxAiArJoCtfsrnzGcoeiCpuod/echo/stream/forge-vs-vancouver-fc-football-1517303/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Baltimore Orioles vs Chicago White Sox" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Baltimore Orioles vs Chicago White Sox
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb15.strmd.st/secure/NSOuHiCoSEtlyNlnccyOGcLIYecQAMrW/rtmp/stream/BwwXlYNqd3gpcdNeiMxoN91oyNt5g7TbmfkSjE8SxosHE38Zf1FkA2wAmiwsHyxq_81mA1Zrv7HtAKK_iqxcT9nk/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="England vs DR Congo" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",England vs DR Congo
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.st/secure/mOhXxPZmDJzATUObuIPsgZqvSDQwbbAR/rtmp/stream/QsnMceDxZu8nM33YR_5bPZAgK2k1mwAJtEi4xQtbNl6kMDToWqbZGQDmyvTeyCZHU3-8rUsgCA/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="England vs India" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",England vs India
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.st/secure/EoXLmWVlohPBRUpmMlGREVuACNTAuUOa/echo/stream/england-vs-india-first-t20-international-cricket-1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Wimbledon Championships 2026 " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Wimbledon Championships 2026 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.st/secure/YrSNQAypIsvtTZXCKxkNoLpboutmnwtt/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
+https://lb6.strmd.st/secure/ZzZDDNnVnjluMbSFcEMjdkoVDAIwspDp/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
