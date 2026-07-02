@@ -1,16 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="HFX Wanderers vs Atltico Ottawa" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",HFX Wanderers vs Atltico Ottawa
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="USA vs Bosnia-Herzegovina" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",USA vs Bosnia-Herzegovina
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.st/secure/ERPqpICmhrfhhuxWrMWcsRMjSiJxkiyX/echo/stream/hfx-wanderers-fc-vs-atletico-ottawa-football-1517304/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Belgium vs Senegal" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Belgium vs Senegal
+https://lb2.strmd.st/secure/vDIkCwXjTPBklFtjUKemAoiSdRFuslkF/rtmp/stream/HDA-X2Hf2H3-4TSAG9SpkFTmuL5wkfIM6NpEKIJWtXomz3FkNymueq2neklbsGd80q_TGdB28A/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cincinnati Reds vs. Milwaukee Brewers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Cincinnati Reds vs. Milwaukee Brewers
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb13.strmd.st/secure/KTgqJEsSngxaOmXPQOcoVrhUaxcGXUOa/rtmp/stream/WrNvWtgpFZfxbS9WNoY2sVNI5UF6t4YOfg6R8Lz_d6Cfpi4pz9E_IFQ8n3syRXnKFsV3f0vcOw/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays vs New York Mets" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Toronto Blue Jays vs New York Mets
+https://lb13.strmd.st/secure/DBkALhFhdxZHCGhzUOhiAisMdJnHcygY/rtmp/stream/eDz4D3NrXjwb1y_koLLxVfXtj_RaqrDffMXsQeKJt3tfw1j0MzdqlEBn6AxX3EmCmbFICy77lpKBjzIdbcujCKwK/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="AEW: Wednesday Night Dynamite" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",AEW: Wednesday Night Dynamite
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.st/secure/LHfmzgcbnaNtwQtubqSiOXmGprxrTisS/rtmp/stream/ONoZ_1tueCUxpU5GwMI6KY3y_SXjOCr_QfjtwTOmTpUkiBOyaMBLELBoiTSl-H1IOoyiWFeC-DTUzrOx8OP5zw4/1/playlist.m3u8
+https://lb6.strmd.st/secure/mmQkdOyGMCbGvsZUBngBoFosFQNyEIrD/admin/stream/ppv-aew-wednesday-night-dynamite/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Kansas City Royals vs Tampa Bay Rays" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Kansas City Royals vs Tampa Bay Rays
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb12.strmd.st/secure/ZbUTHUiTDRapYobmZwWXzPSDEzzqfKtx/admin/stream/ppv-tampa-bay-rays-vs-kansas-city-royals/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Atlanta Braves vs St. Louis Cardinals" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Atlanta Braves vs St. Louis Cardinals
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb15.strmd.st/secure/IeQeQKBtgaYpyCYyZMtSiiIWJVgWRzZo/admin/stream/ppv-st-louis-cardinals-vs-atlanta-braves/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies vs Pittsburgh Pirates" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Philadelphia Phillies vs Pittsburgh Pirates
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb14.strmd.st/secure/qKYxtkfxjvKjVIchuAeGjSvvZhmIGdGL/admin/stream/ppv-pittsburgh-pirates-vs-philadelphia-phillies/1/playlist.m3u8
