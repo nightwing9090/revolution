@@ -1,21 +1,31 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Colorado Rockies vs Miami Marlins" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Colorado Rockies vs Miami Marlins
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb14.strmd.st/secure/nbUqsyobkgeHhvnHVmEaklhmLhDjsdzi/rtmp/stream/huv2Fjvc7oD7VqWTabhdv19rrmp7hQ7eWIKP4Ar8C9BNySjClh3LGKAqaVloSmymPksbRHW6r7Y6RW2hao9OoiI/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Spain vs Austria" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Spain vs Austria
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb11.strmd.st/secure/EyBqQEJFsjqevuMoZECHsmMffleGbQez/rtmp/stream/bWkivzPEGZfs6JdQ6Jat7hXldiMAGOoa8a2d0OG1upn3uxiT4tdhWmgIVQ8_vY75TJkMq8RLGw/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Milwaukee Brewers vs Cincinnati Reds" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Milwaukee Brewers vs Cincinnati Reds
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.st/secure/GhPInxpcjBRvNmnzxxwaQGvpIEUuXtVT/rtmp/stream/-gcG8IFVgAizrGT9fLuFjqkiHn4s6HJjyO7wa0Khnv2iCHlbQkFvrXyt9KjjR8eryqXH1jdNRdekj9COQp7eD043/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies vs Pittsburgh Pirates" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Philadelphia Phillies vs Pittsburgh Pirates
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.st/secure/JJphsAlkWubalnwUjNHNFRrgRtFOoUyC/rtmp/stream/3XR-LvD7D_k0yBG-1cIW3HivlC17O24MNmF0wN2-Uieu53JIa8iGlBXocdIQQlowOMCi6tgJ68x5z16LuRBrnoDobHOTcw/1/playlist.m3u8
+https://lb1.strmd.st/secure/nXogutUxzACIVwesvpYeASLzsNVJvghh/rtmp/stream/WOf7GAcB9yhPU5326yqUKQymS1f0MgykA3YWoD7-McrLYXBz63FwLVRdOXCCeKDCEQncL82C8HVpd7hd_la0vPDMtgrQuQ/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="PGA Tour: John Deere Classic" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",PGA Tour: John Deere Classic
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.st/secure/DsFfWsRdiOrGirAXCclFcYSsZILaDaQK/echo/stream/pga-tour-john-deere-classic-pga-526234/1/playlist.m3u8
+https://lb3.strmd.st/secure/XrfEjBMveaKGAbrLFQlZoFHMVQRAvVtP/echo/stream/pga-tour-john-deere-classic-pga-526234/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="US Senior Open" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",US Senior Open
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.st/secure/yeZRNecxXyxhwOBYdSKAirVxbpBbkbLv/echo/stream/us-senior-open-atp1000/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Wimbledon Championships 2026 " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Wimbledon Championships 2026 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.st/secure/DWryDroANZvOdXGaAKQgGsLpHIiVQSCR/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
+https://lb10.strmd.st/secure/SgwlUnuNOWVuGYvklGuUGOOAcKlQQLWL/echo/stream/us-senior-open-atp1000/1/playlist.m3u8
