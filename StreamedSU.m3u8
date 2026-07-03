@@ -1,6 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="F1 Academy: Great Britain | F2 & 3: Great Britain  " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",F1 Academy: Great Britain | F2 & 3: Great Britain  
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="West Coast Eagles vs Adelaide Football Club" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Afl",West Coast Eagles vs Adelaide Football Club
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.st/secure/yeElbWBfktGiyWNNaumeCRUVvzKmTwCX/echo/stream/f1-academy-great-britain-f2-3-great-britain-game-19996/1/playlist.m3u8
+https://lb15.strmd.st/secure/QbyaogMwPCUeDQFHrnUKEUEyedoyjLBr/echo/stream/west-coast-eagles-vs-adelaide-crows-australian-football-3559/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Penrith Panthers vs South Sydney Rabbitohs" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title="StreamedSU - Rugby",Penrith Panthers vs South Sydney Rabbitohs
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb15.strmd.st/secure/zCDUartyJfuWsUpOWcwUPCvKqOWaWnLL/rtmp/stream/FN4riKmOYm2c7C3eq30y-E_qocxLz9v0LkJS4RUAXBx_yK-W0bkGJvtaFpycv0GC7WuMqlYjCBAgEak/1/playlist.m3u8
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Sydney Swans vs Western Bulldogs" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Afl",Sydney Swans vs Western Bulldogs
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.st/secure/gllvPFIRtyvYSzbTJOttJwtUoZmDFtEB/echo/stream/sydney-swans-vs-western-bulldogs-australian-football-3558/1/playlist.m3u8
