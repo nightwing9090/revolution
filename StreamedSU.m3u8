@@ -1,31 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Washington Nationals vs Pittsburgh Pirates" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Washington Nationals vs Pittsburgh Pirates
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.st/secure/OYtGxWIhOaHrIdMkTDYsbUNssXizQBzV/rtmp/stream/hY7raPru3MFuQfQStHJy61q3Do7XOATg6BST-DX_906O8vLx4h8f_-6XnllzobNx_T7AXLmk4HTIdldF0Jmoo081VDZ9/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Argentina vs Cape Verde" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Argentina vs Cape Verde
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.st/secure/xnuVoKxrtPNymqQRsBkiySRQrTfcmNHR/rtmp/stream/MyYfAiehKX-oYMWtE0ACE2ntAVR6VIkv4pEQdxRumnutjgurGEOXdDBOxgWkr4BDilHocWIccw/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago Cubs vs St. Louis Cardinals" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Chicago Cubs vs St. Louis Cardinals
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.st/secure/nNOVycWYudaYrApwLXAXnTTzjVePKKkA/rtmp/stream/Vf61YYOUXJ-QVF8pGpCnNVbJxJG3PofOHOOhu42gZnZT2Ms02ot2ddAYT3-uiaJBR-4L5XmNlALJI58jLQ/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Ares 42 " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Ares 42 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb14.strmd.st/secure/hknrFMSbzukOHTSQcHchjslrdTNELpSi/echo/stream/ppv-event-02-ares-42-ppv-02/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Australia vs Egypt" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Australia vs Egypt
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.st/secure/PUzibhPhXNVZpKvlIFnHVHNSPjZeSMMg/rtmp/stream/tdIWlS14NRBsYJQAMWD6l5DysfCONgKOgB3GdYnkPcD8BCJkKG0q6CYyuYQ3j9ixN9LugsAIEw/1/playlist.m3u8
+https://lb1.strmd.st/secure/BdxDYLHBpYWTioQjPWLVBCfhcoWiThef/rtmp/stream/drnNwN11cgwJHJ6DgzCwpm82oc51_KdHY8UbnHbUmHhR1Zn3oUuXPjnBQirIjmaQCYy3m4MqdA5dftzqEA/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Notts Outlaws vs Lancashire Lightning" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",Notts Outlaws vs Lancashire Lightning
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.st/secure/MfElTXLHIMaagNabUzvnVrnzcJkivDay/echo/stream/mens-vitality-blast-notts-vs-lancashire-game-19993637/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="PGA Tour: John Deere Classic" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="StreamedSU - Golf",PGA Tour: John Deere Classic
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.st/secure/AYhgRNSpDhygVvbIwevBaUyNfgxNDkfh/echo/stream/pga-tour-john-deere-classic-pga-526234/1/playlist.m3u8
+https://lb3.strmd.st/secure/MLSeFFzZUijMQNybnHPPnYxLCpZMSmNp/echo/stream/mens-vitality-blast-notts-vs-lancashire-game-19993637/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Scull v Castillo " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Scull v Castillo 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.st/secure/dWitoOtIbkIhOsCTQMPleshCRuqJFaLA/echo/stream/ppv-event-01-scull-v-castillo-ppv-01/1/playlist.m3u8
+https://lb11.strmd.st/secure/hIGASnRYhrqpsFgLxaVPqDmjndOggCAp/echo/stream/ppv-event-01-scull-v-castillo-ppv-01/1/playlist.m3u8
