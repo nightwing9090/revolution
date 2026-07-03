@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="British Grand Prix Practice 1" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",British Grand Prix Practice 1
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="US Senior Open" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",US Senior Open
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.st/secure/RfiiByiyGTqvYLRJFJFDACGLIHGDxQFv/rtmp/stream/Pn2ngNtHanhoIWb1C3Z7_qH3P9rWZoWTSAqU4ndw7NShOF0kdeAJvAIe_-2XnIXfnAjEJTWMaXiD1BxTPBXGUj_8vrjH7dkXmUk/1/playlist.m3u8
-#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="West Coast Eagles vs Adelaide Football Club" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Afl",West Coast Eagles vs Adelaide Football Club
+https://lb8.strmd.st/secure/XmbRFHBPPAuyOAVMLMkukpCajAzudfQW/echo/stream/us-senior-open-atp1000/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Wimbledon Championships 2026 " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Wimbledon Championships 2026 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb15.strmd.st/secure/YvxGYDMKzUcKlsvBfWWNtfKDnGelZetw/echo/stream/west-coast-eagles-vs-adelaide-crows-australian-football-3559/1/playlist.m3u8
+https://lb11.strmd.st/secure/jxjTutHFICkwKusRuRfZyIUZneuPlmof/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
