@@ -1,21 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Tour de France" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Tour de France
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.st/secure/YsvokUcZjjIYTgwmBwCuFMsvzPQadWOe/rtmp/stream/Qz2y2_KJKjs4SHt5jXsEgVQDqHTt89spS-HiubqT7Z3W4teZJ5l2zjcfGflPzrYPWO8uLaDK/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Pro Motocross: RedBud" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",Pro Motocross: RedBud
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.st/secure/CVWAjeVUFmDxJAptiUOqLLGLMHSxoKuC/rtmp/stream/-HHETMj_yUwWaeqWtJRdtm4AQlvEwrTr-flDr4oephSkjY-nrlOtnR9sDoWDdZ-bF2nE2F0/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="Wrocaw Panthers vs Paris Lights" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true" group-title="StreamedSU - American Football",Wrocaw Panthers vs Paris Lights
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.st/secure/BzLHfiWhFQhXrdDdlTtznLRlXwCSHhKQ/rtmp/stream/TPug-NElrr5H0fjrF3I8vVSl_hKdDbhzFp4G7xvhgKJU6hREQKlEl_sRbrU9xGiOrOVHGhr6Hj6dUe0Ik1y3NoxOHIorTQ/1/playlist.m3u8
+https://lb5.strmd.st/secure/kbcrRGIwvSjjfQWKtMMcNiHdYtncvUqY/rtmp/stream/A7pzdLN0LgHEafftGqvci4vdfVYEOFS6KUKQD7hItORwVDHQuMMNadoAZpBNWEDvqKS-U3K9ERVOLOrx4e_0gSlS04q8HA/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="British Superbikes Snetterton " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",British Superbikes Snetterton 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.st/secure/uMFVpRDyldFddDrNtukcRCKSPKhPHiTE/echo/stream/british-superbikes-snetterton-racing-0059/1/playlist.m3u8
+https://lb10.strmd.st/secure/FUGrYFSygUUWtNejmsHxTMLbKUbJbgFn/echo/stream/british-superbikes-snetterton-racing-0059/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Wimbledon Championships 2026 " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Wimbledon Championships 2026 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.st/secure/sufwiNqGYnOErMjMQkMcyDRpIIuUfTJz/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="F1 Academy: Great Britain | F2 & 3: Great Britain  " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",F1 Academy: Great Britain | F2 & 3: Great Britain  
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb12.strmd.st/secure/mDZSoAEHZtdZxbKFymOdpkbnqaMBDtBg/echo/stream/f1-academy-great-britain-f2-3-great-britain-game-19996/1/playlist.m3u8
+https://lb4.strmd.st/secure/aPMjfsiZcMwrAMIJCjhidTVRvqqEXoZO/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
