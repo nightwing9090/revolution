@@ -1,16 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Gold Coast Suns vs Collingwood Magpies" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Afl",Gold Coast Suns vs Collingwood Magpies
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="F1 Academy: Great Britain | F2 & 3: Great Britain  " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",F1 Academy: Great Britain | F2 & 3: Great Britain  
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.st/secure/hIMnRgwIoPIHHzCHiBkDbFmPafbtWexh/echo/stream/gold-coast-suns-vs-collingwood-magpies-australian-football-3562/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Budo Sento Championship 35" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Budo Sento Championship 35
+https://lb13.strmd.st/secure/oMbLBycEgBkBNOTWwiHklGelMvbvFaDt/echo/stream/f1-academy-great-britain-f2-3-great-britain-game-19996/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="St. George Illawara Dragons vs Wests Tigers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title="StreamedSU - Rugby",St. George Illawara Dragons vs Wests Tigers
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.st/secure/HRFwjLDdwHZzrUBPrBqlazGXWPSNwqxp/echo/stream/ppv-event-04-budo-sento-championship-35-ppv-004/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="BKFC Liberty Brawl  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",BKFC Liberty Brawl  
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.st/secure/bimXxcLTDyliKYoahPJDvSfaxiHIbxTO/echo/stream/ppv-event-03-bkfc-liberty-brawl-ppv-03/1/playlist.m3u8
+https://lb13.strmd.st/secure/ZCLocMjkaasdpBIyYjyNZpinztYFsVXS/rtmp/stream/7nphHuyOld1vyRZ02jB45aEjNrhtBAfh_0J9F9o1OoGd8jTR4hn69PuedPmTv4NilvbtkXCdPSZclvU/1/playlist.m3u8
