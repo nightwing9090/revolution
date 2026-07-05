@@ -1,11 +1,21 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Tour de France Stage 1" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Tour de France Stage 1
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.st/secure/cqLDGkJXEroLBxSrQUiaXiYwJbTBFZaO/rtmp/stream/Cf3R17nq4yBc6BDBtzbKjila4o-jncZDx-vLRM1TJA_AFy71HYkwmm6XC2gzn8OirjI0WheK/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Wakefield Trinity Wildcats vs Castleford Tigers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title="StreamedSU - Rugby",Wakefield Trinity Wildcats vs Castleford Tigers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.st/secure/pbBtWfchZJZTiQLMLSEFJbCZOJCaCewY/echo/stream/wakefield-trinity-vs-castleford-tigers-game-37322/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Wimbledon Championships 2026 " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Wimbledon Championships 2026 
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb15.strmd.st/secure/AmwYsgOLyuxVLTTjMivDeDMEBbnudbjF/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="BMW International Open | DP World Tour Golf" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",BMW International Open | DP World Tour Golf
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb15.strmd.st/secure/cIsVrOZBUQTjOajPwIiTPEUGBtRiBaUg/echo/stream/bmw-international-open-dp-world-tour-golf-game-162626/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="F1 Academy: Great Britain | F2 & 3: Great Britain  " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",F1 Academy: Great Britain | F2 & 3: Great Britain  
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.st/secure/qJwodqsasrwGhnCyazqzsyNdYmQcpbVH/echo/stream/f1-academy-great-britain-f2-3-great-britain-game-19996/1/playlist.m3u8
+https://lb8.strmd.st/secure/aYwGVTvEtFDCrCRbiTnwsLPBhOpFvrHS/echo/stream/bmw-international-open-dp-world-tour-golf-game-162626/1/playlist.m3u8
