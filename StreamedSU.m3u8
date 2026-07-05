@@ -1,16 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Port Adelaide Football Club vs North Melbourne Football Club" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Afl",Port Adelaide Football Club vs North Melbourne Football Club
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="BMW International Open | DP World Tour Golf" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",BMW International Open | DP World Tour Golf
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb15.strmd.st/secure/UhwcrpWXqXoNbbTODpfzMPnMaEapwHZp/echo/stream/port-adelaide-power-vs-north-melbourne-kangaroos-australian-football-3565/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Newcastle Knights vs Dolphins" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title="StreamedSU - Rugby",Newcastle Knights vs Dolphins
+https://lb15.strmd.st/secure/cIsVrOZBUQTjOajPwIiTPEUGBtRiBaUg/echo/stream/bmw-international-open-dp-world-tour-golf-game-162626/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="F1 Academy: Great Britain | F2 & 3: Great Britain  " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",F1 Academy: Great Britain | F2 & 3: Great Britain  
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb15.strmd.st/secure/SkGoQoDtQdvTRUswBmmchFKdmTfhXPWg/rtmp/stream/UgBIdFEJkB2s_lJ0uEdXoAn5GMnS1el0GawhsnAMYbNJBRKGyUdY7sjP2G60Dsx8sC-XVvrA8f0YZ1U/1/playlist.m3u8
-#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Essendon Bombers vs St Kilda Saints" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Afl",Essendon Bombers vs St Kilda Saints
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.st/secure/sTypAhxhXRQGYUBuYCefEPsOTxwASrtw/echo/stream/essendon-bombers-vs-st-kilda-saints-australian-football-3564/1/playlist.m3u8
+https://lb1.strmd.st/secure/qJwodqsasrwGhnCyazqzsyNdYmQcpbVH/echo/stream/f1-academy-great-britain-f2-3-great-britain-game-19996/1/playlist.m3u8
