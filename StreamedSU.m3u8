@@ -1,11 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Angels vs Boston Red Sox" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Los Angeles Angels vs Boston Red Sox
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Tour de France - Stage 3" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Tour de France - Stage 3
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.st/secure/nPLbXZYiXXYXsnVkAVlLoDmWtvtVkuKq/echo/stream/los-angeles-angels-vs-boston-red-sox-baseball-179358/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Mexico vs England" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Mexico vs England
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb11.strmd.st/secure/yVVkoGVpKNuXAQXWuzRwUXXeQULHccQK/rtmp/stream/nEL4k3taw_ksUWegwv3T-bQ71W1m3ePiteHMG58iyaQfYI8lWQp0g9kKd-E-UJS3gaPpLmR4Uw/1/playlist.m3u8
+https://lb10.strmd.st/secure/ZLcffHfhsjjHJYaThtltkQfSSvnFKsLs/rtmp/stream/7YUbD_K_RFx-ace444jMalIykNjPLPo-OrQkmO2wb1qbXUrNXnf3jNuU2vRF_Cbh0HmKYepU/1/playlist.m3u8
