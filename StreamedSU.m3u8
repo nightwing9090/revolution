@@ -1,51 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Angels vs Boston Red Sox" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Los Angeles Angels vs Boston Red Sox
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.st/secure/nPLbXZYiXXYXsnVkAVlLoDmWtvtVkuKq/echo/stream/los-angeles-angels-vs-boston-red-sox-baseball-179358/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Mexico vs England" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Mexico vs England
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.st/secure/aOnIRDwtFbWfzJYWOkkRgAteJsKazPJp/echo/stream/mexico-vs-england-football-1570714/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Dodgers vs San Diego Padres" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Los Angeles Dodgers vs San Diego Padres
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.st/secure/hXwXFiySxXQvMVQTGuEWULvjwNLaJCua/rtmp/stream/r7xThYv2J4fjTFYt7rByzOWY8H88Lg9NeFmTSnrg0lU_zobYFprbGsa5x4V3HJTrELjU8IL5Hg7pEjwCL3oDD8_8Cg/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Weekly Racing Slinger  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Weekly Racing Slinger  
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.st/secure/zZhoLiPZGSssvgMmFBJqHPLtrbBjrHAf/echo/stream/ppv-event-03-weekly-racing-slinger-ppv-03/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="Hamilton Tiger-Cats vs Winnipeg Blue Bombers" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true" group-title="StreamedSU - American Football",Hamilton Tiger-Cats vs Winnipeg Blue Bombers
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb11.strmd.st/secure/BkdnLBtfqnRCyQMDOjcpUrmkMIpQkdgR/rtmp/stream/3sTahvmVkN40Yjjp_apmyb1m8vGq72n_oAPppJniMGq6BXk0oatLS5j9amG3ELv_1Nf8un3LLyh0nIrCbttPHIY1hzGGvuk/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Las Vegas Aces vs Indiana Fever" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Las Vegas Aces vs Indiana Fever
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.st/secure/dJUzoplEkrgaHTuFKIHIYwHYZphWatqx/rtmp/stream/K0l0tCcbWVxGNInOLi0zFvfuXJZXpoVKPpXp7B4ravRKGkZ1U_K33wxT_nFPS2Djzcd1dKZFszT57j2_198/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="San Antonio Spurs vs. Golden State Warriors Gold" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",San Antonio Spurs vs. Golden State Warriors Gold
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.st/secure/DPvsBMUvakEUBIwwqDzkxMiKVArFJiEv/rtmp/stream/vwPh05bdtYuJLF-8OQgwj7K_lkJG1v0-1zaM5ed9IEBBEro35wL22Y8uLo8GHow08V9yModxyKCCQKQxyzxv-3S7zp7Ye84YoQ/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Las Vegas Aces W vs Indiana Fever W" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Las Vegas Aces W vs Indiana Fever W
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.st/secure/ZljvhGPIOzwFkENMsJqraxQthrTsvsmL/echo/stream/las-vegas-aces-w-vs-indiana-fever-w-basketball-494926/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="USAC Sumar Classic at Terre Haute " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",USAC Sumar Classic at Terre Haute 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.st/secure/KcjSopmNOJYrZCEDqhXPKWHNUyPSifVL/echo/stream/ppv-event-02-usac-sumar-classic-at-terre-haute-ppv-02/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Pacific vs HFX Wanderers" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Pacific vs HFX Wanderers
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb14.strmd.st/secure/MxtztSbvDRPBtQRGNeNaRpfTnlpsGypF/echo/stream/pacific-fc-vs-hfx-wanderers-fc-football-1517308/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Seattle Mariners vs Toronto Blue Jays" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Seattle Mariners vs Toronto Blue Jays
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb14.strmd.st/secure/VdMDGQGIZCiZSgyDdOUEQhdMZmphmpas/rtmp/stream/iAAR7VSXXYz-tV6m1AKEGM20xCEbjFNySWZoBJSL5amXD7Exk1BNWlHDvJg5BJ8tffEUETDHzIKw5M7lXY1LNfo/1/playlist.m3u8
+https://lb11.strmd.st/secure/yVVkoGVpKNuXAQXWuzRwUXXeQULHccQK/rtmp/stream/nEL4k3taw_ksUWegwv3T-bQ71W1m3ePiteHMG58iyaQfYI8lWQp0g9kKd-E-UJS3gaPpLmR4Uw/1/playlist.m3u8
