@@ -1,11 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Switzerland vs Colombia" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Switzerland vs Colombia
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb15.strmd.st/secure/yhGvKmcpBhaTimbIMDRsPdKYNVcfOpHv/rtmp/stream/wZlWsynqGArYcbrSmHGmr9qD98H41iIz6MkAW0E-r7SW4cv_9mbddCpmL3fxCquE6eMbaQl0Zg/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="St. Louis Cardinals vs Milwaukee Brewers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",St. Louis Cardinals vs Milwaukee Brewers
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb12.strmd.st/secure/eQxmdpOXWkjikwpUzjhkKmWYrDSVzRJJ/rtmp/stream/5hmfRZG-YhhJqeRXIV0zSw3zy5rq9c0MjpacnI7tWJloPF6Qi-EzpR36xzlTbPn8X6waAlhXVEZ-Ms48oH3fhWod/1/playlist.m3u8
+https://lb11.strmd.st/secure/KaaFoKDaqJAkCwKVGtOFvjBKtYbTkAHi/echo/stream/stlouis-cardinals-vs-milwaukee-brewers-baseball-178539/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="England vs India - Third T20 international" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",England vs India - Third T20 international
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb11.strmd.st/secure/wkZAvPpUwzggypKnlpimJltRhGGPiBhM/echo/stream/england-vs-india-third-t20-international-game-19993637/1/playlist.m3u8
+https://lb14.strmd.st/secure/OeJjeKnCYVIOeOiIzEOFZopAFnrzPSYu/echo/stream/england-vs-india-third-t20-international-game-19993637/1/playlist.m3u8
