@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="UCI Tour de France | UCI World Tour " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",UCI Tour de France | UCI World Tour 
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Argentina vs Egypt" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Argentina vs Egypt
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.st/secure/GuEGZVtIlgEAfyJMxWAowWBOTvVbQNof/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Tour de France Stage 3" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Tour de France Stage 3
+https://lb4.strmd.st/secure/NLZfyCNNgDSydipwxLZaPjevuxpIXoBE/echo/stream/argentina-vs-egypt-football-1576804/2/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="England vs India - Third T20 international" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",England vs India - Third T20 international
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb13.strmd.st/secure/OfgOzbhpOUHefvScASEYDCiJkUuETFfC/rtmp/stream/ikkM8SfOdiqOhhMFSDM8I4ct6hMLzng1hc1M-JKJ0vCrEgLdetHgOqxZceqN0Lx5NDEs8LvU/1/playlist.m3u8
+https://lb13.strmd.st/secure/QjFNpGlhoRnGqkMQSJTFxKhAFDwYGvDD/echo/stream/england-vs-india-third-t20-international-game-19993637/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Wimbledon Championships 2026 " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Wimbledon Championships 2026 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.st/secure/soyWqVMMSrDpHFJyXQGvPLIujoWyhGrM/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
+https://lb15.strmd.st/secure/GIumNUnEloSKmNDaRAXdaeAPkRIWtdam/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
