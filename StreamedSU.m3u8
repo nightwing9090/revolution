@@ -1,66 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Minnesota Lynx vs Connecticut Sun" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Minnesota Lynx vs Connecticut Sun
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Dodgers vs Colorado Rockies" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Los Angeles Dodgers vs Colorado Rockies
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.st/secure/xhUOtMZIQOtxpqMFfwAoIObtgglTPFmy/rtmp/stream/2n6aCTt5ghBON3t9iMVdxg_Ea8IlwmS9HEA9Eq-6_NxV1WhoRDZRN1bY2OyRhO9F5z42lWAISQAPFTWy9uS9/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="USA vs Belgium" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",USA vs Belgium
+https://lb15.strmd.st/secure/RJmImNhqZVXYJkDedXWKzpGCMnqQGCBp/rtmp/stream/FmerAS4r_Gs_EMHcXpagWySSgL79l98nog9lU0touSJq39R_XI1vTfAcuSboksT7gtisOxnq4HpzhzCj6RrXBTqyXA/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Los Angeles Sparks vs Seattle Storm" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Los Angeles Sparks vs Seattle Storm
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb11.strmd.st/secure/amAuwHoJyIawyRNyPkvodwSyAszYEqVq/rtmp/stream/4qvvt78MQ6HRqFONLMPjFiDrZ0YFD6wO6JxELpyeNWwouueyIrCmtA2Z7qpUSoNNrKTG59-RPQ/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Golden State Warriors Blue vs. Brooklyn Nets" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Golden State Warriors Blue vs. Brooklyn Nets
+https://lb15.strmd.st/secure/JsELNMLBSiPtOqKjGLxonNyywYtehUPh/rtmp/stream/BCz8w4oSg-dLWCcnxV7Yj-ycfziKW7TUv2i9JTBU5GyoTDhlLu_P5kRiOQWljgMdbpoHDxwnOWFVAgiDB6xeUHVG/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Golden State Warriors vs Miami Heat" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Golden State Warriors vs Miami Heat
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.st/secure/EasVsCydgTePjuCjfyLALXAVYiqFgWYz/rtmp/stream/t2_Nl9ZJ_wZeFG7tQAgwRiFMtbELS2yHjuNYO6h7M6ARS6WgxfdLS4_QgWtwdXc1yRe4XGMBi8lkBa3-l8I/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE: Monday Night RAW" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",WWE: Monday Night RAW
+https://lb3.strmd.st/secure/JVTiBnvGvyISdNeuWrtdzFtNpqLxUMut/rtmp/stream/NG90OFvYEODumTV_4OwqP1axXZCArylsZ_eCU0ySbURQV7izP7bNYtuMA43RmzALxilmovcw27RiTdnsWa_WkT7LrYXdtNcQBg/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Sacramento Kings vs Milwaukee Bucks" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Sacramento Kings vs Milwaukee Bucks
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb12.strmd.st/secure/sBqMkKdrntXnJrnkOjxkuUxwlJTWBmOX/rtmp/stream/NvijipJwqvi9Yrb0Yg4nhU0bBVBT7s-aJN3tAcgi-tMO46NMO5UiogItb6DgjHuKC2B-vLn9XIOr/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Minnesota Lynx W vs Connecticut Sun W" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Minnesota Lynx W vs Connecticut Sun W
+https://lb13.strmd.st/secure/eMiGrJDhStvoBuDPhdbLusvUrJdajgyl/rtmp/stream/mqYqniVBrwkAI1BEHRqHqE90OC3DMBCmOvcqRbPzyVJ8vu9rarM8pVPqjP7XceuZYef-wA_3PBnOQlcK9QLBhG8/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Francisco Giants vs Toronto Blue Jays" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",San Francisco Giants vs Toronto Blue Jays
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.st/secure/EfISzQVwPHMKNhcvAulahFPZOYrbfpFT/echo/stream/minnesota-lynx-w-vs-connecticut-sun-w-basketball-494928/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="St. Louis Cardinals vs Milwaukee Brewers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",St. Louis Cardinals vs Milwaukee Brewers
+https://lb12.strmd.st/secure/kipyWTythdfmHbnPMECUKHrGUzMlUDRr/rtmp/stream/QAjncTZiAhq_Ivgff1NW1V3yTg_vc27W8uB-jQZsuiDv_PB-bcPCW27Tl9ktlH8R9CqivgFvirUhYYmTB_BXBO4D0wA/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Diego Padres vs Arizona Diamondbacks" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",San Diego Padres vs Arizona Diamondbacks
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.st/secure/DCeoUqKaieuNNOOvsBiTdWyaIGMISnsi/rtmp/stream/t1jLD76ZokyyJVcQ_IP-xeZYiMnMaCVsf-O6SPGyyjt_heaT6X90OPTKSzs7OUaRoYayi8ieHPTz95w8NtP0vLtR/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Washington Mystics vs Golden State Valkyries" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Washington Mystics vs Golden State Valkyries
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.st/secure/CqRitUhYvoDDUpquApePTOcKVBZSPzKW/rtmp/stream/tqI81E6P0JwW4V8KLO1Ai1NybL0KzSKUfjTKj-F9hLSK6BXsygE8untJ2lFzHagFtom4tDRgEw9Lw4a5Js9mmtie9g/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="San Antonio Spurs vs Los Angeles Lakers" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",San Antonio Spurs vs Los Angeles Lakers
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.st/secure/MtBwLESFbIBQuaLtPcerGPIfWlLHFPFe/rtmp/stream/ksF8VOcYskfXPAQL7r29X9vlhz-kVHrKlaTVaUiCi-f732_TWkevc5pYGSQmhnKuOPeP-xggYOG45Qe6dgCOmGA/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Washington Mystics W vs Golden State Valkyries W" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Washington Mystics W vs Golden State Valkyries W
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.st/secure/iZkzVVPWZJiTlkdVyTAUgzkOvtWzcRAM/echo/stream/washington-mystics-w-vs-golden-state-valkyries-w-basketball-494927/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Atlanta Braves vs New York Mets" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Atlanta Braves vs New York Mets
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.st/secure/cqnYSCcoEDOXwFwHAYaOcjiMgbSpKsmg/rtmp/stream/O2ESUE9m_Fq4uacvVmxZbe4ukeGIbfwfoRBgnX60KgbWHSVXKLBJizU-PyzYcAG_djrEvP1Lw-epzIE1xe4z/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Memphis Grizzlies vs Atlanta Hawks" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Memphis Grizzlies vs Atlanta Hawks
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.st/secure/hfKigobCYqFIkigbPCzIvcVPAPFlQbYp/rtmp/stream/buVoesYpW5RqZTMtfILs5XDCyQUL2iI5B8iw89sIZvz5mzqKdp0uMw03-ZHRfM53XSLosAS1p5uiFiQSLA56h8lfgTiz/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Washington Nationals vs Houston Astros" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Washington Nationals vs Houston Astros
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.st/secure/sWORZzNUhxLQPlxCYScajGmLXNqFWMyh/rtmp/stream/s-jg_Mft0L1L1NQ8xVBL2OxSW2-heWS4Nwdygq6Soublf_o00Wpu6YokZbcW7im5tbTx2aaSijlxSqyNjVuQA2SvZz5t/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Tampa Bay Rays vs New York Yankees" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Tampa Bay Rays vs New York Yankees
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb15.strmd.st/secure/NBoAoLGjjQvnSkuKFFEGQSZsIxrVGewu/rtmp/stream/o7NcIZ637PZCSli26GGwD5IDrvLNtJfTZ5AT07apjmqQZVKBebTb0ZCK8VMx9XmGX-mbTQ9R5h2_b3Blj_s/1/playlist.m3u8
+https://lb6.strmd.st/secure/kTNhkMFLjMkIbmHZflWmvywiOnoLlmnL/rtmp/stream/StO3-RwZA_m5_7Wf7AwyHRR54QKCG6VEhe3xC6ScU3vPVFsHmwJLJgYFDsbJ55Y19ZF4WC-53ctHA_JsVAHzGQ/1/playlist.m3u8
