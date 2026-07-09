@@ -1,16 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Dodgers vs Colorado Rockies" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",Los Angeles Dodgers vs Colorado Rockies
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Wimbledon Championships 2026 " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Wimbledon Championships 2026 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.st/secure/mIYJqtaNESUvEFYuZtheakcPXWSazCJh/rtmp/stream/8Gc1MyK2sJYBWFzoIo8Xo0Qn7izoEyRTg5x1SGrmp9RcqkgD5KS4v4ApO7TtY1E0bwAskg2I0i7OjvDwFTCjef-HsA/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Diego Padres vs Arizona Diamondbacks" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Baseball",San Diego Padres vs Arizona Diamondbacks
+https://lb9.strmd.st/secure/trpiBZASiUcbPEVjnxPVNEePghdFfUST/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Fremantle Football Club vs Sydney Swans" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Afl",Fremantle Football Club vs Sydney Swans
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.st/secure/BBrtNAMCMOFJkuweZgsTArrbDFEANGAw/rtmp/stream/3R1I6O2UGTqewd7ms2A85HQU4thyu4pp1PuOqQJsQSGl9M7X-1C3_3yq8RrQ2D7cKPl5emXEkWgL728yTAosvA/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Los Angeles Sparks vs Indiana Fever" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Los Angeles Sparks vs Indiana Fever
+https://lb1.strmd.st/secure/lmkuIeuEZlgVZvfzgUyPACTKjCzZUGKh/echo/stream/fremantle-dockers-vs-sydney-swans-australian-football-3493/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Tour de France Stage 5" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Tour de France Stage 5
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb14.strmd.st/secure/qSaeDoXKPVzGmAcSoddKFLDVhCqMIIfB/admin/stream/ppv-indiana-fever-vs-los-angeles-sparks/1/playlist.m3u8
+https://lb8.strmd.st/secure/HVfOwuAEfeFoyLgjdzdowmNQGulKCnXk/rtmp/stream/WSErCcMh4WHJSf5G5cTm7e_2f2hoI55kdRIv4c4VwBhiV7TAYvKqZbLvBx_sxlgBXGCeKZ0p/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Genesis Scottish Open | DP World Tour Golf" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Genesis Scottish Open | DP World Tour Golf
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.st/secure/uuHeaAkovbzYoicTQUlFbhfFemZBXeDz/echo/stream/genesis-scottish-open-dp-world-tour-golf-game-162626/1/playlist.m3u8
