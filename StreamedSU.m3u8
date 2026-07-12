@@ -1,16 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Melbourne Storm vs Gold Coast Titans" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title="StreamedSU - Rugby",Melbourne Storm vs Gold Coast Titans
+#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="European Darts Open | Day 3" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title="StreamedSU - Darts",European Darts Open | Day 3
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb14.strmd.st/secure/VkGycrCDYbleQypzaBFPynJoJcVxQMAE/rtmp/stream/lIbzxcTdSXZFQRVaCjmAseoX0dOf_E-XGogeVUTDPXHtj7NN7dHm_Z5S-Axy1PWNEz9pfGUAuSUZIZE/1/playlist.m3u8
-#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Brisbane Lions vs Essendon Football Club" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Afl",Brisbane Lions vs Essendon Football Club
+https://lb12.strmd.st/secure/ysgtHvatjALieKeTnmMGcPVdPzHhYCVg/rtmp/stream/rNHnGA_cshQ-BiUKcMNnD24sTJBLwACbAow5FSrw1ekgs9QEsYesudz-qhSfaO0Z7SqeWJDCOQ/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="German Grand Prix Moto2" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",German Grand Prix Moto2
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb14.strmd.st/secure/SfbWkPzVkaXSLjpNIJvpTRQjDlQEOWiM/echo/stream/brisbane-lions-vs-essendon-bombers-australian-football-3573/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="MotoGP German Grand Prix  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",MotoGP German Grand Prix  
+https://lb8.strmd.st/secure/skRwVSvxadLzalQvDdGBWJdKJIThljFv/echo/stream/motogp-german-grand-prix-game-122273/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="World SBK UK Round | World SBK Championship Season " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",World SBK UK Round | World SBK Championship Season 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.st/secure/PokbgpDAJsLIWFuFsufYGzWxQtGzmsFb/echo/stream/motogp-german-grand-prix-game-122273/1/playlist.m3u8
+https://lb8.strmd.st/secure/tyPFBXRWuYMOETJDRPpnsgEbUxBywFNE/echo/stream/world-sbk-uk-round-world-sbk-championship-season-game-4u8337/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Genesis Scottish Open | DP World Tour Golf" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="StreamedSU - Golf",Genesis Scottish Open | DP World Tour Golf
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.st/secure/sFxwejjLWCOjSXlZXqhGqTVyjtEsslDY/echo/stream/genesis-scottish-open-dp-world-tour-golf-game-162626/1/playlist.m3u8
