@@ -1,46 +1,56 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Brommapojkarna vs Sirius" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Brommapojkarna vs Sirius
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb14.strmd.st/secure/wIUsuvoIvaybEwRDoscDIDEAyBSThXXZ/rtmp/stream/YJ4PlT5Le-7oSz1M4bOHyBeQ1wcyxBp0WKKagWBz72MZcYI3HhA8F0WJS6fE1pGAexPIjvSPiARy/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="GAIS vs Elfsborg" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",GAIS vs Elfsborg
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb14.strmd.st/secure/pyDcKhGVmfouThICMLFcfXUeOqmwSCKI/rtmp/stream/FoX_-_f65_rPOfAMVDgQDJmQBSpeqOJqzFj-fHuxZlsAD1RD1ONOMuX6M3LQv1OC90JCq0sJv3FUwA/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="6 Hours of So Paulo - Race" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",6 Hours of So Paulo - Race
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.st/secure/PjmmoTbeCAJaDAOPxEUSHXgAdEWLVmQd/rtmp/stream/tOsgZX6GibTANSF5hxufqOME_9ZIBUAQ-BjSN9vF_88JwFCA577KgaW3NTyeCwk6EvzW45s/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="St Helens vs Toulouse Olympique" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title="StreamedSU - Rugby",St Helens vs Toulouse Olympique
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.st/secure/ybbsfzYmNMhAHaQAURhlmWNALLpokjRZ/echo/stream/st-helens-vs-toulouse-olympique-game-182283/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="Berlin Thunder vs Firenze Red Lions" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true" group-title="StreamedSU - American Football",Berlin Thunder vs Firenze Red Lions
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.st/secure/RvkvTgWgnMYmzDXuaCcVyQSneZXyUGVy/rtmp/stream/T2EJn1e1s6Pzt2rjTakmBItqCimoKwK33GppdCfVQ2NQFjDiaWBmfEXcLSex4Ci_WK8IYe4ZzoOYZgX7bV5p8zyotKQ/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Malm vs IFK Gteborg" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Malm vs IFK Gteborg
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.st/secure/gaEvifRFNkAXEWzIsrgllStSARodftKM/rtmp/stream/rt4qNKBFufZwPHw9LJJPr-RLSwHCB7Q3LkS2u_vJS47GDMkToA_WesIuGibNkDhvvV36zTFdkOeH/1/playlist.m3u8
+https://lb2.strmd.st/secure/HgplLtdUXgskPLvewujlZqcPZOiHMFDx/rtmp/stream/Pt_y1qSPnt3KitZxzjg_4xk0PINo0EGOU4TAIIbW1CelYuIKco1ABC7HTMeg6C6YFLMUxStIM1oa32g3pbrHQKBwTGM/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Wimbledon Championships 2026 " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",Wimbledon Championships 2026 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.st/secure/QzDVJvBmMaMsPUBaSvssmCUGYhqrWfOX/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
+https://lb4.strmd.st/secure/XwEyIRJprHykXvQARejjGpisOeqvytRZ/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Tour de France Stage 9" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Tour de France Stage 9
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.st/secure/VcosdxHbaCnSRIOSnJSPrKNumucymikQ/rtmp/stream/ziDGoPGrbwUYhCCJPw53ML9Bu0OBEKO6FIPpi_lD8VSXswSdj4ajdX-Y7J35ZblgvqatIlQc/1/playlist.m3u8
+https://lb10.strmd.st/secure/uPivcxFyUDihFaRqEKoKOwwmdSSOwmHu/rtmp/stream/cQdpoY1cYYjT8ulZBpT6-72eKY3PU75jM4WKMegAtb-QDhyi2zB7mgZAtjocwqBgmoJCYKiJ/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="UCI Tour de France | UCI World Tour " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",UCI Tour de France | UCI World Tour 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.st/secure/CsxzaIXSKthgfGzLTiTHnBYYPCmGTduG/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
+https://lb9.strmd.st/secure/kKuiXfrfjbZxVTqrmNRmHDpwgtzYgcPU/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="European Darts Open | Day 3" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title="StreamedSU - Darts",European Darts Open | Day 3
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.st/secure/XCKVQoSJmQUOyVnlPavsJyegnHdGNpoF/rtmp/stream/-I-h-HDgI887OPpn1pipEXBfujdYFoYd1BGM80lVTJVTurWgVanv87FaXilCc_3wGOYX_HRJsA/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="German Grand Prix Moto2" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",German Grand Prix Moto2
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.st/secure/gjPqJJFfGkoLHBYCBchgkLVQibruuNKR/echo/stream/motogp-german-grand-prix-game-122273/1/playlist.m3u8
+https://lb6.strmd.st/secure/RGOeTPcjYYuXONcvxoYdVJBTTmkwjbfy/rtmp/stream/b9YHCOZhJnRey24lJ_sx5azMSaVOVYMW5yNjsCCuJYchkn4GVNLcgj5RJsJ9S6wEUbwg0tZ5Hg/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="World SBK UK Round | World SBK Championship Season " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",World SBK UK Round | World SBK Championship Season 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.st/secure/cZmmOnQcjFsCmwDazPrYTiNbUPBtHjZR/echo/stream/world-sbk-uk-round-world-sbk-championship-season-game-4u8337/1/playlist.m3u8
+https://lb1.strmd.st/secure/MTvNpBcnWmApJWYzXfxDFtFfiZjzzdtg/echo/stream/world-sbk-uk-round-world-sbk-championship-season-game-4u8337/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Genesis Scottish Open | DP World Tour Golf" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="StreamedSU - Golf",Genesis Scottish Open | DP World Tour Golf
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.st/secure/ZLtYGaKHkXaGXvUiiTBdBjeMCfODMgxY/echo/stream/genesis-scottish-open-dp-world-tour-golf-game-162626/1/playlist.m3u8
+https://lb8.strmd.st/secure/AtrHdEqwdxikmEMTcoEQOWIUHRdhbkUx/echo/stream/genesis-scottish-open-dp-world-tour-golf-game-162626/1/playlist.m3u8
