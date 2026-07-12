@@ -1,26 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Manly Sea Eagles vs North Queensland Cowboys" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title="StreamedSU - Rugby",Manly Sea Eagles vs North Queensland Cowboys
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Melbourne Storm vs Gold Coast Titans" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title="StreamedSU - Rugby",Melbourne Storm vs Gold Coast Titans
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.st/secure/XkPGTSTHOvSjXvNzbFLKxQOMXWLJGMAT/rtmp/stream/Wwn-EQrTygmrFhaWgc_3dXfxrB8pYvPBsDp5KeIHAsbyfvmww9Rh6ZePP1d142XdQdRTBDRBZbwY5tw/1/playlist.m3u8
-#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Melbourne Demons vs Richmond Tigers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Afl",Melbourne Demons vs Richmond Tigers
+https://lb14.strmd.st/secure/VkGycrCDYbleQypzaBFPynJoJcVxQMAE/rtmp/stream/lIbzxcTdSXZFQRVaCjmAseoX0dOf_E-XGogeVUTDPXHtj7NN7dHm_Z5S-Axy1PWNEz9pfGUAuSUZIZE/1/playlist.m3u8
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Brisbane Lions vs Essendon Football Club" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Afl",Brisbane Lions vs Essendon Football Club
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.st/secure/ffahUgAbvQWqmhfYZsFiVOiKXznTbBcw/echo/stream/melbourne-demons-vs-richmond-tigers-australian-football-3572/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="V8 Supercars Townsville 400 " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",V8 Supercars Townsville 400 
+https://lb14.strmd.st/secure/SfbWkPzVkaXSLjpNIJvpTRQjDlQEOWiM/echo/stream/brisbane-lions-vs-essendon-bombers-australian-football-3573/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="MotoGP German Grand Prix  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",MotoGP German Grand Prix  
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb12.strmd.st/secure/IzQTJRWzJmaNbhKGbDfICbnfcNVyGCWa/echo/stream/v8-supercars-townsville-400-racing-0059/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Argentina vs Switzerland" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Argentina vs Switzerland
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.st/secure/LQVMcBLUUzmFzwbhomFJGnjzQGxxMoQn/echo/stream/argentina-vs-switzerland-football-1582681/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="German Grand Prix Moto2" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",German Grand Prix Moto2
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.st/secure/rSxukkRcGtBheVmhHGgtcJBeQqmowDlL/echo/stream/motogp-german-grand-prix-game-122273/1/playlist.m3u8
+https://lb8.strmd.st/secure/PokbgpDAJsLIWFuFsufYGzWxQtGzmsFb/echo/stream/motogp-german-grand-prix-game-122273/1/playlist.m3u8
