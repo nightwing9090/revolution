@@ -1,6 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Djurgrden vs Halmstad" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Djurgrden vs Halmstad
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.st/secure/LKQietCQFIiAzuoscDStatAWKmPFthkQ/rtmp/stream/0mNEZKmPcPlGf00BlK9izVDmVVcTvCEkwK1cjYx-qRKcXZUoEUr6ezny5VsAscJk0cmKDcFCedjl/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ATP / WTA Tour: Nordea / Swiss / Umag / Lasi Open " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",ATP / WTA Tour: Nordea / Swiss / Umag / Lasi Open 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.st/secure/MsFxYwvUCvjIkcptLoDQLNhqdOAwKPtS/echo/stream/atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1/1/playlist.m3u8
+https://lb8.strmd.st/secure/frDbPFlMBkKOfwyvRDUsWZzRJXWPkMMH/echo/stream/atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1/1/playlist.m3u8
